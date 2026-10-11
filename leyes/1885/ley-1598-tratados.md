@@ -1,0 +1,71 @@
+---
+title: "Ley 1598: TRATADOS — AMISTAD, COMERCIO Y NAVEGACION - ARTICULO ADICIONAL"
+identifier: "Ley 1598"
+infoleg_id: "205048"
+type: act
+jurisdiction: ar
+language: es
+date: 1885-06-26
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=205048"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/205000-209999/205048/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 1598: TRATADOS — AMISTAD, COMERCIO Y NAVEGACION - ARTICULO ADICIONAL
+
+TRATADOS
+
+LEY 1.598
+
+Los Ministros de Relaciones Exteriores de la República Argentina y Plenipotenciario de los Estados Unidos, convienen en agregar un artículo adicional al Tratado de 1853, vigente entre ambas Naciones.
+
+Departamento de Relaciones Exteriores
+
+Buenos Aires, Junio 23 de 1884
+
+Aprobado, y sométase al Honorable Congreso.
+
+ROCA.- F. J. Ortiz
+
+Por cuanto:
+
+El Senado y Cámara de Diputados de la Nación Argentina, reunidos en Congreso, etc., sancionan con fuerza de
+
+LEY:
+
+## Art. 1°
+
+Apruébase el artículo adicional al Tratado de Amistad, Comercio y Navegación de 1853, vigente entre la República y los Estados Unidos, referente al arresto, detención y custodia de los desertores de buques mercantes.
+
+## Art. 2
+
+Comuníquese al Poder Ejecutivo.
+
+Dada en la Sala de Sesiones del Congreso Argentino, en Buenos Aires, á veinte y seis de Junio de mil ochocientos ochenta y cinco.
+
+FRANCISCO B. MORENO.- Adolfo J. Labouyle.- Secretario del Senado.- RAFAEL RUIZ DE LOS LLANOS.- Juan Ovando.- Secretario de la Cámara de Diputados.
+
+Departamento de Relaciones Exteriores
+
+Buenos Aires, Julio 26 de 1885
+
+Cúmplase, comuníquese é insértese en el Registro Nacional. - ROCA.- Francisco J. Ortiz.
+
+(Registrada bajo el número 1598)
+
+Artículo Adicional al Tratado de Amistad, Comercio y Navegación de 1853 entre la República Argentina y los Estados Unidos
+
+Los infrascritos, Dr. D. Francisco J. Ortiz, Ministro de Relaciones Exteriores de la República Argentina, y General Tomás O. Osborn, Ministro Residente de los Estados Unidos, debidamente autorizados al efectom han acordado agregar el siguiente artículo adicional al Tratado de 1853, de Amistad, Comercio y Navegación, vigente entre ambas Naciones.
+
+Los Cónsules Generales, Cónsules, Vice-Cónsules y Agentes Consulares podrán requerir el auxilio de las autoridades locales para el arresto, detención y custodia de los desertores de los buques mercantes de sus respectivas naciones. Tratándose de desertores de buques de guerra, el pedido se hará por la vía consular sólo en caso de ausencia del Representante Diplomático.
+
+El pedido se hará por escrito á las autoridades competentes y no se rehusará la entrega del desertor siempre que se acompañe el registro del buque, rol de la tripulación ú otros documentos que comprueben que el individuo reclamado forma parte de la tripulación del buque y que está obligado á continuar al servicio de éste.
+
+Arrestados los desertores, serán puestos á disposición del Cónsul General, Cónsul, Vice-Cónsul ó Agente Consular que los hubiera pedido y podrán continuar en las prisiones públicas a solicitud y expensa de los que los reclamen, hasta ser enviados á los buques a que correspondan ó á otros de la misma Nación; pero si el envío no se efectuase dentro de los quince días, salvo en casos excepcionales que dicho plazo podrá aumentarse á noventa días contados desde aquel en que fuesen puestos á disposición del Cónsul General, Cónsul, Vice-Cónsul, Agente Consular que los hubiese pedido, serán puesto en libertad y no podrán ser arrestados ó molestados por la misma causa.
+
+Hecho en Buenos Aires, por duplicado, á los 23 días del mes de Junio de 1884.
+
+FRANCISCO J. ORTIZ - TOMAS O. OSBORN.

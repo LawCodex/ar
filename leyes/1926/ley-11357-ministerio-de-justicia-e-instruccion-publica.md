@@ -1,0 +1,85 @@
+---
+title: "Ley 11357: MINISTERIO DE JUSTICIA E INSTRUCCION PUBLICA — DERECHOS CIVILES"
+identifier: "Ley 11357"
+infoleg_id: "232934"
+type: act
+jurisdiction: ar
+language: es
+date: 1926-09-14
+published: 1926-09-23
+boletin_oficial: "9738"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: unknown
+text_version: "texto actualizado"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=232934"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/232934/texact.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 11357: MINISTERIO DE JUSTICIA E INSTRUCCION PUBLICA — DERECHOS CIVILES
+
+MINISTERIO DE JUSTICIA E INSTRUCCION PUBLICA
+
+DIRECCION DE JUSTICIA
+
+Ley Nº 11.357
+
+Sobre derechos civiles de la mujer.
+
+El Senado y la Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc. sancionan con fuerza de
+
+Ley:
+
+## Artículo 1º
+
+La mujer mayor de edad, cualquiera sea su estado, tiene plena capacidad civil.
+
+(Artículo sustituido por art. 3° inciso 1) de la Ley N° 17.711 B.O. 26/04/1968. Vigencia: a partir del día 1° de julio de mil novecientos sesenta y ocho)
+
+## Art. 2º
+
+La madre natural tiene la patria potestad sobre sus hijos, con la misma amplitud de derechos y facultades que la legítima. La tendrá también el padre natural que voluntario hubiera reconocido a los hijos naturales.
+
+## Art. 3º
+
+(Artículo sustituido por art. 3° inciso 2) de la Ley N° 17.711 B.O. 26/04/1968. Vigencia: a partir del día 1° de julio de mil novecientos sesenta y ocho)
+
+## Art. 4º
+
+(Artículo sustituido por art. 3° inciso 3) de la Ley N° 17.711 B.O. 26/04/1968. Vigencia: a partir del día 1° de julio de mil novecientos sesenta y ocho)
+
+## Art. 5º
+
+Los bienes propios de la mujer y los bienes gananciales que ella adquiera no responden por las deudas del marido, ni los bienes propios del marido y los gananciales que él administre responden por las deudas de la mujer.
+
+## Art. 6º
+
+Un cónyuge sólo responde con los frutos de sus bienes propios y con los frutos de los bienes gananciales que administre, por las obligaciones contraídas por el otro, cuando sean contraídas para atender las necesidades del hogar, para la educación de los hijos, o para la conservación de los bienes comunes.
+
+## Art. 7º
+
+(Artículo sustituido por art. 3° inciso 4) de la Ley N° 17.711 B.O. 26/04/1968. Vigencia: a partir del día 1° de julio de mil novecientos sesenta y ocho)
+
+## Art. 8º
+
+(Artículo sustituido por art. 3° inciso 5) de la Ley N° 17.711 B.O. 26/04/1968. Vigencia: a partir del día 1° de julio de mil novecientos sesenta y ocho)
+
+## Art. 9º
+
+Quedan derogadas las disposiciones del Código Civil y de las leyes complementarias en cuanto sean modificadas o se opongan a la presente, la que formará parte de dicho Código.
+
+## Art. 10
+
+Comuníquese al Poder Ejecutivo.
+
+Dada en la Sala de Sesiones del Congreso Argentino, en Buenos Aires, a 14 de Septiembre de 1926.
+
+Elpidio González
+
+Gustavo Figueroa
+
+Miguel Sussini
+
+Carlos González Bonorino
+
+Registrada bajo el Nº 11.357.

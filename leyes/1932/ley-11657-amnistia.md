@@ -1,0 +1,63 @@
+---
+title: "Ley 11657: AMNISTIA — SERVICIO MILITAR OBLIGATORIO"
+identifier: "Ley 11657"
+infoleg_id: "293669"
+type: act
+jurisdiction: ar
+language: es
+date: 1932-09-30
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=293669"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/293669/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 11657: AMNISTIA — SERVICIO MILITAR OBLIGATORIO
+
+Ministerio de Guerra
+
+Ley N° 11.657. - Amnistía a los infractores a las Leyes de Enrolamiento y Servicio Militar.
+
+El Senado y Cámara de Diputados de la Nación Argentina, reunidos en Congreso, etc., sancionan con fuerza de
+
+LEY:
+
+## Artículo 1°
+
+Amnistíase a los ciudadanos infractores a las Leyes de Enrolamiento y Servicio Militar, quedando exonerados de las penas y multas en que hubiesen incurrido.
+
+## Artículo 2°
+
+Los ciudadanos amnistiados a que se refiere esta ley, deberán cumplir, dentro de los seis meses de la promulgación de la misma, con la de enrolamiento en los meses de enero y febrero próximo, y los que se encuentren en el extranjero podrán hacerlo en las condiciones estipuladas en el párrafo 3° del artículo 2° de la Ley 11.386.
+
+## Artículo 3°
+
+Los infractores al enrolamiento y al servicio militar que cumplan penas y los que estén en los Cuarteles a disposición de los jueces federales o letrados, por razón de esas infracciones, serán dados de baja inmediatamente que se promulgue la presente.
+
+## Artículo 4°
+
+Suspéndese todo procedimiento judicial o militar contra los infractores a que se refiere la presente ley, y a medida que los distritos militares comprueben que los infractores de que habla el artículo 2°, hubieran cumplido con la obligación de enrolarse, lo comunicarán al juez y al fiscal federal respectivo, a los fines legales pertinentes.
+
+## Artículo 5°
+
+Comuníquese al Poder Ejecutivo.
+
+Dada en la Sala de Sesiones del Congreso Argentino, en Buenos Aires, a treinta días del mes de septiembre de mil novecientos treinta y dos.
+
+JULIO A. ROCA. JUAN F. CAFFERATA.
+
+Gustavo Figueroa. David Zambrano
+
+Registrada bajo el N° 11.657.
+
+-3589-
+
+Buenos Aires, octubre 8 de 1932.
+
+Por tanto:
+
+Téngase por Ley de la Nación, cúmplase, comuníquese, publíquese, dése al Registro Nacional, y archívese.
+
+JUSTO

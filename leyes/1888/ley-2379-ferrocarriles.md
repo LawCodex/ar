@@ -1,0 +1,41 @@
+---
+title: "Ley 2379: FERROCARRILES — GARANTIA"
+identifier: "Ley 2379"
+infoleg_id: "283757"
+type: act
+jurisdiction: ar
+language: es
+date: 1888-10-16
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=283757"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/280000-284999/283757/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 2379: FERROCARRILES — GARANTIA
+
+Ley N° 2379 autorizando al P. E. para suspender el pago de la garantía á toda empresa de Ferro-Carril que la tuviere, y no se encontrase en las condiciones exijidas por las leyes de su reglamentación.
+
+Departamento del Interior.—
+
+Buenos Aires Octubre 26 de 1888.
+
+Por cuanto: El Senado y Cámara de Diputados de la Nación Argentina, reunidos en Congreso etc., sancionan con fuerza de-
+
+Ley:
+
+1° Dése la promulgación de la presente ley, el Poder Ejecutivo suspenderá el pago de la garantía á toda empresa de Ferro-Carriles que la tuviere y no se encontrase en las condiciones exijidas por el art. 2 inciso 2ª de la ley de 18 de Setiembre de 1872 y 13 de la que crea la Dirección General de Ferro-Carriles (Ley N° 2274 del 21 de Julio de 1888)
+
+2° Autorizase al Poder Ejecutivo para invertir el valor de la garantía devengada y retenida de conformidad al art. anterior, en la adquisición del tren rodante necesario para colocar a la línea respectiva en las condiciones de la ley.
+
+3° Comuníquese al Poder Ejecutivo.
+
+Dada en la Sala de Sesiones del Congreso Argentino, á diez y seis de Octubre de mil ochocientos ochenta y ocho.
+
+C. PELLEGRINI- B. Ocampo, Secretario del Senado. CÁRLOS TAGLE- Juan Ovando, Secretario de la C. de Diputados.
+
+Por tanto:
+
+Téngase por ley de la Nación, comuníquese, publíquese e insértese en el Registro Nacional.

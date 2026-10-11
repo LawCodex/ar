@@ -1,0 +1,51 @@
+---
+title: "Ley 94: DEPARTAMENTO DE JUSTICIA — PENA DE AZOTES"
+identifier: "Ley 94"
+infoleg_id: "232935"
+type: act
+jurisdiction: ar
+language: es
+date: 1864-08-20
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=232935"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/232935/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 94: DEPARTAMENTO DE JUSTICIA — PENA DE AZOTES
+
+DEPARTAMENTO DE JUSTICIA
+
+LEY N° 94
+
+Ley penando la imposición de la pena de azotes.
+
+Buenos Aires, Agosto 27 de 1864
+
+Por Cuanto:
+
+El Senado y Cámara de Diputados de la Nación Argentina, reunidos en Congreso, han sancionado con fuerza de
+
+Ley:
+
+## Art. 1°
+
+Todo el que ejerciendo autoridad civil ó militar hiciese azotar algun individuo de cualquier clase ó condición que fuere, será declarado inhábil para ejercer ningun empleo nacional durante diez años , sin perjuicio de las acciones á que diere lugar la gravedad del hecho.
+
+## Art. 2°
+
+La aplicación de la pena de azotes es un delito que puede ser acusado ante los Tribunales de la Nación, por cualquier habitante de la República.
+
+## Art. 3°
+
+Comuníquese al Poder Ejecutivo.
+
+Dada en la Sala de Sesiones del Congreso Argentino, a los veinte días del mes de agosto del año de mil ochocientos sesenta y cuatro.
+
+MARCOS PAZ.- Carlos M. Saravia.- Secretario del Senado.- ARISTIDES VILLANUEVA.- Bernabé Quintana.- Secretario de la Cámara de Diputados.
+
+Por tanto:
+
+Cúmplase, comuníquese, publíquese y dése al Registro Nacional. MITRE.- Eduardo Costa.

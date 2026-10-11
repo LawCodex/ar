@@ -10,21 +10,77 @@ import requests
 RAW = os.environ.get("AR_RAW", os.path.join(os.path.dirname(__file__), "..", "..", "_raw", "ar"))
 UA = "LawCodex/1.0 (+https://github.com/LawCodex)"
 URL = "https://www.saij.gob.ar/busqueda"
-FACET = "Total|Tipo de Documento/Legislación/{t}|Fecha|Organismo|Publicación|Tema|Estado de Vigencia|Autor|Jurisdicción/Nacional"
+FACET = "Total|Tipo de Documento/Legislación/{t}|Fecha{f}|Organismo|Publicación|Tema|Estado de Vigencia{e}|Autor|Jurisdicción/Nacional"
+ESTADOS = ["Vigente, de alcance general", "Individual, Solo Modificatoria o Sin Eficacia",
+           "Derogada", "Vetada", "categoriavacia"]
 PAGE = 500
+MAXOFF = 1000  # SAIJ returns HTTP 500 for offset >= 1000
 
 
-def fetch(sess, t, off):
-    params = {"o": off, "p": PAGE, "f": FACET.format(t=t), "s": "fecha-rango|DESC", "v": "colapsada"}
+def fetch(sess, t, off, f="", e="", p=PAGE):
+    params = {"o": off, "p": p, "f": FACET.format(t=t, f=f, e=e), "s": "fecha-rango|DESC", "v": "colapsada"}
     for a in range(6):
         try:
             r = sess.get(URL, params=params, timeout=120)
             if r.status_code == 200:
-                return r.json()
-        except Exception as e:  # noqa
-            print("err", e, file=sys.stderr)
+                time.sleep(2)
+                return r.json()["searchResults"]
+            print("HTTP", r.status_code, t, f, e, off, file=sys.stderr)
+        except Exception as ex:  # noqa
+            print("err", ex, file=sys.stderr)
         time.sleep(10 * (a + 1))
-    raise RuntimeError("SAIJ fetch failed %s %s" % (t, off))
+    raise RuntimeError("SAIJ fetch failed %s %s %s %s" % (t, f, e, off))
+
+
+def total_of(d):
+    for cat in d["categoriesResultList"]:
+        if cat["facetName"] == "Total":
+            return int(sum(ch["facetHits"] for ch in cat["facetChildren"]))
+    return 0
+
+
+def add_docs(out, docs):
+    for doc in docs:
+        a = json.loads(doc["documentAbstract"])["document"]
+        c = a["content"]
+        tn = (c.get("tipo-norma") or {}).get("codigo", "")
+        rec = {
+            "tipo": tn,
+            "numero": c.get("numero-norma"),
+            "fecha": c.get("fecha"),
+            "estado": c.get("estado"),
+            "titulo": c.get("titulo-norma"),
+            "uuid": a["metadata"]["uuid"],
+            "url": "https://www.saij.gob.ar/%s-%s" % (
+                a["metadata"]["friendly-url"]["subdomain"],
+                a["metadata"]["friendly-url"]["description"]),
+        }
+        out["%s:%s:%s" % (tn, rec["numero"], (rec["fecha"] or "")[:4])] = rec
+
+
+def harvest(sess, out, t, f="", e=""):
+    d = fetch(sess, t, 0, f, e, p=1)
+    total = total_of(d)
+    if total == 0:
+        return
+    if total > MAXOFF:
+        if not f:
+            for y in range(1810, time.gmtime().tm_year + 1):
+                harvest(sess, out, t, "/%d" % y, e)
+        elif f.count("/") == 1:
+            for m in range(1, 13):
+                harvest(sess, out, t, "%s/%02d" % (f, m), e)
+        elif not e:
+            for es in ESTADOS:
+                harvest(sess, out, t, f, "/" + es)
+        else:
+            print("WARNING: cannot split further", t, f, e, total, file=sys.stderr)
+            for off in range(0, MAXOFF, PAGE):
+                add_docs(out, fetch(sess, t, off, f, e)["documentResultList"])
+        return
+    for off in range(0, total, PAGE):
+        add_docs(out, fetch(sess, t, off, f, e)["documentResultList"])
+    print(t, f, e, total, len(out), file=sys.stderr, flush=True)
 
 
 def main():
@@ -33,36 +89,7 @@ def main():
     sess.headers["User-Agent"] = UA
     out = {}
     for t in ("Ley", "Decreto/Decreto de Necesidad y Urgencia"):
-        off = 0
-        while True:
-            d = fetch(sess, t, off)["searchResults"]
-            docs = d["documentResultList"]
-            for doc in docs:
-                a = json.loads(doc["documentAbstract"])["document"]
-                c = a["content"]
-                tn = (c.get("tipo-norma") or {}).get("codigo", "")
-                rec = {
-                    "tipo": tn,
-                    "numero": c.get("numero-norma"),
-                    "fecha": c.get("fecha"),
-                    "estado": c.get("estado"),
-                    "titulo": c.get("titulo-norma"),
-                    "uuid": a["metadata"]["uuid"],
-                    "url": "https://www.saij.gob.ar/%s-%s" % (
-                        a["metadata"]["friendly-url"]["subdomain"],
-                        a["metadata"]["friendly-url"]["description"]),
-                }
-                key = "%s:%s:%s" % (tn, rec["numero"], (rec["fecha"] or "")[:4])
-                out[key] = rec
-            total = 0
-            for cat in d["categoriesResultList"]:
-                if cat["facetName"] == "Total":
-                    total = sum(ch["facetHits"] for ch in cat["facetChildren"])
-            print(t, off, len(docs), total, file=sys.stderr)
-            off += PAGE
-            if not docs or off >= total:
-                break
-            time.sleep(3)
+        harvest(sess, out, t)
     json.dump(out, open(os.path.join(RAW, "saij_status.json"), "w"), ensure_ascii=False, indent=0)
     print(len(out), "records")
 

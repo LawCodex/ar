@@ -120,6 +120,21 @@ def table_md(tbl, base):
     return "\n".join(lines)
 
 
+def absurl(src, base):
+    if not src:
+        return None
+    src = src.strip()
+    if src.startswith(("data:", "javascript:", "mailto:", "#")):
+        return None
+    if src.startswith("//"):
+        return "https:" + src
+    if src.startswith("/"):
+        return "https://servicios.infoleg.gob.ar" + src
+    if src.startswith("http"):
+        return src
+    return base.rsplit("/", 1)[0] + "/" + src
+
+
 def blocks_from_html(raw, base):
     soup = BeautifulSoup(decode(raw), "lxml")
     for t in soup(["script", "style", "head", "map", "noscript"]):
@@ -153,16 +168,17 @@ def blocks_from_html(raw, base):
                     out.append(("table", md))
                 continue
             if name == "img":
-                src = ch.get("src")
-                if src and not src.startswith("data:"):
-                    if src.startswith("//"):
-                        src = "https:" + src
-                    elif src.startswith("/"):
-                        src = "https://servicios.infoleg.gob.ar" + src
-                    elif not src.startswith("http"):
-                        src = base.rsplit("/", 1)[0] + "/" + src
+                src = absurl(ch.get("src"), base)
+                if src:
                     buf.append(" [imagen: %s] " % src)
                 continue
+            if name == "a":
+                href = absurl(ch.get("href"), base)
+                if href and "verNorma.do" not in href and not ch.find(BLOCK | {"table"}):
+                    txt = ws(ch.get_text(" "))
+                    if txt:
+                        buf.append(" [%s](%s) " % (txt.replace("[", "(").replace("]", ")"), href.replace(" ", "%20").replace(")", "%29")))
+                        continue
             if name in BLOCK:
                 flush()
                 walk(ch)
@@ -319,7 +335,8 @@ def main():
     for row in csv.DictReader(open(CSV, encoding="utf-8")):
         t = row["tipo_norma"]
         dnu = t == "Decreto" and row["clase_norma"] == "DNU"
-        if not (t in ("Ley", "Decreto/Ley") or dnu):
+        dec = t == "Decreto" and not dnu and bool(row["texto_actualizado"])
+        if not (t in ("Ley", "Decreto/Ley") or dnu or dec):
             continue
         nid = row["id_norma"]
         hp = os.path.join(HTML, nid + ".htm")
@@ -359,6 +376,13 @@ def main():
             st = saij.get(("DL", num, year))
             title = "%s: %s" % (label, desc) if desc else label
             rel = "decretos-ley/%s/decreto-ley-%s-%s-%s.md" % (year, slugify(num, 20), year, slugify(sum_ or res))
+        elif dec:
+            typ = "decree"
+            cat = "decretos"
+            label = "Decreto %s/%s" % (num, year)
+            st = saij.get(("DEC", num, year))
+            title = "%s: %s" % (label, desc) if desc else label
+            rel = "decretos/%s/decreto-%s-%s-%s.md" % (year, slugify(num, 20), year, slugify(sum_ or res))
         else:
             typ = "decree"
             cat = "dnu"

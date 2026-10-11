@@ -1,0 +1,75 @@
+---
+title: "Ley 3267: TRATADOS — PROTOCOLO- ADQUISICION INMUEBLE"
+identifier: "Ley 3267"
+infoleg_id: "203738"
+type: act
+jurisdiction: ar
+language: es
+date: 1895-09-26
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=203738"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/200000-204999/203738/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 3267: TRATADOS — PROTOCOLO- ADQUISICION INMUEBLE
+
+TRATADO
+
+LEY N° 3267
+
+Ley aprobando el protocolo firmado con los Plenipotenciarios de las Repúblicas Argentina y Oriental del Uruguay, el 14 de Mayo de 1982, referente á la adquisición en uno y otro país de un inmueble para las respectivas Legaciones.
+
+El Senado y Cámara de Diputados de la Nación Argentina, reunidos en Congreso, etc., sancionan con fuerza de
+
+LEY:
+
+## Art. 1°
+
+Apruébase el protocolo firmado por los Plenipotenciarios de la República Argentina y de la República Oriental del Uruguay el día 14 de Mayo de 1892 sobre adquisición en las Capitales de uno y otro país, de un inmueble para establecer el asiento de sus respectivas Legaciones.
+
+## Art. 2°
+
+Comuníquese al Poder Ejecutivo.
+
+Dada en la Sala de Sesiones del Congreso Argentino, en Buenos Aires a veinte y seis de Septiembre de mil ochocientos noventa y cinco.
+
+| JULIO A. ROCA | FRANCISCO ALCOBENDAS |
+|---|---|
+| B. Ocampo Secretario del Senado | A. M. Tallaferro Pro Secretario de la C.de D.D. |
+
+(Registrada bajo el N° 3267)
+
+Departamento de Relaciones Exteriores.
+
+Buenos Aires, Octubre 2 de 1895
+
+Téngase por Ley de la Nación, comuníquese, publíquese, dése al Boletín Oficial é insértese en el Registro Nacional.
+
+URIBURU.
+
+A.ALCORTA.
+
+PROTOCOLO
+
+Reunidos en el Ministerio de Relaciones Exteriores de la República Oriental del Uruguay, S.S. E.E. el señor Enrique B. Moreno, Enviado Extraordinario y Ministro Plenipotenciario de la República Argentina, y el señor doctor Manuel Herrero y Espinosa, Ministro del ramo, con el objeto de dejar consignado en un protocolo, el acuerdo verbal celebrado en conferencias anteriores, respecto de la adquisición en ambas capitales por parte de los gobiernos que representan, de un inmueble para establecer en él la residencia de las correspondientes Legaciones, después de exhibidos los plenos poderes de estilo y hallados en buena y debida forma, declaran:
+
+Que el inmueble que adquiera el gobierno de la República Oriental del Uruguay en la ciudad de Buenos Aires y el que actualmente posee el gobierno de la República Argentina en la ciudad de Montevideo, con el único y exclusivo objeto de establecer en ella la residencia de las respectivas Legaciones, quedan exceptuados en uno y otro país, del pago de todo impuesto ó contribución inmobiliaria, continuando, no obstante , dichos inmuebles, sometidos como hasta aquí, al dominio eminente con las salvedades relativas al principio de la extra-territorialidad.
+
+En fe de lo cual, los señores plenipotenciarios, hacen extender el presente protocolo por duplicado, y cuyos ejemplares firman y sellan con sus sellos, en Montevideo, á los catorce días del mes de Mayo de mil ochocientos noventa y dos.
+
+Enrique B. Moreno- Manuel Herrero y
+
+Espinosa.
+
+DEPARTAMENTO DE RELACIONES EXTERIORES
+
+Buenos Aires, Mayo 17 de 1892
+
+Aprobado. -Sométase oportunamente á la consideración del honorable Congreso.
+
+PELLEGRINI
+
+ESTANISLAO S. ZABALLOS

@@ -1,0 +1,105 @@
+---
+title: "Ley 3498: CENSOS — CENSOS DE POBLACION Y VIVIENDA"
+identifier: "Ley 3498"
+infoleg_id: "284659"
+type: act
+jurisdiction: ar
+language: es
+date: 1897-09-10
+published: 1897-09-18
+boletin_oficial: "1235"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=284659"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/280000-284999/284659/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 3498: CENSOS — CENSOS DE POBLACION Y VIVIENDA
+
+Ley aprobando el censo de la República efectuado el 10 de Mayo de 1895.
+
+El Senado y Cámara de Diputados de la Nación Argentina, reunidos en Congreso, etc., sancionan con fuerza de-
+
+LEY:
+
+## Art.1°
+
+Apruébase el censo de la población de la República, practicado el día diez de Mayo de mil ochocientos noventa y cinco, cuyos resultados son los siguientes:
+
+Población total de la República, cuatro millones noventa y cuatro mil
+
+novecientos once habitantes.
+
+Población nominalmente inscripta, tres millones novecientos cincuenta y cuatro mil novecientos once habitantes; distribuidos así:
+
+Capital........................ 663.854
+
+Provincia de Buenos Aires...... 921.166
+
+Provincia de Santa Fe.......... 397.188
+
+Provincia de Entre Ríos........ 292.019
+
+Provincia de Corrientes........ 240.578
+
+Provincia de Córdoba........... 351.223
+
+Provincia de San Luis.......... 82.600
+
+Provincia de Santiago.......... 161.502
+
+Provincia de Mendoza........... 116.136
+
+Provincia de San Juan.......... 84.251
+
+Provincia de La Rioja.......... 69.502
+
+Provincia de Catamarca......... 90.161
+
+Provincia de Tucumán........... 215.942
+
+Provincia de Salta............. 118.015
+
+Provincia de Jujuy............. 49.713
+
+Territorio de Misiones......... 32.203
+
+Territorio de Formosa.......... 4.829
+
+Territorio de Chaco............ 10.422
+
+Territorio de La Pampa......... 25.914
+
+Territorio de Neuquén.......... 14.517
+
+Territorio de Río Negro........ 9.241
+
+Territorio de Chubut........... 3.748
+
+Territorio de Santa Cruz....... 1.058
+
+Territorio de Tierra del Fuego. 477
+
+## Art. 2°
+
+Esta ley empezará á regir para sus efectos políticos desde el primero de Marzo de mil ochocientos noventa y ocho.
+
+## Art. 3°
+
+Comuníquese al Poder Ejecutivo.
+
+Dada en la sala de sesiones del Congreso argentino, en Buenos Aires, á diez de Setiembre de mil ochocientos noventa y siete.
+
+JULIO A. ROCA. MARCO AVELLANEDA.
+
+Adolfo J. Labougle, Alejandro Sorondo,
+
+Secretario del Senado. Secretario de la C. de D.
+
+(Registrada bajo el Nº 3498)
+
+Téngase por ley de la Nación; comuníquese, publíquese e insértese en el Registro nacional.
+
+URIBURU.

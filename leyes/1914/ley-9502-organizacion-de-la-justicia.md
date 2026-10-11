@@ -1,0 +1,53 @@
+---
+title: "Ley 9502: ORGANIZACION DE LA JUSTICIA — JUZGADOS NACIONALES-COMPETENCIA COMERCIAL"
+identifier: "Ley 9502"
+infoleg_id: "291273"
+type: act
+jurisdiction: ar
+language: es
+date: 1914-09-22
+published: 1914-09-29
+boletin_oficial: "6216"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=291273"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/291273/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 9502: ORGANIZACION DE LA JUSTICIA — JUZGADOS NACIONALES-COMPETENCIA COMERCIAL
+
+Ley 9.502
+
+AUMENTO DEL NUMERO DE JUZGADOS NACIONALES DE PRIMERA INSTANCIA EN LO COMERCIAL DE CAPITAL FEDERAL.
+
+BUENOS AIRES, 22 de septiembre de 1914
+
+El Senado y la Cámara de Diputados de la Nación Argentina, reunidos
+
+en Congreso, etc.
+
+SANCIONAN CON FUERZA DE LEY
+
+## ARTICULO 1
+
+Auméntase a cinco el número de Juzgados de Comercio de la Capital.
+
+## ARTICULO 2
+
+A los efectos de lo dispuesto en el artículo anterior, pasará a la jurisdicción Comercial un Juzgado Correccional con su correspondiente dotación de empleados.
+
+## ARTICULO 3
+
+El nuevo Juzgado de Comercio tendrá el mismo personal, sueldos y partidas de gastos que cada uno de los actualmente existentes.
+
+## ARTICULO 4
+
+Los gastos que demande el cumplimiento de esta Ley, se harán de rentas generales, con imputación a la misma, hasta tanto sean incluídos en la de Presupuesto.
+
+## ARTICULO 5
+
+Comuníquese al Poder Ejecutivo.
+
+FIRMANTES

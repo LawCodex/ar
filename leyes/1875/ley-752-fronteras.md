@@ -1,0 +1,69 @@
+---
+title: "Ley 752: FRONTERAS — ZONAS DE FRONTERA-PROVINCIA DE BUENOS AIRES-INVERSIONES"
+identifier: "Ley 752"
+infoleg_id: "281740"
+type: act
+jurisdiction: ar
+language: es
+date: 1875-10-01
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=281740"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/280000-284999/281740/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 752: FRONTERAS — ZONAS DE FRONTERA-PROVINCIA DE BUENOS AIRES-INVERSIONES
+
+Líneas de fronteras contra los indios.
+
+Buenos Aires, Octubre 4 de 1875.
+
+Ley 752
+
+Por cuanto:
+
+El Senado y Cámara de Diputados de la Nación Argentina, reunidos en Congreso sancionan con fuerza de
+
+Ley:
+
+## Art. 1º
+
+Antorízase al Poder Ejecutivo para invertir hasta $ fts. 200.000, a fin de crear pueblos, levantar fortines y hacer construcciones adecuadas en la nueva línea de fronteras que se establezca en la provincia de Buenos Aires y en otras de la República, que urgentemente lo requieran.
+
+## Art. 2º
+
+El gasto que esta Ley autoriza, será cubierto con Rentas generales; pudiendo hacer uso el Poder Ejecutivo del crédito si ellas no alcanzaren,
+
+## Art. 3º
+
+Tan luego como la línea de frontera avance sobre el desierto en cualquier dirección, el Poder Ejecutivo, tomando por base el nuevo punto ocupado, adoptará a la mayor brevedad las medidas necesarias para adelantar y uniformar el resto de la frontera de la República.
+
+## Art. 4º
+
+Los pueblos, villas y colonias que se funden en ejecución de esta ley, en territorio en el cual no esté reconocida la jurisdicción de una provincia, quedarán sujetos a la jurisdicción nacional, hasta que se dicte la ley que determine los límites provinciales.
+
+## Art. 5º
+
+El Poder Ejecutivo dará cuenta detallada al Congreso en el primer mes de sesiones, del uso que hiciere de esta autorización.
+
+## Art. 6º
+
+Comuníquese al Poder Ejecutivo.
+
+Dada en la Sala de Sesiones del Congreso Argentino, en Buenos Aires, a 1º de Octubre de 1875.
+
+MARIANO ACOSTA
+
+Carlos M. Saravia, Secretario del Senado.
+
+J. BENJAMIN DE LA VEGA.
+
+Miguel Sorondo, Secretario de la Cámara de DD.
+
+Por tanto:
+
+Cúmplase, comuníquese, publíquese y dése al Registro Nacional.
+
+AVELLANEDA

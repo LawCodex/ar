@@ -1,0 +1,69 @@
+---
+title: "Ley 2947: INTERVENCION FEDERAL — PROVINCIA DE BUENOS AIRES"
+identifier: "Ley 2947"
+infoleg_id: "284146"
+type: act
+jurisdiction: ar
+language: es
+date: 1893-08-10
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=284146"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/280000-284999/284146/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 2947: INTERVENCION FEDERAL — PROVINCIA DE BUENOS AIRES
+
+Ley declarando intervenida la Provincia de Buenos Aires.
+
+Ley Nº 2947
+
+Buenos Aires, Agosto 14 de 1893.
+
+El Senado y Cámara de Diputados de la Nación Argentina, reunidos en Congreso, etc., sancionan con fuerza de--
+
+LEY:
+
+## Art. 1°
+
+Declárase intervenida la Provincia de Buenos Aires, á efecto de organizar sus Poderes Públicos dentro de las prescripciones de la Constitución Nacional y de las leyes de la Provincia.
+
+## Art. 2°
+
+Autorízase al Poder Ejecutivo para movilizar la Guardia Nacional, en cuanto lo considere necesario á la ejecución de esta Ley.
+
+## Art. 3°
+
+El Poder Ejecutivo procederá inmediatamente á desarmar y disolver toda fuerza armada que exista en el territorio de la Provincia.
+
+## Art. 4°
+
+Autorízasele igualmente para hacer los gastos que se requieran, con imputación á la presente.
+
+## Art. 5°
+
+El Poder Ejecutivo dará cuenta oportunamente al Honorable Congreso.
+
+## Art. 6°
+
+Comuníquese al Poder Ejecutivo.
+
+Dada en la Sala de Sesiones del Congreso Argentino, en Buenos Aires, á 10 de Agosto de 1893.
+
+JOSÉ E. URIBURU. FRANCISCO ALCOBENDAS.
+
+B. Ocampo. Alejandro Sorondo,
+
+Secretario del Senado. Secretario de la C. de D.D.
+
+(Registrada bajo el Nº. 2947
+
+Departamento del Interior
+
+Buenos Aires, Agosto 14 de 1893.
+
+Téngase por Ley de la Nación, comuníquese, publíquese é insértese en el Registro Nacional.
+
+SAENZ PEÑA.

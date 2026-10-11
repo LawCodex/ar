@@ -1,0 +1,43 @@
+---
+title: "Decreto-Ley 2986/1944: CONFLICTOS INTERNACIONALES — GUERRA-SEGUNDA GUERRA MUNDIAL-PAISES NO BELIGERANTES"
+identifier: "Decreto-Ley 2986/1944"
+infoleg_id: "294870"
+type: decree-law
+jurisdiction: ar
+language: es
+date: 1944-02-04
+published: 1944-02-28
+boletin_oficial: "14837"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=294870"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/294870/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Decreto-Ley 2986/1944: CONFLICTOS INTERNACIONALES — GUERRA-SEGUNDA GUERRA MUNDIAL-PAISES NO BELIGERANTES
+
+Disponiendo que el Gobierno argentino no considerará a Bolivia, Canadá, Costa Rica, Cuba, El Salvador, Guatemala, Haití, Honduras, México, Nicaragua, Panamá y República Dominicana como países beligerantes en el presente conflicto internacional.
+
+Buenos Aires, febrero 4 de 1944.
+
+\- 2.986 -M -30.-- 30.
+
+CONSIDERANDO:
+
+Que por Decretos de 9 y 13 de diciembre de 1941, el Gobierno argentino estableció que no considerará a los Estados Unidos de América en la situación de país beligerante en su conflicto bélico con Japón, Alemania y otros países;
+
+Que igual medida se tomó con respecto a Brasil, en su estado de guerra con esos países, mediante el decreto de 24 de agosto de 1942;
+
+Que en idéntica situación se encuentran Bolivia, Canadá, Costa Rica, Cuba, El Salvador, Guatemala, Haití, Honduras, México, Nicaragua, Panamá y República Dominicana,
+
+El Presidente de la Nación Argentina –DECRETA:
+
+## Artículo 1º
+
+El Gobierno de la República Argentina no considerará a Bolivia, Canadá, Costa Rica, Cuba, El Salvador, Guatemala, Haití, Honduras, México, Nicaragua, Panamá y República Dominicana como países beligerantes en el presente conflicto internacional y les acordará todas las facilidades inherentes a la defensa de sus intereses que a juicio de este Gobierno sean necesarias.
+
+## Art. 2º
+
+Comuníquese, publíquese, dése al Registro Nacional y archívese.RAMÍREZ.-

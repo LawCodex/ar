@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Download InfoLEG HTML texts (texto actualizado when available, else texto original) for
-national Leyes, Decretos-Ley and DNU listed in the InfoLEG open-data CSV.
+national Leyes, Decretos-Ley, DNU (and other Decretos having a texto actualizado) listed in the InfoLEG open-data CSV.
 
 Usage: ar_fetch.py            (expects _raw/ar/csv/base-infoleg-normativa-nacional.csv)
 Cache: _raw/ar/html/<id>.htm (skips existing files). Concurrency 2, ~0.5 s between requests/worker.
@@ -21,6 +21,10 @@ def selected(row):
     if t in ("Ley", "Decreto/Ley"):
         return True
     if t == "Decreto" and row["clase_norma"] == "DNU":
+        return True
+    if t == "Decreto" and row["texto_actualizado"]:
+        # other decrees only when InfoLEG maintains a consolidated text
+        # (textos ordenados of tax laws, main regulatory decrees)
         return True
     return False
 

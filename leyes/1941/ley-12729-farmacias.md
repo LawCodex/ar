@@ -1,0 +1,81 @@
+---
+title: "Ley 12729: FARMACIAS — EXPENDIO DE MEDICAMENTOS - CODEX MEDICAMENTARIUS"
+identifier: "Ley 12729"
+infoleg_id: "294673"
+type: act
+jurisdiction: ar
+language: es
+date: 1941-09-29
+published: 1941-10-21
+boletin_oficial: "14157"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=294673"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/294673/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 12729: FARMACIAS — EXPENDIO DE MEDICAMENTOS - CODEX MEDICAMENTARIUS
+
+Ley N° 12.729
+
+Declarando Codex Melicamentarius de la República Argentina y obligatorio para todas las farmacias establecidas en el territorio de la Nación, el redactado por la Comisión especial, compuesta por los doctores F. R. Alsina, Alfredo J. Bandoni, M. R. Castex y otros.
+
+Por Cuanto:
+
+El Senado y Cámara de Diputados de la Nación Argentina, reunidos en Congreso, etc., sancionan con fuerza de
+
+Ley:
+
+## Artículo 1°
+
+Declárase Codex Medicamentarius de la República Argentina y obligatorio para todas las farmacias establecidas en el territorio de la Nación, el redactado por la comisión especial, compuesta de los doctores Fidel R. Alsina, Alfredo José Bandoni, Mariano R. Castex, Pascual E. Corti, Bernardo A. Houssay, Ignacio Imaz, .Jorge Magnin, Luis Rossi, Tomás J. Rumi, Juan A. Sánchez, Alfredo Sordelli, Mario Soto, Juan Jacobo Spangenberg, Emilio Imaz y Raúl Wernicke.
+
+## Art. 2°
+
+Autorízase al Poder Ejecutivo para hacer los gastos necesarios para la impresión y corrección de la edición oficial, así como para invertir hasta la suma de $ 50,000 m/n., para remunerar la comisión redactora del proyecto.
+
+## Art. 3°
+
+Cada ejemplar del Codex llevará un número de orden y el sello del Departamento Nacional de Higiene como garantía de su autenticidad.
+
+## Art. 4°
+
+Los gastos que demande la presente ley se harán de rentas generales, imputándose a la misma y se cubrirán con el producto de la venta de los ejemplares de la edición del Codex.
+
+## Art. 5°
+
+Queda prohibida la reimpresión del Codex sin permiso especial del Poder Ejecutivo y solo producirán efectos legales las ediciones oficiales autorizadas.
+
+## Art. 6°
+
+El Poder Ejecutivo determinará dentro de los ciento ochenta días de la promulgación de esta ley, la fecha en que ha de empezar a regir el Codex Medicamentarius y tomará las medidas para ponerlo en venta.
+
+## Art. 7°
+
+Comuníquese al Poder Ejecutivo.
+
+Dada en la Sala de Sesiones del Congreso Argentino, en Buenos Aires, a 29 de septiembre de 1941.
+
+R. PATRON COSTAS.
+
+JOSE LUIS CANTILO
+
+Gustavo Figueroa.
+
+L. Zavalla Carbó
+
+Registrada, bajo el N.° 12.729
+
+Buenos Aires, Octubre 10 de 1941.
+
+—102.635—
+
+Por tanto:
+
+Téngase por ley de la Nación, cúmplase, comuníquese, publíquese, dése al Registro Nacional y. archívese.
+
+CASTILLO.
+
+MIGUEL J. CULACIATI.

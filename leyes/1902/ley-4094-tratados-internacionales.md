@@ -1,0 +1,69 @@
+---
+title: "Ley 4094: TRATADOS INTERNACIONALES — DEMARCACION DE LIMITES - CONVENIO CON CHILE"
+identifier: "Ley 4094"
+infoleg_id: "202059"
+type: act
+jurisdiction: ar
+language: es
+date: 1902-07-30
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=202059"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/200000-204999/202059/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 4094: TRATADOS INTERNACIONALES — DEMARCACION DE LIMITES - CONVENIO CON CHILE
+
+TRATADO
+
+Ley Nº 4.094
+
+Convenio con Chile sobre demarcación de límites, firmado en Santiago el 28 de mayo de 1902.
+
+## Art. 1º
+
+Apruébase el convenio firmado en Santiago el 28 de mayo último por los plenipotenciarios de la República Argentina y de Chile, con el objeto de solicitar del árbitro nombre una comisión que fije en el terreno los deslindes determinados en su sentencia arbitral.
+
+## Art. 2º
+
+Comuníquese, etc.
+
+Sanción: 30 julio 1902.
+
+Convención celebrada con la República de Chile sobre limitación de armamentos navales y actas aclaratorias de prórroga y de canje.
+
+JULIO A. ROCA
+
+Presidente Constitucional de la República Argentina
+
+A todos los que el presente vieren, ¡salud!
+
+Por cuanto:
+
+Entre la República Argentina y la República de Chile se negoció y firmó en la Ciudad de Santiago el 28 de Mayo de 1902 una Convención sobre limitación de Armamentos navales, y el 10 de Julio del mismo año, un acta aclaratoria de dicha Convención, y el 24 del indicado mes otra prorrogando el plazo para su canje y ratificación; cuyos textos son los siguientes:
+
+Reunidos en el Ministerio de Relaciones Exteriores de Chile los Sres. D. José Antonio Terry, Enviado Extraordinario y Ministro Plenipotenciario de la República Argentina, y D. Francisco Vergara Donoso, Ministro del ramo, han acordado en consignar en la siguiente Convención, las diversas conclusiones adoptadas para la limitación de armamentos navales de las dos Repúblicas; conclusiones que han sido tomadas mediante las iniciativas y los buenos oficios del Gobierno de su Majestad Británica, representado en la República Argentina por su enviado Extraordinario y Ministro Plenipotenciario Sir W. A.C. Barrington y en Chile por su Enviado Extraordinario y Ministro Plenipotenciario Sr. D. Gerardo A. Lowther:
+
+**Art. 1º.** Con el propósito de apartar todo motivo de inquietud ó recelo en uno ú otro país, los Gobiernos de la República Argentina y de Chile desisten de adquirir las naves de guerra que tienen en construcción y de hacer por ahora nuevas adquisiciones.
+
+Ambos Gobiernos convienen además en disminuir sus respectivas escuadras, para lo cual seguirán gestionando hasta llegar á un acuerdo que produzca una discreta equivalencia entre dichas escuadras. Esta disminución se hará en el término de un año contado desde la fecha del canje de la presente Convención.
+
+**Art. 2º.** Los dos Gobiernos se comprometen á no aumentar durante cinco años sus armamentos navales sin previo aviso que el que pretenda aumentarlos dará al otro con diez y ocho meses de anticipación. Es entendido que se excluye de este arreglo todo armamento para la fortificación de las costas y puertos pudiéndose adquirir cualquier máquina flotante destinada exclusivamente á la defensa de éstos, como ser submarinos, etc.
+
+## Art. 3º
+
+La enajenaciones á que diere lugar esta Convención no podrán hacerse á países que tengan cuestiones pendientes con una ú otra de las Partes Contratantes.
+
+Art 4º A fin de facilitar la transferencia de los contratos pendientes, ambos Gobiernos se obligan á prorrogar por dos meses el plazo que tengan estipulado para la entrega de los respectivos busques en construcción, para lo cual darán las instrucciones del caso en el acto de ser firmada esta Convención.
+
+## Art. 5º
+
+Las ratificaciones de esta Convención serán canjeadas en el término de sesenta días, ó antes si fuere posible, y el canje tendrá lugar en esta ciudad de Santiago.
+
+En fe de lo cual los infrascriptos firman y sellan en doble ejemplar la presente Convención en la ciudad de Santiago á los 28 días del mes de Mayo de 1902.
+
+| (L.S.) J.A. Terry. |
+|---|
+| (L.S.) J.Fco. VERGARA DONOSO. |

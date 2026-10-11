@@ -1,0 +1,95 @@
+---
+title: "Ley 4160: PRESUPUESTO GENERAL DE LA ADMINISTRACION NACIONAL — EJERCICIO 1903 - SU APROBACION"
+identifier: "Ley 4160"
+infoleg_id: "209369"
+type: act
+jurisdiction: ar
+language: es
+date: 1902-12-27
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=209369"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/205000-209999/209369/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 4160: PRESUPUESTO GENERAL DE LA ADMINISTRACION NACIONAL — EJERCICIO 1903 - SU APROBACION
+
+Ley núm. 4160
+
+Ley general de presupuesto y cálculo de recursos para 1903
+
+## Artículo 1
+
+º El presupuesto general de gastos de la administración para el ejercicio de 1903 queda fijado en pesos 32.739.387,25 oro y pesos 93.899.896,41 moneda nacional curso legal, distribuídos en los siguientes anexos:
+
+[imagen: https://servicios.infoleg.gob.ar/infolegInternet/anexos/205000-209999/209369/ley4160-1.jpg]
+
+## Art. 2
+
+º Los gastos establecidos en el presupuesto serán cubiertos con los siguientes recursos:
+
+[imagen: https://servicios.infoleg.gob.ar/infolegInternet/anexos/205000-209999/209369/ley4160-2.jpg]
+
+## Art. 3
+
+º Destínase á rentas generales el 5 % (cinco por ciento) adicional creado por ley número 3871.
+
+## Art. 4
+
+º Fíjase en 3 $ (tres por ciento) de interés y 10 % (diez por ciento) de amortización anual el servicio de los títulos entregados al Banco de la Nación Argentina por el Banco Nacional en pago de los depósitos judiciales y en 6 por ciento de interés y 2 por ciento de amortización anual el servicio de los entregados por el Banco Nacional á la caja de conversión en pago del empréstito popular.
+
+## Art. 5
+
+º El Banco Nacional en liquidación entregará á la Tesorería General en pago á cuenta del depósito de la misma y de acuerdo con el inciso 2.º del artículo 9.º de la ley número 3037, hasta 5.000.000 (cinco millones moneda nacional) en títulos de los creados por el artículo 5.º de dicha ley en las mismas condiciones del citado artículo y siguiente, debiendo reducirse la amortización á 10 por ciento anual.
+
+## Art. 6
+
+º Autorízase al Poder Ejecutivo para negociar dichos títulos y con su producido y en su límite atender las deudas flotante y exigible.
+
+## Art. 7
+
+º Las mercaderías y productos sujetos al pago de derechos de importación por la ley de aduana que están gravados con un impuesto de 10% (diez por ciento) ó más, abonarán además un impuesto adicional de 2 % (dos por ciento) sobre el valor.
+
+## Art. 8
+
+º Además del impuesto adicional de 2 % (dos por ciento) establecido por el artículo 7.º anterior, de esta ley, todas las mercaderías y productos sujetos al pago de derechos de importación por la ley de aduana, pagarán un impuesto adicional de 5 % (cinco por ciento).
+
+## Art. 9
+
+º Queda autorizado el Poder Ejecutivo para exonerar del pago de derechos de exportación, durante el año 1903, á los subproductos de los saladeros y fábricas de extracto de carne.
+
+## Art. 10
+
+Suspéndese durante el año 1903 la disposición del artículo 1.º de la ley número 3551 sobre fondos universitarios de la capital y destínase el producido de los ingresos al pago de los sueldos y gastos de la misma universidad.
+
+## Art. 11
+
+Durante el año 1903 se continuará deduciendo el 5 % (cinco por ciento) del sueldo de todos los empleados civiles de la administración y de los jubilados, comprendiéndose los maestros y jubilados del Consejo Nacional de Educación.
+
+Mientras no se dicte la ley de montepío civil y no se reforme la ley número 1909, se depositará en el Banco de la Nación el descuento que corresponde á los empleados civiles y jubilados de la administración y se agregará á un fondo de jubilaciones el correpondiente á los empleados, maestros y jubilados del consejo nacional de educación, salvo lo dispuesto en la ley número 4052.
+
+## Art. 12
+
+Los recursos á oro á que se refiere el artículo 2.º serán pagados en oro efectivo ó en moneda de curso legal al tipo de cotización, quedando derogada toda disposición en contrario.
+
+## Art. 13
+
+Asígnase como recurso especial para el cumplimiento de lo dispuesto en el inciso... partida... del anexo... el 20 por ciento (veinte por ciento) del producido del adicional á la importación creado por la ley número 3871.
+
+## Art. 14
+
+Los empleados civiles con diez años de servicio como minimum que por este presupuesto quedaren cesantes, recibirán por una sola vez la gratificación de dos meses de sueldo.
+
+## Art. 15
+
+De la suma que corresponda á cada una de las provincias del producido de la lotería nacional, de acuerdo con la ley número 3313, se deducirá la cantidad de treinta mil pesos moneda nacional (30.000), á fin de atender á las subvenciones respectivas que figuran en el inciso 8.º del anexo c.
+
+Para las provicnias de Santa Fe, Corrientes, Salta, Jujuy, Rioja, Catamarca, Mendoza, Santiago del Estero, San Luis y San Juan, la suma de treinta mil pesos se dividirá por partes iguales entre dichas subvenciones y las obras á que se refiere la ley número 3967.
+
+## Art. 16
+
+Comuníquese al Poder Ejecutio.
+
+Sancionada por el Congreso Argentino, en Buenos Aires, á 27 de diciembre de 1902.

@@ -1,0 +1,67 @@
+---
+title: "Ley 192: TRATADOS INTERNACIONALES — BRASIL-LIMITES INTERNACIONALES"
+identifier: "Ley 192"
+infoleg_id: "280927"
+type: act
+jurisdiction: ar
+language: es
+date: 1858-09-24
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=280927"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/280000-284999/280927/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 192: TRATADOS INTERNACIONALES — BRASIL-LIMITES INTERNACIONALES
+
+Ley 192
+
+APROBACION DE UN TRATADO DE LIMITES CON BRASIL
+
+PARANA, 24 de septiembre de 1858
+
+El Senado y la Cámara de Diputados de la Nación Argentina, reunidos en Congreso, etc.
+
+SANCIONAN CON FUERZA DE LEY
+
+## Artículo 1
+
+Apruébanse las estipulaciones contenidas en los cinco artículos del Tratado de límites, entre el Poder Ejecutivo Nacional y S.M. el Emperador del Brasil, por medio de sus respectivos Plenipotenciarios en esta Capital, el 14 de Diciembre de 1857.
+
+## Art. 2
+
+Es entendido que los Ríos Pepirí Guazú y San Antonio, que se designan como límites en el artículo 1 del Tratado, son los que se hallan más al Oriente con estos nombres, según consta de la operación a que se refiere el artículo 2 del mismo.
+
+## Art. 3
+
+Comuníquese al Poder Ejecutivo,
+
+ECHAGUE - LUQUE - SARAVIA - DE IGARZABAL
+
+ANEXO A-Tratado de Límites entre la República Argentina y Brasil suscripto en Buenos Aires el 14/12/1857-
+
+## Artículo 1
+
+Las dos altas partes contratantes, estando de acuerdo en fijar sus respectivos límites, convienen en declarar y reconocer como frontera de la Confederación Argentina y del Brasil, entre los Ríos Uruguay y Paraná, lo que en seguida se designa: El territorio de la Confederación Argentina se divide del Imperio del Brasil por el Río Uruguay, perteneciendo toda la margen derecha u Occidental a la Confederación y la izquierda u Oriental al Brasil, desde la boca del afluente Cuarahim hasta la del Pepirí-Guazú donde las posesiones Brasileñas ocupan las dos márgenes del Uruguay. Sigue la línea divisoria por las aguas del Pepirí-Guazú hasta su origen principal desde éste, continúa por lo más alto del terreno a encontrar la cabecera principal del San Antonio, hasta su entrada en el Iguazú o Río Grande de Curitiba, y por éste hasta sus confluencias con el Paraná. El terreno que los ríos Pepirí-Guazú, San Antonio e Iguazú separan para el lado de Oriente, pertenece al Brasil, y para el lado de Occidente a la Confederación Argentina siendo el dominio común de las dos naciones las aguas de los dichos dos primeros Ríos en todo su curso, y las del Iguazú solamente desde la confluencia del San Antonio hasta el Paraná.
+
+## Art. 2
+
+Las dos altas partes contratantes declaran para evitar cualquier duda, no obstante que las designaciones del artículo 1 son bien conocidas, que los Ríos Pepirí-Guazú y San Antonio, de que habla dicho artículo, son los que fueron reconocidos en 1759 por los demarcadores del Tratado de 13 de Enero de 1750 celebrado entre Portugal y España.
+
+## Art. 3
+
+Después de ratificado el presente Tratado, las dos altas partes contratantes, nombrará cada una, un comisario para de común acuerdo, proceder en el término más breve a la demarcación de la línea, en los puntos que fuesen necesario, de conformidad con lo estipulado en el artículo 1.
+
+## Art. 4
+
+Los comisarios de que trata el artículo antecedente deberán luego que hayan concluido la demarcación de la frontera terrestre, proceder en común al levantamiento de un plano de las islas del Río Uruguay, comprendidas dentro los límites de los países, y recoger todos los datos necesarios que estén a su alcance, a fin de que en vista de sus dictámenes y esclarecimientos, puedan los dos Gobiernos acordar la división de los respectivos dominios sobre dichas islas, conforme a los principios del derecho Internacional.
+
+## Art. 5
+
+El canje de las ratificaciones del presente Tratado tendrá lugar en la ciudad de Paraná, dentro del plazo de ocho meses contados desde su fecha, o antes si fuese posible. En testimonio de lo cual, nos, los abajo firmados Plenipotenciarios del Vicepresidente de la Confederación Argentina y de su Majestad el Emperador de Brasil, firmamos en virtud de nuestro plenos poderes, el presente Tratado y le hicimos poner nuestros sellos.
+
+Hecho en la ciudad del Paraná, a los catorce días del mes de Diciembre, del año, de Nacimiento de Nuestro Señor Jesucristo de mil ochocientos cincuenta y siete.
+
+López-Derqui-da Silva Paranhos.
