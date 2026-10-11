@@ -9,7 +9,9 @@ date: 1958-02-05
 published: 1958-02-19
 boletin_oficial: "18587"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-1291-nacional-creacion-consejo-nacional-investigaciones-cientificas-tecnicas-lns0001673-1958-02-05"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=22660"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/22660/norma.htm"

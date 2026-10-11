@@ -10,6 +10,8 @@ published: 1963-08-05
 boletin_oficial: "20188"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-6397-nacional-lnn0021514-1963-07-31"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=299789"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/299789/norma.htm"

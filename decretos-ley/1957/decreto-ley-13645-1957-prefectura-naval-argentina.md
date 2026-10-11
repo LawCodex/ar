@@ -10,6 +10,8 @@ published: 1957-11-07
 boletin_oficial: "18518"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-13645-nacional-lnn0027151-1957-10-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=162589"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/160000-164999/162589/norma.htm"

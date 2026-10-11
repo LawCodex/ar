@@ -10,6 +10,8 @@ published: 1956-09-13
 boletin_oficial: "18232"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-15786-nacional-lnn0027168-1956-08-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=405275"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/405000-409999/405275/norma.htm"

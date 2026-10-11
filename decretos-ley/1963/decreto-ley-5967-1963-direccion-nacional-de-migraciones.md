@@ -9,7 +9,9 @@ date: 1963-07-19
 published: 1963-07-25
 boletin_oficial: "20179"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-5967-nacional-cuenta-especial-direccion-nacional-migraciones-multas-tasas-lns0001509-1963-07-19"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=299775"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/299775/texact.htm"

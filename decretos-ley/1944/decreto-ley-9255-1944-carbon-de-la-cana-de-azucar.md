@@ -10,6 +10,8 @@ published: 1944-04-22
 boletin_oficial: "14880"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-9255-nacional-lnn0022857-1944-04-12"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=196756"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/196756/norma.htm"

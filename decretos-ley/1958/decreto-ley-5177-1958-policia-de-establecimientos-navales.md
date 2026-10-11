@@ -9,7 +9,9 @@ date: 1958-04-18
 published: 1958-05-22
 boletin_oficial: "18650"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-5177-nacional-aprobacion-estatuto-policia-establecimientos-navales-lns0001646-1958-04-18"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=140405"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/140000-144999/140405/norma.htm"

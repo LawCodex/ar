@@ -9,7 +9,9 @@ date: 1963-02-08
 published: 1963-02-15
 boletin_oficial: "20051"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-1099-nacional-designacion-director-instituto-nacional-microbiologia-bajo-regimen-contrato-locacion-servicios-lns0001543-1963-02-08"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=299658"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/299658/norma.htm"

@@ -9,7 +9,9 @@ date: 1963-07-19
 published: 1963-07-25
 boletin_oficial: "20179"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-5965-nacional-regimen-juridico-letra-cambio-vale-pagare-lns0001510-1963-07-19"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=69687"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/65000-69999/69687/texact.htm"

@@ -10,6 +10,8 @@ published: 1945-03-06
 boletin_oficial: "15135"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-4114-nacional-lnn0022608-1945-02-22"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=295117"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/295117/norma.htm"

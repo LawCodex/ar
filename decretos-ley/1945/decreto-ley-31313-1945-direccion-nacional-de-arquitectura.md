@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1945-12-05
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-31313-nacional-creacion-direccion-nacional-arquitectura-lns0002126-1945-12-05"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=295305"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/295305/norma.htm"

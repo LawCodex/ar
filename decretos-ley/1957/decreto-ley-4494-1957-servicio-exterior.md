@@ -9,7 +9,9 @@ date: 1957-04-30
 published: 1957-05-20
 boletin_oficial: "18399"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-4494-nacional-embajada-argentina-suiza-lns0001740-1957-04-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=231372"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/231372/norma.htm"

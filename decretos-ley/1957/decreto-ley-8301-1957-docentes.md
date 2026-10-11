@@ -10,6 +10,8 @@ published: 1957-08-12
 boletin_oficial: "18457"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-8301-nacional-lnn0014220-1957-07-19"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=297281"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/297281/norma.htm"

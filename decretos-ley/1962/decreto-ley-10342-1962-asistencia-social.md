@@ -10,6 +10,8 @@ published: 1962-10-22
 boletin_oficial: "19955"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-10342-nacional-lnn0022206-1962-10-04"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=129588"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/125000-129999/129588/norma.htm"

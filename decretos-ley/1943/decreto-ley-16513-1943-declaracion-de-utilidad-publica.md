@@ -10,6 +10,8 @@ published: 1943-12-31
 boletin_oficial: "14791"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-16513-nacional-lnn0024341-1943-12-13"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=294846"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/294846/norma.htm"

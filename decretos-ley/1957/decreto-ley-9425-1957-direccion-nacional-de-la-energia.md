@@ -9,7 +9,9 @@ date: 1957-08-13
 published: 1957-08-20
 boletin_oficial: "18462"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-9425-nacional-integracion-directorio-comision-nacional-energia-atomica-lns0001722-1957-08-13"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=222941"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/220000-224999/222941/norma.htm"

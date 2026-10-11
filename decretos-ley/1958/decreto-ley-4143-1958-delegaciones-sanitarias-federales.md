@@ -9,7 +9,9 @@ date: 1958-04-02
 published: 1958-04-16
 boletin_oficial: "18625"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/decreto-ley-4143-nacional-aprobacion-texto-carta-organica-delegaciones-sanitarias-federales-ministerio-asistencia-social-salud-publica-lns0001660-1958-04-02"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=195017"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/195017/norma.htm"

@@ -10,6 +10,8 @@ published: 1963-03-07
 boletin_oficial: "20066"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-1638-nacional-lnn0027116-1963-03-01"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=174663"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/170000-174999/174663/texact.htm"

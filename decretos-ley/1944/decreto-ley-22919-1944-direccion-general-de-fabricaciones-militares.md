@@ -9,7 +9,9 @@ date: 1944-08-25
 published: 1944-09-12
 boletin_oficial: "14993"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-22919-nacional-incorporacion-personal-militar-retirado-direccion-general-fabricaciones-militares-lns0002182-1944-08-25"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=142418"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/140000-144999/142418/norma.htm"

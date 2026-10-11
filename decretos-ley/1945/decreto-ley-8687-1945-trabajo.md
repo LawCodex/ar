@@ -9,7 +9,9 @@ date: 1945-04-24
 published: 1949-12-22
 boletin_oficial: "16526"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-8687-nacional-turno-trabajo-personal-servicio-estado-para-fiscalizacion-certificacion-fruta-fresca-para-exportacion-lns0002198-1945-04-24"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=295167"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/295167/texact.htm"

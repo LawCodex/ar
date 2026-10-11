@@ -10,6 +10,8 @@ published: 1944-02-28
 boletin_oficial: "14837"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-2985-nacional-lnn0022871-1944-02-04"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=294869"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/294869/norma.htm"

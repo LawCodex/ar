@@ -9,7 +9,9 @@ date: 1957-09-11
 published: 1957-09-26
 boletin_oficial: "18489"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-10872-nacional-transferencia-reserva-nacional-copahue-provincia-neuquen-lns0002886-1957-09-11"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=297334"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/297334/norma.htm"

@@ -10,6 +10,8 @@ published: 1957-05-30
 boletin_oficial: "18407"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-5089-nacional-lnn0023387-1957-05-16"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=227902"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/225000-229999/227902/norma.htm"

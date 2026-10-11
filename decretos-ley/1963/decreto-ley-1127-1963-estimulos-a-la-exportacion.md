@@ -10,6 +10,8 @@ published: 1963-02-16
 boletin_oficial: "20052"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-1127-nacional-lnn0021801-1963-02-11"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=299660"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/299660/norma.htm"

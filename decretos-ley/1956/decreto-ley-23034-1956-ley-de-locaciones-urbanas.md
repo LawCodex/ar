@@ -10,6 +10,8 @@ published: 1957-01-11
 boletin_oficial: "18314"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-23034-nacional-lnn0022087-1956-12-26"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=297087"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/297087/norma.htm"

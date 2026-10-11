@@ -10,6 +10,8 @@ published: 1957-07-04
 boletin_oficial: "18431"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-7298-nacional-lnn0021840-1957-06-27"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=297243"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/297243/norma.htm"

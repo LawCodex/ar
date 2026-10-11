@@ -9,7 +9,9 @@ date: 1956-02-09
 published: 1956-02-20
 boletin_oficial: "18093"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/decreto-ley-2446-nacional-lnn0026003-1956-02-09"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=161122"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/160000-164999/161122/texact.htm"

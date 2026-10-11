@@ -10,6 +10,8 @@ published: 1955-12-30
 boletin_oficial: "18057"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-5600-nacional-lnn0024580-1955-12-15"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=166951"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/165000-169999/166951/norma.htm"

@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1963-05-28
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-4322-nacional-delegacion-facultades-investigacion-casos-concretos-fiscales-adjuntos-ad-hoc-parte-fiscalia-nacional-investigaciones-administrativas-lns0001527-1963-05-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=299727"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/299727/norma.htm"

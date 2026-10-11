@@ -8,6 +8,8 @@ language: es
 date: 1946-05-03
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-12547-nacional-lnn0022440-1946-05-03"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=295446"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/295446/norma.htm"

@@ -9,7 +9,9 @@ date: 1957-08-13
 published: 1957-08-27
 boletin_oficial: "18467"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-9424-nacional-franquicias-aduaneras-para-funcionarios-publicos-lns0001723-1957-08-13"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=297306"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/297306/norma.htm"

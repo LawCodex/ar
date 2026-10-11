@@ -9,7 +9,9 @@ date: 1956-04-05
 published: 1956-04-16
 boletin_oficial: "18131"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-6136-nacional-organismos-pasan-depender-ministerio-aeronautica-lns0001788-1956-04-05"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=296894"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/296894/norma.htm"

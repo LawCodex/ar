@@ -10,6 +10,8 @@ published: 1945-11-23
 boletin_oficial: "15343"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-29716-nacional-lnn0027723-1945-11-21"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=295290"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/295290/norma.htm"

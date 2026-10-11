@@ -9,7 +9,9 @@ date: 1945-12-06
 published: 1945-12-20
 boletin_oficial: "15365"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-31208-nacional-importacion-hojas-coca-lns0002127-1945-12-06"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=295308"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/295308/texact.htm"

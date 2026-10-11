@@ -9,7 +9,9 @@ date: 1957-12-17
 published: 1958-01-10
 boletin_oficial: "18561"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-16628-nacional-creacion-condecoracion-orden-libertador-san-martin-lns0001697-1957-12-17"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=231666"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/231666/norma.htm"

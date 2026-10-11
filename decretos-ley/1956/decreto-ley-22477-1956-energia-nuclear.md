@@ -9,7 +9,9 @@ date: 1956-12-18
 published: 1956-12-28
 boletin_oficial: "18305"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/decreto-ley-22477-nacional-economia-energia-mineria-energia-atomica-lns0002764-1956-12-18"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=43795"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/40000-44999/43795/norma.htm"

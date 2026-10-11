@@ -9,7 +9,9 @@ date: 1945-02-15
 published: 1947-07-11
 boletin_oficial: "15813"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-3322-nacional-aplicacion-todo-pais-decreto-21306-44-lns0002170-1945-02-15"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=295112"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/295112/norma.htm"

@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1958-04-08
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-4273-nacional-vino-regional-lns0001659-1958-04-08"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=297601"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/297601/norma.htm"

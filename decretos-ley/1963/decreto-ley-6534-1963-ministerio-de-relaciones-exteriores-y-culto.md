@@ -10,6 +10,8 @@ published: 1963-08-13
 boletin_oficial: "20195"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-6534-nacional-lnn0022358-1963-08-05"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=191846"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/191846/norma.htm"

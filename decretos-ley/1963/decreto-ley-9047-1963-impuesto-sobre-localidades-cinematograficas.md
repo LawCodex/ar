@@ -9,7 +9,9 @@ date: 1963-10-10
 published: 1963-10-25
 boletin_oficial: "20255"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-9047-nacional-delegacion-facultades-poder-ejecutivo-nacional-para-reducir-suprimir-impuestos-sobre-localidades-cinematograficas-lns0001464-1963-10-10"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=299973"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/299973/norma.htm"

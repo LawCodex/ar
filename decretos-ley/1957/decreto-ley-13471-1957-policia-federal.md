@@ -10,6 +10,8 @@ published: 1957-12-03
 boletin_oficial: "18536"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-13471-nacional-lnn0027153-1957-10-25"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=167411"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/165000-169999/167411/norma.htm"

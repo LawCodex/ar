@@ -9,7 +9,9 @@ date: 1957-10-01
 published: 1957-10-09
 boletin_oficial: "18498"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-12025-nacional-concesion-patentes-lns0001712-1957-10-01"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=297364"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/297364/texact.htm"

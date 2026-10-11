@@ -9,7 +9,9 @@ date: 1956-12-31
 published: 1957-01-08
 boletin_oficial: "18311"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-23354-nacional-ley-contabilidad-lns0001757-1956-12-31"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=58383"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/55000-59999/58383/texact.htm"
@@ -90,15 +92,25 @@ Comuníquese, publíquese, dése a la Dirección General del Boletín Oficial y 
 
 ARAMBURU. — Isaac Rojas.— Eugenio F. Blanco. — Arturo Ossorio Arana. — Teodoro Hartung. — Julio C. Krause.
 
-## CAPITULO I. - DEL PRESUPUESTO GENERAL — Artículos 1, 2, 3, 4, 5, 6, 7, 8 , 9, 10, 11, 12, 13, 14, 15, 16, 17 y 18 (Derogados por art. 137 de la Ley 24.156 B.O. 29/10/1992)
+## CAPITULO I. - DEL PRESUPUESTO GENERAL
 
-## CAPITULO II. - DE LA EJECUCION DEL PRESUPUESTO — Artículos 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35 y 36 (Derogados por art. 137 de la Ley 24.156 B.O. 29/10/1992)
+Artículos 1, 2, 3, 4, 5, 6, 7, 8 , 9, 10, 11, 12, 13, 14, 15, 16, 17 y 18 (Derogados por art. 137 de la Ley 24.156 B.O. 29/10/1992)
 
-## CAPITULO III. - DE LA CUENTA GENERAL DEL EJERCICIO — Artículos 37, 38, 39 y 40 (Derogados por art. 137 de la Ley 24.156 B.O. 29/10/1992)
+## CAPITULO II. - DE LA EJECUCION DEL PRESUPUESTO
 
-## CAPITULO IV. - DEL SERVICIO DEL TESORO — Artículos 41, 42, 43, 44, 45, 46, 47, 48, 49 y 50: (Derogados por art. 137 de la Ley 24.156 B.O. 29/10/1992)
+Artículos 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35 y 36 (Derogados por art. 137 de la Ley 24.156 B.O. 29/10/1992)
 
-## CAPITULO V.- DE LA GESTION DE LOS BIENES DEL ESTADO — Artículos 51, 52, 53 y 54.
+## CAPITULO III. - DE LA CUENTA GENERAL DEL EJERCICIO
+
+Artículos 37, 38, 39 y 40 (Derogados por art. 137 de la Ley 24.156 B.O. 29/10/1992)
+
+## CAPITULO IV. - DEL SERVICIO DEL TESORO
+
+Artículos 41, 42, 43, 44, 45, 46, 47, 48, 49 y 50: (Derogados por art. 137 de la Ley 24.156 B.O. 29/10/1992)
+
+## CAPITULO V.- DE LA GESTION DE LOS BIENES DEL ESTADO
+
+Artículos 51, 52, 53 y 54.
 
 (Capítulo derogado por art. 75 de la Ley N° 27.431 B.O. 2/1/2018. )
 
@@ -152,25 +164,45 @@ c) Las protocolizaciones de los contratos de cualquier naturaleza que autoricen 
 
 d) Las escrituras de compraventa de bienes inmuebles entre particulares, cuando las mismas sean financiadas, total o parcialmente, con préstamos concedidos con fondos del Estado, sin intervención de instituciones bancarias oficiales . Exceptuándose las donaciones a favor del Estado, las transferencias de inmuebles destinados a caminos nacionales y las que realicen las instituciones bancarias de la Nación cuando no adquieran bienes para el Estado con carácter definitivo.
 
-## CAPITULO VII. - DEL REGISTRO DE LAS OPERACIONES — Artículos 65, 66, 67, 68, 69, 70 y 71 (Derogados por art. 137 de la Ley 24.156 B.O. 29/10/1992)
+## CAPITULO VII. - DEL REGISTRO DE LAS OPERACIONES
 
-## CAPITULO VIII. - DE LA CONTADURIA GENERAL DE LA NACION Y DE LOS SERVICIOS DE CONTABILIDAD — Artículos 72, 73,74, 75, 76 y 77 (Derogados por art. 137 de la Ley 24.156 B.O. 29/10/1992)
+Artículos 65, 66, 67, 68, 69, 70 y 71 (Derogados por art. 137 de la Ley 24.156 B.O. 29/10/1992)
 
-## CAPITULO IX. - DEL TRIBUNAL DE CUENTAS DE LA NACION — Artículos 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88 y 89 (Derogados por art. 137 de la Ley 24.156 B.O. 29/10/1992)
+## CAPITULO VIII. - DE LA CONTADURIA GENERAL DE LA NACION Y DE LOS SERVICIOS DE CONTABILIDAD
 
-## CAPITULO X. - DE LOS RESPONSABLES — Artículos 90, 91, 92, 93, 94, 95, 96 y 97 (Derogados por art. 137 de la Ley 24.156 B.O. 29/10/1992)
+Artículos 72, 73,74, 75, 76 y 77 (Derogados por art. 137 de la Ley 24.156 B.O. 29/10/1992)
 
-## CAPITULO XI. - DE LAS CUENTAS DE LOS RESPONSABLES — Artículos 98, 99, 100, 101 y 102 (Derogados por art. 137 de la Ley 24.156 B.O. 29/10/1992)
+## CAPITULO IX. - DEL TRIBUNAL DE CUENTAS DE LA NACION
 
-## CAPITULO XII. - DEL JUICIO DE CUENTAS — Artículos 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114 y 115 (Derogados por art. 137 de la Ley 24.156 B.O. 29/10/1992)
+Artículos 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88 y 89 (Derogados por art. 137 de la Ley 24.156 B.O. 29/10/1992)
 
-## CAPITULO XIII. - DEL JUICIO ADMINISTRATIVO DE RESPONSABILIDAD — Artículos 116, 117, 118, 119, 120, 121, 122, 123, 124 y 125, 126, 127, 128 y 129 (Derogados por art. 137 de la Ley 24.156 B.O. 29/10/1992)
+## CAPITULO X. - DE LOS RESPONSABLES
 
-## CAPITULO XIV. - DE LA EJECUCION DE LAS RESOLUCIONES CONDENATORIAS DEL TRIBUNAL DE CUENTAS — Artículos 130, 131, 132, 133, 134 y 135 (Derogados por art. 137 de la Ley 24.156 B.O. 29/10/1992)
+Artículos 90, 91, 92, 93, 94, 95, 96 y 97 (Derogados por art. 137 de la Ley 24.156 B.O. 29/10/1992)
 
-## CAPITULO XV. - DE LAS ENTIDADES DESCENTRALIZADAS Y HACIENDAS PARA-ESTATALES — Artículos 136, 137 y 138 (Derogados por art. 137 de la Ley 24.156 B.O. 29/10/1992)
+## CAPITULO XI. - DE LAS CUENTAS DE LOS RESPONSABLES
 
-## CAPITULO XVI. - DISPOSICIONES COMPLEMENTARIAS Y TRANSITORIAS — Artículos 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152 y 153 (Derogados por art. 137 de la Ley 24.156 B.O. 29/10/1992)
+Artículos 98, 99, 100, 101 y 102 (Derogados por art. 137 de la Ley 24.156 B.O. 29/10/1992)
+
+## CAPITULO XII. - DEL JUICIO DE CUENTAS
+
+Artículos 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114 y 115 (Derogados por art. 137 de la Ley 24.156 B.O. 29/10/1992)
+
+## CAPITULO XIII. - DEL JUICIO ADMINISTRATIVO DE RESPONSABILIDAD
+
+Artículos 116, 117, 118, 119, 120, 121, 122, 123, 124 y 125, 126, 127, 128 y 129 (Derogados por art. 137 de la Ley 24.156 B.O. 29/10/1992)
+
+## CAPITULO XIV. - DE LA EJECUCION DE LAS RESOLUCIONES CONDENATORIAS DEL TRIBUNAL DE CUENTAS
+
+Artículos 130, 131, 132, 133, 134 y 135 (Derogados por art. 137 de la Ley 24.156 B.O. 29/10/1992)
+
+## CAPITULO XV. - DE LAS ENTIDADES DESCENTRALIZADAS Y HACIENDAS PARA-ESTATALES
+
+Artículos 136, 137 y 138 (Derogados por art. 137 de la Ley 24.156 B.O. 29/10/1992)
+
+## CAPITULO XVI. - DISPOSICIONES COMPLEMENTARIAS Y TRANSITORIAS
+
+Artículos 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152 y 153 (Derogados por art. 137 de la Ley 24.156 B.O. 29/10/1992)
 
 Antecedentes Normativos
 

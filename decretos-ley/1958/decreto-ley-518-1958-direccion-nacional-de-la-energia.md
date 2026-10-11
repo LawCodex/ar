@@ -10,6 +10,8 @@ published: 1958-02-04
 boletin_oficial: "18578"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-518-nacional-lnn0027141-1958-01-17"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=223031"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/220000-224999/223031/norma.htm"

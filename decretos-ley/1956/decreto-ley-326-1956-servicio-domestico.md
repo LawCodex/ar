@@ -9,7 +9,9 @@ date: 1956-01-14
 published: 1956-01-20
 boletin_oficial: "18072"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/decreto-ley-326-nacional-servicio-domestico-lns0001801-1956-01-14"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=61806"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/60000-64999/61806/texact.htm"

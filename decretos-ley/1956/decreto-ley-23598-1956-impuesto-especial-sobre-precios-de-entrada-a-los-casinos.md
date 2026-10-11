@@ -9,7 +9,9 @@ date: 1956-12-31
 published: 1957-01-31
 boletin_oficial: "18328"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-23598-nacional-impuesto-especial-sobre-precio-entrada-casinos-lns0001754-1956-12-31"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=297091"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/297091/norma.htm"

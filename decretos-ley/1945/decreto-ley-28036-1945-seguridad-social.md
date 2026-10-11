@@ -9,7 +9,9 @@ date: 1945-11-09
 published: 1945-11-27
 boletin_oficial: "15346"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-28036-nacional-aprobacion-reglamento-general-prestamos-decreto-ley-14535-44-lns0002135-1945-11-09"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=295275"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/295275/texact.htm"
@@ -238,11 +240,13 @@ Para los mismos fines señalados en el artículo anterior y cancelación del sal
 
 La Sección podrá asimismo conceder -cuando razones de conveniencia lo aconsejen- a los deudores que no hubiesen optado inicialmente por el plazo máximo de amortización que corresponda de acuerdo con lo dispuesto en el art. 21, después de cinco (5) años de constituído el gravamen hipotecario, renovación de la deuda por el monto del saldo aun no amortizado y sus accesorias. La renovación sólo podrá concederse por alguno de los plazos de amortización autorizados en dicho artículo, siempre que el término corrido desde la constitución del préstamo y el plazo de renovación no excedan, en conjunto, del máximo de veinticinco (25) años. La operación se concertará como préstamo nuevo, en las mismas condiciones y con iguales requisitos que éstos, cancelándose el préstamo anterior simultáneamente con la constitución de aquélla.
 
-SECCION IV
+### SECCION IV
 
 Lugar de cumplimiento de los contratos y de la escrituración.
 
-Art. 40.- Los contratos de préstamos sobre bienes ubicados dentro de la jurisdicción de la Capital de la Républica se otorgarán y cumplirán, en todas sus partes, en dicha Capital. Los contratos relativos a bienes ubicados en las provincias y territorios nacionales, se otorgarán y cumplirán dentro de las respectivas jurisdicciones, salvo en lo siguiente: a) El pago de las obligaciones derivadas de los préstamos, que deberá hacerse en la forma dispuesta en el art. 5 de este reglamento b) Todas las cuestiones judiciales que se susciten con motivo de los préstamos deberán ser sometidas a los Tribunales de la Capital Federal, a cuyo efecto los prestatarios del interior deberán constituir un domicilio especial dentro de la misma, el que no se considerará cambiado sino mediante notificación auténtica a la Sección de haberse constituído otro a igual efecto en la misma Capital. Los préstamos podrán también ser otorgados en jurisdicción distinta a aquella en que el inmueble esté ubicado, siempre que legalmente no medien trabas que lo impidan y concurran para ello causas atendibles, a juicio del Directorio.
+#### Art. 40
+
+Los contratos de préstamos sobre bienes ubicados dentro de la jurisdicción de la Capital de la Républica se otorgarán y cumplirán, en todas sus partes, en dicha Capital. Los contratos relativos a bienes ubicados en las provincias y territorios nacionales, se otorgarán y cumplirán dentro de las respectivas jurisdicciones, salvo en lo siguiente: a) El pago de las obligaciones derivadas de los préstamos, que deberá hacerse en la forma dispuesta en el art. 5 de este reglamento b) Todas las cuestiones judiciales que se susciten con motivo de los préstamos deberán ser sometidas a los Tribunales de la Capital Federal, a cuyo efecto los prestatarios del interior deberán constituir un domicilio especial dentro de la misma, el que no se considerará cambiado sino mediante notificación auténtica a la Sección de haberse constituído otro a igual efecto en la misma Capital. Los préstamos podrán también ser otorgados en jurisdicción distinta a aquella en que el inmueble esté ubicado, siempre que legalmente no medien trabas que lo impidan y concurran para ello causas atendibles, a juicio del Directorio.
 
 #### Art. 41
 

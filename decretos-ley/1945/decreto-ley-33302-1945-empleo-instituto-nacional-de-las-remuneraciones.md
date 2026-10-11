@@ -9,7 +9,9 @@ date: 1945-12-20
 published: 1945-12-31
 boletin_oficial: "15373"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-33302-nacional-establecen-obligacion-empleadores-aplicar-sus-empleados-obreros-salario-vital-minimo-salarios-basicos-sueldo-anual-complementario-lns0002123-1945-12-20"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=96344"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/95000-99999/96344/norma.htm"

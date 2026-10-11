@@ -9,7 +9,9 @@ date: 1956-06-04
 published: 1956-07-30
 boletin_oficial: "18201"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-11908-nacional-feriados-locales-para-dependencias-nacionales-asiento-interior-pais-lns0001782-1956-07-04"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=232592"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/232592/norma.htm"

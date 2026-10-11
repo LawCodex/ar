@@ -9,7 +9,9 @@ date: 1955-10-07
 published: 1955-10-19
 boletin_oficial: "18006"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-504-nacional-incompatibilidad-cargos-servicio-exterior-lns0001811-1955-10-07"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=296731"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/296731/norma.htm"

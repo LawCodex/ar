@@ -9,7 +9,9 @@ date: 1944-08-25
 published: 1944-09-12
 boletin_oficial: "14993"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-23849-nacional-organizacion-justicia-nacional-criminal-capital-federal-lns0002181-1944-08-25"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=196023"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/196023/norma.htm"

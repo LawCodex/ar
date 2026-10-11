@@ -9,7 +9,9 @@ date: 1957-12-27
 published: 1958-01-15
 boletin_oficial: "18564"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-17138-nacional-creacion-instituto-nacional-tecnologia-industrial-lns0001690-1957-12-27"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=61016"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/60000-64999/61016/texact.htm"

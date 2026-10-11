@@ -10,6 +10,8 @@ published: 1958-03-19
 boletin_oficial: "18607"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-2833-nacional-lnn0023486-1958-03-13"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=297568"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/297568/norma.htm"

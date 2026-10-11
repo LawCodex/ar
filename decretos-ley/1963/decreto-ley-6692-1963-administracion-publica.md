@@ -9,7 +9,9 @@ date: 1963-08-09
 published: 1963-08-20
 boletin_oficial: "20199"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-6692-nacional-delegaciones-tribunal-fiscal-nacion-interior-pais-lns0001492-1963-08-09"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=299812"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/299812/texact.htm"

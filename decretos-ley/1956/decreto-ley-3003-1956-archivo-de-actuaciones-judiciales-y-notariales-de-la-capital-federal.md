@@ -9,7 +9,9 @@ date: 1956-02-21
 published: 1956-02-28
 boletin_oficial: "18099"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-3003-nacional-creacion-registro-juicios-universales-lns0001792-1956-02-21"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=195400"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/195400/norma.htm"

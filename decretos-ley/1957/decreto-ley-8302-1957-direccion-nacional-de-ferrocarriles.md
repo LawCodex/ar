@@ -9,7 +9,9 @@ date: 1957-07-19
 published: 1957-07-30
 boletin_oficial: "18448"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-8302-nacional-direccion-nacional-ferrocarriles-lns0001726-1957-07-19"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=37946"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/35000-39999/37946/norma.htm"

@@ -9,7 +9,9 @@ date: 1944-10-10
 published: 1944-10-18
 boletin_oficial: "15023"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-27797-nacional-tareas-condiciones-trabajo-empleados-telegrafos-cables-telegrafos-lns0002076-1944-10-10"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=294993"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/294993/norma.htm"

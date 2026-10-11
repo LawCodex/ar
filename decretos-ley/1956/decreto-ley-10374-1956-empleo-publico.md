@@ -9,7 +9,9 @@ date: 1956-06-11
 published: 1956-06-18
 boletin_oficial: "18173"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-10374-nacional-deduccion-aportes-patronales-premios-estimulos-gratificaciones-lns0001876-1956-06-11"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=296951"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/296951/norma.htm"

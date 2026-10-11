@@ -9,7 +9,9 @@ date: 1958-04-28
 published: 1958-05-09
 boletin_oficial: "18641"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/decreto-ley-6283-nacional-lnn0025883-1958-04-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=177887"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/175000-179999/177887/norma.htm"

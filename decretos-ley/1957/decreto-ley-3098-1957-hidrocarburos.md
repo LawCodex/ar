@@ -9,7 +9,9 @@ date: 1957-03-29
 published: 1957-03-29
 boletin_oficial: "18366"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-3098-nacional-reservas-hidrocarburos-provincia-neuquen-lns0001744-1957-03-25"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=228327"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/225000-229999/228327/norma.htm"

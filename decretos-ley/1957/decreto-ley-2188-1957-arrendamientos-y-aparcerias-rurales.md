@@ -9,7 +9,9 @@ date: 1957-02-28
 published: 1957-03-13
 boletin_oficial: "18355"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/decreto-ley-2188-nacional-lnn0025963-1957-02-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=177863"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/175000-179999/177863/norma.htm"

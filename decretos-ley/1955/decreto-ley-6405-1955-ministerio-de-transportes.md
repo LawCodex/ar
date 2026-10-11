@@ -10,6 +10,8 @@ published: 1956-01-03
 boletin_oficial: "18059"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-6405-nacional-lnn0024456-1955-12-23"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=296799"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/296799/norma.htm"

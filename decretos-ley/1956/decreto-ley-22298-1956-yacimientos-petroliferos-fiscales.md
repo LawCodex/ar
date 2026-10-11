@@ -10,6 +10,8 @@ published: 1956-12-26
 boletin_oficial: "18303"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-22298-nacional-lnn0023010-1956-12-14"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=228626"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/225000-229999/228626/norma.htm"

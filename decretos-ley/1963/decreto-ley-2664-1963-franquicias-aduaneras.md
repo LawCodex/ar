@@ -9,7 +9,9 @@ date: 1963-04-09
 published: 1963-04-19
 boletin_oficial: "20101"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-2664-nacional-franquicias-aduaneras-para-libros-publicaciones-lns0001530-1963-04-09"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=299697"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/299697/norma.htm"

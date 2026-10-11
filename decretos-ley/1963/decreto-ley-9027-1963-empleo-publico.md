@@ -9,7 +9,9 @@ date: 1963-10-10
 published: 1964-01-07
 boletin_oficial: "20313"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-9027-nacional-remuneraciones-funcionarios-empleados-publicos-lns0001465-1963-10-10"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=299972"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/299972/norma.htm"

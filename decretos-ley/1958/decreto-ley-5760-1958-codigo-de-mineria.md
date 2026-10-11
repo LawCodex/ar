@@ -10,6 +10,8 @@ published: 1958-05-15
 boletin_oficial: "18645"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-5760-nacional-lnn0027131-1958-04-23"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=108987"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/105000-109999/108987/norma.htm"

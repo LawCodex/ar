@@ -9,7 +9,9 @@ date: 1946-05-28
 published: 1946-07-16
 boletin_oficial: "15527"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-15356-nacional-regimen-laboral-personal-obrero-empresas-petroleras-particulares-lns0002161-1946-05-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=295505"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/295505/norma.htm"

@@ -9,7 +9,9 @@ date: 1958-03-13
 published: 1958-03-27
 boletin_oficial: "18613"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/decreto-ley-2872-nacional-lnn0021368-1958-03-13"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=82879"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/80000-84999/82879/norma.htm"

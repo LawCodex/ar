@@ -9,7 +9,9 @@ date: 1946-05-23
 published: 1946-07-05
 boletin_oficial: "15519"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-14669-nacional-instituto-nacional-fiebre-aftosa-lns0002089-1946-05-23"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=295478"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/295478/norma.htm"

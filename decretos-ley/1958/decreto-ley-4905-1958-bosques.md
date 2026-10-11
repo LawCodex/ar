@@ -9,7 +9,9 @@ date: 1958-04-07
 published: 1958-04-28
 boletin_oficial: "18633"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-4905-nacional-atribuciones-consejo-administracion-nacional-bosques-lns0001650-1958-04-07"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=183289"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/183289/norma.htm"

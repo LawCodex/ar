@@ -9,7 +9,9 @@ date: 1963-07-01
 published: 1963-07-05
 boletin_oficial: "20163"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/decreto-ley-5340-nacional-compre-nacional-lns0001517-1963-07-01"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=64611"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/60000-64999/64611/norma.htm"

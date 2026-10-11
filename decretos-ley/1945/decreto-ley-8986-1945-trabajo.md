@@ -9,7 +9,9 @@ date: 1945-04-25
 published: 1945-04-27
 boletin_oficial: "15177"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-8986-nacional-regimen-especial-trabajo-para-personal-radiotelegrafia-telegrafia-cablegrafia-lns0002197-1945-04-25"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=295170"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/295170/texact.htm"

@@ -9,7 +9,9 @@ date: 1956-06-06
 published: 1956-06-25
 boletin_oficial: "18177"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-10105-nacional-lucha-contra-langosta-lns0001878-1956-06-06"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=296944"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/296944/norma.htm"

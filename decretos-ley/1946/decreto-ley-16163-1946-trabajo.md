@@ -9,7 +9,9 @@ date: 1946-06-03
 published: 1946-06-28
 boletin_oficial: "15514"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-16163-nacional-salarios-para-personal-fabrica-surco-industria-azucarera-lns0002155-1946-06-03"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=295537"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/295537/norma.htm"

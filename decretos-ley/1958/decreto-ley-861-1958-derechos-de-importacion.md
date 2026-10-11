@@ -9,7 +9,9 @@ date: 1958-01-27
 published: 1958-02-07
 boletin_oficial: "18581"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-861-nacional-derechos-importacion-diversos-productos-forestales-lns0001680-1958-01-27"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=297503"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/297503/texact.htm"

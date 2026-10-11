@@ -9,7 +9,9 @@ date: 1958-04-25
 published: 1958-05-09
 boletin_oficial: "18641"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-6070-nacional-estatuto-profesional-agrimensores-agronomos-arquitectos-ingenieros-lns0001641-1958-04-25"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=39013"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/35000-39999/39013/texact.htm"

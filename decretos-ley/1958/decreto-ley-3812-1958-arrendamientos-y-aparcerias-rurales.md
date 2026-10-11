@@ -9,7 +9,9 @@ date: 1958-03-28
 published: 1958-04-22
 boletin_oficial: "18629"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/decreto-ley-3812-nacional-lnn0025905-1958-03-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=177901"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/175000-179999/177901/norma.htm"

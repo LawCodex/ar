@@ -9,7 +9,9 @@ date: 1955-10-27
 published: 1955-12-05
 boletin_oficial: "18039"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-1989-nacional-creacion-juzgado-nacional-primera-instancia-penal-especial-capital-federal-lns0001809-1955-10-27"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=195481"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/195481/norma.htm"

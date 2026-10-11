@@ -10,6 +10,8 @@ published: 1944-01-28
 boletin_oficial: "14813"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-18228-nacional-lnn0022422-1943-12-31"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=185727"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/185000-189999/185727/norma.htm"

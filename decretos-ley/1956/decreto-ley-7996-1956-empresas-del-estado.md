@@ -9,7 +9,9 @@ date: 1956-04-30
 published: 1956-06-21
 boletin_oficial: "18175"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-7996-nacional-estatuto-administracion-general-puertos-lns0001883-1956-04-30"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=296923"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/296923/texact.htm"

@@ -10,6 +10,8 @@ published: 1957-12-23
 boletin_oficial: "18550"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-16067-nacional-lnn0022249-1957-12-05"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=297453"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/297453/norma.htm"

@@ -9,7 +9,9 @@ date: 1944-12-18
 published: 1949-12-28
 boletin_oficial: "16531"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-33373-nacional-liquidacion-pago-pensiones-graciables-lns0002203-1944-12-18"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=295070"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/295070/norma.htm"

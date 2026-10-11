@@ -10,6 +10,8 @@ published: 1963-11-04
 boletin_oficial: "20262"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-9053-nacional-lnn0027091-1963-10-10"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=151471"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/150000-154999/151471/norma.htm"

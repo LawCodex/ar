@@ -10,6 +10,8 @@ published: 1956-12-10
 boletin_oficial: "18292"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-21680-nacional-lnn0001763-1956-12-04"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=77763"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/75000-79999/77763/norma.htm"

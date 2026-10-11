@@ -9,7 +9,9 @@ date: 1958-02-05
 published: 1958-02-12
 boletin_oficial: "18584"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-1368-nacional-instituto-nacional-sanmartiniano-lns0001672-1958-02-05"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=297517"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/297517/texact.htm"

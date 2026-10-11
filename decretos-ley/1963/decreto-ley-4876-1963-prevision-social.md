@@ -9,7 +9,9 @@ date: 1963-06-19
 published: 1963-06-27
 boletin_oficial: "20156"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/decreto-ley-4876-nacional-lnn0025825-1963-06-19"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=167456"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/165000-169999/167456/norma.htm"

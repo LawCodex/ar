@@ -9,7 +9,9 @@ date: 1944-12-07
 published: 1944-12-23
 boletin_oficial: "15077"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-32780-nacional-nomina-reparticiones-pasan-depender-secretaria-industria-comercio-lns0002206-1944-12-07"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=280701"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/280000-284999/280701/norma.htm"

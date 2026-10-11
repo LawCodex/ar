@@ -9,7 +9,9 @@ date: 1962-12-05
 published: 1962-12-19
 boletin_oficial: "20003"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-13432-nacional-periodos-cuarentenarios-para-importacion-reproductores-lns0001553-1962-12-05"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=196576"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/196576/norma.htm"

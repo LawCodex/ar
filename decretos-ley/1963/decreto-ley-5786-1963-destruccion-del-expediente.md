@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1963-07-16
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-5786-nacional-destruccion-expedientes-judiciales-lns0001511-1963-07-16"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=299771"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/299771/norma.htm"

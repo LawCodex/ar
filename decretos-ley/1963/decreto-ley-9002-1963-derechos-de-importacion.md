@@ -9,7 +9,9 @@ date: 1963-10-09
 published: 1963-10-24
 boletin_oficial: "20254"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-9002-nacional-exencion-derechos-importacion-para-obras-arte-lns0001466-1963-10-09"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=299969"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/299969/norma.htm"

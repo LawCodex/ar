@@ -9,7 +9,9 @@ date: 1956-01-23
 published: 1956-02-06
 boletin_oficial: "18083"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-1115-nacional-embajada-argentina-yugoslavia-lns0001797-1956-01-23"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=231445"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/231445/norma.htm"

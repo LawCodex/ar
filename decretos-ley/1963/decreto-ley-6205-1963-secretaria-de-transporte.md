@@ -10,6 +10,8 @@ published: 1963-08-09
 boletin_oficial: "20192"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-6205-nacional-lnn0027103-1963-07-25"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=175177"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/175000-179999/175177/norma.htm"

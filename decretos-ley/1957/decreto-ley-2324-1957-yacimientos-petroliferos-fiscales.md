@@ -10,6 +10,8 @@ published: 1957-04-05
 boletin_oficial: "18371"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-2324-nacional-lnn0023654-1957-03-06"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=230237"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/230237/norma.htm"

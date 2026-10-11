@@ -9,7 +9,9 @@ date: 1944-06-13
 published: 1944-06-17
 boletin_oficial: "14924"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/decreto-ley-15039-nacional-salud-publica-higiene-sanidad-vacunacion-enfermedades-lns0002305-1944-06-13"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=294939"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/294939/norma.htm"

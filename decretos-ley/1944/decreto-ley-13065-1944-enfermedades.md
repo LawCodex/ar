@@ -9,7 +9,9 @@ date: 1944-05-23
 published: 1944-06-23
 boletin_oficial: "14928"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-13065-nacional-franquicias-medicamentos-antipaludicos-lns0002312-1944-05-23"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=294920"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/294920/norma.htm"

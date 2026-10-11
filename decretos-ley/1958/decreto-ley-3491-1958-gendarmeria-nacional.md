@@ -9,7 +9,9 @@ date: 1958-03-24
 published: 1958-04-25
 boletin_oficial: "18632"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/decreto-ley-3491-nacional-lnn0025897-1958-03-24"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=47352"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/45000-49999/47352/texact.htm"

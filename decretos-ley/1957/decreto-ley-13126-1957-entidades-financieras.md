@@ -9,7 +9,9 @@ date: 1957-10-22
 published: 1957-10-29
 boletin_oficial: "18512"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/decreto-ley-13126-nacional-lnn0025935-1957-10-22"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=183495"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/183495/norma.htm"

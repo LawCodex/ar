@@ -10,6 +10,8 @@ published: 1963-06-28
 boletin_oficial: "20157"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-4874-nacional-lnn0021776-1963-06-19"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=299744"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/299744/norma.htm"

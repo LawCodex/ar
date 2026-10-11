@@ -10,6 +10,8 @@ published: 1945-08-23
 boletin_oficial: "15268"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-17630-nacional-lnn0002095-1945-08-02"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=295249"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/295249/norma.htm"

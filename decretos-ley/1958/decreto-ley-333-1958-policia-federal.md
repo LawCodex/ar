@@ -9,7 +9,9 @@ date: 1958-01-14
 published: 1958-01-30
 boletin_oficial: "18575"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/decreto-ley-333-nacional-ley-organica-policia-federal-lns0001687-1958-01-14"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=20983"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/20983/texact.htm"

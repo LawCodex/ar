@@ -10,6 +10,8 @@ published: 1963-03-06
 boletin_oficial: "20065"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-1547-nacional-lnn0021755-1963-02-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=194914"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/194914/norma.htm"

@@ -9,7 +9,9 @@ date: 1958-01-21
 published: 1958-02-07
 boletin_oficial: "18581"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-654-nacional-parques-nacionales-lns0001682-1958-01-21"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=232340"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/232340/texact.htm"

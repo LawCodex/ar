@@ -10,6 +10,8 @@ published: 1963-01-03
 boletin_oficial: "20014"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-14178-nacional-lnn0022191-1962-12-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=299642"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/299642/norma.htm"

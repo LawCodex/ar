@@ -9,7 +9,9 @@ date: 1958-01-29
 published: 1958-02-11
 boletin_oficial: "18583"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-1054-nacional-promocion-turismo-lns0001677-1958-01-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=297513"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/297513/norma.htm"

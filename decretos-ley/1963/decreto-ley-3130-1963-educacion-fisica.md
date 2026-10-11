@@ -9,7 +9,9 @@ date: 1963-04-29
 published: 1963-05-06
 boletin_oficial: "20114"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-3130-nacional-direccion-nacional-educacion-fisica-deportes-recreacion-lns0001528-1963-04-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=299703"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/299703/norma.htm"

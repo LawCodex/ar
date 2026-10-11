@@ -9,7 +9,9 @@ date: 1957-07-15
 published: 1957-07-23
 boletin_oficial: "18443"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-7913-nacional-pago-asignaciones-familiares-empleados-empresas-comerciales-comprendidas-convenio-colectivo-trabajo-nro-108-lns0001730-1957-07-15"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=297259"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/297259/texact.htm"

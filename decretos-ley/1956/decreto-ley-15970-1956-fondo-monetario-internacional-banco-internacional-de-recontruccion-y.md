@@ -128,7 +128,9 @@ De los Miembros
 
 Miembros fundadores del Fondo serán aquellos países, representados en la Conferencia Monetaria y Financiera de las Naciones Unidas, cuyos gobiernos declaren su adhesión antes de la fecha especificada en el Artículo XX, Sección 2º, e).
 
-### Sección 2º. – Otros miembros — Los gobiernos de otros países podrán adherirse dentro de los plazos y bajo las condiciones que el Fondo establezca.
+### Sección 2º. – Otros miembros.
+
+Los gobiernos de otros países podrán adherirse dentro de los plazos y bajo las condiciones que el Fondo establezca.
 
 ARTICULO III
 
@@ -480,9 +482,13 @@ Los bienes y los activos del Fondo, donde quiera se encontraren y en poder de qu
 
 Los bienes y activos del Fondo, hasta donde fuere necesario para la buena marcha de sus operaciones previstas en este convenio, estarán libres de toda clase de restricciones, regulaciones, controles y moratorias.
 
-### Sección 7º. – Privilegios para las comunicaciones — Los miembros deberán dar a las comunicaciones oficiales del Fondo el mismo tratamiento que a las comunicaciones oficiales de otros miembros.
+### Sección 7º. – Privilegios para las comunicaciones.
 
-### Sección 8º. – Inmunidades y privilegios de funcionarios y empleados — Todos los gobernadores, directores ejecutivos, suplentes, funcionarios y empleados del Fondo.
+Los miembros deberán dar a las comunicaciones oficiales del Fondo el mismo tratamiento que a las comunicaciones oficiales de otros miembros.
+
+### Sección 8º. – Inmunidades y privilegios de funcionarios y empleados.
+
+Todos los gobernadores, directores ejecutivos, suplentes, funcionarios y empleados del Fondo.
 
 1) Gozarán de inmunidad respecto de acciones judiciales por actos ejecutados dentro de sus atribuciones oficiales, excepto cuando el Fondo renuncie a esta inmunidad;
 
@@ -532,7 +538,9 @@ ARTICULO XII
 
 Organización y Administración
 
-### Sección 1º. – Estructura del Fondo — El Fondo será administrado por una Junta de gobernadores, por directores ejecutivos, por un director gerente y por un personal.
+### Sección 1º. – Estructura del Fondo.
+
+El Fondo será administrado por una Junta de gobernadores, por directores ejecutivos, por un director gerente y por un personal.
 
 ### Sección 2º. – Junta de gobernadores.
 
@@ -614,7 +622,9 @@ c) El director–gerente y el personal del Fondo, en el desempeño de sus funcio
 
 d) Al contratar el personal, el director gerente, sin descuidar la importancia suprema de asegurar la más alta eficiencia y competencia técnica, deberá prestar especial atención a la importancia de seleccionar el personal sobre la más amplia base geográfica.
 
-### Sección 5º. – Los votos — a) Cada miembro tendrá 250 votos más un voto adicional por cada monto parcial de su cuota equivalente a U$S 100.000.
+### Sección 5º. – Los votos.
+
+a) Cada miembro tendrá 250 votos más un voto adicional por cada monto parcial de su cuota equivalente a U$S 100.000.
 
 b) Cada vez que se trate de una votación, de acuerdo con el Artículo V, Secciones 4 ó 5, todo miembro tendrá el número de votos a que está autorizado bajo la letra a) con los siguientes ajustes:
 
@@ -668,7 +678,9 @@ ARTICULO XIV
 
 Período de Transición
 
-### Sección 1º. – Introducción — El Fondo no tendrá por objeto arbitrar facilidades del auxilio o de reconstrucción, ni tampoco tendrá que ver con el endeudamiento a causa de la guerra.
+### Sección 1º. – Introducción:
+
+El Fondo no tendrá por objeto arbitrar facilidades del auxilio o de reconstrucción, ni tampoco tendrá que ver con el endeudamiento a causa de la guerra.
 
 ### Sección 2º. – Restricciones en transacciones de cambio:
 
@@ -1074,7 +1086,9 @@ El capital suscripto por cada miembro se dividirá en dos partes, a saber:
 
 Los requerimientos de pago de suscripciones exigibles afectarán en proporción uniforme a todas las acciones.
 
-### Sección 6º – Limitación de responsabilidad — La responsabilidad respecto de las acciones quedará limitada a la parte no pagada del precio de emisión de ellas.
+### Sección 6º – Limitación de responsabilidad.
+
+La responsabilidad respecto de las acciones quedará limitada a la parte no pagada del precio de emisión de ellas.
 
 ### Sección 7º – Forma de pago de las acciones suscriptas.
 
@@ -1230,7 +1244,9 @@ d) El Banco queda facultado para determinar cualesquiera otros términos y condi
 
 El monto que el Banco reciba por comisiones conforme a las Secciones 4 y 5 de este artículo, deberá ser apartado como reserva especial, la que se mantendrá disponible para cubrir obligaciones del Banco conforme a la Sección 7º de este artículo. Los directores ejecutivos determinarán en qué forma líquida habrá de mantenerse esta reserva especial, dentro de lo que al respecto permite este Convenio.
 
-### Sección 7º – Forma de cubrir las obligaciones del Banco en casos de insolvencia — En casos de falta de pago de préstamos que el Banco hubiere concedido o garantizado o en que hubiere participado.
+### Sección 7º – Forma de cubrir las obligaciones del Banco en casos de insolvencia.
+
+En casos de falta de pago de préstamos que el Banco hubiere concedido o garantizado o en que hubiere participado.
 
 a) El Banco deberá hacer todos los arreglos factibles a fin de liquidar sus obligaciones derivadas de esos préstamos, incluso arreglos como los previstos en la Sección 4º, c) de este artículo, u otros análogos.
 
@@ -1308,7 +1324,9 @@ g) Los Gobernadores y sus suplentes servirán sus cargos gratuitamente pero el B
 
 h) La Junta de Gobernadores fijará la remuneración que se pagará a los Directores Ejecutivos y el sueldo y los términos del contrato de servicio del Director–Gerente.
 
-### Sección 3º – Los votos — a) Cada miembro tendrá 250 votos, más un voto adicional por cada acción del Banco en su poder.
+### Sección 3º – Los votos.
+
+a) Cada miembro tendrá 250 votos, más un voto adicional por cada acción del Banco en su poder.
 
 b) Salvo disposición en contrario, todas las decisiones del Banco se tomarán por mayoría de los votos emitidos.
 
@@ -1368,11 +1386,15 @@ a) El Banco, dentro de los términos de este Convenio, cooperará con toda organ
 
 b) Al tomar resoluciones sobre solicitudes de préstamos o garantías relacionadas directamente con asuntos que fueren de la competencia de cualquiera organización internacional del tipo especificado en el párrafo precedente, y principalmente cuando participen en ella miembros del Banco, éste deberá prestar toda atención a los puntos de vista y recomendaciones de tales organizaciones.
 
-### Sección 9º – Ubicación de las Oficinas — a) La Oficina Principal del Banco deberá estar en el territorio del miembro que tenga el mayor número de acciones.
+### Sección 9º – Ubicación de las Oficinas.
+
+a) La Oficina Principal del Banco deberá estar en el territorio del miembro que tenga el mayor número de acciones.
 
 b) El Banco podrá establecer agencias o sucursales en los territorios de cualquiera de sus miembros.
 
-### Sección 10º – Oficinas y Consejos Regionales — a) El Banco podrá establecer Oficinas Regionales y determinar su ubicación y la zona geográfica que les competa.
+### Sección 10º – Oficinas y Consejos Regionales.
+
+a) El Banco podrá establecer Oficinas Regionales y determinar su ubicación y la zona geográfica que les competa.
 
 b) Cada Oficina Regional estará asesorada por un Consejo Regional representativo de toda la zona y seleccionado en la forma que el Banco decida.
 
@@ -1498,7 +1520,9 @@ Los bienes y activos del Banco dondequiera se encontraren y en poder de quienqui
 
 Los bienes y activos del Banco, hasta donde fuere necesario para la buena marcha de sus operaciones previstas en este Convenio y sujetos a las disposiciones del mismo, estarán libres de toda clase de restricciones, regulaciones, medidas de control y moratorias.
 
-### Sección 7º. – Privilegio para las comunicaciones — Los miembros deberán dar a las comunicaciones oficiales del Banco el mismo tratamiento que a las comunicaciones oficiales de otros miembros.
+### Sección 7º. – Privilegio para las comunicaciones.
+
+Los miembros deberán dar a las comunicaciones oficiales del Banco el mismo tratamiento que a las comunicaciones oficiales de otros miembros.
 
 ### Sección 8º. – Inmunidades y privilegios de funcionarios y empleados.
 

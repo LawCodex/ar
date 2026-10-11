@@ -9,7 +9,9 @@ date: 1962-11-29
 published: 1962-12-11
 boletin_oficial: "19996"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-13113-nacional-deposito-bancos-exterior-montos-aranceles-consulares-lns0001555-1962-11-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=191485"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/191485/norma.htm"

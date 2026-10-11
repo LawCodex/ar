@@ -9,7 +9,9 @@ date: 1945-05-04
 published: 1945-05-29
 boletin_oficial: "15200"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-9906-nacional-servicio-nacional-transporte-fluvial-lns0002193-1945-05-04"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=295185"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/295185/texact.htm"

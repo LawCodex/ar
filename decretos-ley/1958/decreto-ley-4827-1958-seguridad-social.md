@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1958-04-15
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-4827-nacional-computo-servicios-causas-politicas-gremiales-lns0001655-1958-04-15"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=297621"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/297621/texact.htm"

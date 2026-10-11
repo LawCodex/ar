@@ -10,6 +10,8 @@ published: 1944-02-05
 boletin_oficial: "14820"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-1192-nacional-lnn0022874-1944-01-17"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=294864"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/294864/norma.htm"

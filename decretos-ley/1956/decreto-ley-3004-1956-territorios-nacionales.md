@@ -10,6 +10,8 @@ published: 1956-02-28
 boletin_oficial: "18099"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-3004-nacional-lnn0024433-1956-02-21"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=296852"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/296852/norma.htm"

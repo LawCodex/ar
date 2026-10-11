@@ -9,7 +9,9 @@ date: 1955-11-30
 published: 1955-12-15
 boletin_oficial: "18046"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-4362-nacional-academias-nacionales-lns0001807-1955-11-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=44063"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/40000-44999/44063/norma.htm"

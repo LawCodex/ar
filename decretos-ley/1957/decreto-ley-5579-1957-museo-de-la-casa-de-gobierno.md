@@ -10,6 +10,8 @@ published: 1957-06-25
 boletin_oficial: "18424"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-5579-nacional-lnn0023382-1957-05-27"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=195117"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/195117/norma.htm"

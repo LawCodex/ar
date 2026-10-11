@@ -9,7 +9,9 @@ date: 1943-06-28
 published: 1943-07-13
 boletin_oficial: "14651"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-1840-nacional-embajada-argentina-ecuador-lns0002083-1943-06-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=294763"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/294763/norma.htm"

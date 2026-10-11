@@ -9,7 +9,9 @@ date: 1963-01-30
 published: 1963-02-08
 boletin_oficial: "20045"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-797-nacional-creacion-delegacion-san-nicolas-policia-federal-lns0001545-1963-01-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=183440"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/183440/norma.htm"

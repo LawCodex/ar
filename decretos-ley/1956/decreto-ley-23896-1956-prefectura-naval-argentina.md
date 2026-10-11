@@ -9,7 +9,9 @@ date: 1956-12-31
 published: 1957-02-20
 boletin_oficial: "18342"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-23896-nacional-importe-haberes-beneficiarios-retiros-prefectura-naval-argentina-direccion-nacional-institutos-penales-lns0001753-1956-12-31"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=159673"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/155000-159999/159673/norma.htm"

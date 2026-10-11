@@ -9,7 +9,9 @@ date: 1958-03-24
 published: 1958-05-08
 boletin_oficial: "18640"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-3489-nacional-contralor-venta-comercializacion-productos-agroquimicos-pesticidas-plaguicidas-lns0001662-1958-03-24"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=196080"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/196080/norma.htm"

@@ -9,7 +9,9 @@ date: 1963-08-08
 published: 1963-08-14
 boletin_oficial: "20196"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-6640-nacional-obligatoriedad-calificacion-leche-lns0001500-1963-08-08"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=299796"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/299796/texact.htm"

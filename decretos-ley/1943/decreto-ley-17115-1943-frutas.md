@@ -9,7 +9,9 @@ date: 1943-12-21
 published: 1944-01-10
 boletin_oficial: "14797"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-17115-nacional-comercializacion-frutas-lns0002144-1943-12-21"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=294849"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/294849/texact.htm"

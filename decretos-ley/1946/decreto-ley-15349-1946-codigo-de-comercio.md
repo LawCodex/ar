@@ -9,7 +9,9 @@ date: 1946-05-28
 published: 1946-06-25
 boletin_oficial: "15511"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/decreto-ley-15349-nacional-disposiciones-especiales-aplicables-sociedad-econimia-mixta-lns0002162-1946-05-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=96349"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/95000-99999/96349/norma.htm"

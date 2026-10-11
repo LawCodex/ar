@@ -9,7 +9,9 @@ date: 1958-04-15
 published: 1958-04-25
 boletin_oficial: "18632"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-4837-nacional-normas-para-construccion-adquisicion-inmuebles-parte-instituto-nacional-tecnologia-industrial-lns0001653-1958-04-15"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=195297"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/195297/norma.htm"

@@ -9,7 +9,9 @@ date: 1963-10-03
 published: 1963-10-09
 boletin_oficial: "20242"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-8655-nacional-arancel-compensatorio-gastos-regimenes-promocion-industria-automotriz-lns0002327-1963-10-03"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=299954"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/299954/texact.htm"

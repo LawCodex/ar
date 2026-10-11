@@ -10,6 +10,8 @@ published: 1956-08-24
 boletin_oficial: "18218"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-15026-nacional-lnn0023114-1956-08-16"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=228601"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/225000-229999/228601/norma.htm"

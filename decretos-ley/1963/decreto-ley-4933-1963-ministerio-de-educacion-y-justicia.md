@@ -9,7 +9,9 @@ date: 1963-06-21
 published: 1963-06-28
 boletin_oficial: "20157"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-4933-nacional-competencia-regimen-penal-cheque-lns0001521-1963-06-21"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=196054"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/196054/norma.htm"

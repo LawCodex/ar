@@ -10,6 +10,8 @@ published: 1957-10-29
 boletin_oficial: "18512"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-13125-nacional-lnn0021952-1957-10-22"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=297386"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/297386/norma.htm"

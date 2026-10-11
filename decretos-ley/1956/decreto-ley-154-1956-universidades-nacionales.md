@@ -9,7 +9,9 @@ date: 1956-01-05
 published: 1956-01-19
 boletin_oficial: "18071"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-154-nacional-creacion-universidad-nacional-sur-lns0001802-1956-01-05"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=194850"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/194850/norma.htm"

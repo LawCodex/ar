@@ -9,7 +9,9 @@ date: 1963-06-17
 published: 1963-06-22
 boletin_oficial: "20152"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-4805-nacional-creacion-una-cuenta-especial-ministerio-interior-para-direccion-nacional-migraciones-lns0001522-1963-06-17"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=299741"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/299741/texact.htm"

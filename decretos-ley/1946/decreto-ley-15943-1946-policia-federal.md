@@ -9,7 +9,9 @@ date: 1946-06-01
 published: 1946-06-15
 boletin_oficial: "15504"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-15943-nacional-creacion-caja-retiros-jubilaciones-pensiones-policia-federal-lns0002869-1946-06-01"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=295522"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/295522/texact.htm"

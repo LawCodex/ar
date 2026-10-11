@@ -9,7 +9,9 @@ date: 1944-07-19
 published: 1944-07-28
 boletin_oficial: "14957"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-19014-nacional-requisitos-para-solicitudes-explotacion-servicios-publicos-transporte-automotor-caminos-lns0002190-1944-07-19"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=294974"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/294974/norma.htm"

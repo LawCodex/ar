@@ -9,7 +9,9 @@ date: 1956-01-05
 published: 1956-01-11
 boletin_oficial: "18065"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-89-nacional-direccion-general-vivienda-lns0001803-1956-01-05"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=296819"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/296819/norma.htm"

@@ -10,6 +10,8 @@ published: 1956-06-12
 boletin_oficial: "18169"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-8508-nacional-lnn0028217-1956-05-11"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=232479"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/232479/norma.htm"

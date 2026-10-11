@@ -10,6 +10,8 @@ published: 1957-06-21
 boletin_oficial: "18422"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-6621-nacional-lnn0021842-1957-06-17"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=235536"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/235000-239999/235536/norma.htm"

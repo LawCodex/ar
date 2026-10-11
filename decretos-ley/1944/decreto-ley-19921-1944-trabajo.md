@@ -9,7 +9,9 @@ date: 1944-06-25
 published: 1944-08-28
 boletin_oficial: "14981"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-19921-nacional-derecho-al-pago-salarios-dias-feriados-lns0002766-1944-06-25"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=294952"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/294952/texact.htm"

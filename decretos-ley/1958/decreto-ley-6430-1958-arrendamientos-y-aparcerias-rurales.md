@@ -9,7 +9,9 @@ date: 1958-04-30
 published: 1958-05-14
 boletin_oficial: "18644"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/decreto-ley-6430-nacional-lnn0025880-1958-04-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=176642"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/175000-179999/176642/norma.htm"

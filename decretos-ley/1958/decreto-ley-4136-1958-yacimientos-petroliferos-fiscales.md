@@ -10,6 +10,8 @@ published: 1958-04-10
 boletin_oficial: "18621"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-4136-nacional-lnn0023443-1958-04-02"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=230136"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/230136/norma.htm"

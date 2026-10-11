@@ -10,6 +10,8 @@ published: 1956-06-14
 boletin_oficial: "18171"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-10351-nacional-lnn0023797-1956-06-08"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=166483"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/165000-169999/166483/norma.htm"

@@ -9,7 +9,9 @@ date: 1944-08-05
 published: 1944-08-12
 boletin_oficial: "14970"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-21344-nacional-exhibicion-obligatoria-peliculas-nacionales-salas-cinematograficas-lns0002885-1944-08-05"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=294982"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/294982/texact.htm"

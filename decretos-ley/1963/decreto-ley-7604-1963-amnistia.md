@@ -10,6 +10,8 @@ published: 1963-09-14
 boletin_oficial: "20221"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-7604-nacional-lnn0021498-1963-09-12"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=299930"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/299930/norma.htm"

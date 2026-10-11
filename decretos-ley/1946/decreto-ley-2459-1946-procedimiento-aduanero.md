@@ -9,7 +9,9 @@ date: 1946-02-25
 published: 1946-03-16
 boletin_oficial: "15435"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-2459-nacional-representacion-fisco-procedimiento-aduanero-lns0002179-1946-02-25"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=295375"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/295375/norma.htm"

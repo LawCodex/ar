@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1963-09-30
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-8334-nacional-descuentos-jubilatorios-sobre-suplementos-sueldos-personal-policial-lns0001471-1963-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=299948"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/299948/norma.htm"

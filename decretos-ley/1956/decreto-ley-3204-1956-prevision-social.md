@@ -9,7 +9,9 @@ date: 1956-02-24
 published: 1956-03-14
 boletin_oficial: "18110"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-3204-nacional-autorizacion-para-pago-adelantos-jubilatorios-al-personal-ferroviario-lns0001791-1956-02-24"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=296856"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/296856/norma.htm"

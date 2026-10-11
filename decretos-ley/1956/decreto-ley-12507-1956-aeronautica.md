@@ -9,7 +9,9 @@ date: 1956-07-12
 published: 1956-07-18
 boletin_oficial: "18193"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/decreto-ley-12507-nacional-politica-nacional-aeronautica-lns0001781-1956-07-12"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=192434"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/192434/norma.htm"

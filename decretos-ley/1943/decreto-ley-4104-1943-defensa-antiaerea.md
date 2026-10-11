@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1943-06-03
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-4104-nacional-creacion-fondo-para-defensa-antiaerea-territorial-lns0002119-1943-06-03"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=294759"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/294759/texact.htm"

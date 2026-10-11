@@ -9,7 +9,9 @@ date: 1955-10-14
 published: 1955-10-24
 boletin_oficial: "18009"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-857-nacional-nombramiento-remocion-sanciones-personal-poder-judicial-nacion-lns0001810-1955-10-14"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=296741"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/296741/norma.htm"

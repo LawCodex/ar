@@ -9,7 +9,9 @@ date: 1956-08-28
 published: 1956-09-13
 boletin_oficial: "18232"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-15712-nacional-regimen-anticipos-jubilatorios-otorgado-yacimientos-petroliferos-fiscales-lns0001774-1956-08-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=228556"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/225000-229999/228556/norma.htm"

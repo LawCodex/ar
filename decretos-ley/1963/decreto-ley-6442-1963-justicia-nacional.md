@@ -9,7 +9,9 @@ date: 1963-08-01
 published: 1963-08-07
 boletin_oficial: "20190"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-6442-nacional-organizacion-justicia-federal-capital-federal-lns0001503-1963-08-01"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=196081"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/196081/norma.htm"

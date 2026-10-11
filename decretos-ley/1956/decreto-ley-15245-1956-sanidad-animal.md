@@ -9,7 +9,9 @@ date: 1956-08-22
 published: 1956-08-31
 boletin_oficial: "18223"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/decreto-ley-15245-nacional-lnn0021981-1956-08-22"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=297012"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/297012/norma.htm"

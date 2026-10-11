@@ -9,7 +9,9 @@ date: 1943-12-16
 published: 1944-01-15
 boletin_oficial: "14862"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-16674-nacional-pago-jornal-personal-estado-trabaje-dias-feriados-lns0002145-1943-12-16"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=294847"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/294847/texact.htm"

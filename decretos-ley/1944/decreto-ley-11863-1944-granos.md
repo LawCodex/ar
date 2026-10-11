@@ -9,7 +9,9 @@ date: 1944-05-12
 published: 1944-05-19
 boletin_oficial: "14901"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-11863-nacional-sanciones-infractores-regimen-comercializacion-granos-lns0002314-1944-05-12"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=294917"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/294917/norma.htm"

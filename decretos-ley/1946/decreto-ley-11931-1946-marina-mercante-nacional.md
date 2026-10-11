@@ -8,6 +8,8 @@ language: es
 date: 1946-04-29
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-11931-nacional-lnn0002092-1946-04-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=295438"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/295438/norma.htm"

@@ -9,7 +9,9 @@ date: 1963-01-17
 published: 1963-01-28
 boletin_oficial: "20035"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-464-nacional-deposito-bancos-exterior-montos-aranceles-consulares-lns0001547-1963-01-17"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=191501"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/191501/norma.htm"

@@ -9,7 +9,9 @@ date: 1957-01-25
 published: 1957-02-06
 boletin_oficial: "18332"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-880-nacional-organizacion-justicia-federal-provincia-misiones-lns0001747-1957-01-25"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=195549"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/195549/norma.htm"

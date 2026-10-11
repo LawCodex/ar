@@ -10,6 +10,8 @@ published: 1957-10-22
 boletin_oficial: "18507"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-12618-nacional-lnn0022992-1957-10-11"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=229316"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/225000-229999/229316/norma.htm"

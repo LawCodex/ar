@@ -9,7 +9,9 @@ date: 1956-11-22
 published: 1956-11-29
 boletin_oficial: "18285"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-21178-nacional-denominacion-provincia-santa-cruz-establecimiento-provisorio-capital-lns0001765-1956-11-22"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=297064"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/297064/texact.htm"

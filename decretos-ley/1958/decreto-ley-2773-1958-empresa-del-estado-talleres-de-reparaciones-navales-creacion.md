@@ -9,7 +9,9 @@ date: 1958-03-12
 published: 1958-03-26
 boletin_oficial: "18612"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-2773-nacional-creacion-empresa-estado-talleres-reparaciones-navales-lns0001664-1958-03-12"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=297564"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/297564/norma.htm"

@@ -10,6 +10,8 @@ published: 1946-01-17
 boletin_oficial: "15387"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-34685-nacional-lnn0022292-1945-12-31"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=184886"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/184886/norma.htm"

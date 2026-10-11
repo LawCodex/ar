@@ -9,7 +9,9 @@ date: 1963-07-30
 published: 1963-08-30
 boletin_oficial: "20208"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-6335-nacional-erogaciones-poder-judicial-nacion-lns0001513-1963-07-30"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=299786"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/299786/texact.htm"

@@ -10,6 +10,8 @@ published: 1958-01-24
 boletin_oficial: "18571"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-16990-nacional-lnn0027143-1957-12-26"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=174325"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/170000-174999/174325/norma.htm"

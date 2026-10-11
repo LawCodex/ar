@@ -9,7 +9,9 @@ date: 1943-10-07
 published: 1943-10-30
 boletin_oficial: "14742"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-10233-nacional-franquicias-aduaneras-para-medicamentos-lns0002109-1943-10-07"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=294818"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/294818/norma.htm"

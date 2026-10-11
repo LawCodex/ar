@@ -10,6 +10,8 @@ published: 1955-11-24
 boletin_oficial: "18032"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-2811-nacional-lnn0024600-1955-11-12"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=166322"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/165000-169999/166322/norma.htm"

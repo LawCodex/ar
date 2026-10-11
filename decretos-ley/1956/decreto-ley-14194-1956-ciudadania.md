@@ -10,6 +10,8 @@ published: 1956-08-14
 boletin_oficial: "18212"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-14194-nacional-lnn0021991-1956-08-08"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=196127"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/196127/norma.htm"

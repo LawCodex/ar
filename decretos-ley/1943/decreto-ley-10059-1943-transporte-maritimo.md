@@ -9,7 +9,9 @@ date: 1943-09-28
 published: 1943-10-09
 boletin_oficial: "14725"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/decreto-ley-10059-nacional-servicios-portuarios-estado-poder-ejecutivo-nacional-funciones-economia-transporte-transporte-maritimo-fluvial-lacustre-puertos-navegacion-buques-tributos-tasas-lns0002111-1943-09-28"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=294812"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/294812/texact.htm"

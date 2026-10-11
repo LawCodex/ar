@@ -9,7 +9,9 @@ date: 1958-04-15
 published: 1958-05-06
 boletin_oficial: "18638"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-4686-nacional-sanciones-infracciones-relativas-comercio-exterior-lns0001656-1958-04-15"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=297619"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/297619/texact.htm"

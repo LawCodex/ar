@@ -9,7 +9,9 @@ date: 1962-12-05
 published: 1962-12-17
 boletin_oficial: "20001"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-13435-nacional-prohibicion-establecimiento-mercados-mayoristas-alimentos-capital-federal-lns0001552-1962-12-05"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=299631"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/299631/norma.htm"

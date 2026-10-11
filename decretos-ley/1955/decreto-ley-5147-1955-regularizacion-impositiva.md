@@ -10,6 +10,8 @@ published: 1955-12-19
 boletin_oficial: "18048"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-5147-nacional-lnn0024585-1955-12-09"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=296785"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/296785/norma.htm"

@@ -9,7 +9,9 @@ date: 1945-11-12
 published: 1945-11-16
 boletin_oficial: "15337"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-28334-nacional-fiscalizacion-produccion-semilla-certificada-papa-lns0002134-1945-11-12"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=295279"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/295279/norma.htm"

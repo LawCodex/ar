@@ -9,7 +9,9 @@ date: 1956-08-22
 published: 1956-08-28
 boletin_oficial: "18220"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-15247-nacional-supresion-escribanias-marina-capital-federal-lns0001775-1956-08-22"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=297013"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/297013/norma.htm"

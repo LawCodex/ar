@@ -9,7 +9,9 @@ date: 1957-12-17
 published: 1958-01-08
 boletin_oficial: "18559"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-16629-nacional-creacion-condecoracion-orden-mayo-lns0001696-1957-12-17"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=193357"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/193357/norma.htm"

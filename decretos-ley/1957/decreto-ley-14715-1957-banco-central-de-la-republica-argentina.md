@@ -9,7 +9,9 @@ date: 1957-11-06
 published: 1957-11-13
 boletin_oficial: "18522"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-14715-nacional-demanda-contra-banco-central-republica-argentina-lns0001705-1957-11-06"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=297413"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/297413/norma.htm"

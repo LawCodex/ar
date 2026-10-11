@@ -9,7 +9,9 @@ date: 1963-10-10
 published: 1963-11-08
 boletin_oficial: "20266"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-9244-nacional-calidad-sanidad-frutihorticolas-lns0001463-1963-10-10"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=111378"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/110000-114999/111378/texact.htm"

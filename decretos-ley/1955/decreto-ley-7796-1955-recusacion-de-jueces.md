@@ -10,6 +10,8 @@ published: 1956-01-17
 boletin_oficial: "18069"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-7796-nacional-lnn0027415-1955-12-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=235563"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/235000-239999/235563/norma.htm"

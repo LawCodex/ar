@@ -10,6 +10,8 @@ published: 1955-10-14
 boletin_oficial: "18003"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-477-nacional-lnn0024187-1955-10-07"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=296726"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/296726/norma.htm"

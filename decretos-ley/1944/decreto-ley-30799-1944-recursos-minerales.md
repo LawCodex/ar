@@ -9,7 +9,9 @@ date: 1944-11-15
 published: 1944-11-30
 boletin_oficial: "15058"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-30799-nacional-prohibicion-exportacion-minerales-cromo-lns0002209-1944-11-15"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=295036"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/295036/norma.htm"

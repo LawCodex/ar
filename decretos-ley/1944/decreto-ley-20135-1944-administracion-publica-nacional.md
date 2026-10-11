@@ -9,7 +9,9 @@ date: 1944-07-29
 published: 1947-07-11
 boletin_oficial: "15813"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-20135-nacional-prohibiciones-contrataciones-entre-organismos-reparticiones-administracion-publica-nacional-lns0002189-1944-07-29"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=294978"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/294978/texact.htm"

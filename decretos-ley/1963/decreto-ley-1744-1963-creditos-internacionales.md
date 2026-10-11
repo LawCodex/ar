@@ -9,7 +9,9 @@ date: 1963-03-06
 published: 1963-03-11
 boletin_oficial: "20069"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-1744-nacional-creditos-internacionales-otorgados-organismos-internacionales-cooperacion-internacional-lns0001538-1963-03-06"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=299680"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/299680/norma.htm"

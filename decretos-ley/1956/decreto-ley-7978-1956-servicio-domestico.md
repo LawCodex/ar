@@ -10,6 +10,8 @@ published: 1956-06-25
 boletin_oficial: "18177"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-7978-nacional-lnn0027174-1956-04-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=141958"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/140000-144999/141958/norma.htm"

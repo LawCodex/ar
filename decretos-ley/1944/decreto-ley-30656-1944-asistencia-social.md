@@ -9,7 +9,9 @@ date: 1944-11-15
 published: 1944-11-27
 boletin_oficial: "15055"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-30656-nacional-servicio-medicina-preventiva-curativa-instituto-nacional-prevision-lns0002210-1944-11-15"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=295034"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/295034/texact.htm"

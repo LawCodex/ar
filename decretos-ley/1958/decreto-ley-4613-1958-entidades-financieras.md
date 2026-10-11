@@ -10,6 +10,8 @@ published: 1958-05-06
 boletin_oficial: "18638"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-4613-nacional-lnn0021347-1958-04-14"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=183052"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/183052/norma.htm"

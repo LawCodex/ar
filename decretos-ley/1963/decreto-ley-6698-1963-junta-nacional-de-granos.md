@@ -10,6 +10,8 @@ published: 1963-08-23
 boletin_oficial: "20202"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-6698-nacional-lnn0001489-1963-08-09"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=52374"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/50000-54999/52374/norma.htm"

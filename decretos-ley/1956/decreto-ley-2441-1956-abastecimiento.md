@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1956-02-09
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-2441-nacional-funciones-direccion-nacional-vigilancia-precios-abastecimiento-lns0001793-1956-02-09"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=296839"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/296839/norma.htm"

@@ -10,6 +10,8 @@ published: 1963-04-18
 boletin_oficial: "20100"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-2707-nacional-lnn0027730-1963-04-10"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=191849"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/191849/norma.htm"

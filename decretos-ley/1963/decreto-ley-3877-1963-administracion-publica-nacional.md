@@ -9,7 +9,9 @@ date: 1963-05-13
 published: 1963-05-30
 boletin_oficial: "20134"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/decreto-ley-3877-nacional-lnn0025830-1963-05-13"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=259437"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/255000-259999/259437/norma.htm"

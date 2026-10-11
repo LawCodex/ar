@@ -10,6 +10,8 @@ published: 1963-03-27
 boletin_oficial: "20083"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-2131-nacional-lnn0001535-1963-03-20"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=183460"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/183460/norma.htm"

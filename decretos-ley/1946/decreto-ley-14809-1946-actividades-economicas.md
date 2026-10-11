@@ -10,6 +10,8 @@ published: 1946-06-03
 boletin_oficial: "15495"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-14809-nacional-lnn0024065-1946-05-23"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=295483"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/295483/norma.htm"

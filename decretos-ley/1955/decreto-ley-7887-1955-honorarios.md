@@ -9,7 +9,9 @@ date: 1955-12-30
 published: 1956-01-19
 boletin_oficial: "18071"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/decreto-ley-7887-nacional-aprobacion-ley-aranceles-honorarios-para-profesiones-agrimensura-arquitectura-ingenieria-lns0001804-1955-12-30"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=296814"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/296814/texact.htm"

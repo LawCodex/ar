@@ -9,7 +9,9 @@ date: 1945-07-18
 published: 1945-08-09
 boletin_oficial: "15258"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-16192-nacional-franquicias-aduaneras-para-importacion-desde-chile-pescado-carne-lena-lns0002099-1945-07-18"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=295236"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/295236/norma.htm"

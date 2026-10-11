@@ -9,7 +9,9 @@ date: 1963-03-29
 published: 1963-04-22
 boletin_oficial: "20103"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-2474-nacional-beneficios-otorgados-al-personal-retirado-policia-federal-ciudadanos-cumplieron-servicio-militar-obligatorio-convocados-prestar-servicios-lns0001532-1963-03-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=232813"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/232813/norma.htm"

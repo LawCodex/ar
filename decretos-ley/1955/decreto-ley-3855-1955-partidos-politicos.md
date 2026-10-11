@@ -10,6 +10,8 @@ published: 1955-12-12
 boletin_oficial: "18043"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-3855-nacional-lnn0023077-1955-11-24"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=296773"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/296773/norma.htm"

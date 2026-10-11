@@ -9,7 +9,9 @@ date: 1943-09-22
 published: 1943-09-27
 boletin_oficial: "14714"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-9466-nacional-defensa-oficial-juicio-pobres-incapaces-ausentes-ante-juzgados-camaras-federales-lns0002113-1943-09-22"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=294811"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/294811/norma.htm"

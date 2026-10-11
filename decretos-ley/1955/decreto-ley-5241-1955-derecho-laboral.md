@@ -10,6 +10,8 @@ published: 1956-01-03
 boletin_oficial: "18059"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-5241-nacional-lnn0024581-1955-12-13"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=296793"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/296793/norma.htm"

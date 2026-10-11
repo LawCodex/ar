@@ -9,7 +9,9 @@ date: 1944-12-23
 published: 1947-06-03
 boletin_oficial: "15783"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-34178-nacional-prorroga-decreto-16627-43-fabricaciones-militares-lns0002202-1944-12-23"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=295078"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/295078/norma.htm"

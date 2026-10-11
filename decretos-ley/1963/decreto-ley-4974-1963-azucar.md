@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1963-06-21
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-4974-nacional-cupos-exportacion-azucar-lns0001520-1963-06-21"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=299746"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/299746/norma.htm"

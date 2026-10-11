@@ -10,6 +10,8 @@ published: 1962-10-20
 boletin_oficial: "19954"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-10582-nacional-ley-presupuesto-1963-lnn0002743-1962-10-10"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=182332"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/182332/norma.htm"

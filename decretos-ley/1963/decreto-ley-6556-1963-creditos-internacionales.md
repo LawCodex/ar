@@ -9,7 +9,9 @@ date: 1963-08-06
 published: 1963-08-12
 boletin_oficial: "20194"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-6556-nacional-creditos-internacionales-acordados-organismos-internacionales-cooperacion-internacional-lns0001502-1963-08-06"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=299791"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/299791/norma.htm"

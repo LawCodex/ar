@@ -9,7 +9,9 @@ date: 1958-04-23
 published: 1958-05-23
 boletin_oficial: "18651"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-5753-nacional-transferencia-universidades-estaciones-radiodifusion-lns0003021-1958-04-23"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=297681"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/297681/norma.htm"

@@ -9,7 +9,9 @@ date: 1946-04-02
 published: 1946-04-12
 boletin_oficial: "15457"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-9685-nacional-normas-para-importacion-automotores-lns0002173-1946-04-02"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=295410"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/295410/texact.htm"

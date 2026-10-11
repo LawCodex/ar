@@ -8,6 +8,8 @@ language: es
 date: 1957-11-26
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-15614-nacional-lnn0022254-1957-11-26"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=297440"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/297440/norma.htm"

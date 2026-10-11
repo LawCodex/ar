@@ -10,6 +10,8 @@ published: 1963-08-14
 boletin_oficial: "20196"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-6604-nacional-lnn0021512-1963-08-07"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=183063"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/183063/norma.htm"

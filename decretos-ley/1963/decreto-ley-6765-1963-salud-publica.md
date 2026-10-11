@@ -9,7 +9,9 @@ date: 1963-08-12
 published: 1963-08-22
 boletin_oficial: "20201"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-6765-nacional-condiciones-establecidas-para-venta-protesis-para-sordos-lns0001485-1963-08-12"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=194942"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/194942/norma.htm"

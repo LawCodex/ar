@@ -9,7 +9,9 @@ date: 1957-10-25
 published: 1957-11-07
 boletin_oficial: "18518"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-13473-nacional-servicios-policia-adicional-prestarse-policia-federal-lns0001706-1957-10-25"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=181287"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/181287/norma.htm"

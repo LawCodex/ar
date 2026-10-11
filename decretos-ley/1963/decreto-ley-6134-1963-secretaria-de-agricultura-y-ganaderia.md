@@ -9,7 +9,9 @@ date: 1963-07-25
 published: 1963-07-31
 boletin_oficial: "20184"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/decreto-ley-6134-nacional-lnn0027529-1963-07-25"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=199027"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/199027/norma.htm"

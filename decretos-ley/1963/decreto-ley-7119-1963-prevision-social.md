@@ -9,7 +9,9 @@ date: 1963-08-28
 published: 1963-09-02
 boletin_oficial: "20210"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-7119-nacional-regimen-facilidades-pago-deuda-previsional-lns0001477-1963-08-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=299918"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/299918/norma.htm"

@@ -9,7 +9,9 @@ date: 1957-03-07
 published: 1957-03-25
 boletin_oficial: "18362"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-2390-nacional-remision-documentos-personas-fallecidas-lns0002849-1957-03-07"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=297140"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/297140/norma.htm"

@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1946-05-31
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-16084-nacional-destino-apuestas-mutuas-hipodromos-argentino-san-isidro-lns0002159-1946-05-31"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=295518"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/295518/norma.htm"

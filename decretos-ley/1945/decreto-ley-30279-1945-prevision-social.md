@@ -9,7 +9,9 @@ date: 1945-11-27
 published: 1945-12-10
 boletin_oficial: "15356"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-30279-nacional-regimen-jubilatorio-aplicable-profesionales-telegraficos-lns0002130-1945-11-27"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=295294"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/295294/norma.htm"

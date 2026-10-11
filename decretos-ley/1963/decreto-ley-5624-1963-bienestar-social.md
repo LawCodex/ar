@@ -9,7 +9,9 @@ date: 1963-07-10
 published: 1963-07-15
 boletin_oficial: "20170"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-5624-nacional-cambio-denominacion-administracion-federal-vivienda-lns0001514-1963-07-10"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=299769"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/299769/norma.htm"

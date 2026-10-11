@@ -9,7 +9,9 @@ date: 1963-03-28
 published: 1963-04-03
 boletin_oficial: "20089"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/decreto-ley-2457-nacional-estado-poblacion-migraciones-extranjeros-lns0001534-1963-03-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=174324"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/170000-174999/174324/norma.htm"

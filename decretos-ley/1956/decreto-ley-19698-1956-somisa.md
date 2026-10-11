@@ -10,6 +10,8 @@ published: 1956-11-06
 boletin_oficial: "18268"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-19698-nacional-lnn0022139-1956-10-24"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=297041"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/297041/norma.htm"

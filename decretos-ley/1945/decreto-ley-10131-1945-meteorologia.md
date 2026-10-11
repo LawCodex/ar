@@ -9,7 +9,9 @@ date: 1945-05-05
 published: 1945-05-19
 boletin_oficial: "15193"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/decreto-ley-10131-nacional-creacion-servicio-meteorologico-nacional-lns0002880-1945-05-05"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=295189"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/295189/texact.htm"

@@ -10,6 +10,8 @@ published: 1956-01-04
 boletin_oficial: "18060"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-7095-nacional-lnn0024453-1955-12-27"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=176622"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/175000-179999/176622/norma.htm"

@@ -9,7 +9,9 @@ date: 1956-12-21
 published: 1957-01-11
 boletin_oficial: "18314"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-23390-nacional-jurisdiccion-nacional-servicios-electricos-gran-buenos-aires-lns0001756-1956-12-31"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=228329"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/225000-229999/228329/norma.htm"

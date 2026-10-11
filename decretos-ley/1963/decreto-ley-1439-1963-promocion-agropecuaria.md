@@ -9,7 +9,9 @@ date: 1963-02-21
 published: 1963-03-06
 boletin_oficial: "20065"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-1439-nacional-creacion-comision-nacional-promocion-agropecuaria-proagro-lns0001529-1963-02-21"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=299674"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/299674/norma.htm"

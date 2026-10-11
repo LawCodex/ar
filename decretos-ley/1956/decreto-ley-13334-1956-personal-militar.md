@@ -8,6 +8,8 @@ language: es
 date: 1956-07-31
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-13334-nacional-lnn0021997-1956-07-31"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=296985"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/296985/norma.htm"

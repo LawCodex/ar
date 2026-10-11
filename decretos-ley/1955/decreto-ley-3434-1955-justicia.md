@@ -10,6 +10,8 @@ published: 1955-11-28
 boletin_oficial: "18034"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-3434-nacional-lnn0027180-1955-11-21"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=235610"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/235000-239999/235610/norma.htm"

@@ -9,7 +9,9 @@ date: 1944-06-14
 published: 1944-07-05
 boletin_oficial: "14937"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-15158-nacional-escuela-recibidores-granos-lns0002304-1944-06-14"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=294941"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/294941/texact.htm"

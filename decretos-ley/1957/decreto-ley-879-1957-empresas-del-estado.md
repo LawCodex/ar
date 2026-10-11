@@ -9,7 +9,9 @@ date: 1957-01-25
 published: 1957-02-06
 boletin_oficial: "18332"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-879-nacional-conflictos-colectivos-trabajo-empresas-estado-lns0001748-1957-01-25"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=297116"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/297116/norma.htm"

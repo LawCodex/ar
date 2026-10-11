@@ -9,7 +9,9 @@ date: 1946-02-05
 published: 1946-02-12
 boletin_oficial: "15409"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/decreto-ley-3750-nacional-estatuto-tambero-mediero-lns0002177-1946-02-05"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=295358"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/295358/texact.htm"

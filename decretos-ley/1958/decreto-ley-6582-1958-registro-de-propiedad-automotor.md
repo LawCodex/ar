@@ -10,6 +10,8 @@ published: 1958-05-22
 boletin_oficial: "18650"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-6582-nacional-lnn0001645-1958-04-30"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=38822"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/35000-39999/38822/texact.htm"

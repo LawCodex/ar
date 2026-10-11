@@ -9,7 +9,9 @@ date: 1963-07-01
 published: 1963-07-05
 boletin_oficial: "20163"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-5341-nacional-regimen-importacion-temporaria-maquinarias-industriales-lns0001516-1963-07-01"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=299756"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/299756/norma.htm"

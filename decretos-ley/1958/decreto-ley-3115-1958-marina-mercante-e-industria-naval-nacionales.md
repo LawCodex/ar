@@ -9,7 +9,9 @@ date: 1958-03-18
 published: 1958-03-26
 boletin_oficial: "18612"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-3115-nacional-creditos-para-promocion-desarrollo-marina-mercante-industria-naval-lns0001663-1958-03-18"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=234938"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/234938/norma.htm"

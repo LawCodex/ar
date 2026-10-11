@@ -9,7 +9,9 @@ date: 1944-07-06
 published: 1944-08-01
 boletin_oficial: "14960"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-17923-nacional-regimen-aplicable-prorroga-concesion-pensiones-graciables-lns0002192-1944-07-06"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=294960"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/294960/texact.htm"

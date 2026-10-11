@@ -10,6 +10,8 @@ published: 1963-10-14
 boletin_oficial: "20245"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-8864-nacional-lnn0027718-1963-10-07"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=299961"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/299961/norma.htm"

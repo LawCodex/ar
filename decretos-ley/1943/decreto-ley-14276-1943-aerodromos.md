@@ -9,7 +9,9 @@ date: 1943-11-18
 published: 1943-12-24
 boletin_oficial: "14786"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-14276-nacional-determinacion-posibilidad-expropiar-bienes-para-instalar-aerodromos-lns0002149-1943-11-18"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=294832"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/294832/norma.htm"

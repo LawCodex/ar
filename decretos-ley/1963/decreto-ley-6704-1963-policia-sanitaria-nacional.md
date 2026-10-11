@@ -9,7 +9,9 @@ date: 1963-08-12
 published: 1963-08-20
 boletin_oficial: "20199"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-6704-nacional-defensa-sanitaria-produccion-agricola-lns0001488-1963-08-12"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=70723"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/70000-74999/70723/norma.htm"

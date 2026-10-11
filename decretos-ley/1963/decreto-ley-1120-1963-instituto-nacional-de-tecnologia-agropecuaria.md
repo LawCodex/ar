@@ -9,7 +9,9 @@ date: 1963-02-08
 published: 1963-02-16
 boletin_oficial: "20052"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-1120-nacional-excepcion-restricciones-al-instituto-nacional-tecnologia-agropecuaria-lns0001542-1963-02-08"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=159049"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/155000-159999/159049/norma.htm"

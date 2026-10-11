@@ -9,7 +9,9 @@ date: 1944-10-24
 published: 1947-12-05
 boletin_oficial: "15930"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-28208-nacional-construccion-cercas-aceras-via-publica-lns0002074-1944-10-24"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=295005"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/295005/norma.htm"

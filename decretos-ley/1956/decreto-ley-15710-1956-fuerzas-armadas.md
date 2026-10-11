@@ -10,6 +10,8 @@ published: 1956-09-11
 boletin_oficial: "18230"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-15710-nacional-lnn0022158-1956-08-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=297018"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/297018/norma.htm"

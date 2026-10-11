@@ -9,7 +9,9 @@ date: 1956-06-12
 published: 1956-06-25
 boletin_oficial: "18177"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/decreto-ley-10375-nacional-lnn0025988-1956-06-12"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=79328"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/75000-79999/79328/norma.htm"

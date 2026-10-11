@@ -9,7 +9,9 @@ date: 1946-04-24
 published: 1946-04-30
 boletin_oficial: "15469"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-11025-nacional-tarifa-unica-para-transporte-ferroviario-combustibles-solidos-minerales-lns0002094-1946-04-24"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=228558"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/225000-229999/228558/norma.htm"

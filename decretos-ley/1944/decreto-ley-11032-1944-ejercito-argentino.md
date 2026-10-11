@@ -9,7 +9,9 @@ date: 1944-05-03
 published: 1944-06-02
 boletin_oficial: "14912"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-11032-nacional-identificacion-deberan-llevar-objetos-ejercito-lns0002315-1944-05-03"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=195570"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/195570/norma.htm"

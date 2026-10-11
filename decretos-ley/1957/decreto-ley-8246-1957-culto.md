@@ -9,7 +9,9 @@ date: 1957-07-19
 published: 1957-08-20
 boletin_oficial: "18462"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-8246-nacional-fijacion-limites-jurisdicciones-diversas-diocesis-lns0002323-1957-07-19"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=195574"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/195574/norma.htm"

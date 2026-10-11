@@ -10,6 +10,8 @@ published: 1963-07-17
 boletin_oficial: "20172"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-5556-nacional-lnn0021516-1963-07-05"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=183436"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/183436/norma.htm"

@@ -9,7 +9,9 @@ date: 1963-01-14
 published: 1963-01-19
 boletin_oficial: "20028"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-282-nacional-reglamentacion-boxeo-profesional-lns0001550-1963-01-14"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=198199"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/198199/norma.htm"

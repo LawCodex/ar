@@ -9,7 +9,9 @@ date: 1958-01-16
 published: 1958-01-22
 boletin_oficial: "18569"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-505-nacional-creacion-direccion-nacional-vialidad-lns0001685-1958-01-16"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=25716"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/25716/texact.htm"

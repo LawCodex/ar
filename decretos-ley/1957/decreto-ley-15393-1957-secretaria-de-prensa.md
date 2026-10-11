@@ -10,6 +10,8 @@ published: 1957-11-28
 boletin_oficial: "18534"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-15393-nacional-lnn0022257-1957-11-22"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=297433"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/297433/norma.htm"

@@ -9,7 +9,9 @@ date: 1957-05-27
 published: 1957-06-13
 boletin_oficial: "18417"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-5571-nacional-concesiones-uso-terrenos-otorgados-municipalidad-ciudad-buenos-aires-entidades-mutualistas-instituciones-beneficencia-ayuda-social-lns0002356-1957-05-27"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=297216"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/297216/texact.htm"

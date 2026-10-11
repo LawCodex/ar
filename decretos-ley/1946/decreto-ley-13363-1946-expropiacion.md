@@ -10,6 +10,8 @@ published: 1946-06-17
 boletin_oficial: "15505"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-13363-nacional-lnn0022435-1946-05-11"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=295451"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/295451/norma.htm"

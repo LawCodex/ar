@@ -9,7 +9,9 @@ date: 1957-12-04
 published: 1957-12-13
 boletin_oficial: "18544"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-16005-nacional-publicacion-edictos-judiciales-lns0001698-1957-12-04"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=195430"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/195430/norma.htm"

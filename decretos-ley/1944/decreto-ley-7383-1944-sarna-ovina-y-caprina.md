@@ -9,7 +9,9 @@ date: 1944-03-28
 published: 1944-04-13
 boletin_oficial: "14873"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-7383-nacional-lucha-contra-sarna-ovina-caprina-lns0002137-1944-03-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=196499"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/196499/norma.htm"

@@ -9,7 +9,9 @@ date: 1955-12-12
 published: 1955-12-20
 boletin_oficial: "18049"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-5158-nacional-prohibiciones-funcionarios-publicos-lns0001806-1955-12-12"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=194853"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/194853/norma.htm"

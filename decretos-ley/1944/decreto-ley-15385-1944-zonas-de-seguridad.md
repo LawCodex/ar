@@ -9,7 +9,9 @@ date: 1944-06-13
 published: 1945-04-25
 boletin_oficial: "15175"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-15385-nacional-creacion-zonas-seguridad-lns0002817-1944-06-13"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=294940"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/294940/texact.htm"

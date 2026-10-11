@@ -9,7 +9,9 @@ date: 1944-07-25
 published: 1944-08-14
 boletin_oficial: "14971"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-19492-nacional-regimen-para-navegacion-comunicacion-comercio-cabotaje-nacional-lns0002839-1944-07-25"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=205303"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/205000-209999/205303/texact.htm"

@@ -9,7 +9,9 @@ date: 1944-12-26
 published: 1945-01-26
 boletin_oficial: "15104"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-34640-nacional-supresion-departamento-nacional-higiene-demas-direcciones-comisiones-funcionaban-bajo-dependencia-direccion-nacional-salud-publica-lns0002201-1944-12-26"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=295081"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/295081/norma.htm"

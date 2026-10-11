@@ -9,7 +9,9 @@ date: 1957-09-30
 published: 1957-10-14
 boletin_oficial: "18501"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-11924-nacional-funciones-defensor-oficial-ante-camara-nacional-apelaciones-resistencia-chaco-lns0001714-1957-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=195579"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/195579/norma.htm"

@@ -9,7 +9,9 @@ date: 1943-12-31
 published: 1944-01-11
 boletin_oficial: "14798"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-18517-nacional-organizacion-remuneraciones-funcionarios-ministerio-publico-justicia-nacional-federal-territorios-lns0002153-1943-12-31"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=294857"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/294857/norma.htm"

@@ -9,7 +9,9 @@ date: 1958-01-29
 published: 1958-02-06
 boletin_oficial: "18580"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/decreto-ley-1055-nacional-empresas-estado-seguros-seguro-aeronautico-empresa-estado-creacion-lns0001676-1958-01-29"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=297514"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/297514/texact.htm"

@@ -10,6 +10,8 @@ published: 1945-01-31
 boletin_oficial: "15108"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-864-nacional-lnn0024843-1945-01-16"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=295102"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/295102/norma.htm"

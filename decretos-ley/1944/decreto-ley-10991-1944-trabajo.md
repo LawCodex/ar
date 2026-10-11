@@ -9,7 +9,9 @@ date: 1944-04-29
 published: 1944-05-05
 boletin_oficial: "14890"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-10991-nacional-feriados-su-remuneracion-lns0002316-1944-04-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=294910"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/294910/norma.htm"

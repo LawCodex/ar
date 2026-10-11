@@ -9,7 +9,9 @@ date: 1963-08-12
 published: 1963-09-30
 boletin_oficial: "20234"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-6773-nacional-derecho-superficie-exploracion-explotacion-transporte-combustibles-minerales-hidrocarburos-lns0001484-1963-08-12"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=299837"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/299837/norma.htm"

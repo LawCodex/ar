@@ -9,7 +9,9 @@ date: 1957-06-12
 published: 1957-06-19
 boletin_oficial: "18421"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-6422-nacional-obligatoriedad-consignar-datos-editor-diarios-revistas-publicaciones-cada-ejemplar-lns0001734-1957-06-12"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=235471"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/235000-239999/235471/norma.htm"

@@ -9,7 +9,9 @@ date: 1956-10-24
 published: 1956-11-02
 boletin_oficial: "18266"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/decreto-ley-19697-nacional-lnn0025978-1956-10-24"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=151341"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/150000-154999/151341/norma.htm"

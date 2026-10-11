@@ -9,7 +9,9 @@ date: 1946-04-26
 published: 1946-06-07
 boletin_oficial: "15497"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/decreto-ley-11810-nacional-lnn0026021-1946-04-26"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=142304"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/140000-144999/142304/norma.htm"

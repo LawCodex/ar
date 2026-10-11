@@ -9,7 +9,9 @@ date: 1944-08-09
 published: 1944-09-01
 boletin_oficial: "14984"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-21306-nacional-internados-menores-lns0002186-1944-08-09"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=294984"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/294984/texact.htm"

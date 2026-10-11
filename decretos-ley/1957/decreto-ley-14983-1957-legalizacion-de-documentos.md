@@ -9,7 +9,9 @@ date: 1957-11-12
 published: 1957-11-21
 boletin_oficial: "18528"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-14983-nacional-autenticidad-legalizacion-actos-administrativos-documentos-publicos-lns0001703-1957-11-12"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=48576"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/45000-49999/48576/norma.htm"

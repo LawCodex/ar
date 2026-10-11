@@ -10,6 +10,8 @@ published: 1944-07-05
 boletin_oficial: "14937"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-15570-nacional-lnn0024304-1944-06-15"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=294945"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/294945/norma.htm"

@@ -9,7 +9,9 @@ date: 1963-08-09
 published: 1963-08-16
 boletin_oficial: "20197"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-6673-nacional-modelos-disenos-industriales-lns0001497-1963-08-09"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=27687"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/27687/texact.htm"

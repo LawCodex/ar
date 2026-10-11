@@ -10,6 +10,8 @@ published: 1943-08-19
 boletin_oficial: "14682"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-5373-nacional-lnn0002118-1943-08-13"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=294779"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/294779/norma.htm"

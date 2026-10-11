@@ -9,7 +9,9 @@ date: 1944-12-11
 published: 1944-12-13
 boletin_oficial: "15068"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-33310-nacional-determinacion-tasas-servicios-postales-giros-bonos-postales-servicio-telegrafico-servicio-radiocomunicaciones-estaciones-radioelectricas-lns0002204-1944-12-11"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=295067"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/295067/texact.htm"

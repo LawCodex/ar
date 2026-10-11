@@ -9,7 +9,9 @@ date: 1956-05-09
 published: 1956-05-23
 boletin_oficial: "18157"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-8314-nacional-organizacion-justicia-federal-resistencia-chaco-santa-rosa-pampa-lns0001882-1956-05-09"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=195490"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/195490/norma.htm"

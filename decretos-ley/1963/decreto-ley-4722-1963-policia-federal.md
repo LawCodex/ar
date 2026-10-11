@@ -10,6 +10,8 @@ published: 1963-06-17
 boletin_oficial: "20148"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-4722-nacional-lnn0027108-1963-06-16"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=182609"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/182609/norma.htm"

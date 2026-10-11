@@ -9,7 +9,9 @@ date: 1958-03-12
 published: 1958-03-27
 boletin_oficial: "18613"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-2772-nacional-creacion-empresa-flota-fluvial-estado-argentino-lns0001665-1958-03-12"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=297563"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/297563/norma.htm"

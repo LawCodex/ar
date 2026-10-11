@@ -10,6 +10,8 @@ published: 1956-04-18
 boletin_oficial: "18133"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-6373-nacional-lnn0023810-1956-04-11"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=296899"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/296899/norma.htm"

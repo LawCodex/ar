@@ -334,7 +334,9 @@ En consecuencia, por la resolución 179 (II) de 21 de noviembre de 1947, la Asam
 
 ARTICULO I- Definiciones y alcance
 
-## Sección 1.- En la presente Convención — I. Las palabras cláusulas tipos se refieren a las disposiciones de los artículos II a IX.
+## Sección 1.- En la presente Convención:
+
+I. Las palabras cláusulas tipos se refieren a las disposiciones de los artículos II a IX.
 
 II. Las palabras "organismos especializados" se refieren a:
 

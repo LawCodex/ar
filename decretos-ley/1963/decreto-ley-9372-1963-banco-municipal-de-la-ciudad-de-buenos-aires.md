@@ -10,6 +10,8 @@ published: 1964-04-03
 boletin_oficial: "20384"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-9372-nacional-lnn0001462-1963-10-11"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=270469"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/270000-274999/270469/norma.htm"

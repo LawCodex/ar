@@ -9,7 +9,9 @@ date: 1958-04-28
 published: 1958-05-13
 boletin_oficial: "18643"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-6264-nacional-regimen-mercaderias-importadas-anterioridad-zona-franca-tierra-fuego-lns0001639-1958-04-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=297698"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/297698/norma.htm"

@@ -10,6 +10,8 @@ published: 1963-03-28
 boletin_oficial: "20084"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-2026-nacional-lnn0021750-1963-03-19"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=191547"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/191547/norma.htm"

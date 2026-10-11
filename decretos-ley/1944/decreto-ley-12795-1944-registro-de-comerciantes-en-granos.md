@@ -9,7 +9,9 @@ date: 1944-05-23
 published: 1944-06-16
 boletin_oficial: "14923"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-12795-nacional-exclusion-registro-comerciantes-granos-sociedades-comerciales-constituyentes-inhabilitados-lns0002313-1944-05-23"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=294919"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/294919/norma.htm"

@@ -10,6 +10,8 @@ published: 1958-05-15
 boletin_oficial: "18645"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-6583-nacional-lnn0027127-1958-04-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=167429"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/165000-169999/167429/norma.htm"

@@ -9,7 +9,9 @@ date: 1957-01-23
 published: 1957-01-30
 boletin_oficial: "18327"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-766-nacional-creacion-direccion-nacional-fabricaciones-investigaciones-aeronauticas-lns0001751-1957-01-23"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=125309"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/125000-129999/125309/norma.htm"

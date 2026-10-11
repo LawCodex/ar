@@ -10,6 +10,8 @@ published: 1958-02-14
 boletin_oficial: "18586"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-1201-nacional-lnn0021692-1958-02-03"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=230141"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/230141/norma.htm"

@@ -9,7 +9,9 @@ date: 1958-01-17
 published: 1958-01-27
 boletin_oficial: "18572"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-517-nacional-creacion-direccion-nacional-geologia-mineria-lns0001684-1958-01-17"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=229851"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/225000-229999/229851/norma.htm"

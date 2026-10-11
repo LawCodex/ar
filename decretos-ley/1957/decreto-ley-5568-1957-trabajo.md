@@ -10,6 +10,8 @@ published: 1957-07-16
 boletin_oficial: "18439"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-5568-nacional-lnn0021854-1957-05-27"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=194572"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/194572/norma.htm"

@@ -9,7 +9,9 @@ date: 1945-09-19
 published: 1945-10-13
 boletin_oficial: "15309"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-22212-nacional-estatuto-profesional-para-medicos-odontologos-farmaceuticos-bioquimicos-auxiliares-medicina-lns0002765-1945-09-19"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=194451"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/194451/norma.htm"

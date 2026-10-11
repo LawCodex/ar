@@ -10,6 +10,8 @@ published: 1956-11-20
 boletin_oficial: "18278"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-20048-nacional-lnn0022133-1956-11-05"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=297050"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/297050/norma.htm"

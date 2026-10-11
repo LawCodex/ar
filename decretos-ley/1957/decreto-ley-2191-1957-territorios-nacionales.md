@@ -9,7 +9,9 @@ date: 1957-02-28
 published: 1957-03-19
 boletin_oficial: "18358"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-2191-nacional-creacion-territorio-nacional-tierra-fuego-lns0001746-1957-02-28"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=297138"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/297138/texact.htm"

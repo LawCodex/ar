@@ -10,6 +10,8 @@ published: 1963-10-25
 boletin_oficial: "20255"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-9376-nacional-lnn0027089-1963-10-11"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=151650"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/150000-154999/151650/norma.htm"

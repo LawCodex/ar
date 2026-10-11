@@ -9,7 +9,9 @@ date: 1946-05-14
 published: 1946-07-13
 boletin_oficial: "16214"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-13460-nacional-funciones-patronato-nacional-ciegos-referente-proteccion-prevencion-ceguera-lns0002091-1946-05-14"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=295455"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/295455/norma.htm"

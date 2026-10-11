@@ -10,6 +10,8 @@ published: 1958-03-27
 boletin_oficial: "18613"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-2965-nacional-lnn0023482-1958-03-14"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=230139"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/230139/norma.htm"

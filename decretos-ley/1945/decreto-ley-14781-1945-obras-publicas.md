@@ -9,7 +9,9 @@ date: 1945-07-14
 published: 1945-08-04
 boletin_oficial: "15254"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-14781-nacional-facultades-direccion-general-arquitectura-lns0002102-1945-07-14"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=295229"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/295229/norma.htm"

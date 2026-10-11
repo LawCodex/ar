@@ -10,6 +10,8 @@ published: 1963-08-05
 boletin_oficial: "20188"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-5668-nacional-lnn0021515-1963-07-12"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=205891"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/205000-209999/205891/norma.htm"

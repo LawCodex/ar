@@ -9,7 +9,9 @@ date: 1963-08-12
 published: 1963-08-24
 boletin_oficial: "20203"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-6814-nacional-exenciones-impositiva-para-estaciones-telvision-radiodifusion-lns0001481-1963-08-12"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=299903"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/299903/norma.htm"

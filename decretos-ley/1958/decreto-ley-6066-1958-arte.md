@@ -9,7 +9,9 @@ date: 1958-04-25
 published: 1958-06-06
 boletin_oficial: "18660"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-6066-nacional-facultades-fondo-nacional-artes-lns0002882-1958-04-25"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=297692"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/297692/norma.htm"

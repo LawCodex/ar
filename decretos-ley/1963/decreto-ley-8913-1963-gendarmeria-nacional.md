@@ -9,7 +9,9 @@ date: 1963-10-08
 published: 1963-11-02
 boletin_oficial: "20261"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/decreto-ley-8913-nacional-lnn0025854-1963-10-08"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=299962"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/299962/norma.htm"

@@ -9,7 +9,9 @@ date: 1957-12-18
 published: 1957-12-26
 boletin_oficial: "18552"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-16638-nacional-aprobacion-regimen-arancelario-para-profesionales-ciencias-economicas-lns0001695-1957-12-18"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=46944"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/45000-49999/46944/norma.htm"

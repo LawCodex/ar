@@ -10,6 +10,8 @@ published: 1963-10-02
 boletin_oficial: "20236"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-7961-nacional-lnn0027720-1963-09-25"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=299940"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/299940/norma.htm"

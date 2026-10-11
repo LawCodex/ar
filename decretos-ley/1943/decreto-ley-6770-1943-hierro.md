@@ -10,6 +10,8 @@ published: 1943-09-06
 boletin_oficial: "14696"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-6770-nacional-lnn0024358-1943-08-27"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=294793"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/294793/norma.htm"

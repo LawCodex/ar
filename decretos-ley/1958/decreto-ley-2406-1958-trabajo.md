@@ -10,6 +10,8 @@ published: 1958-03-19
 boletin_oficial: "18607"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-2406-nacional-lnn0021807-1958-02-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=194576"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/194576/norma.htm"

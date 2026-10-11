@@ -10,6 +10,8 @@ published: 1955-11-09
 boletin_oficial: "18021"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-1718-nacional-lnn0027551-1955-10-22"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=296744"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/296744/norma.htm"

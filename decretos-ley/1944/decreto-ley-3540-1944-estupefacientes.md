@@ -9,7 +9,9 @@ date: 1944-02-12
 published: 1944-02-28
 boletin_oficial: "14837"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-3540-nacional-denuncia-obligatoria-casos-intoxicacion-estupefacientes-lns0002140-1944-02-12"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=294874"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/294874/texact.htm"

@@ -9,7 +9,9 @@ date: 1962-11-20
 published: 1962-11-23
 boletin_oficial: "19982"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/decreto-ley-12600-nacional-opcion-personal-ministerio-interior-afiliacion-caja-retiros-jubilaciones-pensiones-policia-federal-lns0001558-1962-11-20"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=167452"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/165000-169999/167452/norma.htm"

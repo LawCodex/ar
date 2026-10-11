@@ -10,6 +10,8 @@ published: 1958-05-22
 boletin_oficial: "18650"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-4831-nacional-lnn0021343-1958-04-15"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=297624"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/297624/norma.htm"

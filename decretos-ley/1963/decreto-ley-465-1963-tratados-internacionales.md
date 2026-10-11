@@ -10,6 +10,8 @@ published: 1963-01-26
 boletin_oficial: "20034"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-465-nacional-lnn0021770-1963-01-17"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=204971"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/200000-204999/204971/norma.htm"

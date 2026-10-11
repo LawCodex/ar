@@ -10,6 +10,8 @@ published: 1945-02-01
 boletin_oficial: "15084"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-35762-nacional-lnn0024852-1944-12-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=295091"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/295091/norma.htm"

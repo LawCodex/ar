@@ -9,7 +9,9 @@ date: 1944-04-26
 published: 1944-05-03
 boletin_oficial: "14888"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-10644-nacional-regimen-juridico-obreros-zafra-lns0002317-1944-04-26"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=194108"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/194108/norma.htm"

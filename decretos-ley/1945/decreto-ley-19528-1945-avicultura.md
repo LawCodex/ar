@@ -9,7 +9,9 @@ date: 1945-08-23
 published: 1945-09-05
 boletin_oficial: "15277"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-19528-nacional-inscripcion-obligatoria-registro-genealogico-oficial-aves-ponedoras-lns0002084-1945-08-23"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=295262"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/295262/norma.htm"

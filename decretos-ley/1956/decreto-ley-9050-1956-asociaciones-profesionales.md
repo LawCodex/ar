@@ -10,6 +10,8 @@ published: 1956-06-04
 boletin_oficial: "18163"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-9050-nacional-lnn0023803-1956-05-21"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=296935"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/296935/norma.htm"

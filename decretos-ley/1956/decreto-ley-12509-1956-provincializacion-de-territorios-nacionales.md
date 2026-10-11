@@ -10,6 +10,8 @@ published: 1956-07-18
 boletin_oficial: "18193"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-12509-nacional-lnn0022003-1956-07-12"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=296982"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/296982/norma.htm"

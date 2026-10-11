@@ -9,7 +9,9 @@ date: 1956-07-04
 published: 1956-07-16
 boletin_oficial: "18191"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-11906-nacional-creditos-bancarios-otorgados-junta-nacional-carnes-lns0001823-1956-07-04"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=296969"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/296969/norma.htm"

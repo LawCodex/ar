@@ -10,6 +10,8 @@ published: 1945-11-20
 boletin_oficial: "15340"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-29024-nacional-lnn0024759-1945-11-16"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=295284"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/295284/norma.htm"

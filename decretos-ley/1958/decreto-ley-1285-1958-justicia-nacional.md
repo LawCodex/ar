@@ -9,7 +9,9 @@ date: 1958-02-04
 published: 1958-02-07
 boletin_oficial: "18581"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-1285-nacional-organizacion-justicia-nacional-federal-todo-territorio-nacional-lns0001674-1958-02-04"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=37915"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/35000-39999/37915/texact.htm"

@@ -10,6 +10,8 @@ published: 1945-01-08
 boletin_oficial: "15088"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-35474-nacional-lnn0024853-1944-12-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=295087"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/295087/norma.htm"

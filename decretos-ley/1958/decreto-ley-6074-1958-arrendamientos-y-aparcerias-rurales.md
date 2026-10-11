@@ -9,7 +9,9 @@ date: 1958-04-25
 published: 1958-05-13
 boletin_oficial: "18643"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/decreto-ley-6074-nacional-lnn0025886-1958-04-25"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=177896"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/175000-179999/177896/norma.htm"

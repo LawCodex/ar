@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1957-11-20
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-15312-nacional-opcion-incorporacion-personal-ex-policia-capital-al-regimen-previsional-caja-retiros-jubilaciones-pensiones-policia-federal-lns0001702-1957-11-20"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=297428"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/297428/texact.htm"

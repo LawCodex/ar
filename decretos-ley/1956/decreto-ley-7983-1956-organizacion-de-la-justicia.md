@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1956-04-30
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-7983-nacional-organizacion-justicia-nacional-penal-especial-lns0001884-1956-04-30"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=296922"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/296922/texact.htm"

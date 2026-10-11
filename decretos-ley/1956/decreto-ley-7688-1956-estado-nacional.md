@@ -9,7 +9,9 @@ date: 1956-04-25
 published: 1956-05-02
 boletin_oficial: "18142"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-7688-nacional-creacion-direccion-general-inmobiliaria-lns0001785-1956-04-25"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=296911"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/296911/norma.htm"

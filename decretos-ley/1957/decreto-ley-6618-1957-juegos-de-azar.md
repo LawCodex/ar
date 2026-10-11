@@ -9,7 +9,9 @@ date: 1957-06-17
 published: 1957-06-24
 boletin_oficial: "18423"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-6618-nacional-prohibicion-juegos-azar-lns0001733-1957-06-17"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=185227"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/185000-189999/185227/texact.htm"

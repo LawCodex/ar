@@ -9,7 +9,9 @@ date: 1944-03-29
 published: 1944-04-17
 boletin_oficial: "14875"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-7926-nacional-prohibicion-uso-denominaciones-emblemas-disenos-confundibles-fuerzas-armadas-lns0002136-1944-03-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=294893"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/294893/norma.htm"

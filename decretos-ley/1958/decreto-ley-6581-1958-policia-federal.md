@@ -9,7 +9,9 @@ date: 1958-04-30
 published: 1958-05-23
 boletin_oficial: "18651"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-6581-nacional-estatuto-personal-civil-policia-federal-lns0001633-1958-04-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=195174"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/195174/norma.htm"

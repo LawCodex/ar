@@ -9,7 +9,9 @@ date: 1944-08-25
 published: 1944-09-12
 boletin_oficial: "14993"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-22813-nacional-franquicias-aduaneras-para-importacion-antimonio-lns0002184-1944-08-25"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=294990"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/294990/norma.htm"

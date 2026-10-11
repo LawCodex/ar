@@ -9,7 +9,9 @@ date: 1943-08-26
 published: 1943-08-31
 boletin_oficial: "14691"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-6754-nacional-inembargabilidad-sueldos-salarios-pensiones-jubilaciones-empleados-obreros-administracion-nacional-previsional-municipal-obligaciones-emergentes-prestamos-dinero-compra-mercaderias-lns0002115-1943-08-26"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=195178"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/195178/norma.htm"

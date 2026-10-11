@@ -9,7 +9,9 @@ date: 1963-06-12
 published: 1963-06-19
 boletin_oficial: "20150"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-4743-nacional-uso-fertilizantes-lns0001524-1963-06-12"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=299734"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/299734/texact.htm"

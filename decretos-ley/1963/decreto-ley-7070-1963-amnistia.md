@@ -10,6 +10,8 @@ published: 1963-09-04
 boletin_oficial: "20212"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-7070-nacional-lnn0021500-1963-08-27"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=299916"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/299916/norma.htm"

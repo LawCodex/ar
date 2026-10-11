@@ -9,7 +9,9 @@ date: 1957-09-11
 published: 1957-09-17
 boletin_oficial: "18482"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-10834-nacional-lucha-contra-sarna-bovina-lns0001718-1957-09-11"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=196540"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/196540/norma.htm"

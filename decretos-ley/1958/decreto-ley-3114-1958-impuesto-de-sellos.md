@@ -10,6 +10,8 @@ published: 1958-03-26
 boletin_oficial: "18612"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-3114-nacional-lnn0021361-1958-03-18"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=297579"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/297579/norma.htm"

@@ -9,7 +9,9 @@ date: 1963-05-31
 published: 1963-06-07
 boletin_oficial: "20141"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-4460-nacional-aprobacion-instrumento-enmienda-constitucion-organizacion-internacional-trabajo-adoptado-conferencia-internacional-trabajo-ginebra-1962-lns0001526-1963-05-31"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=299730"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/299730/norma.htm"

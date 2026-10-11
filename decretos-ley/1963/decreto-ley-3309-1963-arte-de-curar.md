@@ -9,7 +9,9 @@ date: 1963-05-03
 published: 1963-05-10
 boletin_oficial: "20118"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/decreto-ley-3309-nacional-lnn0025834-1963-05-03"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=144288"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/140000-144999/144288/norma.htm"

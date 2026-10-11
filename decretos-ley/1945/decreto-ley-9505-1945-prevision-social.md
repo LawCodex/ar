@@ -10,6 +10,8 @@ published: 1945-05-19
 boletin_oficial: "15193"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-9505-nacional-regimen-jubilatorio-aplicable-al-personal-telegrafia-cablegrafia-radiotelegrafia-lns0002195-1945-04-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=295177"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/295177/norma.htm"

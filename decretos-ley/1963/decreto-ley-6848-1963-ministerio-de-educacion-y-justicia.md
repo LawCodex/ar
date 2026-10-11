@@ -9,7 +9,9 @@ date: 1963-08-12
 published: 1963-08-28
 boletin_oficial: "20206"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-6848-nacional-funciones-archivo-actuaciones-judiciales-notariales-capital-federal-lns0001478-1963-08-12"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=234908"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/234908/norma.htm"

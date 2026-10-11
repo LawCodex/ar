@@ -10,6 +10,8 @@ published: 1945-04-09
 boletin_oficial: "15161"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-7035-nacional-lnn0022595-1945-04-02"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=295152"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/295152/norma.htm"

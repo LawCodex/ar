@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1945-12-31
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-ley-33914-nacional-pago-aportes-previsionales-sobre-aguinaldo-personal-marina-mercante-lns0002122-1945-12-31"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=295335"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/295335/norma.htm"

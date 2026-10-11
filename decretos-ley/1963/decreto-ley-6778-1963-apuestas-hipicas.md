@@ -10,6 +10,8 @@ published: 1963-08-24
 boletin_oficial: "20203"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-6778-nacional-lnn0001482-1963-08-12"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=299841"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/299841/norma.htm"

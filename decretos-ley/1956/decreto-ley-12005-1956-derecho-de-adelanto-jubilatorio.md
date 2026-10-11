@@ -10,6 +10,8 @@ published: 1956-07-18
 boletin_oficial: "18193"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/decreto-ley-12005-nacional-lnn0022004-1956-07-05"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=296975"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/296975/norma.htm"
