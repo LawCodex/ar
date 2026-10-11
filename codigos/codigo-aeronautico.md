@@ -9,7 +9,9 @@ date: 1967-05-17
 published: 1967-05-23
 boletin_oficial: "21194"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/codigo-aeronautico-17285-nacional-codigo-aeronautico-lns0001196-1967-05-17"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=24963"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/24963/texact.htm"

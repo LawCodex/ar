@@ -10,6 +10,8 @@ published: 1972-12-19
 boletin_oficial: "22568"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-19945-nacional-lnn0003070-1972-11-14"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=19442"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/15000-19999/19442/texact.htm"

@@ -9,7 +9,9 @@ date: 1981-02-05
 published: 1981-03-23
 boletin_oficial: "24633"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/codigo-aduanero-22415-nacional-codigo-aduanero-lns0002805-1981-03-02"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=16536"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/15000-19999/16536/texact.htm"

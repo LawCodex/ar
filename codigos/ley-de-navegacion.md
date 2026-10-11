@@ -9,7 +9,9 @@ date: 1973-01-15
 published: 1973-03-02
 boletin_oficial: "22619"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20094-nacional-ley-navegacion-lns0000773-1973-01-15"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=43550"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/40000-44999/43550/texact.htm"

@@ -1,0 +1,91 @@
+---
+title: "Decreto 2021/1988: MINISTERIO DE ECONOMIA — DTOS. 1283/87 Y 1611/88 - SU MODIFICACION"
+identifier: "Decreto 2021/1988"
+infoleg_id: "93164"
+type: decree
+jurisdiction: ar
+language: es
+date: 1988-12-30
+published: 1989-04-06
+boletin_oficial: "26607"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: unknown
+text_version: "texto actualizado"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=93164"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/90000-94999/93164/texact.htm"
+retrieved: 2026-10-12
+---
+
+# Decreto 2021/1988: MINISTERIO DE ECONOMIA — DTOS. 1283/87 Y 1611/88 - SU MODIFICACION
+
+MINISTERIO DE ECONOMIA
+
+Decreto 2021/88
+
+Modificación de los Decretos Nros. 1283/87 y 1611/88.
+
+Bs. As., 30/12/88
+
+VISTO, lo solicitado por la SECRETARIA DE AGRICULTURA, GANADERIA Y PESCA, y
+
+CONSIDERANDO:
+
+Que por Decreto n°1283 del 6 de agosto de 1987 se otorgó una compensación especial al personal de la SUBSECRETARIA DE PESCA, del INSTITUTO NACIONAL DE INVESTIGACION Y DESARROLLO PESQUERO y de la PREFECTURA NAVAL ARGENTINA que permanezca embarcado por campañas de carácter comercial, en funciones de inspección.
+
+Que posteriormente por Decreto n°1611 del 8 de noviembre de 1988 se hizo extensivo dicho beneficio al personal del INSTITUTO NACIONAL DE INVESTIGACION Y DESARROLLO PESQUERO, dependiente de la SUBSECRETARIADE PESCA, de la SECRETARIA DE AGRICULTURA, GANADERIA Y PESCA, que desempeñe funciones de investigación embarcado para el cumplimiento de tareas científicas-técnicas.
+
+Que en el primero de los decretos mencionados se establecieron diferencias en los montos que perciben los agentes embarcados según el Organismo o repartición, las que fueron modificadas en el segundo de los textos legales citados en relación al personal del INSTITUTO NACIONAL DE INVESTIGACION Y DESARROLLO PESQUERO.
+
+Que es conveniente eliminar las diferencias aludidas y al mismo tiempo actualizar los valores base fijados para la compensación por cuanto el sistema de actualización establecido ha resultado insuficiente para mantener los montos originalmente determinados.
+
+Que el INSTITUTO NACIONAL DE INVESTIGACION Y DESARROLLO PESQUERO se encuentra abocado a la confección del régimen escalafonario más adecuado para el cumplimiento de sus funciones específicas.
+
+Que hasta tanto tal circunstancia se plasme en el instrumento legal pertinente corresponde otorgar al personal de dicho Instituto — excluido el correspondiente a las tripulaciones de los buques de investigación pesquera — un anticipo a cuenta del cuerpo escalafonario en estudio, a partir del 1° de enero de 1989.
+
+Que la COMISION TECNICA ASESORA DE POLITICA SALARIAL DEL SECTOR PUBLICO ha tomado la intervención que le compete.
+
+Que la medida encuadra en las facultades otorgadas al PODER EJECUTIVO NACIONAL por el artículo 86, inciso 1) de la CONSTITUCION NACIONAL.
+
+Por ello,
+
+EL PRESIDENTE DE LA NACION ARGENTINA
+
+DECRETA:
+
+## Artículo 1°
+
+Sustitúyese, a partir del 1° de enero de 1989, el artículo 2° del Decreto n°1.283 del 6 de agosto de 1987, el que quedará redactado tal como se indica a continuación:
+
+"ARTICULO 2°— La compensación especial a la que se refiere el artículo 1° del presente Decreto será de AUSTRALES SEISCIENTOS (A600.-) por día de navegación para el personal de la SUBSECRETARIADE PESCA y del INSTITUTO NACIONAL DE INVESTIGACION Y DESARROLLO PESQUERO, por el desempeño de sus funciones de inspección, únicamente cuando se embarquen en buques de pabellón extranjero afectados a los acuerdos susccriptos entre el Gobierno Nacional y los Gobiernos de la REPUBLICA DE BULGARIA y de la UNION DE LAS REPUBLICAS SOCIALISTAS SOVIETICAS y de las que se suscriban en el futuro con similar finalidad."
+
+"La compensación especial debe ser actualizada conforme con el promedio de incremento fijado para el Escalafón para el Personal Civil de la Administración Pública Nacional aprobado por el Decreto 1428/73, a partir del 1° de febrero de 1989."
+
+## Art. 2°
+
+(Artículo derogado por art. 6° del Decreto N°261/2004 B.O.4/3/2004)
+
+## Art. 3°
+
+Establécese, a partir del 1° de enero de 1989, para el personal del INSTITUTO NACIONAL DE INVESTIGACION Y DESARROLLO PESQUERO — excluido el perteneciente a las tripulaciones de los buques de investigación pesquera — como anticipo a cuenta del incremento resultante de la aplicación del nuevo régimen escalafonario que se determine para dicho personal, una suma fija mensual de carácter remunerativo no bonificable de acuerdo al siguiente detalle:
+
+— Personal científico-técnico al que se aplica el escalafón del Instituto Nacional de Tecnología Industrial, categorías
+
+| 1 a 10 | A1.250.- |
+|---|---|
+
+— Personal del Escalafón para el Personal Civil de la Administración Pública Nacional
+
+| (Decreto n°1428/73) | A900.- |
+|---|---|
+
+## Art. 4°
+
+El anticipo que se otorga por el artículo anterior se actualizará con los porcentajes de incremento salarial general que disponga, con vigencia a partir del 1° de febrero de 1989, el PODER EJECUTIVO NACIONAL, para el personal de la ADMINISTRACION PUBLICA NACIONAL.
+
+## Art. 5°
+
+Los gastos emergentes de la aplicación de las disposiciones del presente decreto, serán imputados a los créditos asignados a las partidas especificas del PRESUPUESTO GENERAL DE LA ADMINISTRACION NACIONAL vigente.
+
+## Art. 6°
+
+Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese. — ALFONSIN. — Juan V. Sourrouille.—

@@ -1,0 +1,95 @@
+---
+title: "Decreto 848/1973: PADRINAZGO PRESIDENCIAL — INSTITUCION"
+identifier: "Decreto 848/1973"
+infoleg_id: "158462"
+type: decree
+jurisdiction: ar
+language: es
+date: 1973-12-24
+published: 1974-01-18
+boletin_oficial: "22834"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: unknown
+text_version: "texto actualizado"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=158462"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/155000-159999/158462/texact.htm"
+retrieved: 2026-10-12
+---
+
+# Decreto 848/1973: PADRINAZGO PRESIDENCIAL — INSTITUCION
+
+PADRINAZGO PRESIDENCIAL
+
+DECRETO Nº 848
+
+Institúyese.
+
+Bs. As., 24/12/1973
+
+VISTO el pedido formulado por el Gobierno de la Provincia de Tucumán, para que se incluya al sexo femenino en el padrinazgo que en la actualidad efectúa el Presidente de la Nación al séptimo hijo varón, y
+
+CONSIDERANDO:
+
+Que en el año 1907 el entonces Presidente de la Nación, doctor José Figueroa Alcorta, accedió al primer pedido de padrinazgo solicitado por un residente en el país, de nacionalidad rusa.
+
+Que desde entonces, invariablemente, todos los Primeros Magistrados otorgaron el padrinazgo, a pedido de parte, hasta convertirse este acto en costumbre tradicional.
+
+Que resulta oportuno darle forma jurídica, extendiendo dicho beneficio a las mujeres, en iguales condiciones que a los varones.
+
+Por ello,
+
+EL PRESIDENTE DE LA NACION ARGENTINA
+
+DECRETA:
+
+## Artículo 1º
+
+Institúyese el "Padrinazgo Presidencial" para los séptimos hijos a los que corresponda, de acuerdo con las leyes vigentes, la condición de argentinos nativos.
+
+## Art. 2º
+
+Los cónyuges, los convivientes de hecho, madre o padre de estado civil soltero, que deseen obtener el Padrinazgo/Madrinazgo Presidencial deberán reunir el requisito de tener SIETE (7) hijos varones o SIETE (7) hijas mujeres, sin que sea impedimento que, intercalados entre los siete varones, haya nacido otro hijo de sexo femenino, o entre las mujeres alguno del sexo masculino, quedando sujetos a las siguientes condiciones: a) el padrinazgo/madrinazgo se concederá al séptimo hijo varón y/o séptima hija mujer, por orden cronológico de nacimiento; b) el ahijado/a presidencial, en su caso, deberá ser el séptimo hijo/a en línea recta sanguínea de madre o padre indistintamente; c) la condición de ahijado/a presidencial se perderá en caso de sentencia judicial condenatoria firme por delito penal.
+
+En caso de reunir las condiciones, los interesados: cónyuges, convivientes de hecho, madre o padre de estado civil soltero, abuelos, tutores o curadores y/o el séptimo hijo o hija mayor de edad que no hubiere sido bautizado deberán remitir a la SECRETARIA GENERAL de la PRESIDENCIA DE LA NACION la solicitud de otorgamiento del beneficio.
+
+(Artículo sustituido por art. 1° del Decreto N° 1416/2009 B.O. 7/10/2009)
+
+## Art. 3º
+
+El Padrinazgo/Madrinazgo Presidencial será institucional y continuará la tradición que consiste en el otorgamiento de una medalla recordatoria, facultándose a la SECRETARIA GENERAL de la PRESIDENCIA DE LA NACION, cuando ésta lo estime pertinente, a contribuir mediante los medios que considere necesarios al bienestar del ahijado/a.
+
+(Artículo sustituido por art. 1° del Decreto N° 1416/2009 B.O. 7/10/2009)
+
+## Art. 4º
+
+Los aspirantes a recibir el Padrinazgo/Madrinazgo Presidencial tendrán derecho al beneficio, aun cuando el bautismo religioso no fuere el católico.
+
+El/la titular del Poder Ejecutivo Nacional podrá designar al funcionario que lo/la representará en el acto religioso del bautismo. Los padres del ahijado/a podrán proponer a otra persona de su familia o allegado para su representación, sin que ello impida recibir los beneficios del Padrinazgo/Madrinazgo Presidencial.
+
+(Artículo sustituido por art. 1° del Decreto N° 1416/2009 B.O. 7/10/2009)
+
+## Art. 5º
+
+Déjase establecido que el Padrinazgo/Madrinazgo Presidencial no crea derechos ni beneficios de naturaleza alguna a favor del ahijado/a ni de sus parientes, salvo los establecidos en el marco legal de la institución del Padrinazgo/ Madrinazgo Presidencial.
+
+(Artículo sustituido por art. 1° del Decreto N° 1416/2009 B.O. 7/10/2009)
+
+## Art. 6º
+
+El gasto que demande el cumplimiento del presente Decreto será imputado a las partidas presupuestarias de la Jurisdicción 20.01, SECRETARIA GENERAL – PRESIDENCIA DE LA NACION.
+
+(Artículo sustituido por art. 1° del Decreto N° 1416/2009 B.O. 7/10/2009)
+
+## Art. 7º
+
+El presente decreto será refrendado por los señores Ministros del Interior y de Relaciones Exteriores y Culto.
+
+## Art. 8º
+
+Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese.
+
+PERON.
+
+Benito P. Llambí.
+
+Alberto J. Vignes.

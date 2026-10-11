@@ -10,6 +10,8 @@ published: 1921-11-03
 boletin_oficial: "8300"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-11179-nacional-codigo-penal-republica-argentina-lnn0002677-1921-09-30"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=16546"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/15000-19999/16546/texact.htm"

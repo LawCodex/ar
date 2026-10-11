@@ -249,6 +249,8 @@ def to_markdown(blocks):
                 nt = blocks[j][1]
                 if (len(nt) < 160 and not struct_kind(nt) and not is_art(nt)
                         and not TOC_LINE.match(nt) and not nt.startswith("(")
+                        and not re.match(r"(?i)^art", nt)
+                        and not (nt.endswith(".") and len(nt) > 60)
                         and not nt.endswith((":", ";", ","))):
                     title = t.rstrip(" .-—–:") + " — " + nt
                     j += 1
@@ -325,10 +327,14 @@ def main():
             tipo, num, year = k.split(":")
             if tipo == "LEY":
                 saij[("LEY", num)] = v
-            elif tipo == "DL":
-                saij[("DL", num, year)] = v
+            elif tipo == "DLE":
+                saij[("DLE", num, year)] = v
             else:
                 saij[(tipo, num, year)] = v
+            if tipo in ("CCI", "CCO", "CJM", "CAE", "LCT", "CPC", "CAD", "CEL", "CPE", "CPP", "CMI", "CCN", "CON"):
+                key = ("CODE", "24430" if tipo == "CON" else num)
+                if key not in saij or v.get("estado") == "Vigente, de alcance general":
+                    saij[key] = v
     stats = {}
     manifest = []
     used = set()
@@ -353,7 +359,7 @@ def main():
         if t == "Ley":
             typ = "act"
             label = "Ley %s" % num
-            st = saij.get(("LEY", num))
+            st = saij.get(("LEY", num)) or saij.get(("CODE", num))
             if num in CODES and nid not in ("",):
                 slug, ctitle = CODES[num]
                 if slug == "constitucion":
@@ -373,7 +379,7 @@ def main():
             typ = "decree-law"
             cat = "decretos-ley"
             label = "Decreto-Ley %s/%s" % (num, year)
-            st = saij.get(("DL", num, year))
+            st = saij.get(("DLE", num, year))
             title = "%s: %s" % (label, desc) if desc else label
             rel = "decretos-ley/%s/decreto-ley-%s-%s-%s.md" % (year, slugify(num, 20), year, slugify(sum_ or res))
         elif dec:
@@ -415,7 +421,7 @@ def main():
         fm.append("status: " + status)
         if st and st.get("estado"):
             fm.append("saij_status: " + yq(st["estado"]))
-            fm.append("saij_url: " + yq(st["url"]))
+            fm.append("saij_url: " + yq(st["url"].replace(" ", "-")))
         fm.append("text_version: " + yq(version))
         fm.append("source: " + yq("https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=" + nid))
         fm.append("source_text: " + yq(url))

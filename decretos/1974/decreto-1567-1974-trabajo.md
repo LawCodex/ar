@@ -1,0 +1,89 @@
+---
+title: "Decreto 1567/1974: TRABAJO — SEGURO DE VIDA COLECTIVO"
+identifier: "Decreto 1567/1974"
+infoleg_id: "24301"
+type: decree
+jurisdiction: ar
+language: es
+date: 1974-11-20
+published: 1974-11-27
+boletin_oficial: "23044"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: unknown
+text_version: "texto actualizado"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=24301"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/24301/texact.htm"
+retrieved: 2026-10-12
+---
+
+# Decreto 1567/1974: TRABAJO — SEGURO DE VIDA COLECTIVO
+
+TRABAJO
+
+Seguro de Vida Colectivo
+
+Organo de Instrumentación.
+
+Decreto N° 1567
+
+Bs. As., 20/11/74
+
+Ver Antecedentes Normativos
+
+VISTO el texto del Punto 20 de la Actualización del Acta de Compromiso Nacional suscripta el 27 de marzo de 1974, por el cual se acordó instituir un seguro colectivo de vida obligatorio para todos los trabajadores comprendidos en el mismo, y
+
+CONSIDERANDO:
+
+Que dicho punto aún no ha sido instrumentado, lo cual significa que dicha situación debe corregirse de inmediato, en beneficio de la clase trabajadora.
+
+Que a tales fines se ha procedido, a través de la Gran Paritaria Nacional, a otorgar mayor flexibilidad a las disposiciones a aplicar.
+
+Que es conveniente, para que la prestación sea aplicada a la máxima brevedad, designar al organismo oficial idóneo para instrumentar las medidas conducentes a dichos objetivos.
+
+Que la Superintendencia de Seguros de la Nación aparece como la entidad rectora que debe instrumentarlo.
+
+Por ello,
+
+LA PRESIDENTE DE LA NACIÓN ARGENTINA,
+
+DECRETA:
+
+## Artículo 1º
+
+El beneficio para el caso de muerte de los trabajadores previsto en el punto 20 de la actualización del Acta de Compromiso Nacional, cuyo costo estará a cargo del empleador, con un monto de $ 10.000, con ajuste anual automático de acuerdo a la evolución del índice de precios minoristas, es de aplicación a partir del 1° de noviembre de 1974.
+
+(Nota Infoleg: Por art. 1° Decreto N° 1123/1990 B.O. 22/06/1990, se reemplazó el ajuste anual automático del beneficio previsto en el art. 1º, por el ajuste trimestral automático, y se estableció que la Superintendencia de Seguros de la Nación fijará mediante resolución la oportunidad de aplicar el nuevo período de ajuste.)
+
+## Art. 2º
+
+La Superintendencia de Seguros de la Nación instrumentará el régimen a aplicar, de inmediato, sin perjuicio de su oportuna comunicación al Poder Legislativo.
+
+## Art. 3º
+
+La falta de concertación del seguro hará directamente responsable del pago del beneficio al respectivo empleador.
+
+## Art. 4º
+
+La SUPERINTENDENCIA DE SEGUROS DE LA NACIÓN, organismo descentralizado actuante en el ámbito del MINISTERIO DE ECONOMÍA, establecerá el plan de cuentas correspondiente a efectos de que el OCHENTA POR CIENTO (80 %) del remanente que arrojen las primas netas del Ejercicio, una vez deducidos los siniestros y los gastos de administración, con compensación de los quebrantos de arrastre, se asigne en concepto de utilidades al “FONDO INDEMNIZATORIO Y DE CRÉDITO PARA LA VIVIENDA PARA EL PERSONAL DE LA ACTIVIDAD ASEGURADORA, REASEGURADORA, DE CAPITALIZACIÓN Y DE AHORRO PARA LA VIVIENDA” (FIDEC), creado por la Ley N° 22.887.
+
+El monto destinado a los fines previstos en el artículo 1°, inciso b) de la Ley N° 22.887 no podrá exceder el TREINTA POR CIENTO (30 %) del OCHENTA POR CIENTO (80 %) mencionado en el párrafo anterior. Al cierre de cada balance, el referido Fondo podrá solicitar los montos correspondientes al ejercicio con destino al citado artículo 1°, inciso b) de la Ley N° 22.887, con sus eventuales acumulados. Dicha solicitud deberá contemplar el orden de prioridades determinado en el artículo 1° del citado cuerpo legal.
+
+El VEINTE POR CIENTO (20 %) restante del remanente indicado en el primer párrafo del presente artículo será aplicado a sufragar eventuales futuros déficit que arroje el funcionamiento del sistema establecido por el presente decreto, conforme a la Reglamentación que a tales efectos se dicte.
+
+(Artículo sustituido por art. 1° del Decreto N° 689/2023 B.O. 6/12/2023.)
+
+## Art. 5º
+
+Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese. —
+
+M. E. de PERON.
+
+Alfredo Gómez Morales.
+
+José López Rega.
+
+Ricardo Otero.
+
+Antecedentes Normativos
+
+\- Artículo 4° derogado por Decreto N° 1774/1976 B.O. 27/08/1976 y reimplantada su vigencia con modificaciones por art. 1 del Decreto N° 1912/1986 B.O. 31/12/1986.

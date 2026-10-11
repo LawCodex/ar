@@ -52,7 +52,7 @@ def add_docs(out, docs):
             "titulo": c.get("titulo-norma"),
             "uuid": a["metadata"]["uuid"],
             "url": "https://www.saij.gob.ar/%s-%s" % (
-                a["metadata"]["friendly-url"]["subdomain"],
+                a["metadata"]["friendly-url"]["subdomain"].replace(" ", "-"),
                 a["metadata"]["friendly-url"]["description"]),
         }
         out["%s:%s:%s" % (tn, rec["numero"], str(rec["fecha"] or "")[:4])] = rec
