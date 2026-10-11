@@ -1,0 +1,95 @@
+---
+title: "Decreto 418/2020: EMERGENCIA ALIMENTARIA NACIONAL — REGIMEN ESPECIAL DE COMPENSACION"
+identifier: "Decreto 418/2020"
+infoleg_id: "336904"
+type: decree
+jurisdiction: ar
+language: es
+date: 2020-04-29
+published: 2020-04-30
+boletin_oficial: "34369"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: unknown
+text_version: "texto actualizado"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=336904"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/335000-339999/336904/texact.htm"
+retrieved: 2026-10-12
+---
+
+# Decreto 418/2020: EMERGENCIA ALIMENTARIA NACIONAL — REGIMEN ESPECIAL DE COMPENSACION
+
+EMERGENCIA ALIMENTARIA NACIONAL
+
+Decreto 418/2020
+
+DCTO-2020-418-APN-PTE - Régimen Especial de Compensación.
+
+Ciudad de Buenos Aires, 29/04/2020
+
+VISTO el Expediente N° EX-2020-18740610-APN-DGD#MPYT y la Ley de Emergencia Alimentaria Nacional N° 27.519, y
+
+CONSIDERANDO:
+
+Que es facultad del MINISTERIO DE DESARROLLO PRODUCTIVO entender en la supervisión de los mercados de producción, interviniendo en estos en los casos en que su funcionamiento perjudique la lealtad comercial, el bienestar de los usuarios y consumidores y el normal desenvolvimiento de la economía de acuerdo a los objetivos del desarrollo productivo nacional.
+
+Que, asimismo, el citado Ministerio tiene también la facultad de intervenir tanto en la implementación de las políticas como en los marcos normativos necesarios para garantizar los derechos del consumidor y el aumento en la oferta de bienes y servicios.
+
+Que mediante la Ley N° 27.519 se prorrogó hasta el 31 de diciembre de 2022 la Emergencia Alimentaria Nacional y se estableció que concierne al Estado Nacional garantizar en forma permanente y de manera prioritaria el derecho a la alimentación y a la seguridad alimentaria y nutricional de la población de la REPÚBLICA ARGENTINA.
+
+Que, por tal motivo, y en atención a la situación económica y social imperante resulta necesario establecer un régimen especial de compensación para quienes efectúen ventas de bienes de primera necesidad, como lo son determinados alimentos lácteos, de modo de generar un efecto favorable en los precios destinados a la población.
+
+Que los servicios jurídicos competentes han tomado la intervención que les compete.
+
+Que la presente medida se dicta en ejercicio de las facultades conferidas por el artículo 99 incisos 1 y 2 de la CONSTITUCIÓN NACIONAL y por la Ley N° 27.519.
+
+Por ello,
+
+EL PRESIDENTE DE LA NACIÓN ARGENTNA
+
+DECRETA:
+
+## ARTÍCULO 1°
+
+Créase un Régimen Especial de Compensación, en el marco de lo establecido por la Ley de Emergencia Alimentaria Nacional N° 27.519, con el objeto de lograr y mantener la estabilidad de los precios de los alimentos lácteos enumerados en los artículos 558, 559, 559 bis, 559 tris, 560, 560 bis, 560 tris, 562, 564 y 567 del Código Alimentario Nacional, que se determinará en función de las ventas de tales productos, perfeccionadas a partir del 1° de enero de 2020, inclusive, o de los alimentos lácteos que, en el futuro, determine la SECRETARÍA DE COMERCIO INTERIOR del MINISTERIO DE DESARROLLO PRODUCTIVO.
+
+## ARTÍCULO 2°
+
+El régimen establecido por el artículo 1° del presente decreto solo será aplicable con relación a la venta de los alimentos indicados en el artículo 1° antes citado, en la medida que el comprador sea uno de los sujetos mencionados en el inciso f) del artículo 7° de la Ley de Impuesto al Valor Agregado, t.o. en 1997 y sus modificaciones.
+
+El beneficiario de la compensación será el sujeto que realice la referida venta, siempre que revista frente al Impuesto al Valor Agregado la condición de Responsable Inscripto y desarrolle como actividad principal alguna de las actividades económicas del “Clasificador de Actividades Económicas (CLAE)” aprobado por la Resolución General AFIP N° 3537 de fecha 30 de octubre de 2013 o aquella que la reemplace en el futuro, que a continuación se detallan
+
+[imagen: https://servicios.infoleg.gob.ar/infolegInternet/anexos/335000-339999/336904/dec488.jpg]
+
+(Artículo sustituido por art. 2º del Decreto Nº 488/2021 B.O. 3/8/2021. Vigencia: a partir del día siguiente al de su publicación en el BOLETÍN OFICIAL.)
+
+## ARTÍCULO 3°
+
+El monto de la compensación especial establecida por el presente se determinará del siguiente modo:
+
+a. Para las ventas de los alimentos lácteos de los supuestos referidos en los artículos 1° y 2° de la presente medida, que se encuentren gravadas por el Impuesto al Valor Agregado, será equivalente al porcentaje que determine el MINISTERIO DE DESARROLLO PRODUCTIVO, del importe del crédito fiscal que resulte computable para el vendedor en los términos del artículo 12 de la Ley de Impuesto al Valor Agregado, t.o. 1997 y sus modificaciones, originado en las adquisiciones de los referidos alimentos que haya destinado, efectivamente, a esas mismas ventas.
+
+b. Para las ventas de los alimentos lácteos de los supuestos referidos en los artículos 1° y 2° de la presente medida, que se encuentren exentas del Impuesto al Valor Agregado, será equivalente al Impuesto al Valor Agregado que se le haya facturado al beneficiario de esta compensación, por las adquisiciones de los referidos alimentos que haya destinado, efectivamente, a esas mismas ventas. En este caso, el monto de la compensación no podrá exceder el importe que surja de aplicar al precio neto de las ventas comprendidas en este inciso, en cada mes, determinado conforme al artículo 10 de la Ley de Impuesto al Valor Agregado t.o. 1997 y sus modificaciones, la alícuota prevista en el primer párrafo del artículo 28 de dicha ley.
+
+## ARTÍCULO 4°
+
+Instrúyese a la SECRETARÍA DE COMERCIO INTERIOR del MINISTERIO DE DESARROLLO PRODUCTIVO a efectos de que establezca las formas, plazos y condiciones para que los sujetos alcanzados por el presente régimen acrediten las operaciones que se encuentren comprendidas en el mismo.
+
+## ARTÍCULO 5°
+
+Autorízase a la ADMINISTRACIÓN FEDERAL DE INGRESOS PÚBLICOS, entidad autárquica en el ámbito del MINISTERIO DE ECONOMÍA, a aportar a la SECRETARÍA DE COMERCIO INTERIOR del MINISTERIO DE DESARROLLO PRODUCTIVO, la información establecida en los incisos a) y b) del artículo 3° del presente decreto, con el fin de que esa dependencia pueda, en el marco de las tramitaciones iniciadas por los beneficiarios, calcular el monto de la compensación. A tales efectos, la ADMINISTRACIÓN FEDERAL DE INGRESOS PÚBLICOS establecerá la información adicional que deberán suministrar los beneficiarios en oportunidad de elaborar su declaración jurada del Impuesto al Valor Agregado junto con toda otra información o documentación complementaria que fuera necesaria a tales fines.
+
+## ARTÍCULO 6°
+
+La JEFATURA DE GABINETE DE MINISTROS tendrá la facultad de habilitar la partida presupuestaria necesaria para el cumplimiento de lo dispuesto en el presente decreto y el MINISTERIO DE DESARROLLO PRODUCTIVO determinará el modo en que se acreditarán a los beneficiarios los montos correspondientes a las compensaciones derivadas del régimen especial creado por el artículo 1° de la presente norma.
+
+## ARTÍCULO 7º
+
+El presente decreto entrará en vigencia a partir del día siguiente al de su publicación en el BOLETÍN OFICIAL y resultará aplicable con relación a las ventas que se perfeccionen hasta el 30 de junio de 2020, inclusive.
+
+(Nota Infoleg: por art. 1º del Decreto Nº 488/2021 B.O. 3/8/2021 se extiende la vigencia del Régimen Especial de Compensación, creado por el presente Decreto, el cual resultará aplicable con relación a las ventas que se perfeccionaran hasta el día 30 de septiembre de 2020, inclusive. Vigencia: a partir del día siguiente al de su publicación en el BOLETÍN OFICIAL.)
+
+## ARTÍCULO 8°
+
+Comuníquese, publíquese, dése a la DIRECCIÓN NACIONAL DEL REGISTRO OFICIAL y archívese. FERNÁNDEZ - Santiago Andrés Cafiero - Matías Sebastián Kulfas - Martín Guzmán
+
+e. 30/04/2020 N° 18396/20 v. 30/04/2020

@@ -1,0 +1,126 @@
+---
+title: "Decreto 1491/1997: PROYECTOS NO INDUSTRIALES — PCIAS. DE ENTRE RIOS, JUJUY, FORMOSA Y SAN LUIS"
+identifier: "Decreto 1491/1997"
+infoleg_id: "48958"
+type: decree
+jurisdiction: ar
+language: es
+date: 1997-12-30
+published: 1998-02-03
+boletin_oficial: "28828"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: unknown
+text_version: "texto actualizado"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=48958"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/45000-49999/48958/texact.htm"
+retrieved: 2026-10-12
+---
+
+# Decreto 1491/1997: PROYECTOS NO INDUSTRIALES — PCIAS. DE ENTRE RIOS, JUJUY, FORMOSA Y SAN LUIS
+
+PROYECTOS NO INDUSTRIALES
+
+Decreto 1491/97
+
+Decláranse comprendidos en el régimen del último párrafo del artículo 36 de la Ley Nº 24764 y del Decreto Nº 494/97, a proyectos presentados por las autoridades de las Provincias de Entre Ríos, Jujuy y San Luis.
+
+Bs. As., 30/12/97
+
+B.O.: 03/02/98
+
+Ver Antecedentes Normativos
+
+VISTO el Expediente Nº 080-004445/97 del Registro del MINISTERIO DE ECONOMIA Y OBRAS Y SERVICIOS PUBLICOS; la Ley Nº 22.021 y sus modificatorias; el artículo 36 -último párrafo- de la Ley Nº 24.764; los Decretos Nº 3.319, del 21 de diciembre de 1979; Nº 1.232, del 30 de octubre de 1996 -con sus respectivas modificaciones-; Nº 494, del 30 de mayo de 1997; Nº 591, del 30 de junio de 1997; y
+
+CONSIDERANDO:
+
+Que por el artículo 36 -último párrafo- de la Ley Nº 24.764 se faculta al PODER EJECUTIVO NACIONAL a aprobar, hasta el 31 de diciembre de 1997, proyectos no industriales a radicarse en distintas Provincias del país, con alto índice de pobreza, menor desarrollo relativo y mayor distancia de los centros importantes de consumo, con excepción de las Provincias de CATAMARCA, LA RIOJA y SAN JUAN, fijándose a tales efectos un cupo límite de PESOS CINCO MILLONES ($5.000.000).
+
+Que por Decreto Nº 494, del 30 de mayo de 1997, se complementó el marco normativo establecido por el artículo 36 -último párrafo- de la Ley Nº 24.764, disponiendo el procedimiento de presentación y evaluación de los proyectos que soliciten encuadrarse en dicho marco legal.
+
+Que por el Decreto Nº 591, del 30 de junio de 1997, se prorrogó hasta el 31 de agosto de 1997 la fecha límite de presentación de los citados proyectos.
+
+Que las autoridades de las PROVINCIAS DE ENTRE RIOS, JUJUY, FORMOSA y SAN LUIS han elevado a consideración del MINISTERIO DE ECONOMIA Y OBRAS Y SERVICIOS PUBLICOS, en su carácter de autoridad de aplicación de las disposiciones del artículo 36 -último párrafo- de la Ley Nº 24.764, diversos proyectos.
+
+Que las autoridades de la PROVINCIA DE ENTRE RIOS han priorizado los proyectos presentados por las firmas "FORESTAL CUSAMA SOCIEDAD ANONIMA" (implantación y aprovechamiento de eucaliptus grandis), "LA BIZNAGA SOCIEDAD ANONIMA, AGROPECUARIA, COMERCIAL, INDUSTRIAL, FINANCIERA Y MANDATARIA" (producción de carne) y "REPRODUCTORES COOB SOCIEDAD ANONIMA" (producción de planteles de aves reproductoras).
+
+Que las autoridades de la PROVINCIA DE JUJUY han priorizado los proyectos presentados por las empresas "ESTABLECIMIENTOS AGRICOLAS SANTA CLARA SOCIEDAD ANONIMA" (plantación de cítricos), "LEDESMA SOCIEDAD ANONIMA AGRICOLA INDUSTRIAL" (implantación de DOSCIENTAS (200) hectáreas de naranjas con riego por microaspersión y fertilización) y "LEDESMA SOCIEDAD ANONIMA AGRICOLA INDUSTRIAL" (implantación de DOSCIENTAS CUARENTA (240) hectáreas de naranjas con riego y fertilización).
+
+Que las autoridades de la PROVINCIA DE FORMOSA han priorizado los proyectos presentados por las firmas "INVERFOR SOCIEDAD ANONIMA -EN FORMACION- " (producción de pomelo), "INVERFOR SOCIEDAD ANONIMA -EN FORMACION-" (cría e invernada de ganado vacuno), "PROMOVER SOCIEDAD ANONIMA" (producción de pomelo) y "UNITAN GANADERA SOCIEDAD ANONIMA" (cría e invernada de ganado vacuno).
+
+Que en igual sentido, las autoridades de la PROVINCIA DE SAN LUIS han priorizado los proyectos presentados por las firmas "LA BLANQUITA SOCIEDAD ANONIMA" (cría y explotación de ganado caprino), "OLIBEL SOCIEDAD ANONIMA" (producción de aceitunas para conservas y aceite), "LA GRAMILLA SOCIEDAD ANONIMA" (producción intensiva de granos con riego mecanizado de última generación), "GANAEXA SOCIEDAD ANONIMA" (producción de cría, recría e invernada de ganado vacuno) y "SANTA BARBARA SOCIEDAD ANONIMA" (producción intensiva de granos con riego mecanizado de última generación y construcción de una planta de silos que permita mejorar la comercialización de su producción).
+
+Que la SECRETARIA DE AGRICULTURA, GANADERIA, PESCA Y ALIMENTACION dependiente del MINISTERIO DE ECONOMIA Y OBRAS Y SERVICIOS PUBLICOS, ha tomado la intervención que le compete.
+
+Que la SECRETARIA DE HACIENDA dependiente del MINISTERIO DE ECONOMIA Y OBRAS Y SERVICIOS PUBLICOS, ha procedido a la imputación de los respectivos costos fiscales teóricos al cupo presupuestario anual, conforme el marco normativo vigente.
+
+Que la DIRECCION GENERAL DE ASUNTOS JURIDICOS del MINISTERIO DE ECONOMIA Y OBRAS Y SERVICIOS PUBLICOS ha tomado la intervención que le compete.
+
+Que el presente se dicta en uso de las facultades otorgadas por el artículo 36 -último párrafo- de la Ley Nº 24.764.
+
+Por ello,
+
+EL PRESIDENTE DE LA NACION ARGENTINA
+
+DECRETA:
+
+## Artículo 1º
+
+Decláranse comprendidos en el régimen del último párrafo del artículo 36 de la Ley Nº 24.764 y del Decreto Nº 494 del 30 de mayo de 1997 a los proyectos indicados en los Anexos I, II, III y IV que forman parte integrante del presente decreto.
+
+## Art. 2º
+
+Las empresas titulares de los proyectos a los cuales se refiere el artículo 1º del presente decreto deberán cumplir con los requisitos y obligaciones que se consignan en los citados anexos y gozarán de los beneficios promocionales detallados en los mismos.
+
+## Art. 3º
+
+Como condición para acceder a los beneficios promocionales detallados en los citados anexos, las empresas titulares de los proyectos a que se refiere el artículo 1º del presente decreto deberán acreditar fehacientemente al MINISTERIO DE ECONOMIA Y OBRAS Y SERVICIOS PUBLICOS en su carácter de autoridad de aplicación de las disposiciones del artículo 36 - último párrafo - de la Ley Nº 24.764: a) la configuración de su personería de acuerdo a lo dispuesto en la Ley de Sociedades Nº 19.550 y sus modificatorias, dentro del plazo de CIENTO VEINTE (120) días a partir de la publicación del presente decreto; b) el cumplimiento de los recaudos establecidos en el artículo 23 de la Ley Nº 22.021 y sus modificatorias, dentro del plazo de NOVENTA (90) días a partir de la publicación del presente decreto.
+
+## Art. 4º
+
+Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese.. -MENEM.- Jorge A. Rodríguez.- Roque B. Fernández
+
+## ANEXO I — PROVINCIA DE ENTRE RIOS
+
+| Nº DE EXPEDIENTE del Registro del MINISTERIO DE ECONOMIA Y OBRAS Y SERVICIOS PUBLICOS | EMPRESA TITULAR | OBJETO | MONTO DE INVERSION EN PESOS | LOCALIZACION | MANO DE OBRA COMPROMETIDA | BENEFICIOS OTORGADOS |
+|---|---|---|---|---|---|---|
+| 080-004445/97 | "forestal cusama sociedad anonima" | implantacion y aprovecha-miento de eucaliptus grandiS | novecientos noventa y cinco mil (995.000) | DEPARTAMEN- TO colon | a) PERMANENTE: dos (2) personas A PARTIR DEL INICIO DE ACTIVIDADES B) temporarios: diez (10) personas A PARTIR DEL INICIO DE ACTIVIDADES | 1) EXENCION EN EL IMPUESTO A LAS GANANCIAS DE ACUERDO A LA ESCALA ESTABLECIDA EN EL ARTICULO 2º DE LA LEY Nº 22.021 Y SUS MODIFICATORIAS 2) A LOS INVERSIONISTAS FRANQUICIAS ESTABLECIDAS EN EL ARTICULO 11 DE LA LEY Nº 22.021 Y SUS MODIFICATORIAS |
+| 080-004480/97 | "la biznaga SOCIEDAD ANONIMA, agropecua- ria,comer-cial, industrial, financiera y mandataria" | produccion de carne | ochocientos noventa y un mil seiscientos sesenta y cuatro (891.664) | DEPARTAMEN-TO gualeguay-chu | a) PERMANENTE: DIECISEIS (16) PERSONAS a partir del inicio de las actividades, Y trece (13) A PARTIR DE LA PUESTA EN MARCHA b) TEMPORARIOS: veintidos (22) personas a partir del inicio de las actividades, NUMERO QUE mantendra A PARTIR DE LA PUESTA EN MARCHA | 1) EXENCION EN EL IMPUESTO A LAS GANANCIAS DE ACUERDO A LA ESCALA ESTABLECIDA EN EL ARTICULO 2º DE LA LEY Nº 22.021 Y SUS MODIFICATORIAS 2) A LOS INVERSIONISTAS FRANQUICIAS ESTABLECIDAS EN EL ARTICULO 11 DE LA LEY Nº 22.021 Y SUS MODIFICATORIAS |
+| 080-004452/97 | "reproducto-res cobb sociedad anonima" | produccion de planteles de aves reproducto-ras | dos millones veintidos mil seiscientos (2.022.600) | DEPARTAMEN-tO la paz | a) PERMANENTE: cuarenta y ocho (48) PERSONAS a partir DE LA PUESTA EN MARCHA | 1) EXENCION EN EL IMPUESTO A LAS GANANCIAS DE ACUERDO A LA ESCALA ESTABLECIDA EN EL ARTICULO 2º DE LA LEY Nº 22.021 Y SUS MODIFICATORIAS 2) A LOS INVERSIONISTAS FRANQUICIAS ESTABLECIDAS EN EL ARTICULO 11 DE LA LEY Nº 22.021 Y SUS MODIFICATORIAS |
+
+## ANEXO II — PROVINCIA DE JUJUY
+
+| Nº DE EXPEDIENTE del Registro del MINISTERIO DE ECONOMIA Y OBRAS Y SERVICIOS PUBLICOS | EMPRESA TITULAR | OBJETO | MONTO DE INVERSION EN PESOS | LOCALIZACION | MANO DE OBRA COMPROMETIDA | BENEFICIOS OTORGADOS |
+|---|---|---|---|---|---|---|
+| 080-004557/97 | "ESTABLECI-MIENTOS AGRICOLAS SANTA CLARA SOCIEDAD ANONIMA" | PLANTACION DE CITRICOS | UN MILLON CUATROCIEN-TOS TREINTA Y UN MIL OCHOCIENTOS SIETE (1.431.807) | DEPARTAMENTO SANTA BARBARA | a) PERMANENTE: UNA (1) PERSONA, NUMERO QUE SE ELEVARA A CINCO (5) A PARTIR DE LA PUESTA EN MARCHA b) TEMPORARIOS: NUEVE (9) PERSONAS A PARTIR DE LA PUESTA EN MARCHA | 1) EXENCION EN EL IMPUESTO A LAS GANANCIAS DE ACUERDO A LA ESCALA ESTABLECIDA EN EL ARTICULO 2º DE LA LEY Nº 22.021 Y SUS MODIFICATORIAS 2) A LOS INVERSIONISTAS FRANQUICIAS ESTABLECIDAS EN EL ARTICULO 11 DE LA LEY Nº 22.021 Y SUS MODIFICATORIAS |
+| 080-004582/97 | "LEDESMA SOCIEDAD ANONIMA AGRICOLA INDUSTRIAL" | IMPLANTACION DE DOSCIENTAS (200) HECTAREAS DE NARANJAS CON RIEGO POR MICROASPER-SION Y FERTILIZACION | UN MILLON CUATROCIEN-TOS CINCUENTA Y SEIS MIL TRESCIENTOS (1.456.300) | LOCALIDAD DE CALILEGUA DEPARTAMENTO LEDESMA | a) PERMANENTE: OCHO (8) PERSONAS, NUMERO QUE SE ELEVARA A VEINTE (20) A PARTIR DE LA PUESTA EN MARCHA b) TEMPORARIOS: DIECIOCHO (18) PERSONAS NUMERO QUE SE ELEVARA A VEINTIOCHO (28) A PARTIR DE LA PUESTA EN MARCHA | 1) EXENCION EN EL IMPUESTO A LAS GANANCIAS DE ACUERDO A LA ESCALA ESTABLECIDA EN EL ARTICULO 2º DE LA LEY Nº 22.021 Y SUS MODIFICATORIAS 2) A LOS INVERSIONISTAS FRANQUICIAS ESTABLECIDAS EN EL ARTICULO 11 DE LA LEY Nº 22.021 Y SUS MODIFICATORIAS |
+| 080-004580/97 | "LEDESMA SOCIEDAD ANONIMA AGRICOLA INDUSTRIAL" | IMPLANTACION DE DOSCIENTAS CUARENTA (240) HECTAREAS DE NARANJAS CON RIEGO Y FERTILIZACION | UN MILLON DOSCIENTOS SETENTA Y DOS MIL TRESCIENTOS (1.272.300) | DEPARTAMENTO LEDESMA | a) PERMANENTE: DIEZ (10) PERSONAS, NUMERO QUE SE ELEVARA A VEINTICUATRO (24) A PARTIR DE LA PUESTA EN MARCHA b) TEMPORARIOS: VEINTIDOS (22) PERSONAS NUMERO QUE SE ELEVARA A TREINTA Y SEIS (36) A PARTIR DE LA PUESTA EN MARCHA | 1) EXENCION EN EL IMPUESTO A LAS GANANCIAS DE ACUERDO A LA ESCALA ESTABLECIDA EN EL ARTICULO 2º DE LA LEY Nº 22.021 Y SUS MODIFICATORIAS 2) A LOS INVERSIONISTAS FRANQUICIAS ESTABLECIDAS EN EL ARTICULO 11 DE LA LEY Nº 22.021 Y SUS MODIFICATORIAS |
+
+## ANEXO III (Anexo sustituido por art. 1° del Decreto N°2447/2002 B.O. 3/12/2002) — PROVINCIA DE FORMOSA
+
+| Nº DE EXPEDIENTE DEL REGISTRO DEL EX MINISTERIO DE ECONOMIA Y OBRAS Y SERVICIOS PUBLICOS | EMPRESA TITULAR | OBJETO | MONTO DE INVERSION EN PESOS | LOCALIZACION | MANO DE OBRA COMPROMETIDA | BENEFICIOS OTORGADOS |
+|---|---|---|---|---|---|---|
+| 090-001953/97 | "PROMOVER SOCIEDAD ANONIMA | PRODUCCION DE POMELOS, NARANJAS Y MANDA-RINAS | NOVECIENTOS SETENTA Y UN MIL DOSCIENTOS CINCUENTA (971.250) | DEPARTA-MENTO PATIÑO | A)PERMANENTE: NUEVE (9) PERSONAS A PARTIR DE LA PUESTA EN MARCHA | 1)EXENCION EN EL IMPUESTO A LAS GANANCIAS DE ACUERDO A LA ESCALA ESTABLECIDA EN EL ARTICULO 2º DE LA LEY Nº 22.021 Y SUS MODIFICATORIAS 2) A LOS INVERSIONISTAS FRANQUICIAS ESTABLECIDAS EN EL ARTICULO 11 DE LA LEY Nº 22.021 Y SUS MODIFICATORIAS |
+| 080-004359/97 | "UNITAN GANADERA SOCIEDAD ANONIMA" | CRIA E INVERNADA DE GANADO VACUNO | UN MILLON SETECIENTOS SETENTA Y CINCO MIL SEISCIENTOS VEINTE(1.775.620) | DEPARTA-MENTO DE LAISHI | A) PERMANEN-TE: OCHO (8) PERSONAS A PARTIR DE LA PUESTA EN MARCHA | 1) EXENCION EN EL IMPUESTO A LAS GANANCIAS ACUERDO A LA ESCALA ESTABLECIDA EN EL ARTICULO 2º DE LA LEY Nº 22.021 Y SUS MODIFICATORIAS 2) A LOS INVERSIONISTAS FRANQUICIAS ESTABLECIDAS EN EL ARTICULO 11 DE LA LEY Nº 22.021 Y SUS MODIFICATORIAS |
+
+PROVINCIA DE FORMOSA
+
+<table>
+<tr><td colspan="2">Nº DE EXPEDIENTE DEL REGISTRO DEL EX MINISTERIO DE ECONOMIA Y OBRAS Y SERVICIOS PUBLICOS</td><td colspan="2">EMPRESA TITULAR</td><td colspan="2">OBJETO</td><td colspan="2">MONTO DE INVERSION EN PESOS</td><td colspan="2">LOCALIZACION</td><td colspan="2">MANO DE OBRA COMPROMETIDA</td><td>BENEFICIOS OTORGADOS</td></tr>
+<tr><td>080-004365/97</td><td colspan="2">"INVERFOR SOCIEDAD ANONIMA (EN FORMACION)"</td><td colspan="2">PRODUCCION DE POMELOS</td><td colspan="2">QUINIENTOS SESENTA MIL(560.000)</td><td colspan="2">DEPARTA-MENTO BERMEJO</td><td colspan="2">A) PERMANEN-TE: CINCO (5) PERSONAS A PARTIR DE LA PUESTA EN MARCHA</td><td colspan="2">1) EXENCION EN EL IMPUESTO A LAS GANANCIAS DE ACUERDO A LA ESCALA ESTABLECIDA EN EL ARTICULO 2º DE LA LEY Nº 22.021 Y SUS MODIFICATORIAS 2) A LOS INVERSIONISTAS FRANQUICIAS ESTABLECIDAS EN EL ARTICULO 11 DE LA LEY Nº 22.021 Y SUS MODIFICATORIAS</td></tr>
+<tr><td>080-004366/97</td><td colspan="2">"INVERFOR SOCIEDAD ANONIMA (EN FORMACION)"</td><td colspan="2">CRIA E INVERNADA DE GANADO VACUNO</td><td colspan="2">OCHOCIENTOS CUARENTA Y TRES MIL(843.000)</td><td colspan="2">DEPARTA-MENTO PIRANE</td><td colspan="2">A) PERMANEN-TE: CINCO (5) PERSONAS A PARTIR DE LA PUESTA EN MARCHA</td><td colspan="2">1) EXENCION EN EL IMPUESTO A LAS GANANCIAS DE ACUERDO A LA ESCALA ESTABLECIDA EN EL ARTICULO 2º DE LA LEY Nº 22.021 Y SUS MODIFICATORIAS 2) A LOS INVERSIONISTAS FRANQUICIAS ESTABLECIDAS EN EL ARTICULO 11 DE LA LEY Nº 22.021 Y SUS MODIFICATORIAS</td></tr>
+</table>
+
+## ANEXO IV — PROVINCIA DE SAN LUIS
+
+| Nº DE EXPEDIENTE del Registro del MINISTERIO DE ECONOMIA Y OBRAS Y SERVICIOS PUBLICOS | EMPRESA TITULAR | OBJETO | MONTO DE INVERSION EN PESOS | LOCALIZACION | MANO DE OBRA COMPROMETIDA | BENEFICIOS OTORGADOS |
+|---|---|---|---|---|---|---|
+| 080-004878/97 | "LA BLANQUITA SOCIEDAD ANONIMA" | cría y explotación de ganado caprino | CUATROCIEN-TOS NOVENTA Y CINCO MIL OCHOCIENTOS SESENTA ($495.860) | LOCALIDAD EL CHORRILLO DEPARTAMENTO CAPITAL | a) PERMANENTE: SEIS (6) PERSONAS, NUMERO QUE SE ELEVARA A DIEZ (10) A PARTIR DE LA PUESTA EN MARCHA | 1) EXENCION EN EL IMPUESTO A LAS GANANCIAS DE ACUERDO A LA ESCALA ESTABLECIDA EN EL ARTICULO 2º DE LA LEY Nº 22.021 Y SUS MODIFICATORIAS 2) A LOS INVERSIONISTAS FRANQUICIAS ESTABLECIDAS EN EL ARTICULO 11 DE LA LEY Nº 22.021 Y SUS MODIFICATORIAS |
+| 080-004867/97 | "OLIBEL SOCIEDAD ANONIMA" | producción de aceitunas para conservas y aceite | UN MILLON TRESCIENTOS SETENTA Y TRES MIL SETECIENTOS OCHENTA Y UNO (1.373.781) | DEPARTAMENTO DE QUINES | a) PERMANENTE: SEIS (6) PERSONAS b) TEMPORARIOS: DIEZ (10) HASTA EL AÑO SEIS (6), DIECISEIS (16) DURANTE LOS AÑOS SIETE (7) Y OCHO (8), VEINTIUN (21) DURANTE LOS AÑOS NUEVE (9) Y DIEZ (10), TREINTA Y UN (31) A PARTIR DE LA PUESTA EN MARCHA | 1) EXENCION EN EL IMPUESTO A LAS GANANCIAS DE ACUERDO A LA ESCALA ESTABLECIDA EN EL ARTICULO 2º DE LA LEY Nº 22.021 Y SUS MODIFICATORIAS 2) A LOS INVERSIONISTAS FRANQUICIAS ESTABLECIDAS EN EL ARTICULO 11 DE LA LEY Nº 22.021 Y SUS MODIFICATORIAS |
+| 080-004870/97 | "LA GRAMILLA SOCIEDAD ANONIMA" | producción intensiva de granos con riego mecanizado de Ultima generación | QUINIENTOS TRECE MIL QUINIENTOS CINCUENTA Y OCHO (513.558) | LOCALIDAD DE SANTA ROSA DEL CONLARA DEPARTAMENTO DE JUNIN | a) PERMANENTE: DOS (2) PERSONAS, NUMERO QUE SE ELEVARA A TRES (3) A PARTIR DE LA PUESTA EN MARCHA b) TEMPORARIOS: TRES (3) | 1) EXENCION EN EL IMPUESTO A LAS GANANCIAS DE ACUERDO A LA ESCALA ESTABLECIDA EN EL ARTICULO 2º DE LA LEY Nº 22.021 Y SUS MODIFICATORIAS 2) A LOS INVERSIONISTAS FRANQUICIAS ESTABLECIDAS EN EL ARTICULO 11 DE LA LEY Nº 22.021 Y SUS MODIFICATORIAS |
+| 080-004875/97 | "GANAEXA SOCIEDAD ANONIMA" | producción de cría, recría e invernada de GANADO VACUNO | UN MILLON CUATROCIEN-TOS MIL SESENTA Y CUATRO (1.400.064) | DEPARTAMENTO CAPITAL | a) PERMANENTE: DOS (2) PERSONAS, NUMERO QUE SE ELEVARA A TRES (3) A PARTIR DE LA PUESTA EN MARCHA b) TEMPORARIOS: TRES (3) | 1) EXENCION EN EL IMPUESTO A LAS GANANCIAS DE ACUERDO A LA ESCALA ESTABLECIDA EN EL ARTICULO 2º DE LA LEY Nº 22.021 Y SUS MODIFICATORIAS 2) A LOS INVERSIONISTAS FRANQUICIAS ESTABLECIDAS EN EL ARTICULO 11 DE LA LEY Nº 22.021 Y SUS MODIFICATORIAS |
+| 080-004869/97 | "SANTA BARBARA SOCIEDAD ANONIMA" | producción intensiva de granos con riego mecanizado de Ultima generación y construcción de una planta de silos | CUATROCIENTOS OCHENTA Y CUATRO MIL CIENTO CINCUENTA Y CINCO (484.155) | LOCALIDAD DE SANTA ROSA DEL CONLARA DEPARTAMENTO DE JUNIN | a) PERMANENTE: DOS (2) PERSONAS, NUMERO QUE SE ELEVARA A TRES (3) A PARTIR DE LA PUESTA EN MARCHA b) TEMPORARIOS: TRES (3) | 1) EXENCION EN EL IMPUESTO A LAS GANANCIAS DE ACUERDO A LA ESCALA ESTABLECIDA EN EL ARTICULO 2º DE LA LEY Nº 22.021 Y SUS MODIFICATORIAS 2) A LOS INVERSIONISTAS FRANQUICIAS ESTABLECIDAS EN EL ARTICULO 11 DE LA LEY Nº 22.021 Y SUS MODIFICATORIAS |
+
+Antecedentes Normativos
+
+\- Anexo III, sustituido por Decreto N° 1039/2000 B.O.14/11/2000.

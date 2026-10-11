@@ -1,0 +1,70 @@
+---
+title: "Ley 22313: EXPROPIACIONES PARA CENTRAL HIDROELECTRICA DE YACYRETA"
+identifier: "Ley 22313"
+saij_id: "123456789-0abc-defg-g04-32000scanyel"
+type: act
+jurisdiction: ar
+language: es
+date: 1980-10-31
+published: 1980-11-07
+status: in_force
+saij_status: "Vigente, de alcance general"
+text_version: "texto SAIJ (InfoLEG has no online text for this norm)"
+source: "https://www.saij.gob.ar/ley-22313-nacional-expropiaciones-para-central-hidroelectrica-yacyreta-lns0002340-1980-10-31"
+source_text: "https://www.saij.gob.ar/view-document?guid=123456789-0abc-defg-g04-32000scanyel"
+retrieved: 2026-10-12
+---
+
+# Ley 22313: EXPROPIACIONES PARA CENTRAL HIDROELECTRICA DE YACYRETA
+
+En uso de las atribuciones conferidas por el artículo 5 del Estatuto para el Proceso de Reorganización Nacional EL PRESIDENTE DE LA NACION ARGENTINA SANCIONA Y PROMULGA CON FUERZA DE LEY:
+
+###### Artículo 1
+
+\- Decláranse de utilidad pública y sujetos a expropiación los bienes inmuebles cuya disposición resulte necesaria para el cumplimiento del Tratado de Yacyretá, celebrado entre la República Argentina y la República del Paraguay, aprobado por la Ley 20.646, en especial para la realización y explotación de las obras descriptas en el Anexo B de dicho Tratado, incluyendo los bienes inmuebles cuya ocupación se requiera, en forma inmediata o diferida, para la construcción de presas, formación de embalses, construcción de canales de alimentación y restitución, instalación de centrales generadoras y estaciones de transformación, líneas de transmisión, campamentos, accesos, viviendas transitorias o permanentes, zonas para el reasentamiento de población y relocalización de instalaciones, caminos, zonas de préstamo de materiales u otras obras indispensables o concurrentes al cumplimiento de los fines del Tratado. Dichos inmuebles, por igual causa, quedan también sujetos a servidumbres y a limitaciones o restricciones al dominio, permanentes o temporarias.
+
+Los referidos inmuebles deberán quedar comprendidos dentro de las áreas que se delimiten de acuerdo con lo establecido en el apartado 2. del Artículo XVII del Tratado.
+
+###### Artículo 2
+
+\- La ENTIDAD BINACIONAL YACYRETA efectuará mediante resolución, dentro de las áreas delimitadas, la individualización de cada uno de los inmuebles y la determinación de la superficie respectivamente afectada y será también autoridad competente para constituir servidumbres, incluso las de electroducto, éstas con arreglo a lo dispuesto por la Ley 19.552.
+
+###### Artículo 3
+
+\- Las indemnizaciones a propietarios y terceros afectados que se verifiquen dentro de los planes de relocalización de instalaciones y reasentamiento de población, elaborados por la ENTIDAD BINACIONAL YACYRETA en cumplimiento de su cometido, se harán efectivas en los términos y condiciones que dichos planes establezcan.
+
+###### Artículo 4
+
+\- Cuando no resulte posible o no proceda la relocalización, la adquisición de inmuebles sujetos a expropiación se regirá por la Ley 21.499, quedando facultada la ENTIDAD BINACIONAL YACYRETA para actuar como expropiante y, en consecuencia, celebrar avenimientos y promover, en su caso, los juicios de expropiación, o constituir servidumbres, incluídas las de electroducto por aplicación de la Ley 19.552.
+
+###### Artículo 5
+
+\- Las tasaciones previstas en los artículos 13 y 22 de la Ley 21.499 podrán ser realizadas por la ENTIDAD BINACIONAL YACYRETA, a través de las oficinas técnicas propias que organice al solo efecto de posibilitar la adquisición directa por la ENTIDAD BINACIONAL YACYRETA o de consignarse ante el juez competente para obtener la posesión del bien expropiado.
+
+###### Artículo 6
+
+\- Fíjase en diez años, contados desde la fecha de vigencia de la presente Ley, el plazo para promover los juicios de expropiación de los inmuebles afectados por la misma.
+
+###### Artículo 7
+
+\- El dominio de los inmuebles, o las servidumbres en su caso, se inscribirán a nombre del Estado Nacional Argentino, a objeto de ser destinados al cumplimiento del Tratado de Yacyretá.
+
+Los inmuebles o fracciones cuya enajenación corresponda, por la finalidad de su adquisición, podrán ser inscriptos a nombre de la ENTIDAD BINACIONAL YACYRETA, a efectos de que dicha Entidad realice las transferencias correspondientes. Igualmente, podrán ser inscriptos a nombre de YACYRETA, los inmuebles que ésta adquiera para su directo uso o cuando así lo considere conveniente por el destino transitorio de los mismos. Para la transferencia del dominio no se requerirá escritura pública otorgada ante escribano siendo suficiente al efecto la inscripción en el respectivo Registro de la Propiedad de la resolución de la ENTIDAD BINACIONAL YACYRETA que apruebe el avenimiento o, en su caso, de la sentencia judicial que haga lugar a la expropiación.
+
+###### Artículo 8
+
+\- Los actos, los contratos y las indemnizaciones por relocalización, avenimiento o expropiación, comprendidos los instrumentos que sean necesarios, a que dé lugar el cumplimiento de la presente Ley, no estarán sujetos, en el orden nacional, al pago de impuesto o gravamen alguno.
+
+###### Artículo 9
+
+\- Invitar a los Gobiernos de las provincias de Corrientes y de Misiones a dictar iguales normas de exención con relación a los tributos locales y, en su caso, proceder a la derogación de todo impuesto o gravamen sobre los rubros del artículo 8 de la presente Ley.
+
+###### Artículo 10
+
+\- Las erogaciones que demande el cumplimiento de la presente Ley estarán a cargo de la ENTIDAD BINACIONAL YACYRETA.
+
+###### Artículo 11
+
+\- Comuníquese, publíquese, dése a la DIRECCION NACIONAL DEL REGISTRO OFICIAL y archívese.
+
+VIDELA - Pastor - Rodrguez Varela - Harguindeguy - Martínez de Hoz -

@@ -1,0 +1,63 @@
+---
+title: "Decreto 1834/2007: FONDO NACIONAL DE LAS ARTES — REMUNERACION PARA LOS VOCALES DEL DIRECTORIO - MODIFICACION"
+identifier: "Decreto 1834/2007"
+infoleg_id: "135409"
+type: decree
+jurisdiction: ar
+language: es
+date: 2007-12-05
+published: 2007-12-10
+boletin_oficial: "31299"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: unknown
+text_version: "texto actualizado"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=135409"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/135000-139999/135409/texact.htm"
+retrieved: 2026-10-12
+---
+
+# Decreto 1834/2007: FONDO NACIONAL DE LAS ARTES — REMUNERACION PARA LOS VOCALES DEL DIRECTORIO - MODIFICACION
+
+FONDO NACIONALDE LAS ARTES
+
+Decreto 1834/2007
+
+Modifícase la remuneración para los vocales del Directorio, del citado organismo autárquico en el ámbito de la Secretaría de Cultura.
+
+Bs. As., 5/12/2007
+
+VISTO el Expediente Nº 815/07 del Registro del FONDO NACIONAL DE LAS ARTES, organismo autárquico en el ámbito de la SECRETARIA DE CULTURA de la PRESIDENCIA DE LA NACION, el Presupuesto General de la Administración Nacional para el Ejercicio 2007 aprobado por la Ley Nº 26.198, el Decreto- Ley Nº 1224 de fecha 3 de febrero de 1958, los Decretos Nros. 1750 de fecha 29 de diciembre de 2005 y 757 de fecha 19 de junio de 2007, y
+
+CONSIDERANDO
+
+Que mediante el Artículo 4º del Decreto Nº 1750 de fecha 29 de diciembre de 2005 se fijó una remuneración para los vocales del Directorio del FONDO NACIONAL DE LAS ARTES, organismo autárquico en el ámbito de la SECRETARIA DE CULTURA de la PRESIDENCIA DE LA NACION.
+
+Que mediante el desarrollo del proceso de negociación colectiva para el personal de la Administración Pública Nacional se ha formalizado el otorgamiento de incrementos salariales, mediante la instrumentación de las políticas del PODER EJECUTIVO NACIONAL.
+
+Que en virtud de lo establecido por el Decreto Nº 757 de fecha 19 de junio de 2007 y de acuerdo a su Artículo 3º opera la extensión de los porcentajes de incrementos salariales establecidos en los instrumentos que se homologan mediante su Artículo 1º a las retribuciones del personal comprendido en el Decreto Nº 838 de fecha 27 de mayo de 1994 y sus modificaciones, en el régimen del Decreto Nº 1716 de fecha 15 de septiembre de 1992 y en el Decreto Nº 140 de fecha 19 de febrero de 2007.
+
+Que en el marco de dicho proceso se hizo imprescindible contemplar la actualización de las retribuciones de las autoridades superiores de los organismos descentralizados, a los efectos de que las mismas sean consecuentes con un ordenamiento jerárquico razonable y una genuina pirámide salarial en función de la responsabilidad que corresponde a los diversos estamentos que conforman la estructura de la Administración Nacional.
+
+Que la erogación pertinente será financiada con recursos propios del FONDO NACIONAL DE LAS ARTES.
+
+Que han tomado la intervención que les compete el DEPARTAMENTO DE ASUNTOS JURIDICOS del FONDO NACIONAL DE LAS ARTES, la DIRECCION DE ASUNTOS JURIDICOS de la SECRETARIA DE CULTURA de la PRESIDENCIA DE LA NACION y la COMISION TECNICA ASESORA DE POLITICA SALARIAL DEL SECTOR PUBLICO.
+
+Que la presente medida se dicta en ejercicio de las atribuciones emergentes del Artículo 99, inciso 1) de la CONSTITUCION NACIONAL.
+
+Por ello,
+
+EL PRESIDENTE DE LA NACION ARGENTINA
+
+DECRETA:
+
+## Artículo 1º
+
+Modifícase la remuneración prevista por el Artículo 4º del Decreto Nº 1750 de fecha 29 de diciembre de 2005 para los vocales del DIRECTORIO del FONDO NACIONAL DE LAS ARTES, organismo autárquico en el ámbito de la SECRETARIA DE CULTURA de la PRESIDENCIA DE LA NACION y fíjase en la suma de PESOS DOS MIL TRESCIENTOS CUARENTA Y TRES ($ 2.812) mensuales. (Remuneración sustituida por art. 1° del Decreto N° 2294/2008 B.O. 8/1/2009)
+
+## Art. 2º
+
+El gasto que demande el cumplimiento de la presente medida, será atendido con cargo a las partidas específicas del Presupuesto de la Jurisdicción 20 - Entidad 802 - Programa 16 - Actividad 2 - inciso 1 - Partida Principal 1.
+
+## Art. 3º
+
+Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese. — KIRCHNER. — Alberto A. Fernández. —Aníbal D. Fernández.

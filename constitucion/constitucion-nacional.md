@@ -11,7 +11,7 @@ boletin_oficial: "28057"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: in_force
 saij_status: "Vigente, de alcance general"
-saij_url: "https://www.saij.gob.ar/ley-24430-nacional-ordena-publicacion-texto-oficial-constitucion-nacional-sancionada-1853-reformas-anos-1860-1866-1898-1957-1994-lnn0028694-1994-12-15"
+saij_url: "https://www.saij.gob.ar/constitucion-nacional-0-nacional-constitucion-nacion-argentina-lns0002665-1994-08-22"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=804"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/0-4999/804/norma.htm"

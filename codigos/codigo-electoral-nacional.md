@@ -9,9 +9,9 @@ date: 1972-11-14
 published: 1972-12-19
 boletin_oficial: "22568"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
-saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
-saij_url: "https://www.saij.gob.ar/ley-19945-nacional-lnn0003070-1972-11-14"
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/codigo-electoral-19945-nacional-codigo-electoral-nacional-lns0003070-1983-08-18"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=19442"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/15000-19999/19442/texact.htm"

@@ -1,0 +1,42 @@
+---
+title: "Ley 23892: PLAZO PARA REALIZAR APORTES PREVISIONALES"
+identifier: "Ley 23892"
+saij_id: "123456789-0abc-defg-g32-63000scanyel"
+type: act
+jurisdiction: ar
+language: es
+date: 1990-09-29
+published: 1990-10-19
+status: in_force
+saij_status: "Vigente, de alcance general"
+text_version: "texto SAIJ (InfoLEG has no online text for this norm)"
+source: "https://www.saij.gob.ar/ley-23892-nacional-plazo-para-realizar-aportes-previsionales-lns0003623-1990-09-29"
+source_text: "https://www.saij.gob.ar/view-document?guid=123456789-0abc-defg-g32-63000scanyel"
+retrieved: 2026-10-12
+---
+
+# Ley 23892: PLAZO PARA REALIZAR APORTES PREVISIONALES
+
+El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc. sancionan con fuerza de Ley:
+
+###### Artículo 1
+
+A partir del primer día hábil del mes siguiente al de la promulgación de la presente, las obligaciones por aportes y contribuciones previsionales con destino al Instituto Nacional de Previsión Social, deberán ingresarse dentro de los siguientes plazos:
+
+a) Aportes y contribuciones de trabajadores en relación de dependencia cuyas numeraciones se abonen mensualmente, deberán depositarse dentro de los siete (7) días inmediatamente siguientes a cada mes vencido;
+
+b) Aportes y contribuciones de trabajadores en relación de dependencia cuyas remuneraciones se abonen quincenalmente y por un plazo menor, deberán depositarse hasta el día veinte (20), para la primera quincena y hasta el día siete (7) del mes siguiente para la segunda quincena;
+
+c) Las tarifas de los convenios de corresponsabilidad gremial sustitutiva de los aportes y contribuciones previsionales, deberán depositarse dentro del plazo de cuarenta y ocho (48) horas de efectuada la retención;
+
+d) Los aportes de los afiliados al régimen de jubilaciones y pensiones para trabajadores autónomos instituido por la ley 18.038 (t . o. 1980), deberán ingresarse dentro de los cinco (5) días inmediatamente siguientes a cada mes vencido. Si el día del vencimiento fuere feriado o no laborable, el plazo para el pago vencerá el primer día hábil inmediatamente siguiente.
+
+###### Artículo 2
+
+A los fines de esta ley, déjase sin efecto toda norma que en lo específico se oponga a la presente.
+
+###### Artículo 3
+
+Comuníquese al Poder Ejecutivo.
+
+PIERRI-MENEM-Pereyra Arandía de Pérez Pardo-Flombaum.

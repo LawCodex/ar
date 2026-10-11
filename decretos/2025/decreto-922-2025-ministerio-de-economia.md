@@ -1,0 +1,89 @@
+---
+title: "Decreto 922/2025: MINISTERIO DE ECONOMIA — ENTRE RIOS - ANTICIPO FINANCIERO"
+identifier: "Decreto 922/2025"
+infoleg_id: "421848"
+type: decree
+jurisdiction: ar
+language: es
+date: 2025-12-26
+published: 2025-12-29
+boletin_oficial: "35819"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: unknown
+text_version: "texto actualizado"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=421848"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/420000-424999/421848/texact.htm"
+retrieved: 2026-10-12
+---
+
+# Decreto 922/2025: MINISTERIO DE ECONOMIA — ENTRE RIOS - ANTICIPO FINANCIERO
+
+MINISTERIO DE ECONOMÍA
+
+Decreto 922/2025
+
+DECTO-2025-922-APN-PTE - Anticipo financiero a la Provincia de Entre Ríos.
+
+Ciudad de Buenos Aires, 26/12/2025
+
+VISTO el Expediente N° EX-2025-128861039-APN-DGDA#MEC, la Ley Nº 11.672, Complementaria Permanente de Presupuesto (t.o. 2014) y sus modificatorias y la Ley N° 23.548 y sus modificaciones, y
+
+CONSIDERANDO:
+
+Que el Gobierno de la Provincia de ENTRE RÍOS se ve impedido, en forma transitoria, de atender financieramente los compromisos más urgentes derivados de la ejecución de su presupuesto de gastos y amortización de deudas.
+
+Que, en función de ello, resulta necesario procurar soluciones inmediatas a las dificultades financieras transitorias por las que atraviesa la citada provincia.
+
+Que en el artículo 124 de la Ley Nº 11.672, Complementaria Permanente de Presupuesto (t.o. 2014) y sus modificatorias, se autoriza al ex-MINISTERIO DE ECONOMÍA Y FINANZAS PÚBLICAS, actual MINISTERIO DE ECONOMÍA, a acordar a las Provincias y al Gobierno de la CIUDAD AUTÓNOMA DE BUENOS AIRES anticipos a cuenta de las respectivas participaciones en el producido de los impuestos nacionales sujetos a distribución o de los montos previstos en el Compromiso Federal.
+
+Que conforme a la norma reseñada en el considerando anterior, dichos anticipos deberán ser reintegrados dentro del mes de su otorgamiento, mediante retenciones sobre el producido de los mismos impuestos coparticipados.
+
+Que, por otra parte, el citado artículo dispone que el PODER EJECUTIVO NACIONAL, con opinión favorable del ex-MINISTERIO DE ECONOMÍA Y FINANZAS PÚBLICAS, actual MINISTERIO DE ECONOMÍA, podrá ampliar dicho plazo de devolución, sin exceder el ejercicio fiscal en que se otorgue.
+
+Que, asimismo, la norma en trato dispone que los montos anticipados devengarán intereses sobre saldos, desde la fecha de su desembolso hasta la de su efectiva devolución, de acuerdo con la tasa y el mecanismo que allí se establece.
+
+Que en virtud de lo expuesto, y teniendo en cuenta el requerimiento formulado por la Provincia de ENTRE RÍOS, así como su participación en el Régimen de Coparticipación Federal de Impuestos, corresponde otorgar el mentado anticipo, cuya devolución operará en el Ejercicio Fiscal 2026, con el fin de subsanar dificultades financieras transitorias.
+
+Que el artículo 56 de la Ley Nº 11.672, Complementaria Permanente de Presupuesto (t.o. 2014) y sus modificatorias dispone, entre otras cuestiones, que la SECRETARÍA DE HACIENDA del ex-MINISTERIO DE ECONOMÍA Y FINANZAS PÚBLICAS, actual MINISTERIO DE ECONOMÍA, en uso de las atribuciones conferidas por el artículo 70 “in fine” de la Ley de Administración Financiera y de los Sistemas de Control del Sector Público Nacional Nº 24.156 y sus modificaciones, afectará la Coparticipación Federal de Impuestos de aquellas Provincias y/o Municipios que mantengan deudas con el TESORO NACIONAL
+
+Que el servicio jurídico permanente del MINISTERIO DE ECONOMÍA ha tomado la intervención que le compete.
+
+Que la presente medida se dicta en uso de las facultades otorgadas por el artículo 99, inciso 1 de la CONSTITUCIÓN NACIONAL y por el artículo 124 de la Ley Nº 11.672, Complementaria Permanente de Presupuesto (t.o. 2014) y sus modificatorias.
+
+Por ello,
+
+EL PRESIDENTE DE LA NACIÓN ARGENTINA
+
+DECRETA:
+
+## ARTÍCULO 1°
+
+Dispónese otorgar, en el Ejercicio Fiscal 2026 y a través de la SECRETARÍA DE HACIENDA del MINISTERIO DE ECONOMÍA, un anticipo financiero a la Provincia de ENTRE RÍOS por hasta la suma total de PESOS DOSCIENTOS VEINTE MIL MILLONES ($220.000.000.000).
+
+(Nota Infoleg: por art. 1° del Decreto N° 474/2026 B.O. 18/06/2026 se amplia el anticipo financiero otorgado a la Provincia de ENTRE RÍOS, a través del presente Decreto, en hasta la suma máxima de PESOS CUATROCIENTOS MIL MILLONES ($400.000.000), a ser reintegrado dentro del Ejercicio Fiscal 2026, a través de la SECRETARÍA DE HACIENDA del MINISTERIO DE ECONOMÍA)
+
+## ARTÍCULO 2º
+
+Facúltase a la SECRETARÍA DE HACIENDA del MINISTERIO DE ECONOMÍA a disponer la cancelación del anticipo otorgado, con más los intereses que se devenguen calculados sobre la base de una Tasa Fija Nominal Anual del QUINCE POR CIENTO (15 %), mediante la afectación de la respectiva participación en el régimen de la Ley N° 23.548 y sus modificaciones o el que lo sustituya, y en otros recursos coparticipables sin afectación a un destino específico.
+
+(Artículo sustituido por art. 6º del Decreto Nº 219/2026 B.O. 6/4/2026.)
+
+## ARTÍCULO 3°
+
+Establécese que, a los fines de dar cumplimiento a la presente medida, el Gobierno de la Provincia de ENTRE RÍOS deberá:
+
+a) Afectar su participación en el Régimen Transitorio de Distribución de Recursos Fiscales entre la Nación y las Provincias establecido en la Ley N° 23.548 y sus modificaciones o el régimen que lo sustituya, y en otros recursos coparticipables sin afectación a un destino específico por hasta el monto anticipado, con más sus intereses, y
+
+b) Autorizar a la SECRETARÍA DE HACIENDA del MINISTERIO DE ECONOMIA a retener automáticamente los fondos emergentes de la Ley N° 23.548 y sus modificaciones o el régimen que la sustituya, y de otros recursos coparticipables sin afectación a un destino específico por hasta el monto anticipado más sus intereses, con el fin de cancelar los fondos que se otorgan con más sus intereses.
+
+## ARTÍCULO 4°
+
+La CONTADURÍA GENERAL DE LA NACIÓN registrará la erogación mencionada en el artículo 1° de este decreto en concepto de anticipo de fondos de la TESORERÍA GENERAL DE LA NACIÓN, ambas dependientes de la SUBSECRETARÍA DE PRESUPUESTO de la SECRETARÍA DE HACIENDA del MINISTERIO DE ECONOMÍA, y cargará en la cuenta el importe equivalente a la Provincia de ENTRE RÍOS.
+
+## ARTÍCULO 5º
+
+Comuníquese, publíquese, dese a la DIRECCIÓN NACIONAL DEL REGISTRO OFICIAL y archívese.
+
+MILEI - Manuel Adorni - Luis Andres Caputo
+
+e. 29/12/2025 N° 98445/25 v. 29/12/2025

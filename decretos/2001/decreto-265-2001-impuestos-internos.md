@@ -1,0 +1,69 @@
+---
+title: "Decreto 265/2001: IMPUESTOS INTERNOS — REF.: ART. 39 INCISO B), LEY 24674"
+identifier: "Decreto 265/2001"
+infoleg_id: "66344"
+type: decree
+jurisdiction: ar
+language: es
+date: 2001-03-02
+published: 2001-03-07
+boletin_oficial: "29603"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: unknown
+text_version: "texto actualizado"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=66344"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/65000-69999/66344/texact.htm"
+retrieved: 2026-10-12
+---
+
+# Decreto 265/2001: IMPUESTOS INTERNOS — REF.: ART. 39 INCISO B), LEY 24674
+
+IMPUESTOS
+
+Decreto 265/2001
+
+Déjase sin efecto, transitoriamente, el gravamen previsto en el artículo 39 inciso b) de la Ley Nº 24.674 del Capítulo IX incorporado por la Ley Nº 25.239, para determinados vehículos.
+
+Bs. As., 2/3/2001
+
+VISTO el Expediente Nº 060-000793/2001 del Registro del MINISTERIO DE ECONOMIA, y
+
+CONSIDERANDO:
+
+Que a través del Decreto Nº 660 de fecha 1º de agosto de 2000 se instrumentó, en el marco de la Ley Nº 21.932, el Acuerdo sobre la Política Automotriz Común suscripto entre la REPUBLICA ARGENTINA y la REPUBLICA FEDERATIVA DEL BRASIL.
+
+Que el Acuerdo precitado se incorporó al ACUERDO DE COMPLEMENTACION ECONOMICA Nº 14 como XXX Protocolo Adicional.
+
+Que la Ley Nº 24.674 de Impuestos Internos, en su artículo 39 incisos b) y c) del Capítulo IX incorporado por la Ley Nº 25.239 establece que los vehículos, chasis con motor y motores cuyo precio de venta, sin considerar impuestos, supere los PESOS QUINCE MIL ($ 15.000) y los PESOS VEINTIDOS MIL ($ 22.000), deberán abonar en concepto de impuestos internos el CUATRO POR CIENTO (4%) y el OCHO POR CIENTO (8%) del valor bel bien, respectivamente.
+
+Que las medidas dispuestas, no obstante estar sustentadas en sólidos principios adoptados en materia de imposición a los consumos, han producido en la primera etapa de su aplicación algunas asimetrías en los niveles de competencia, que ameritan ser consideradas hasta tanto puedan ser asimiladas por el mercado.
+
+Que el artículo incorporado a continuación del artículo 14 del Título I, de la Ley Nº 24.674 de Impuestos Internos, faculta al PODER EJECUTIVO NACIONAL para disminuir los gravámenes previstos en la misma o dejarlos sin efecto transitoriamente, cuando así lo aconseje la situación económica de determinada o determinadas industrias.
+
+Que los organismos técnicos del MINISTERIO DE ECONOMIA han emitido opinión favorable a la solución proyectada y la DIRECCION GENERAL DE ASUNTOS JURIDICOS del mismo Organismo ha tomado la intervención que le compete.
+
+Que el presente se dicta en uso de las facultades conferidas al PODER EJECUTIVO NACIONAL por el artículo incorporado a continuación del artículo 14, del Título I, de la Ley Nº 24.674 de Impuestos Internos y sus modificaciones.
+
+Por ello,
+
+EL PRESIDENTE DE LA NACION ARGENTINA
+
+DECRETA:
+
+## Artículo 1º
+
+Déjase sin efecto, hasta el 31 de diciembre de 2001, el gravamen previsto en el artículo 39 inciso b) de la Ley Nº 24.674 del Capítulo IX incorporado por la Ley Nº 25.239, para los vehículos, chasis con motor y motores, cuyo precio de venta, sin considerar impuestos, incluidos los opcionales, sea de más de PESOS QUINCE MIL ($ 15.000) y hasta PESOS VEINTIDOS MIL ($ 22.000).
+
+## Art. 2º
+
+Los vehículos, chasis con motor y motores, cuyo precio de venta, sin considerar impuestos, incluidos los opcionales, sea de más de PESOS VEINTIDOS MIL ($ 22.000) tributarán el CUATRO POR CIENTO (4%) del valor del bien, hasta el 31 de diciembre de 2001.
+
+## Art. 3º
+
+Las disposiciones del presente decreto comenzarán a regir a partir del primer día del mes siguiente al de su publicación en el Boletín Oficial.
+
+(Nota Infoleg: Las disposiciones del Decreto N° 265 de fecha 2 de marzo de 2001 entrarán en vigencia el día siguiente al de la publicación del presente decreto en el Boletín Oficial por art. 1° del Decreto N° 292/2001 B.O. 9/3/2001).
+
+## Art. 4º
+
+Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese. — DE LA RUA. — Chrystian G. Colombo. — José L. Machinea.

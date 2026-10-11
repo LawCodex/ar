@@ -1,0 +1,103 @@
+---
+title: "Decreto 181/1992: RESIDUOS PELIGROSOS — PROHIBICIONES"
+identifier: "Decreto 181/1992"
+infoleg_id: "8226"
+type: decree
+jurisdiction: ar
+language: es
+date: 1992-01-24
+published: 1992-01-29
+boletin_oficial: "27315"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: unknown
+text_version: "texto actualizado"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=8226"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/5000-9999/8226/texact.htm"
+retrieved: 2026-10-12
+---
+
+# Decreto 181/1992: RESIDUOS PELIGROSOS — PROHIBICIONES
+
+RESIDUOS PELIGROSOS
+
+Decreto 181/92
+
+Prohíbese el transporte, la introducción y la importación definitiva o temporal al Territorio Nacional, al Area Aduanera Especial y a Areas Francas creadas o por crearse, de residuo, desecho o desperdicio procedente de otros países.
+
+Bs. As., 24/1/92
+
+Ver Antecedentes Normativos
+
+VISTO la Ley 23.922, los artículos 610, ss. y concs. de la Ley 22.415 y el Decreto 2419/91 , y
+
+CONSIDERANDO:
+
+Que frente a las demandas de importación de residuos en trámite, y atendiendo a un vacío normativo existente relacionado con la introducción de mercadería y/o productos que puedan considerarse riesgosos desde el punto de vista de contaminación ambiental y sus consecuencias sobre la calidad de vida.
+
+Que visto los Expedientes EAAA Nº 435305/91, 435306/91 y 435597/91 presentados por ante la Administración Nacional de Aduanas y consultado al Poder Ejecutivo nacional;
+
+Que dichas importaciones de residuos demandarán, para su adecuado manejo y control, una asignación extraordinaria de recursos en desmedro de las acciones programadas relacionadas con la protección del medio ambiente;
+
+Que atento el peligro creciente que para la calidad de vida y el medio ambiente representa la generación y la complejidad cada vez mayor de los desechos, así como sus movimientos transfronterizos;
+
+Que se hace necesario tomar las medidas adecuadas para el manejo de los desechos, incluyendo sus movimientos transfronterizos y su eliminación, y que éstas sean compatibles con la protección del hombre y el Medio Ambiente, cualquiera sea el lugar de su eliminación;
+
+Que todo Estado tiene el derecho soberano de prohibir el ingreso o la eliminación de desechos ajenos a su territorio;
+
+Que el presente se dicta en uso de las facultades que surgen del inciso 2 del artículo 86 de la Constitución Nacional, artículo 631 de la Ley 22415, y artículo 25 del Decreto 2284/91, Decreto 2419/91.
+
+Por ello,
+
+EL PRESIDENTE DE LA NACION ARGENTINA
+
+DECRETA:
+
+## Artículo 1º
+
+Prohíbese el transporte, la introducción y la importación definitiva o temporal al Territorio Nacional, al Area Aduanera Especial y a las Areas Francas creadas o por crearse incluidos sus espacios aéreos y marítimos, de todo tipo de residuo, desecho o desperdicio procedente de otros países, cuya nómina de carácter no taxativo se indica en el Anexo I del presente Decreto.
+
+(Por art. 3° del Decreto N° 148/2020 B.O. 14/02/2020 se establece, que hasta tanto se apruebe la normativa correspondiente en la materia resultará de aplicación, en lo pertinente, el artículo 3° del presente Decreto, en su redacción original. Vigencia: a partir del día siguiente al de su publicación en el BOLETÍN OFICIAL DE LA REPÚBLICA ARGENTINA)
+
+## Art. 2º
+
+Quedan comprendidos también en lo dispuesto en el artículo anterior aquellos residuos o desechos procedentes del reciclado o recuperación material de desperdicios que no sean acompañados de un certificado de inocuidad sanitaria y ambiental expedido previo al embarque por la autoridad competente del país de origen y/o procedencia y ratificado por la autoridad de aplicación del presente decreto, todo ello sin perjuicio de las facultades propias que compete a la Administración Nacional de Aduanas.
+
+(Por art. 3° del Decreto N° 148/2020 B.O. 14/02/2020 se establece, que hasta tanto se apruebe la normativa correspondiente en la materia resultará de aplicación, en lo pertinente, el artículo 3° del presente Decreto, en su redacción original. Vigencia: a partir del día siguiente al de su publicación en el BOLETÍN OFICIAL DE LA REPÚBLICA ARGENTINA)
+
+## Art. 3º
+
+Se considera residuo, desecho o desperdicio a toda materia, sustancia u objeto producido en cualquier actividad y a cuya eliminación, reciclado, recuperación, reutilización y/o disposición final se proceda, se proponga proceder o se esté obligado a proceder, así como también todos aquellos que a juicio de la autoridad de aplicación sean considerados como tales.
+
+(Por art. 3° del Decreto N° 148/2020 B.O. 14/02/2020 se establece, que hasta tanto se apruebe la normativa correspondiente en la materia resultará de aplicación, en lo pertinente, el artículo 3° del presente Decreto, en su redacción original. Vigencia: a partir del día siguiente al de su publicación en el BOLETÍN OFICIAL DE LA REPÚBLICA ARGENTINA)
+
+## Art. 4º
+
+Asimismo, también se considerará residuo, desecho o desperdicio a todo material, sustancia u objeto que pretenda ser importado o introducido en el mismo estado en que fuera desechado por el generador, y/o sea ofrecido a nuestro país tanto en forma gratuita o abonando una prima para su reciclado, tratamiento o disposición final.
+
+(Por art. 3° del Decreto N° 148/2020 B.O. 14/02/2020 se establece, que hasta tanto se apruebe la normativa correspondiente en la materia resultará de aplicación, en lo pertinente, el artículo 3° del presente Decreto, en su redacción original. Vigencia: a partir del día siguiente al de su publicación en el BOLETÍN OFICIAL DE LA REPÚBLICA ARGENTINA)
+
+## Art. 5º
+
+A los efectos del presente decreto será considerado autoridad de aplicación la Secretaría de Recursos Naturales y Ambiente Humano de la Presidencia de la Nación, pudiendo contar para ello con el asesoramiento de otros organismos.
+
+(Por art. 3° del Decreto N° 148/2020 B.O. 14/02/2020 se establece, que hasta tanto se apruebe la normativa correspondiente en la materia resultará de aplicación, en lo pertinente, el artículo 3° del presente Decreto, en su redacción original. Vigencia: a partir del día siguiente al de su publicación en el BOLETÍN OFICIAL DE LA REPÚBLICA ARGENTINA)
+
+## Art. 6º
+
+Por intermedio del Ministerio de Relaciones Exteriores y Culto póngase en conocimiento del organismo establecido a esos efectos en el Convenio de Basilea aprobada por Ley 23.922.
+
+## Art. 7º
+
+Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese. - MENEM. - José L. Manzano.
+
+Antecedentes Normativos:
+
+\- Artículo 1° sustituido por art. 1° del Decreto N° 591/2019 B.O. 27/8/2019. Vigencia: a los TREINTA (30) días de su publicación en el Boletín Oficial. Sustitución derogada por art. 1° del Decreto N° 148/2020 B.O. 14/02/2020;
+
+\- Artículo 2° sustituido por art. 2° del Decreto N° 591/2019 B.O. 27/8/2019. Vigencia: a los TREINTA (30) días de su publicación en el Boletín Oficial. Sustitución derogada por art. 1° del Decreto N° 148/2020 B.O. 14/02/2020;
+
+\- Artículo 3° sustituido por art. 3° del Decreto N° 591/2019 B.O. 27/8/2019. Vigencia: a los TREINTA (30) días de su publicación en el Boletín Oficial. Sustitución derogada por art. 1° del Decreto N° 148/2020 B.O. 14/02/2020;
+
+\- Artículo 4° sustituido por art. 4° del Decreto N° 591/2019 B.O. 27/8/2019. Vigencia: a los TREINTA (30) días de su publicación en el Boletín Oficial. Sustitución derogada por art. 1° del Decreto N° 148/2020 B.O. 14/02/2020;
+
+\- Artículo 5° sustituido por art. 5° del Decreto N° 591/2019 B.O. 27/8/2019. Vigencia: a los TREINTA (30) días de su publicación en el Boletín Oficial. Sustitución derogada por art. 1° del Decreto N° 148/2020 B.O. 14/02/2020.

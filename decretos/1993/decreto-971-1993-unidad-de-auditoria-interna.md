@@ -1,0 +1,287 @@
+---
+title: "Decreto 971/1993: UNIDAD DE AUDITORIA INTERNA — CARGO DE AUDITOR INTERNO - CREACION"
+identifier: "Decreto 971/1993"
+infoleg_id: "15708"
+type: decree
+jurisdiction: ar
+language: es
+date: 1993-05-06
+published: 1993-05-17
+boletin_oficial: "27640"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: unknown
+text_version: "texto actualizado"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=15708"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/15000-19999/15708/texact.htm"
+retrieved: 2026-10-12
+---
+
+# Decreto 971/1993: UNIDAD DE AUDITORIA INTERNA — CARGO DE AUDITOR INTERNO - CREACION
+
+ADMINISTRACION PUBLICA NACIONAL
+
+Decreto 971/93
+
+Creación del cargo de Auditor Interno.
+
+Bs. As., 6/5/93
+
+Ver Antecedentes Normativos.
+
+VISTO los artículos 100 y 102 de la Ley N° 24.156 que establecen la creación y las funciones de las unidades de auditoría interna, respectivamente, y
+
+CONSIDERANDO:
+
+Que la puesta en marcha del sistema instituido por la mencionada Ley impone la creación de los cargos de Auditores Internos, los que deberán contar con el consiguiente respaldo presupuestario.
+
+Que, asimismo, resulta necesario precisar aspectos relativos a la designación de los titulares de dichos cargos, como así también las características y niveles de retribución de los mismos.
+
+Que, a fin de lograr la inmediata implementación del sistema de control interno, se debe disponer un régimen transitorio de designación de auditores internos que deberán tener carácter de interinos.
+
+Que para esta medida se ha tomado en consideración el asesoramiento de la SINDICATURA GENERAL DE LA NACION.
+
+Que la COMISION TECNICA ASESORA DE POLITICA SALARIAL DEL SECTOR PUBLICO y el COMITE EJECUTIVO DE CONTRALOR DE LA REFORMA ADMINISTRATIVA han tomado la intervención que les compete.
+
+Que el presente acto se dicta en ejercicio de las facultades conferidas por el artículo 86, inciso 1 de la CONSTITUCION NACIONAL, 100 de la ley N° 24.156, 19 inc. a) de la LEY NACIONAL DE PROCEDIMIENTOS ADMINISTRATIVOS y 5° y 7° de la Ley N° 24.191.
+
+Por ello,
+
+EL PRESIDENTE DE LA NACION ARGENTINA
+
+DECRETA:
+
+## Artículo 1°
+
+Créase en cada una de las jurisdicciones y entidades de la Administración Pública Nacional comprendidas en la nómina que como Anexo I forma parte integrante del presente decreto, el cargo de Auditor Interno. Las restantes entidades deberán presentar ante el COMITE EJECUTIVO DE CONTRALOR DE LA REFORMA ADMINISTRATIVA, en un plazo máximo de TREINTA (30) días corridos contados a partir de la fecha del presente decreto, la correspondiente propuesta de creación del cargo de Auditor Interno.
+
+## Art. 2°
+
+El cargo de Auditor Interno tendrá carácter de extraescalafonario.
+
+## Art. 3°
+
+Fíjase para el cargo de Auditor Interno, en aquellas jurisdicciones y entidades en las que tenga vigencia el SISTEMA NACIONAL DE EMPLEO PUBLICO —Decreto Nº 2098/08—, una remuneración equivalente al Nivel A y Grado 10, con más el suplemento de Función Ejecutiva Nivel I, calculado éste último conforme la normativa que lo regula.
+
+En las jurisdicciones o entidades en las que no rija el SISTEMA NACIONAL DE EMPLEO PUBLICO, la retribución del Auditor Interno será equivalente a la del máximo nivel y grado, si correspondiere, con más el suplemento asignado al mayor nivel de los cargos con función ejecutiva, directiva o equivalente, si lo hubiere, del escalafón vigente en las mismas.
+
+En las Universidades Nacionales la retribución del Auditor Interno será equiparada a la del Secretario de la Universidad Nacional con dedicación exclusiva.
+
+Los Auditores titulares tendrán derecho a percibir los adicionales que le correspondan al personal de planta permanente de la jurisdicción o entidad en las que desempeñan sus funciones, que no sean atribuibles o surjan de la carrera administrativa.
+
+(Artículo sustituido por art. 1° del Decreto N° 2147/2009 B.O. 31/12/2009)
+
+## Art. 4°
+
+(Artículo derogado por art. 7° del Decreto N° 72/2018 B.O. 24/1/2018)
+
+## Art. 5°
+
+(Artículo derogado por art. 7° del Decreto N° 72/2018 B.O. 24/1/2018)
+
+## Art. 6°
+
+(Artículo derogado por art. 7° del Decreto N° 72/2018 B.O. 24/1/2018)
+
+## Art. 7°
+
+Autorízase a las máximas autoridades de cada una de las jurisdicciones y entidades comprendidas en la nómina que integra el artículo 1° del presente, para designar, con carácter transitorio, por un período máximo de CIENTO OCHENTA (180) días, y por única vez, un Auditor Interno Interino, cuya designación caducará automáticamente cuando asuma sus funciones el Auditor Interno.
+
+## Art. 8°
+
+El Auditor Interno Interino podrá proponer al COMITE EJECUTIVO DE CONTRALOR DE LA REFORMA ADMINISTRATIVA la integración de una planta no permanente de personal contratado y transitorio, que tendrá vigencia hasta tanto se apruebe la estructura definitiva de la Unidad de Auditoria Interna. Esta planta no permanente deberá ajustarse a las pautas que a ese efecto establezca el COMITE EJECUTIVO DE CONTRALOR DE LA REFORMA ADMINISTRATIVA.
+
+## Art. 9°
+
+Modifícase la distribución administrativa del Presupuesto de la Administración Nacional — Recursos Humanos, aprobada para el ejercicio 1993, de acuerdo a las planillas que integran el Anexo II que forma parte del presente Decreto.
+
+## Art. 10
+
+Ratifícanse, con retroactividad a las respectivas fechas en que fueron realizadas, las designaciones de "Auditor Interno Interino", y el cumplimiento de las funciones asumidas en ese carácter y reconócese a los involucrados el derecho a percibir las remuneraciones fijadas en el artículo 3° del presente decreto, debiendo abonarse a dichos funcionarios, cuando así corresponda, las diferencias entre dichas sumas y las ya percibidas por todo concepto.
+
+## Art. 11
+
+Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese. — MENEM. — Domingo F. Cavallo.
+
+(Nota Infoleg: las modificaciones al Anexo que se hayan publicado en Boletín Oficial pueden consultarse clickeando en el enlace " [Esta norma es complementada o modificada por X norma(s)](https://servicios.infoleg.gob.ar/infolegInternet/verVinculos.do?modo=2&id=15708) ")
+
+## ANEXO I — NOMINA DE JURISDICCIONES Y ENTIDADES DE LA ADMINISTRACION PUBLICA NACIONAL EN LAS QUE SE CREA EL CARGO DE AUDITOR INTERNO
+
+JURISDICCIONES
+
+SECRETARIA DE CIENCIA Y TECNOLOGIA
+
+SECRETARIA DE DEPORTES
+
+SECRETARIA DE RECURSOS NATURALES Y AMBIENTE HUMANO
+
+SECRETARIA DE TURISMO
+
+SECRETARIA DE PROGRAMACION PARA LA PREVENCION DE LA DROGADICCION Y LUCHA CONTRA EL NARCOTRAFICO
+
+SECRETARIA GENERAL
+
+MINISTERIO DEL INTERIOR — PROGRAMA: 01 — CONDUCCION Y ADMINISTRACION
+
+MINISTERIO DEL INTERIOR — PROGRAMA: 0 2 — ACTIVIDADES COMUNES PARA LOS PROGRAMAS 21 Y 22
+
+MINISTERIO DE RELACIONES EXTERIORES, COMERCIO INTERNACIONAL Y CULTO
+
+MINISTERIO DE JUSTICIA
+
+MINISTERIO DE DEFENSA
+
+MINISTERIO DE ECONOMIA Y OBRAS Y SERVICIOS PUBLICOS
+
+MINISTERIO DE CULTURA Y EDUCACION
+
+MINISTERIO DE TRABAJO Y SEGURIDAD SOCIAL
+
+MINISTERIO DE SALUD Y ACCION SOCIAL
+
+ENTIDADES
+
+ADMINISTRACION DE PARQUES NACIONALES
+
+ADMINISTRACION NACIONAL DE ADUANAS
+
+ADMINISTRACION NACIONAL DE LA SEGURIDAD SOCIAL
+
+ADMINISTRACION NACIONAL DEL SEGURO DE SALUD
+
+CAJA DE RETIROS, JUBILACIONES Y PENSIONES DE LA POLICIA FEDERAL
+
+COMISION NACIONAL DE CORREOS Y TELEGRAFOS
+
+COMISION NACIONAL DE ENERGIA ATOMICA
+
+COMISION NACIONAL DE INVESTIGACIONES ESPACIALES
+
+COMISION NACIONAL DE TELECOMUNICACIONES
+
+COMISION NACIONAL DE VALORES
+
+COMITE FEDERAL DE RADIODIFUSION
+
+CONSEJO NACIONAL DE INVESTIGACIONES CIENTIFICAS Y TECNICAS
+
+DIRECCION GENERAL IMPOSITIVA
+
+DIRECCION GENERAL DE VIALIDAD
+
+ENTE NACIONAL REGULADOR DE LA ELECTRICIDAD
+
+ENTE NACIONAL REGULADOR DEL GAS
+
+ENTE NACIONAL REGULADOR DE OBRAS SANITARIAS
+
+INSTITUTO ARGENTINO DE SANIDAD Y CALIDAD VEGETAL
+
+INSTITUTO DE AYUDA FINANCIERA PARA EL PAGO DE RETIROS Y PENSIONES MILITARES
+
+INSTITUTO NACIONAL DE ACCION COOPERATIVA
+
+INSTITUTO NACIONAL DE CIENCIA Y TECNICA HIDRICAS
+
+INSTITUTO NACIONAL DE INVESTIGACION Y DESARROLLO PESQUERO
+
+INSTITUTO NACIONAL DE LA ADMINISTRACION PUBLICA
+
+INSTITUTO NACIONAL DE PREVENCION SISMICA
+
+INSTITUTO NACIONAL DE SEMILLAS
+
+INSTITUTO NACIONAL DE TECNOLOGIA AGROPECUARIA
+
+INSTITUTO NACIONAL DE TECNOLOGIA INDUSTRIAL
+
+INSTITUTO NACIONAL DE VITIVINICULTURA
+
+SERVICIO NACIONAL DE SANIDAD ANIMAL
+
+SINDICATURA GENERAL DE LA NACION
+
+SUPERINTENDENCIA DE SEGUROS DE LA NACION
+
+UNIVERSIDAD DE BUENOS AIRES
+
+UNIVERSIDAD NACIONAL DEL CENTRO DE LA PROVINCIA DE BUENOS AIRES
+
+UNIVERSIDAD NACIONAL DE CATAMARCA
+
+UNIVERSIDAD NACIONAL DE CORDOBA
+
+UNIVERSIDAD NACIONAL DE CUYO
+
+UNIVERSIDAD NACIONAL DE ENTRE RIOS
+
+UNIVERSIDAD NACIONAL DE FORMOSA
+
+UNIVERSIDAD NACIONAL DE GENERAL SARMIENTO
+
+UNIVERSIDAD NACIONAL DE JUJUY
+
+UNIVERSIDAD NACIONAL DE LA MATANZA
+
+UNIVERSIDAD NACIONAL DE LA PAMPA
+
+UNIVERSIDAD NACIONAL DE LA PATAGONIA "SAN JUAN BOSCO"
+
+UNIVERSIDAD NACIONAL DE LA PLATA
+
+UNIVERSIDAD NACIONAL DE LOMAS DE ZAMORA
+
+UNIVERSIDAD NACIONAL DE LUJAN
+
+UNIVERSIDAD NACIONAL DE MAR DEL PLATA
+
+UNIVERSIDAD NACIONAL DE MISIONES
+
+UNIVERSIDAD NACIONAL DE QUILMES
+
+UNIVERSIDAD NACIONAL DE RIO CUARTO
+
+UNIVERSIDAD NACIONAL DE ROSARIO
+
+UNIVERSIDAD NACIONAL DE SALTA
+
+UNIVERSIDAD NACIONAL DE SAN JUAN
+
+UNIVERSIDAD NACIONAL DE SAN LUIS
+
+UNIVERSIDAD NACIONAL DE SANTIAGO DEL ESTERO
+
+UNIVERSIDAD NACIONAL DE TUCUMAN
+
+UNIVERSIDAD NACIONAL DEL COMAHUE
+
+UNIVERSIDAD NACIONAL DEL LITORAL
+
+UNIVERSIDAD NACIONAL DEL NORDESTE
+
+UNIVERSIDAD NACIONAL DEL SUR
+
+UNIVERSIDAD TECNOLOGICA NACIONAL
+
+## ANEXO II — [imagen: https://servicios.infoleg.gob.ar/infolegInternet/anexos/15000-19999/15708/dto971-17-05-1993-1.jpg]
+
+[imagen: https://servicios.infoleg.gob.ar/infolegInternet/anexos/15000-19999/15708/dto971-17-05-1993-2.jpg]
+
+[imagen: https://servicios.infoleg.gob.ar/infolegInternet/anexos/15000-19999/15708/dto971-17-05-1993-3.jpg]
+
+[imagen: https://servicios.infoleg.gob.ar/infolegInternet/anexos/15000-19999/15708/dto971-17-05-1993-4.jpg]
+
+[imagen: https://servicios.infoleg.gob.ar/infolegInternet/anexos/15000-19999/15708/dto971-17-05-1993-5.jpg]
+
+[imagen: https://servicios.infoleg.gob.ar/infolegInternet/anexos/15000-19999/15708/dto971-17-05-1993-6.jpg]
+
+[imagen: https://servicios.infoleg.gob.ar/infolegInternet/anexos/15000-19999/15708/dto971-17-05-1993-7.jpg]
+
+[imagen: https://servicios.infoleg.gob.ar/infolegInternet/anexos/15000-19999/15708/dto971-17-05-1993-8.jpg]
+
+[imagen: https://servicios.infoleg.gob.ar/infolegInternet/anexos/15000-19999/15708/dto971-17-05-1993-9.jpg]
+
+[imagen: https://servicios.infoleg.gob.ar/infolegInternet/anexos/15000-19999/15708/dto971-17-05-1993-10.jpg]
+
+Antecedentes Normativos:
+
+\- Artículo 3° sustituido por art. 1° del Decreto N° 2389/1993 B.O. 23/11/1993.

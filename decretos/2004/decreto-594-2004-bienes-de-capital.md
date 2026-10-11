@@ -1,0 +1,165 @@
+---
+title: "Decreto 594/2004: BIENES DE CAPITAL — INCENTIVO FISCAL - CONDICIONES"
+identifier: "Decreto 594/2004"
+infoleg_id: "95004"
+type: decree
+jurisdiction: ar
+language: es
+date: 2004-05-11
+published: 2004-05-13
+boletin_oficial: "30400"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: unknown
+text_version: "texto actualizado"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=95004"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/95000-99999/95004/texact.htm"
+retrieved: 2026-10-12
+---
+
+# Decreto 594/2004: BIENES DE CAPITAL — INCENTIVO FISCAL - CONDICIONES
+
+BIENES DE CAPITAL
+
+Decreto 594/2004
+
+Condiciones que deberán cumplimentar los fabricantes locales de bienes de capital a los fines de obtener el incentivo fiscal previsto por el Decreto Nº 379/2001 y sus modificatorios. Vigencia.
+
+Bs. As., 11/5/2004
+
+Ver Antecedentes Normativos
+
+VISTO el Expediente Nº S01:0053078/2004 del Registro del MINISTERIO DE ECONOMIA Y PRODUCCION, y
+
+CONSIDERANDO:
+
+Que a través del Decreto Nº 379 de fecha 29 de marzo de 2001 y sus modificatorios, fue creado un régimen de incentivo fiscal para los fabricantes de bienes de capital que contaran con establecimientos industriales radicados en el Territorio Nacional.
+
+Que la creación del citado régimen mediante el Decreto Nº 379/01, sus modificatorios y complementarios, entre otros aspectos, obedeció a la necesidad de morigerar, en el sector fabricante local de bienes de capital, el efecto de la reducción arancelaria dispuesta por la Resolución Nº 8 de fecha 23 de marzo de 2001 del ex- MINISTERIO DE ECONOMIA y sus modificaciones.
+
+Que mediante lo establecido en la Resolución Nº 8/01 del ex-MINISTERIO DE ECONOMIA y sus modificaciones, se estableció un Derecho de Importación Extrazona (D.I.E.), del CERO POR CIENTO (0%) a un conjunto de posiciones arancelarias de la Nomenclatura Común del MERCOSUR (N.C.M.).
+
+Que la reducción arancelaria impuesta por la Resolución Nº 8/01 del ex-MINISTERIO DE ECONOMIA y sus modificaciones, constituyó una medida de excepción consensuada por la REPUBLICA ARGENTINA con el resto de los Estados Partes en el ámbito del Mercado Común del Sur (MERCOSUR).
+
+Que, las Decisiones Nros. 1 de fecha 7 de abril de 2001, 25 de fecha 6 de diciembre de 2002 y 2 de fecha 17 de junio de 2003 todas del Consejo Mercado Común (C.M.C.) del MERCOSUR facultaron a la REPUBLICA ARGENTINA para aplicar en carácter excepcional y temporario, hasta el 31 de diciembre de 2003, a las importaciones originarias de países no miembros del MERCOSUR, las alícuotas de derechos de importación especificadas a los bienes de capital listados en el Anexo V del Decreto Nº 690 de fecha 26 de abril de 2002.
+
+Que asimismo, los Estados Parte del MERCOSUR por medio de la Decisión Nº 34 de fecha 15 de diciembre de 2003 del Consejo Mercado Común (C.M.C.) del MERCOSUR han acordado que hasta el 31 de diciembre de 2005, se podrán mantener los aranceles de importación de bienes de capital actualmente vigentes en los Estados Parte al CERO POR CIENTO (0%), incluyendo las medidas excepcionales, razón por la cual, resulta atinado delimitar el plazo de vigencia del régimen en aras de brindar certidumbre y previsibilidad a las partes involucradas.
+
+Que por otra parte los resultados alcanzados durante la aplicación del régimen creado mediante el Decreto Nº 379/01 y sus modificatorios, en el marco de la coyuntura económica, han posibilitado un sostenimiento de la actividad manufacturera, en el sector local fabricante de bienes de capital, permitiendo asimismo morigerar los efectos disvaliosos producidos en el sector metal mecánico de esa especialidad.
+
+Que acorde al mantenimiento del régimen promocional, resulta conveniente que los beneficiarios deban acreditar que no registran deudas exigibles en el marco de las actividades de auditoría y contralor previstas por la Resolución Nº 117 de fecha 9 de octubre de 2003 de la SECRETARIA DE INDUSTRIA, COMERCIO Y DE LA PEQUEÑA Y MEDIANA EMPRESA del MINISTERIO DE ECONOMIA Y PRODUCCION, así como una presentación sobre el personal en relación de dependencia que se encuentra debidamente registrado, en miras a evitar la contratación de personal en forma clandestina.
+
+Que el universo de bienes sujetos al incentivo fiscal previsto por el Decreto Nº 379/01 y sus modificatorios, originariamente se hallaba definido por el Anexo I de la Resolución Nº 8/01 del ex-MINISTERIO DE ECONOMIA y sus modificaciones, luego, dicho universo fue detallado en el Anexo I del Decreto Nº 1347 de fecha 26 de septiembre de 2001 y ulteriormente fueron incorporados nuevos bienes mediante el Anexo I del Decreto Nº 1554 de fecha 29 de noviembre de 2001 y por el Anexo I del Decreto Nº 214 de fecha 20 de febrero de 2004.
+
+Que, por otra parte, mediante la Resolución Nº 98 de fecha 8 de julio de 2003 del MINISTERIO DE ECONOMIA Y PRODUCCION, se incorpora una nueva posición arancelaria al universo de bienes de capital alcanzados por el incentivo, poniendo de relieve la fragmentación del conjunto de posiciones arancelarias.
+
+Que en función de ello, se estima conveniente ordenar el universo de los bienes de capital susceptibles de obtener el incentivo fiscal, a cuyos efectos resulta atinado facultar a la Autoridad de Aplicación para armonizar en un cuerpo normativo la totalidad de las posiciones arancelarias en las cuales clasifican los bienes involucrados.
+
+Que la Dirección General de Asuntos Jurídicos del MINISTERIO DE ECONOMIA Y PRODUCCION ha tomado la intervención que le compete.
+
+Que la presente medida se dicta en uso de las facultades previstas en el Artículo 99, inciso 1 de la CONSTITUCION NACIONAL.
+
+Por ello,
+
+EL PRESIDENTE DE LA NACION ARGENTINA
+
+DECRETA:
+
+## Artículo 1º
+
+Los fabricantes locales de bienes de capital a los fines de obtener el incentivo fiscal previsto por el Decreto N° 379 de fecha 29 de marzo de 2001 y sus modificatorios, además de los requisitos dispuestos por la reglamentación, deberán acreditar que no registran incumplimientos de las actividades previstas por el artículo 7° del Decreto Nº 379/01 y sus modificatorios, en lo relativo a las condiciones determinadas por la Resolución Nº 117 de fecha 9 de octubre de 2003 de la ex SECRETARÍA DE INDUSTRIA, COMERCIO Y DE LA PEQUEÑA Y MEDIANA EMPRESA del ex MINISTERIO DE ECONOMÍA Y PRODUCCIÓN.
+
+(Artículo sustituido por art. 4° del Decreto N° 229/2018 B.O. 19/03/2018. Vigencia: a partir del 1° de enero de 2018)
+
+## Art. 2º
+
+El bono fiscal previsto por el Artículo 3º del Decreto Nº 379/01 admitirá sólo UN (1) endoso. La Autoridad de Aplicación al momento de emitir el bono fiscal, deberá exigir al beneficiario la acreditación de que no registra deudas exigibles por la ADMINISTRACION FEDERAL DE INGRESOS PUBLICOS entidad autárquica en el ámbito del MINISTERIO DE ECONOMIA Y PRODUCCION, a los fines de autorizar la condición de endosable o no del bono fiscal.
+
+## Art. 3º
+
+Facúltase a la SECRETARIA DE INDUSTRIA, COMERCIO Y DE LA PEQUEÑA Y MEDIANA EMPRESA del MINISTERIO DE ECONOMIA Y PRODUCCION para armonizar en un cuerpo normativo el universo de bienes de capital sujetos al incentivo fiscal previsto por el Artículo 3º del Decreto Nº 379/01.
+
+## Art. 4º
+
+Facúltase a la Autoridad de Aplicación del régimen creado por el Decreto Nº 379/01 y sus modificatorios para aclarar, interpretar y determinar en cada caso los alcances del presente decreto, así como para dictar las normas complementarias.
+
+## Art. 5º
+
+El Régimen creado por el presente decreto tendrá vigencia hasta el 31 de diciembre de 2021.
+
+(Artículo sustituido por art. 3° del Decreto N° 1051/2020 B.O. 29/12/2020. Vigencia: a partir del día 1° de enero de 2021.)
+
+## Art. 6º
+
+El presente decreto tendrá vigencia a partir de su publicación en el Boletín Oficial.
+
+## Art. 7º
+
+Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese. — KIRCHNER. — Alberto A. Fernández. — Roberto Lavagna.
+
+Antecedentes Normativos
+
+\- Artículo 5° sustituido por art. 3° del Decreto N° 96/2020 B.O. 22/01/2020. Vigencia: a partir del 1° de enero de 2020;
+
+\- Artículo 5° sustituido por art. 3° del Decreto N° 196/2019 B.O. 15/03/2019. Vigencia: a partir del 1° de enero de 2019;
+
+\- Artículo 5° sustituido por art. 5° del Decreto N° 229/2018 B.O. 19/03/2018. Vigencia: a partir del 1° de enero de 2018;
+
+\- Artículo 5° sustituido por art. 6° del Decreto N° 593/2017 B.O. 31/7/2017. Vigencia: a partir del día 1 de julio de 2017;
+
+\- Artículo 1° sustituido por art. 5° del Decreto N° 593/2017 B.O. 31/7/2017. Vigencia: a partir del día 1 de julio de 2017;
+
+\- Artículo 1°, inciso a) sustituido por art. 1° del Decreto N° 1348/2016 B.O. 2/1/2017. Vigencia: a partir de su publicación en el Boletín Oficial, estableciéndose que los efectos resultantes de sus disposiciones se aplican a partir del día 1 de enero de 2017;
+
+\- Artículo 5° sustituido por art. 2° del Decreto N° 1348/2016 B.O. 2/1/2017. Vigencia: a partir de su publicación en el Boletín Oficial, estableciéndose que los efectos resultantes de sus disposiciones se aplican a partir del día 1 de enero de 2017;
+
+\- Artículo 1°, inc. a) sustituido por art. 1° del Decreto N° 824/2016 B.O. 1/7/2016. Vigencia: a partir de su publicación en el Boletín Oficial, estableciéndose que los efectos resultantes de sus disposiciones se aplican a partir del día 1 de julio de 2016;
+
+\- Artículo 5° sustituido por art. 2° del Decreto N° 824/2016 B.O. 1/7/2016. Vigencia: a partir de su publicación en el Boletín Oficial, estableciéndose que los efectos resultantes de sus disposiciones se aplican a partir del día 1 de julio de 2016.;
+
+\- Artículo 1°, inc. a) sustituido por art. 1° del Decreto N° 51/2016 B.O. 08/01/2016. Vigencia: a partir de su publicación en el Boletín Oficial, estableciéndose que los efectos resultantes de sus disposiciones se aplican a partir del día 1 de enero de 2016;
+
+\- Artículo 5° sustituido por art. 2° del Decreto N° 51/2016 B.O. 08/01/2016. Vigencia: a partir de su publicación en el Boletín Oficial, estableciéndose que los efectos resultantes de sus disposiciones se aplican a partir del día 1 de enero de 2016;
+
+\- Artículo 5° sustituido por art. 2° del Decreto N° 1424/2015 B.O. 28/07/2015. Vigencia: a partir de su publicación en el Boletín Oficial, estableciéndose que los efectos resultantes de sus disposiciones se aplican a partir del día 1 de julio de 2015;
+
+\- Artículo 1°, Inciso a) sustituido por art. 1° del Decreto N° 1424/2015 B.O. 28/07/2015. Vigencia: a partir de su publicación en el Boletín Oficial, estableciéndose que los efectos resultantes de sus disposiciones se aplican a partir del día 1 de julio de 2015;
+
+\- Artículo 5° sustituido por art. 2° del Decreto N° 451/2015 B.O. 6/4/2015. Vigencia: a partir de su publicación en el Boletín Oficial, estableciéndose que los efectos resultantes de sus disposiciones se aplican a partir del día 1 de enero de 2015;
+
+\- Artículo 1°, inciso a) sustituido por art. 1° del Decreto N° 451/2015 B.O. 6/4/2015. Vigencia: a partir de su publicación en el Boletín Oficial, estableciéndose que los efectos resultantes de sus disposiciones se aplican a partir del día 1 de enero de 2015;
+
+\- Artículo 1°, inciso a) sustituido por art. 1° del Decreto N° 2512/2014 B.O. 19/12/2014. Vigencia: a partir de su publicación en el Boletín Oficial, estableciéndose que los efectos resultantes de sus disposiciones se aplican a partir del día 1 de julio de 2014;
+
+\- Artículo 5° sustituido por art. 2° del Decreto N° 2512/2014 B.O. 19/12/2014. Vigencia: a partir de su publicación en el Boletín Oficial, estableciéndose que los efectos resultantes de sus disposiciones se aplican a partir del día 1 de julio de 2014;
+
+\- Artículo 1°, inciso a) sustituido por art. 1° del Decreto N° 965/2014 B.O. 19/6/2014. Vigencia: comenzará a regir a partir de su publicación en el Boletín Oficial, estableciéndose que los efectos resultantes de sus disposiciones se aplican a partir del día 1 de enero de 2014;
+
+\- Artículo 5° sustituido por art. 2° del Decreto N° 965/2014 B.O. 19/6/2014. Vigencia: comenzará a regir a partir de su publicación en el Boletín Oficial, estableciéndose que los efectos resultantes de sus disposiciones se aplican a partir del día 1 de enero de 2014;
+
+\- Artículo 1°, inciso a) sustituido por art. 1° del Decreto N° 1591/2013 B.O. 23/10/2013. Vigencia: a partir de su publicación en el Boletín Oficial, estableciéndose que los efectos resultantes de sus disposiciones se aplican a partir del día 1 de julio de 2013;
+
+\- Artículo 5° sustituido por art. 2° del Decreto N° 1591/2013 B.O. 23/10/2013. Vigencia: a partir de su publicación en el Boletín Oficial, estableciéndose que los efectos resultantes de sus disposiciones se aplican a partir del día 1 de julio de 2013;
+
+\- Artículo 1°, inciso a) sustituido por art. 1° del Decreto N° 480/2013 B.O. 6/5/2013. Vigencia: a partir del día 1 de enero de 2013;
+
+\- Artículo 5° sustituido por art. 2° del Decreto N° 480/2013 B.O. 6/5/2013. Vigencia: a partir del día 1 de enero de 2013;
+
+\- Artículo 5° sustituido por art. 3° del Decreto N° 1027/2012 B.O. 05/07/2012. Vigencia: a partir del día 1 de julio de 2012;
+
+\- Artículo 1° sustituido por art. 3° del Decreto N° 1027/2012 B.O. 05/07/2012. Vigencia: a partir del día 1 de julio de 2012;
+
+\- Artículo 5° sustituido por art. 1° del Decreto N° 430/2012 B.O. 26/3/2012. Vigencia: a partir del día 1º de enero de 2012;
+
+\- Artículo 1°, inciso a) sustituido por art. 2° del Decreto N° 430/2012 B.O. 26/3/2012. Vigencia: a partir del día 1º de enero de 2012;
+
+\- Artículo 5° sustituido por art. 1º del Decreto Nº 362/2011 B.O. 30/03/2011. Vigencia: a partir del día 1 de enero de 2011;
+
+\- Artículo 5º sustituido por art. 1º del Decreto Nº 917/2010 B.O. 08/07/2010. Vigencia: a partir del día 1 de julio de 2010;
+
+\- Artículo 5º sustituido por art. 1º del Decreto Nº 188/2010 BO 04/02/2010. Vigencia: a partir del 1º de enero de 2010;
+
+\- Artículo 1°, inciso a) sustituido por art. 3º del Decreto Nº 2316/2008 B.O. 7/1/2009. Vigencia: a partir del día 1 de enero de 2009;
+
+\- Artículo 5º sustituido por art. 1º del Decreto Nº 2316/2008 B.O. 7/1/2009. Vigencia: a partir del día 1 de enero de 2009;
+
+\- Artículo 5º sustituido por art. 1º del Decreto 201/2006, B.O. 24/2/2006. Vigencia: a partir de su publicación en el Boletín Oficia.

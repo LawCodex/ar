@@ -1,0 +1,115 @@
+---
+title: "Decreto 927/2009: MINISTERIO DE ECONOMIA Y FINANZAS PUBLICAS — INSTITUTO NACIONAL DE ESTADISTICA Y CENSOS - TRANSFIERESE"
+identifier: "Decreto 927/2009"
+infoleg_id: "155775"
+type: decree
+jurisdiction: ar
+language: es
+date: 2009-07-21
+published: 2009-07-22
+boletin_oficial: "31699"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: unknown
+text_version: "texto actualizado"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=155775"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/155000-159999/155775/texact.htm"
+retrieved: 2026-10-12
+---
+
+# Decreto 927/2009: MINISTERIO DE ECONOMIA Y FINANZAS PUBLICAS — INSTITUTO NACIONAL DE ESTADISTICA Y CENSOS - TRANSFIERESE
+
+MINISTERIO DE ECONOMIA Y FINANZAS PUBLICAS
+
+Decreto 927/2009
+
+Transfiérese el Instituto Nacional de Estadística y Censos.
+
+Bs. As., 21/7/2009
+
+VISTO la Ley Nº 17.622 y sus normas reglamentarias, y
+
+CONSIDERANDO:
+
+Que por la norma citada se creó y organizó el INSTITUTO NACIONAL DE ESTADISTICA Y CENSOS (INDEC), el que actualmente funciona como organismo desconcentrado en el ámbito de la SECRETARIA DE POLITICA ECONOMICA del MINISTERIO DE ECONOMIA Y FINANZAS PUBLICAS.
+
+Que el INSTITUTO NACIONAL DE ESTADISTICA Y CENSOS —(INDEC)— ejerce la dirección superior y unifica la orientación de todas las actividades estadísticas oficiales que se ejecutan en el territorio nacional.
+
+Que el citado Instituto planifica, promueve y coordina el SISTEMA ESTADISTICO NACIONAL —SEN—, de acuerdo al principio de centralización normativa y descentralización ejecutiva.
+
+Que dicho Sistema Estadístico Nacional está integrado por los servicios estadísticos de los Ministerios y Secretarías de Estado, de los Gobiernos Provinciales y Municipales, de los Organismos Autárquicos y Descentralizados de la Administración Nacional, Provincial y Municipal, de las Empresas Provinciales y Municipales y de los Entes interjurisdiccionales.
+
+Que, concomitantemente debe establecer las normas metodológicas aplicables a la elaboración de los diversos programas de trabajo.
+
+Que, asimismo, debe promover la adecuada difusión de toda la información estadística entre los organismos integrantes del SEN y los usuarios en general.
+
+Que, además, puede celebrar acuerdos o convenios con entidades públicas y privadas, en materia estadística tendientes a elevar el nivel técnico y científico del SEN.
+
+Que en este marco resulta conveniente que instituciones técnico-académicas de nivel nacional participen en la evaluación y seguimiento de las metodologías que resulten adecuadas, y que asimismo, se cuente con la observación de los actores económicos y sociales que resultan a la vez usuarios naturales del servicio del instituto, en un Consejo de Observación Económico y Social.
+
+Que dada la diversidad y cobertura territorial de los programas de trabajo, resulta conveniente crear una Dirección Técnica responsable de la elaboración de los mismos y de su articulación, comparación y complementariedad.
+
+Que, en consecuencia, resulta pertinente la creación del Consejo Académico de Evaluación y Seguimiento de los diversos programas de trabajo que elabora el INSTITUTO NACIONAL DE ESTADISTICA Y CENSOS, integrado por representantes de por lo menos TRES (3) Universidades Públicas Nacionales, el que tendrá como misión prioritaria evaluar la elaboración, aplicación y pertinencia de la llamada Metodología Nº 13 y su actualización, que se utiliza para la confección del Indice de Precios al Consumidor, todo ello sin perjuicio de la calidad y consistencia de la información, integridad (robustez de los datos), oportunidad, periodicidad y publicidad de la estadística producida por el INDEC.
+
+Que no debe olvidarse que la llamada Metodología Nº 13, aplicable al Indice de Precios al Consumidor del Gran Buenos Aires (IPCGBA) fue el resultado de una profunda revisión del índice anterior (base 1988) y, rige desde 1999.
+
+Que el citado Consejo, para el desarrollo de la tarea encomendada deberá consultar todos los antecedentes nacionales e internacionales que existan en la materia, considerando, entre otros documentos, el INFORME DE LA COMISION BOSKIN emitido en el año 1996 en los ESTADOS UNIDOS DE AMERICA, con motivo del debate suscitado en dicho país en relación con la medición de Indice de Precios al Consumidor (IPC).
+
+Que la SECRETARIA DE LA GESTION PUBLICA de la JEFATURA DE GABINETE DE MINISTROS y la Dirección General de Asuntos Jurídicos del MINISTERIO DE ECONOMIA Y FINANZAS PUBLICAS, han tomado la intervención pertinente.
+
+Que el presente decreto se dicta en virtud de las atribuciones establecidas en el artículo 99, inciso 1) de la CONSTITUCION NACIONAL.
+
+Por ello,
+
+LA PRESIDENTA DE LA NACION ARGENTINA
+
+DECRETA:
+
+## Artículo 1º
+
+Transfiérese el INSTITUTO NACIONAL DE ESTADISTICA Y CENSOS, organismo desconcentrado del ámbito de la SECRETARIA DE POLITICA ECONOMICA del MINISTERIO DE ECONOMIA Y FINANZAS PUBLICAS a la órbita de la estructura organizativa del primer nivel operativo del MINISTERIO DE ECONOMIA Y FINANZAS PUBLICAS.
+
+## Art. 2º
+
+Dicha transferencia del INSTITUTO NACIONAL DE ESTADISTICA Y CENSOS, incluye sus áreas dependientes así como sus competencias, unidades organizativas con sus respectivos cargos, nivel de funciones ejecutivas, dotaciones de personal, patrimonio, bienes y créditos presupuestarios, manteniendo el personal transferido sus respectivos niveles y grados de revista escalafonarios vigentes a la fecha de la presente medida.
+
+## Art. 3º
+
+Créase el cargo de Director Técnico en el INSTITUTO NACIONAL DE ESTADISTICA Y CENSOS dependiente del MINISTERIO DE ECONOMIA Y FINANZAS PUBLICAS, quien asumirá todas las funciones que al presente están asignadas al Director Adjunto, y que será el responsable del diseño, desarrollo y ejecución de los diversos programas de trabajo del organismo.
+
+(Nota Infoleg: por art. 2° de la Decisión Administrativa N° 305/2017 B.O. 18/5/2017 se sustituyen las funciones del Director Técnico, cargo creado por el presente artículo, por las que se detallan en Planilla Anexa al artículo, que forma parte integrante de la medida de referencia.)
+
+## Art. 4º
+
+(Artículo derogado por art. 5° del Decreto N° 181/2015 B.O. 22/12/2015)
+
+## Art. 5º
+
+(Artículo derogado por art. 5° del Decreto N° 181/2015 B.O. 22/12/2015)
+
+## Art. 6º
+
+(Artículo derogado por art. 5° del Decreto N° 181/2015 B.O. 22/12/2015)
+
+## Art. 7º
+
+(Artículo derogado por art. 5° del Decreto N° 181/2015 B.O. 22/12/2015)
+
+## Art. 8º
+
+(Artículo derogado por art. 5° del Decreto N° 181/2015 B.O. 22/12/2015)
+
+## Art. 9º
+
+(Artículo derogado por art. 5° del Decreto N° 181/2015 B.O. 22/12/2015)
+
+## Art. 10
+
+El Ministro de Economía y Finanzas Públicas, será la autoridad de aplicación del presente y deberá dictar las normas complementarias que considere necesarias.
+
+## Art. 11
+
+El presente decreto entrará en vigencia a partir de su publicación en el BOLETIN OFICIAL.
+
+## Art. 12
+
+Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese. — FERNANDEZ DE KIRCHNER. — Aníbal D. Fernández. — Amado Boudou.

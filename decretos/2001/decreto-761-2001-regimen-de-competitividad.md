@@ -1,0 +1,69 @@
+---
+title: "Decreto 761/2001: REGIMEN DE COMPETITIVIDAD — CONVENIOS CON GOBIERNOS (LEY 25414)"
+identifier: "Decreto 761/2001"
+infoleg_id: "67295"
+type: decree
+jurisdiction: ar
+language: es
+date: 2001-06-11
+published: 2001-06-12
+boletin_oficial: "29667"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: unknown
+text_version: "texto actualizado"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=67295"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/65000-69999/67295/texact.htm"
+retrieved: 2026-10-12
+---
+
+# Decreto 761/2001: REGIMEN DE COMPETITIVIDAD — CONVENIOS CON GOBIERNOS (LEY 25414)
+
+(Nota Infoleg: Norma abrogada por art. 1° de la Ley N° 25.867 B.O. 21/1/2004).
+
+CONVENIOS PARA MEJORAR LA COMPETITIVIDAD Y LA GENERACION DE EMPLEO
+
+Decreto 761/2001
+
+Danse por aprobados los Convenios celebrados entre el Gobierno Nacional, los Gobiernos Provinciales adheridos, el Gobierno de la Ciudad Autónoma de Buenos Aires y los representantes empresariales y sindicales de los distintos sectores de la economía, suscriptos en el marco de la Ley N° 25.414.
+
+Bs. As., 11/6/2001
+
+VISTO los CONVENIOS PARA MEJORAR LA COMPETITIVDAD Y LA GENERACION DE EMPLEO, suscriptos en el marco de la Ley N° 25.414, entre el Gobierno Nacional, los Gobiernos Provinciales adheridos, el Gobierno de la CIUDAD AUTONOMA DE BUENOS AIRES y los representantes empresariales y sindicales de los distintos sectores de la economía, y
+
+CONSIDERANDO:
+
+Que en los referidos Convenios, celebrados con el objeto de mejorar la competitividad nacional e internacional del sistema productivo argentino, cada una de las partes asumió una serie de compromisos, a fin de crear las condiciones favorables a la inversión y al empleo y contribuir a la paz social.
+
+Que, asimismo, el Gobierno Nacional se comprometió a propiciar políticas activas, tendientes a reactivar la producción y estimular la creación de puestos de trabajo.
+
+Que, en esta instancia, corresponde dar por aprobados los convenios de que se trata, a fin de asegurar el cumplimiento de los objetivos tenidos en cuenta al momento de su celebración.
+
+Que la DIRECCION GENERAL DE ASUNTOS JURIDICOS del MINISTERIO DE ECONOMIA ha tomado la intervención que le compete.
+
+Que el presente decreto se dicta en uso de las facultades conferidas al PODER EJECUTIVO NACIONAL por el artículo 1° de la Ley N° 25.414.
+
+Por ello,
+
+EL PRESIDENTE DE LA NACION ARGENTINA
+
+DECRETA:
+
+## Artículo 1°
+
+Danse por aprobados los CONVENIOS PARA MEJORAR LA COMPETITIVIDAD Y LA GENERACION DE EMPLEO, celebrados en el marco de la Ley N° 25.414, a partir de las fechas de su suscripción, entre el Gobierno Nacional, los Gobiernos Provinciales adheridos, al Gobierno de la CIUDAD AUTONOMA DE BUENOS AIRES, y los representantes empresariales y sindicales de diversos sectores de la economía, los cuales, en copia autenticada, forman parte integrante del presente decreto como Anexo.
+
+## Art. 2°
+
+El acceso total o parcial a los beneficios acordados en los Convenios aprobados por el presente decreto, por parte de cada empresa, estará condicionado por la incidencia que para ella tenga la actividad prevista en los mismos.
+
+A tales efectos, los Organismos competentes del PODER EJECUTIVO NACIONAL, fijarán los límites para el acceso a cada uno de los beneficios y la proporción en que se gozará de cada uno de ellos, de acuerdo con lo establecido en el párrafo anterior.
+
+## Art. 3°
+
+(Artículo derogado por art. 2° del Decreto N° 845/2001 B.O. 25/6/2001. Vigencia: a partir del día de su publicación en el Boletín Oficial y surtirá efecto a partir de la entrada en vigencia del Decreto Nº 761 del 11 de junio de 2001.).
+
+## Art. 4°
+
+Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese. — DE LA RUA. — Chrystian G. Colombo. — Domingo F. Cavallo. — Patricia Bullrich.
+
+NOTA: Este Decreto se publica sin anexo. La documentación no publicada puede ser consultada en la sede Central de esta Dirección Nacional (Suipacha 767 - Capital Federal).

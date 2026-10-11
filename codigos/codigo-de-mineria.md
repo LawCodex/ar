@@ -7,9 +7,9 @@ jurisdiction: ar
 language: es
 date: 1886-11-25
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
-saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
-saij_url: "https://www.saij.gob.ar/ley-1919-nacional-lnn0002716-1886-12-08"
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/codigo-mineria-1919-nacional-codigo-mineria-lns0002716-1997-05-21"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=43797"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/40000-44999/43797/texact.htm"

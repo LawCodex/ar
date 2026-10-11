@@ -1,0 +1,95 @@
+---
+title: "Decreto 1336/2005: MINISTERIO DE DEFENSA — SUPLEMENTO ESPECIAL NO REMUNERATIVO Y NO BONIFICABLE"
+identifier: "Decreto 1336/2005"
+infoleg_id: "110968"
+type: decree
+jurisdiction: ar
+language: es
+date: 2005-10-31
+published: 2005-11-01
+boletin_oficial: "30771"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: unknown
+text_version: "texto actualizado"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=110968"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/110000-114999/110968/texact.htm"
+retrieved: 2026-10-12
+---
+
+# Decreto 1336/2005: MINISTERIO DE DEFENSA — SUPLEMENTO ESPECIAL NO REMUNERATIVO Y NO BONIFICABLE
+
+MINISTERIO DE DEFENSA
+
+Decreto 1336/2005
+
+Establécese un "Suplemento Especial No Remunerativo y No Bonificable" para los integrantes del Régimen para el Personal de Investigación y Desarrollo de las Fuerzas Armadas.
+
+Bs. As., 31/10/2005
+
+VISTO el Expediente N° 9090/05 del MINISTERIO DE DEFENSA, el Régimen para el Personal de Investigación y Desarrollos de las Fuerzas Armadas, aprobado por el Decreto N° 4381 de fecha 15 de mayo de 1973, sus modificatorios y complementarios, la Ley N° 11.672 Complementaria Permanente de Presupuesto (t.o. 2005), el Presupuesto General de Administración Nacional para el Ejercicio 2005, aprobado por la Ley N° 25.967 y distribuido por la Decisión Administrativa N° 1 de fecha 11 de enero de 2005, y
+
+CONSIDERANDO:
+
+Que las actividades científicas y tecnológicas que desarrolla en diferentes áreas del conocimiento, el INSTITUTO DE INVESTIGACIONES CIENTIFICAS Y TECNICAS DE LAS FUERZAS ARMADAS dependiente del MINISTERIO DE DEFENSA y demás organismo científicos y tecnológicos dependientes de las Fuerzas Armadas son de prioritario interés nacional.
+
+Que es menester redefinir la política salarial vigente para los agentes del Régimen para el Personal de Investigación y Desarrollos de las Fuerzas Armadas, a fin de revitalizar el sistema científico-técnico de la Defensa Nacional.
+
+Que es impostergable adoptar aquellas medidas que, dentro de las limitaciones que impone la actual situación económica por la que atraviesa el país, tiendan a una justa equiparación de la situación salarial de investigadores y personal de apoyo a la investigación vinculadas a la Defensa Nacional.
+
+Que es intención del GOBIERNO NACIONAL jerarquizar, entro otros, el sector científico y tecnológico, constituyendo la presente medida un instrumento adecuado para tal fin.
+
+Que resulta necesario, en consecuencia, adecuar las remuneraciones del personal integrante del Régimen para el Personal de Investigación y Desarrollos de las Fuerzas Armadas, creando un suplemento especial "no remunerativo" y "no bonificable".
+
+Que la COMISION TECNICA ASESORA DE POLITICA SALARIAL DEL SECTOR PUBLICO, ha tomado la intervención que le compete.
+
+Que la presente medida comenzará a regir a partir del primer día del mes siguiente al de la fecha en que hubiera sido dispuesta, en virtud de lo establecido por el artículo 62 de la Ley N° 11.672 Complementaria Permanente de Presupuesto (t.o. 2005).
+
+Que la DIRECCION GENERAL DE ASUNTOS JURIDICOS del MINISTERIO DE DEFENSA ha tomado la intervención que le compete.
+
+Que la presente medida se dicta en virtud de las atribuciones emergentes del artículo 99, inciso 1, de la CONSTITUCION DE LA NACION ARGENTINA.
+
+Por ello,
+
+EL PRESIDENTE DE LA NACION ARGENTINA
+
+DECRETA:
+
+## Artículo 1º
+
+Créase, para el personal Integrante del Régimen para el Personal de Investigación y Desarrollos de las Fuerzas Armadas, un "Suplemento Especial No Remunerativo y No Bonificable" equivalente a una suma fija, de acuerdo a la escala que se detalla en los Anexos I y II de la presente medida.
+
+(Por art. 3° del Decreto N° 210/2017 B.O. 29/3/2017 se deroga el “Suplemento Especial No Remunerativo y No Bonificable” establecido por el presente Decreto y su modificatorio, a partir de la firma del Decreto de referencia)
+
+(Nota Infoleg: por art. 1° del Decreto N° 210/2017 B.O. 29/3/2017 se incorpora a la Asignación Básica de los agentes comprendidos en el RÉGIMEN PARA EL PERSONAL DE INVESTIGACIÓN Y DESARROLLOS DE LAS FUERZAS ARMADAS (Decreto N° 4381/73) el TREINTA Y TRES POR CIENTO (33 %), del monto mensual correspondiente al “Suplemento Especial No Remunerativo y No Bonificable”, creado por el presente Decreto. La referida incorporación se instrumenta por medio del Sueldo y la Compensación por Gastos en los valores que constan para cada uno de esos conceptos en la grilla del Anexo I (IF-2017-03791681-APN-SSCA#MD) a la medida de referencia, formalizando así la nueva Asignación Básica de cada grupo y categoría.)
+
+(Nota Infoleg: por art. 2° del Decreto N° 210/2017 B.O. 29/3/2017 se convierte, a partir de la firma del Decreto de referencia, el monto restante del “Suplemento Especial No Remunerativo y No Bonificable”, en un “Suplemento Especial Remunerativo y No Bonificable” de acuerdo a la escala que se establece en el Anexo II (IF-2017-03791600-APN-SSCA#MD) del mismo. Con la finalidad de contribuir a la compensación del costo que representan los aportes personales establecidos por Ley, se estableció por cada UN PESO ($1) que corresponda al personal beneficiario del Suplemento Especial referido en el párrafo precedente, UN PESO CON VEINTIDOS CENTAVOS ($ 1,22).)
+
+## Art. 2º
+
+La COMISION TECNICA ASESORA DE POLITICA SALARIAL DEL SECTOR PUBLICO, será el área de interpretación con facultades para dictar las normas aclaratorias del presente decreto, en los temas específicos.
+
+## Art. 3º
+
+El gasto emergente de la aplicación de la medida que se propicia será imputado al presupuesto vigente para el Ejercicio 2005 de las Subjurisdicciones 45.20 — MINISTERIO DE DEFENSA — Programa 17 — DESARROLLO TECNOLOGICO PARA LA DEFENSA y 45.22 — ESTADO MAYOR GENERAL DE LA ARMADA — Programa 16 — CAPACIDAD OPERACIONAL DE LA ARMADA.
+
+## Art. 4º
+
+Comuníquese, publíquese, dése a la DIRECCION NACIONAL DEL REGISTRO OFICIAL y archívese. — KIRCHNER. — José J. B. Pampuro.
+
+## ANEXO I
+
+(Anexo sustituido por art. 1° del Decreto N° 430/2009 B.O. 7/5/2009)
+
+PROFESIONALES QUE REALIZAN INVESTIGACION CIENTIFICA Y PROFESIONALES QUE REALIZAN DESARROLLOS TECNOLOGICOS DECRETO Nº 4381 DEL 15 DE MAYO DE 1973 Y SUS MODIFICATORIOS "SUPLEMENTO ESPECIAL NO REMUNERATIVO Y NO BONIFICABLE"
+
+[imagen: https://servicios.infoleg.gob.ar/infolegInternet/anexos/110000-114999/110968/dto430-7-5-2009-1.jpg]
+
+[imagen: https://servicios.infoleg.gob.ar/infolegInternet/anexos/110000-114999/110968/dto430-7-5-2009-2.jpg]
+
+## ANEXO II
+
+(Anexo sustituido por art. 1° del Decreto N° 430/2009 B.O. 7/5/2009)
+
+PROFESIONALES QUE REALIZAN TAREAS DE PLANIFICACION, EVALUACION Y CONTROL DE GESTION DE LOS PROGRAMAS CIENTIFICOS Y TECNOLOGICOS Y PROFESIONALES, TECNICOS Y ARTESANOS QUE REALIZAN TAREAS DE APOYO A LA EJECUCION DE LOS PROGRAMAS DE INVESTIGACION CIENTIFICA Y DESARROLLOS TECNOLOGICOS DECRETO Nº 4381 DEL 15 DE MAYO DE 1973 Y SUS MODIFICATORIOS "SUPLEMENTO ESPECIAL NO REMUNERATIVO Y NO BONIFICABLE"
+
+[imagen: https://servicios.infoleg.gob.ar/infolegInternet/anexos/110000-114999/110968/dto430-7-5-2009-3.jpg]

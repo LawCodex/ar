@@ -1,0 +1,57 @@
+---
+title: "Decreto 1000/1998: ADMINISTRACION FEDERAL DE INGRESOS PUBLICOS — ADQUISICION O ARRENDAMIENTO DE BIENES"
+identifier: "Decreto 1000/1998"
+infoleg_id: "52653"
+type: decree
+jurisdiction: ar
+language: es
+date: 1998-08-27
+published: 1998-09-01
+boletin_oficial: "28970"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: unknown
+text_version: "texto actualizado"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=52653"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/50000-54999/52653/texact.htm"
+retrieved: 2026-10-12
+---
+
+# Decreto 1000/1998: ADMINISTRACION FEDERAL DE INGRESOS PUBLICOS — ADQUISICION O ARRENDAMIENTO DE BIENES
+
+ADMINISTRACION FEDERAL DE INGRESOS PUBLICOS
+
+Decreto 1000/98
+
+Exceptúase al citado Organismo de las disposiciones contenidas en el Decreto Nº 856/98 referidas a la intervención previa de la Secretaría de la Función Pública en los proyectos de adquisición o arrendamiento de bienes y servicios de carácter informático y sus comunicaciones asociadas.
+
+Bs. As., 27/8/98
+
+VISTO el Decreto Nº 660 del 24 de junio de 1996 y sus modificatorios Nros. 998 del 30 de agosto de 1996, 1118 del 24 de octubre de 1997 y 856 del 22 de julio de 1998 y el Decreto Nº 1316 del 2 de diciembre de 1997, y
+
+CONSIDERANDO:
+
+Que en función de lo dispuesto por el Decreto Nº 856 del 22 de julio de 1998 se estableció la intervención previa de la SECRETARTA DE LA FUNCION PUBLICA de la JEFATURA DE GABINETE DE MINISTROS en los proyectos de adquisición o arrendamiento de bienes y servicios de carácter informático y sus comunicaciones asociadas, de los organismos de la Administración Nacional, tanto centralizada como descentralizada.
+
+Que no obstante ello, la ADMINISTRACION FEDERAL DE INGRESOS PUBLICOS, organismo autárquico dependiente del MINISTERIO DE ECONOMIA Y OBRAS Y SERVICIOS PUBLICOS, estaba exceptuada de este trámite por el término de duración del Contrato de Préstamo suscripto con el BANCO INTERAMERICANO DE DESARROLLO, aprobado por Decreto Nº 1156/97, por el que se otorgara financiamiento para el Programa de Apoyo para la Institucionalización del Organismo, en virtud de lo dispuesto por el Decreto Nº 1316 del 2 de diciembre de 1997.
+
+Que atento las disposiciones del Decreto Nº 856 del 22 de julio de 1998, y frente a lo establecido por el Decreto Nº 1156/97, resulta necesario disponer una nueva excepción para la ADMINISTRACION FEDERAL DE INGRESOS PUBLICOS con similares alcances a la que fuera oportunamente establecida a través del Decreto Nº 1316/97.
+
+Que la DIRECCION GENERAL DE ASUNTOS JURIDICOS del MINISTERIO DE ECONOMIA Y OBRAS Y SERVICIOS PUBLICOS ha tomado la intervención que le compete.
+
+Que el presente se dicta en virtud de lo dispuesto por el artículo 99, inciso 1, de la CONSTITUCION NACIONAL.
+
+Por ello,
+
+EL PRESIDENTE DE LA NACION ARGENTINA
+
+DECRETA:
+
+## Artículo 1°
+
+Exceptúase a la ADMINISTRACION FEDERAL DE INGRESOS PUBLICOS de las disposiciones del Decreto N° 856/98, salvo en lo que disponen sus artículos 12 y 13, a partir de la entrada en vigencia de la citada norma y por el término de duración del Contrato de Préstamo aprobado por el Decreto N° 1156/97.
+
+(Artículo sustituido por art. 1º del Decreto Nº 3/99 B.O. 12/01/1999)
+
+## Art. 2°
+
+Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese. — MENEM. — Jorge A. Rodríguez. — Roque B. Fernández.

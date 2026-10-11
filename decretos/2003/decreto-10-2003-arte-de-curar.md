@@ -1,0 +1,233 @@
+---
+title: "Decreto 10/2003: ARTE DE CURAR — LEY 17132 ARTS. 21 Y 31 - REGLAMENTACION"
+identifier: "Decreto 10/2003"
+infoleg_id: "81097"
+type: decree
+jurisdiction: ar
+language: es
+date: 2003-01-03
+published: 2003-01-06
+boletin_oficial: "30061"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: unknown
+text_version: "texto actualizado"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=81097"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/80000-84999/81097/texact.htm"
+retrieved: 2026-10-12
+---
+
+# Decreto 10/2003: ARTE DE CURAR — LEY 17132 ARTS. 21 Y 31 - REGLAMENTACION
+
+ARTE DE CURAR
+
+Decreto 10/2003
+
+Apruébase la Reglamentación de los Artículos 21 y 31 de la Ley N° 17.132, sustituidos por su similar N° 23.873.
+
+Bs. As., 3/1/2003
+
+VISTO el Expediente N° 2002-15590/93-0 del registro del ex-MINISTERIO DE SALUD Y ACCION SOCIAL y la Ley N° 17.132 que establece las Normas para el Ejercicio de la Medicina, Odontología y Actividades de Colaboración. modificada por la Ley N° 23.873, y
+
+CONSIDERANDO:
+
+Que el texto de los artículos 21 y 31 de la Ley N° 17.132, sobre las Especialidades Médicas y Odontológicas respectivamente fue sustituido por su similar N° 23.873.
+
+Que, como consecuencia de ello, el MINISTERIO DE SALUD propicia la reglamentación de los referidos artículos basándose en la simplificación de los trámites y la transparencia de las gestiones.
+
+Que la instauración de dichos procedimientos posibilitará la compatibilización normativa en las distintas jurisdicciones y en el ámbito regional.
+
+Que se propone la participación de entidades representativas de la CAPITAL FEDERAL en el asesoramiento a los órganos de aplicación.
+
+Que es conveniente autorizar al citado Ministerio, a través de la SECRETARIA DE POLITICAS, REGULACION Y RELACIONES SANITARIAS, para dictar las normas complementarias, aclaratorias o interpretativas que requiera la aplicación del presente Decreto.
+
+Que la DIRECCION GENERAL DE ASUNTOS JURIDICOS del MINISTERIO DE SALUD ha tomado la intervención de su competencia.
+
+Que la presente medida se dicta en uso de las atribuciones conferidas por el artículo 99, inciso 2) de la CONSTITUCION NACIONAL.
+
+Por ello.
+
+EL PRESIDENTE DE LA NACION ARGENTINA
+
+DECRETA:
+
+## Artículo 1°
+
+Apruébase la Reglamentación de los Artículos 21 y 31 de la Ley N° 17.132, sustituidos por el similar N° 23.873, que como Anexos I y II respectivamente integran el presente Decreto.
+
+## Art. 2°
+
+Facúltase al MINISTERIO DE SALUD para dictar las normas complementarias, aclaratorias o interpretativas que requiera su aplicación.
+
+## Art. 3°
+
+Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese. — DUHALDE. — Alfredo N. Atanasof. — Ginés M. González García.
+
+## ANEXO I — REGLAMENTACION DEL ARTICULO 21 DE LA LEY N° 17.132 MODIFICADA POR LA LEY N° 23.873 – ESPECIALIDADES MEDICAS
+
+## ARTICULO 21
+
+Inciso a):
+
+Las Comisiones Especiales de Evaluación de Especialidades Médicas designadas para cada especialidad por la Autoridad Sanitaria de Aplicación, serán convocadas por ésta UNA (1) vez al año y estarán integradas por:
+
+DOS (2) representantes del MINISTERIO DE SALUD-SUBSECRETARIA DE POLITICAS, REGULACION Y FISCALIZACION.
+
+UN (1) representante del MINISTERIO DE SALUD -DIRECCION NACIONAL DE POLITICAS DE RECURSOS HUMANOS EN SALUD.
+
+UN (1) representante del Area de Salud del GOBIERNO DE LA CIUDAD AUTONOMA DE BUENOS AIRES -DIRECCION DE CAPACITACION.
+
+UN (1) representante de la FACULTAD DE MEDICINA de la UNIVERSIDAD NACIONAL DE BUENOS AIRES (UBA).
+
+UN (1) representante de la FEDERACION MEDICA GREMIAL DE LA CAPITAL FEDERAL (FEMECA).
+
+UN (1) representante del COLEGIO o SOCIEDAD CIENTIFICA de mayor relevancia de la especialidad a ser evaluada o a requerimiento de la SOCIEDAD CIENTIFICA convocada, podrá participar UN (1) representante de la ASOCIACION MEDICA ARGENTINA (AMA).
+
+UN (1) representante de la ASOCIACION DE MEDICOS MUNICIPALES DE LA CIUDAD DE BUENOS AIRES (AMM).
+
+(Integración de las Comisiones sustituida por art. 1° del Decreto N° 587/2004 B.O. 12/5/2004).
+
+Las Comisiones Especiales de Evaluación por Especialidad designarán el Jurado que evaluará los títulos, antecedentes, trabajos y exámenes teórico prácticos de los aspirantes al título o certificado de especialistas en las condiciones previstas reglamentariamente por la Autoridad de Aplicación.
+
+El procedimiento de evaluación constará de TRES (3) etapas sucesivas y excluyentes a saber:
+
+La primera consistirá en una entrevista personal del postulante y la evaluación de sus antecedentes curriculares los que deberán demostrar no menos de CINCO (5) años de graduado en una Universidad Nacional o Privada reconocida por el ESTADO NACIONAL, el ejercicio efectivo de la profesión por igual período y no menos de TRES (3) años consecutivos e inmediatos anteriores a la fecha de solicitud en el ejercicio de la Especialidad de que se trate.
+
+Los postulantes recibidos en una Universidad Extranjera deberán acreditar, además de los antecedentes aludidos precedentemente, título revalidado o convalidado por una Universidad Nacional.
+
+En todos los casos, la certificación de antigüedad en el ejercicio de la especialidad requerirá el cumplimiento mínimo de VEINTE (20) horas semanales y DOSCIENTOS (200) días por año calendario de actividad certificada y un mínimo de prácticas de baja, mediana y alta complejidad prescriptas reglamentariamente, en servicios hospitalarios de instituciones públicas o privadas aprobados y reconocidos por la Autoridad de Aplicación.
+
+Los requisitos de aprobación de los servicios para la formación supervisada de especialistas, la verificación periódica del mantenimiento de las condiciones originarias y su caducidad en caso contrario, serán reglamentados por la Autoridad de Aplicación con la participación de los integrantes de las Comisiones Especiales de Evaluación.
+
+Aprobada la primera etapa sobreviene la segunda, en la que el postulante deberá rendir examen escrito sobre los temas que refieren los programas de formación de la especialidad reconocidos por la Autoridad de Aplicación, que será aprobado cuando su valoración sea igual o superior al SETENTA POR CIENTO (70%) del sistema de evaluación previsto reglamentariamente.
+
+Superadas ambas etapas el postulante accederá a la tercera etapa, en la que deberá rendir un examen teórico práctico consistente en el análisis oral de uno o varios casos clínicos y en la realización de prácticas que podrá solicitar la Comisión Evaluadora, siempre que no se afecte la autonomía de los pacientes ni su integridad psicofísica y se cuente con su consentimiento informado por escrito de ser necesario, examen que aprobará cuando la puntuación sea igual o superior a SIETE (7) puntos en una escala de UNO (1) a DIEZ (10) del sistema de calificación establecido.
+
+Inciso b):
+
+De los Títulos o Certificados de "Especialistas de Postgrado" otorgados o revalidados por Universidades Nacionales o Privadas reconocidas por el Estado Nacional, sólo se inscribirán aquéllos incluidos en la nómina de Especialidades Médicas reconocidas y aprobadas por el MINISTERIO DE SALUD, que actualizará periódicamente con la participación de las Universidades e Instituciones previamente reconocidas.
+
+Inciso c):
+
+Comprenderá a los profesores universitarios en actividad que revisten en las categorías siguientes:
+
+I) Profesor Titular
+
+II) Profesor Asociado
+
+III) Profesor Adjunto
+
+Los docentes de Universidades Nacionales deberán acreditar su ingreso a la cátedra por concurso. conforme lo establece el artículo 51 de la Ley N° 24.521.
+
+Los docentes de Universidades Privadas. Deberán acreditar el carácter de docente regular de la materia y su designación por el procedimiento reglado por el Consejo Académico del establecimiento.
+
+Inciso d):
+
+Las Entidades Científicas de la Especialidad (Colegios, Sociedades, Asociaciones y/o Federaciones) que soliciten ser reconocidas por la Autoridad de Aplicación a efectos de otorgar Títulos o Certificados de Especialista deberán acreditar los siguientes requisitos:
+
+I) Personería Jurídica, representatividad, jerarquía científica y actuación en el medio.
+
+II) Los límites del área en que se especializan, y observar que la reglamentación sobre certificación de especialidades médicas, reúna los recaudos que se enumeran:
+
+1) No se oponga a las prescripciones del inc. a) del presente artículo, en cuanto a requisitos, antecedentes, servicios acreditados, formación en los mismos, antigüedad en el ejercicio de la Profesión y de la Especialidad.
+
+2) Que en caso de comprender la realización de un curso, será obligatoria la evaluación final teórico práctica y personal del postulante. Debiendo sus curriculas contar con la previa aprobación de la Autoridad de Aplicación.
+
+3) Que la evaluación teórico práctica obligatoria se adecue a las previsiones de esta regulación,
+
+Inciso e):
+
+La Residencia Profesional completa deberá ser efectuada en un Servicio aprobado por la Autoridad de Aplicación o en aquellos que fueren reconocidos por convenios con otras jurisdicciones.
+
+El Programa de formación deberá ser aprobado por la DIRECCION NACIONAL DE POLITICAS DE RECURSOS HUMANOS EN SALUD del MINISTERIO DE SALUD quien podrá contar con el asesoramiento y participación de las Comisiones Asesoras designadas y creadas por el MINISTERIO DE SALUD. en la presente reglamentación.
+
+En todos los casos se deberá certificar el cumplimiento de un mínimo de prácticas de baja, mediana y alta complejidad, que se determinará por vía reglamentaria.
+
+Los Médicos Residentes tendrán una evaluación anual obligatoria y otra final, en la que podrán intervenir en carácter de veedores los integrantes de las Comisiones Especiales de Evaluación de Especialidades Médicas.
+
+EL MINISTERIO DE SALUD, a través de la SECRETARIA DE POLITICAS, REGULACION Y RELACIONES SANITARIAS, creará una Comisión Asesora de Especialidades Médicas la que estará integrada por representantes de las áreas de esa Secretaría; del GOBIERNO DE LA CIUDAD AUTONOMA DE BUENOS AIRES; de las Universidades Nacionales o Privadas que dicten cursos o carreras de postgrado que hagan al quehacer sanitario; de las Asociaciones Profesionales y de las Entidades Científicas y Gremiales más representativas, que lo asesorará en la elaboración de normas de procedimiento para la certificación de los títulos de especialistas médicos, la nómina de especialidades médicas, su actualización y registro de profesionales especialistas. (Párrafo sustituido por art. 3° del Decreto N° 587/2004 B.O. 12/5/2004).
+
+## ANEXO II — REGLAMENTACION DEL ARTICULO 31 DE LA LEY N° 17.132 MODIFICADA POR LA LEY N° 23.873 – ESPECIALIDADES ODONTOLOGICAS
+
+## ARTICULO 31
+
+Inciso a):
+
+Las Comisiones Especiales de Evaluación de Especialidades Odontológicas designadas para cada especialidad por la Autoridad Sanitaria de Aplicación serán convocadas por ésta UNA (1) vez al año y estarán integradas por:
+
+DOS (2) representantes del MINISTERIO DE SALUD-SUBSECRETARIA DE POLITICAS, REGULACION Y FISCALIZACION.
+
+DOS (2) representantes del MINISTERIO DE SALUD -AREA DE ODONTOLOGIA Y DIRECCION NACIONAL DE POLITICAS DE RECURSOS HUMANOS EN SALUD.
+
+DOS (2) representantes del GOBIERNO DE LA CIUDAD AUTONOMA DE BUENOS AIRES -SECRETARIA DE SALUD.
+
+UN (1) representante de la FACULTAD DE ODONTOLOGIA de la UNIVERSIDAD NACIONAL DE BUENOS AIRES (UBA).
+
+UN (1) representante designado por la FEDERACION ODONTOLOGICA DE LA CIUDAD DE BUENOS AIRES.
+
+UN (1) representante de la CONFEDERACION ODONTOLOGICA DE LA REPUBLICA ARGENTINA (CORA).
+
+UN (1) representante del COLEGIO o SOCIEDAD CIENTIFICA de mayor relevancia de la especialidad a ser evaluada.
+
+UN (1) representante de la agrupación de profesionales odontólogos del GOBIERNO DE LA CIUDAD DE BUENOS AIRES, más representativa en número de afiliados y con personería gremial reconocida.
+
+(Integración de las Comisiones sustituida por art. 2° del Decreto N° 587/2004 B.O. 12/5/2004).
+
+Las Comisiones Especiales de Evaluación por Especialidad designarán el Jurado que evaluará los títulos, antecedentes, trabajos y exámenes teórico prácticos de los aspirantes al título o certificado de especialista, en las condiciones previstas reglamentariamente por la Autoridad de Aplicación.
+
+El procedimiento de evaluación constará de TRES (3) etapas sucesivas y excluyentes a saber:
+
+La primera consistirá en una entrevista personal del postulante y la evaluación de sus antecedentes curriculares, los que deberán demostrar no menos de CINCO (5) años de graduado en una Universidad Nacional o Privada reconocida por el ESTADO NACIONAL, el ejercicio efectivo de la profesión por igual período y no menos de TRES (3) años consecutivos e inmediatos anteriores a la fecha de solicitud en el ejercicio de la Especialidad de que se trate.
+
+Los postulantes recibidos en una Universidad Extranjera deberán acreditar, además de los antecedentes aludidos precedentemente, título revalidado o convalidado por Universidad Nacional.
+
+En todos los casos la certificación de antigüedad en el ejercicio de la especialidad requerirá el cumplimiento horario que establecerá cada institución y que no podrá ser menor a DIEZ (10) horas semanales, CUARENTA (40) horas mensuales y DIEZ (10) meses por año calendario de actividad certificada, y un mínimo de prácticas de baja, mediana y alta complejidad según prescripción reglamentaria, en servicios hospitalarios de instituciones públicas o privadas aprobados y reconocidos por la Autoridad de Aplicación.
+
+Los requisitos de aprobación de los servicios para la formación supervisada de especialistas, la verificación periódica del mantenimiento de las condiciones originarias y su caducidad en caso contrario, serán reglamentados por la Autoridad de Aplicación con la participación de los integrantes de las Comisiones Especiales de Evaluación.
+
+Aprobada la primera etapa sobreviene la segunda, en la que el postulante deberá rendir examen escrito sobre los temas que refieren los programas de formación de la especialidad reconocidos por la Autoridad de Aplicación, que será aprobado cuando su valoración sea igual o superior al SETENTA POR CIENTO (70%) del sistema de evaluación previsto reglamentariamente
+
+Superadas ambas etapas el postulante accederá a la tercera etapa, en la que deberá rendir un examen teórico práctico consistente en el análisis oral de uno o varios casos clínicos y en la realización de prácticas que podrá solicitar la Comisión Evaluadora, siempre que no se afecte la autonomía de los pacientes ni su integridad psicofísica y se cuente con su consentimiento informado por escrito de ser necesario, examen que aprobará cuando la puntuación sea igual o superior a SIETE (7) puntos en una escala de UNO (1) a DIEZ (10) del sistema de calificación establecido.
+
+Inciso b):
+
+De los Títulos o Certificados de "Especialistas de Postgrado" otorgados o revalidados por Universidades Nacionales o Privadas reconocidas por el Estado Nacional, sólo se inscribirán aquellos incluidos en la nómina de Especialidades Odontológicas reconocidas y aprobadas por el MINISTERIO DE SALUD. que actualizará periódicamente con la participación de las Universidades e Instituciones previamente reconocidas.
+
+Inciso c):
+
+Comprenderá a los profesores universitarios en actividad que revisten en las categorías siguientes:
+
+I) Profesor Titular
+
+II) Profesor Asociado
+
+III) Profesor Adjunto
+
+Los docentes de Universidades Nacionales deberán acreditar su ingreso a la cátedra por concurso, conforme lo establece el artículo 51 de la Ley N° 24.521.
+
+Los docentes de Universidades Privadas deberán acreditar el carácter de docente regular de la materia y su designación por el procedimiento reglado por el Consejo Académico del establecimiento.
+
+Inciso d):
+
+Las Entidades Científicas de la Especialidad (Colegios, Sociedades, Asociaciones y/o Federaciones) que soliciten ser reconocidas por la Autoridad de Aplicación a efectos de otorgar Títulos o Certificados de Especialista, deberán acreditar los siguientes requisitos:
+
+I) Personería Jurídica, representatividad, jerarquía científica y actuación en el medio.
+
+II) Los límites del área en que se especializan, y observar que la reglamentación sobre certificación de especialidades odontológicas, reúna los recaudos que se enumeran:
+
+1) No se oponga a las prescripciones del inc. a, del presente artículo en cuanto a requisitos, antecedentes, servicios acreditados, formación en los mismos, antigüedad en el ejercicio de la Profesión y de la Especialidad.
+
+2) Que en caso de comprender la realización de un curso, será obligatorio la evaluación final teórico práctica y personal del postulante. Debiendo sus currículas contar con la previa aprobación de la Autoridad de Aplicación.
+
+3) Que la evaluación teórico práctica obligatoria se adecue a las previsiones de esta regulación.
+
+Inciso e):
+
+La Residencia Profesional completa deberá ser efectuada en un Servicio aprobado por la Autoridad de Aplicación o en aquellos que fueren reconocidos por convenios con otras jurisdicciones.
+
+El Programa de formación deberá ser aprobado por la DIRECCION NACIONAL DE POLITICAS DE RECURSOS HUMANOS EN SALUD del MINISTERIO DE SALUD quien podrá contar con el asesoramiento y participación de las Comisiones Asesoras designadas y creadas por el MINISTERIO DE SALUD, en la presente reglamentación.
+
+En todos los casos se deberá certificar el cumplimiento de un mínimo de prácticas de baja, mediana y alta complejidad, que se determinará por vía reglamentaria.
+
+Los Odontólogos Residentes tendrán una evaluación anual obligatoria y otra final, en la que podrán intervenir en carácter de veedores los integrantes de las Comisiones Especiales de Evaluación de Especialidades Odontológicas.
+
+EL MINISTERIO DE SALUD, a través de la SECRETARIA DE POLITICAS, REGULACION Y RELACIONES SANITARIAS, creará una Comisión Asesora de Especialidades Odontológicas, la que estará integrada por representantes de las áreas de esa Secretaría; del GOBIERNO DE LA CIUDAD AUTONOMA DE BUENOS AIRES; de las Universidades Nacionales o Privadas que dicten cursos o carreras de postgrado que hagan al quehacer específico; de las Asociaciones Profesionales y de las Entidades Científicas y Gremiales más representativas, que lo asesorará en la elaboración de normas de procedimiento para la certificación de los títulos de especialistas odontólogos, la nómina de especialidades odontológicas, su actualización y registro de profesionales especialistas. (Párrafo sustituido por art. 4° del Decreto N° 587/2004 B.O. 12/5/2004).

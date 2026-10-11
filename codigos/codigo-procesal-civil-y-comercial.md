@@ -9,9 +9,9 @@ date: 1967-09-20
 published: 1967-11-07
 boletin_oficial: "21308"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
-saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
-saij_url: "https://www.saij.gob.ar/ley-17454-nacional-codigo-procesal-civil-comercial-nacion-lns0001159-1981-08-18"
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/codigo-procesal-civil-comercial-17454-nacional-codigo-procesal-civil-comercial-nacion-lns0004592-1981-08-18"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=16547"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/15000-19999/16547/texact.htm"

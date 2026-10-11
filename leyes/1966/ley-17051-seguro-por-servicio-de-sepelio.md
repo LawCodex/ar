@@ -1,0 +1,64 @@
+---
+title: "Ley 17051: SEGURO POR SERVICIO DE SEPELIO"
+identifier: "Ley 17051"
+saij_id: "123456789-0abc-defg-g88-21000scanyel"
+type: act
+jurisdiction: ar
+language: es
+date: 1966-12-02
+published: 1966-12-13
+status: in_force
+saij_status: "Vigente, de alcance general"
+text_version: "texto SAIJ (InfoLEG has no online text for this norm)"
+source: "https://www.saij.gob.ar/ley-17051-nacional-seguro-servicio-sepelio-lns0001288-1966-12-02"
+source_text: "https://www.saij.gob.ar/view-document?guid=123456789-0abc-defg-g88-21000scanyel"
+retrieved: 2026-10-12
+---
+
+# Ley 17051: SEGURO POR SERVICIO DE SEPELIO
+
+En uso de las atribuciones conferidas por el artículo 5 del Estatuto de la Revolución Argentina, EL PRESIDENTE DE LA NACION ARGENTINA SANCIONA Y PROMULGA CON FUERZA DE LEY:
+
+###### Artículo 1
+
+Declárese comprendidas en las disposiciones del Régimen legal de superintendencia de seguros (Ley 11.672, edición 1943, artículo 150, texto ordenado en 1962) y de su decreto reglamentario 23.350/39, por la naturaleza aseguradora de sus actividades, a las entidades ya sean sociedades anónimas, cooperativas, mutuas, personas o sociedades de cualquier otra naturaleza jurídica, que en el territorio de la República realicen operaciones por las que se convenga, contra el previo pago de una cuota o cotización periódica, atender a la prestación del servicio de sepelio a la muerte de la persona incluida en el contrato respectivo.
+
+###### Artículo 2
+
+Prohíbese a las mismas la celebración de nuevos contratos, bajo apercibimiento de hacerse pasibles de la multa prevista en el punto 14 del Régimen legal de superintendencia de seguros de (Ley 11.672, edición 1943, artículo 150, texto ordenado en 1962).
+
+###### Artículo 3
+
+Las personas o entidades comprendidas en esta ley deberán presentar a la Superintendencia de Seguros de la Nación, dentro del plazo de treinta (30) días las domiciliadas en la Capital Federal y sesenta (60) días las domiciliadas en el interior de la República, el plan de adecuación al Régimen legal de superintendencia de seguros y demás disposiciones dictadas o que se dicten en su consecuencia, de la actividad aseguradora desarrollada hasta el presente, salvo que en el mismo plazo demuestren haber cesado totalmente en la explotación desarrollada al margen de las normas vigentes y que no subsista responsabilidad alguna a su cargo en razón de la misma o que se hallan en curso de total finiquitación las cuestiones que quedaren pendientes.
+
+###### Artículo 4
+
+Aceptado por la Superintendencia de Seguros el plan a que se refiere el artículo anterior, las correspondientes solicitudes de personería jurídica o de inscripción en el "Registro de Entidades de Seguros" a su cargo, según corresponda, deberán presentarlas a dicho Organismo dentro del plazo de sesenta (60) días, las entidades que fijen como sede social la Capital Federal y de noventa (90) días las que lo hagan en el interior de la República.
+
+###### Artículo 5
+
+Las entidades que no se ajusten a lo establecido en los artículos 3 y 4 o cuyo plan de adecuación no sea aceptado por la Superintendencia de Seguros se considerarán disueltas de pleno derecho y entrarán en liquidación. Las personas de existencia visible, en iguales circunstancias, cesarán en su actividad y liquidarán sus operaciones. Los contratos vigentes deberán ser rescindidos dentro de los diez (10) días siguientes.
+
+###### Artículo 6
+
+La entidad a quien la Superintendencia de Seguros deniegue la inscripción como aseguradora y, en su caso, la sociedad o persona que le hubiere dado origen como consecuencia del plan a que se refiere el artículo 3, se considerarán en idéntica situación que la preceptuada en el artículo 5 y sujetas a la misma obligación de liquidar sus operaciones. Los contratos vigentes deberán ser rescindidos también en este caso, dentro de los diez (10) días.
+
+###### Artículo 7
+
+Los representantes legales, administradores y directores de las entidades, así como las personas comprendidas en la presente ley que cesen sus actividades por aplicación de lo dispuesto en los artículo 2, 3, 5 ó 6, serán responsables, en su caso, solidaria e ilimitadamente, ante los asegurados o adherentes y ante toda persona con quien hubieren contratado, por los perjuicios que puedan haberse ocasionado a raíz de las operaciones realizadas al margen del Régimen legal de superintendencia de seguros. Asimismo quedarán obligados hacia el Estado (nacional, provincial o municipal) por los impuestos, tasas y toda otra contribución que se adeudare en razón de los contratos celebrados.
+
+###### Artículo 8
+
+Cuando las entidades comprendidas en la presente ley se encuentren disueltas de pleno derecho por imperio de lo establecido en los artículos anteriores y no precedan a su inmediata liquidación, no obstante la intimación que en tal sentido les formule la Superintendencia de Seguros, ésta se presentará comunicando dicha circunstancia al juez federal con jurisdicción en el domicilio de las mismas, quien designará, sin más trámite, un liquidador judicial.
+
+Si se trata de personas de existencia visibles que no hubieren cesado en su actitud y liquidado sus operaciones conforme lo dispone la presente ley, el juez, a requerimiento de la Superintendencia de Seguros, designará igualmente un liquidador judicial a dichos efectos.
+
+###### Artículo 9
+
+La presente ley entrará en vigor en todo el país a partir de la fecha.
+
+###### Artículo 10
+
+Comuníquese, publíquese, dése a la DIRECCION NACIONAL DEL REGISTRO OFICIAL y archívese.
+
+[[p]] ONGANIA - Salimei[[/p]]

@@ -360,6 +360,8 @@ def main():
             typ = "act"
             label = "Ley %s" % num
             st = saij.get(("LEY", num)) or saij.get(("CODE", num))
+            if num in CODES and saij.get(("CODE", num)):
+                st = saij[("CODE", num)]
             if num in CODES and nid not in ("",):
                 slug, ctitle = CODES[num]
                 if slug == "constitucion":

@@ -1,0 +1,140 @@
+---
+title: "Decreto 1023/2012: MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS — DECRETO 1486/11 - MODIFICACION"
+identifier: "Decreto 1023/2012"
+infoleg_id: "199410"
+type: decree
+jurisdiction: ar
+language: es
+date: 2012-07-02
+published: 2012-07-11
+boletin_oficial: "32435"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: unknown
+text_version: "texto actualizado"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=199410"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/199410/texact.htm"
+retrieved: 2026-10-12
+---
+
+# Decreto 1023/2012: MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS — DECRETO 1486/11 - MODIFICACION
+
+MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS
+
+Decreto 1023/2012
+
+Secretaría de Asuntos Registrales. Organigrama. Modifícase el Decreto Nº 1486/11.
+
+Bs. As., 2/7/2012
+
+VISTO el Expediente Nº S04:0061795/2011 del registro del MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS, la Ley Nº 26.728, los Decretos Nros. 8 del 6 de enero de 2011, 826 del 17 de junio de 2011 y 1486 del 23 de setiembre de 2011 y sus modificatorios, y
+
+CONSIDERANDO:
+
+Que a través del Decreto Nº 8/11 se reordenaron las responsabilidades de las áreas del MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS, y se creó la SUBSECRETARIA DE COORDINACION Y CONTROL DE GESTION REGISTRAL, dependiente de la SECRETARIA DE ASUNTOS REGISTRALES, y entre las competencias asignadas se encuentran las de entender en la coordinación y en el control de gestión de los Registros a cargo del mencionado Ministerio.
+
+Que por el Decreto Nº 1486/11 y sus modificatorios se aprobó la estructura organizativa de primer nivel operativo del MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS.
+
+Que por el Decreto Nº 826/11 se creó el REGISTRO NACIONAL DE BIENES SECUESTRADOS Y DECOMISADOS DURANTE EL PROCESO PENAL, que tiene por objeto la identificación, registro, valuación y localización de la totalidad de los bienes secuestrados, decomisados o afectados a una medida cautelar en el marco de un proceso penal.
+
+Que el mencionado Registro responde al esquema normativo nacional e internacional en la materia, mediante la centralización de la información a los efectos de avanzar en un adecuado proceder para posibilitar la recuperación de activos de origen ilícito, haciendo eco, a su vez, de los señalamientos efectuados en el ámbito internacional.
+
+Que dicha medida implica el fortalecimiento de políticas públicas de transparencia, al mismo tiempo que aporta una herramienta para el conocimiento y control de los bienes secuestrados, decomisados o afectados a una medida cautelar en el marco de un proceso penal.
+
+Que para el cumplimiento de los objetivos mencionados resulta imprescindible incorporar a la estructura organizativa del MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS la DIRECCION NACIONAL DEL REGISTRO NACIONAL DE BIENES SECUESTRADOS Y DECOMISADOS DURANTE EL PROCESO PENAL en la órbita de la SUBSECRETARIA DE COORDINACION Y CONTROL DE GESTION REGISTRAL, dependiente de la SECRETARIA DE ASUNTOS REGISTRALES del mencionado Ministerio.
+
+Que la medida propiciada contribuirá a lograr un adecuado cumplimiento de los criterios de eficacia y eficiencia necesarios para el logro de los objetivos estratégicos establecidos para el MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS.
+
+Que asimismo, y a fin de posibilitar la puesta en funcionamiento de la citada Dirección Nacional, resulta necesario efectuar una compensación de cargos, de acuerdo con lo establecido por el artículo 6º de la Ley Nº 26.728.
+
+Que se cuenta con el crédito necesario en el presupuesto del MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS para atender el gasto resultante de la medida que se aprueba por el presente.
+
+Que la SECRETARIA DE GABINETE Y COORDINACION ADMINISTRATIVA de la JEFATURA DE GABINETE DE MINISTROS ha tomado la intervención que le compete.
+
+Que la presente medida se dicta en uso de las facultades conferidas por el artículo 99, inciso 1, de la CONSTITUCION NACIONAL y los artículos 6º y 10 de la Ley Nº 26.728.
+
+Por ello,
+
+LA PRESIDENTA DE LA NACION ARGENTINA
+
+DECRETA:
+
+## Artículo 1º
+
+Sustitúyese el Anexo Ig —Organigrama— al artículo 1º del Decreto Nº 1486/11 y sus modificatorios, correspondiente a la SECRETARIA DE ASUNTOS REGISTRALES del MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS, el que quedará conformado de acuerdo con el Anexo al presente artículo.
+
+## Art. 2º
+
+Incorpórase al Anexo II, al artículo 1º del Decreto Nº 1486/11 y sus modificatorios, la Responsabilidad Primaria y Acciones de la DIRECCION NACIONAL DEL REGISTRO NACIONAL DE BIENES SECUESTRADOS Y DECOMISADOS DURANTE EL PROCESO PENAL, en la órbita de la SUBSECRETARIA DE COORDINACION Y CONTROL DE GESTION REGISTRAL, de la SECRETARIA DE ASUNTOS REGISTRALES del MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS, conforme al detalle que obra como Anexo al presente artículo.
+
+## Art. 3º
+
+Modifícase la distribución del PRESUPUESTO DE LA ADMINISTRACION NACIONAL - Recursos Humanos, en la parte correspondiente a la Jurisdicción 40 - MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS para el Ejercicio 2012, de acuerdo con el detalle obrante en la Planilla Anexa al presente artículo, que forma parte integrante del mismo.
+
+## Art. 4º
+
+El gasto que demande el cumplimiento de la presente medida será atendido con los créditos asignados a la Jurisdicción 40 - MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS.
+
+## Art. 5º
+
+Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese. — FERNANDEZ DE KIRCHNER. — Juan M. Abal Medina — Julio C. Alak.
+
+Anexo al artículo 1º
+
+(Anexo sustituido por art. 1° del Decreto N° 1924/2012 B.O. 17/10/2012)
+
+[imagen: https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/199410/dto1924-1.JPG]
+
+Anexo al artículo 2º
+
+MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS
+
+SECRETARIA DE ASUNTOS REGISTRALES
+
+SUBSECRETARIA DE COORDINACION Y CONTROL DE GESTION REGISTRAL
+
+DIRECCION NACIONAL DEL REGISTRO NACIONAL DE BIENES SECUESTRADOS Y DECOMISADOS DURANTE EL PROCESO PENAL
+
+RESPONSABILIDAD PRIMARIA
+
+Entender en la identificación, registración, valuación y localización de la totalidad de los bienes secuestrados, decomisados o afectados a una medida cautelar en el marco de un proceso penal.
+
+ACCIONES
+
+1\. Recibir, registrar y administrar la información enviada por las autoridades de la justicia penal federal y nacional, así como la remitida por las autoridades de la justicia penal de las provincias y de la CIUDAD AUTONOMA DE BUENOS AIRES, que adhieran al régimen previsto por el Decreto Nº 826/11, en lo concerniente a bienes secuestrados, decomisados o afectados a una medida cautelar en el marco de un proceso penal.
+
+2\. Conformar y mantener actualizado el Registro.
+
+3\. Asistir al Subsecretario en el análisis de los temas legislativos, sometidos a consideración y en la elaboración de los dispositivos normativos, relacionados a su área específica.
+
+4\. Proponer normas administrativas y de procedimiento relativas a los trámites registrales de su competencia.
+
+5\. Elaborar, ante requerimiento de autoridad competente, informes relativos a la identificación, registración, valuación y localización de los bienes sujetos a registración.
+
+6\. Confeccionar estadísticas de los bienes secuestrados, decomisados o afectados a una medida cautelar.
+
+7\. Brindar acceso a la base de datos contenida en el sistema informático del Registro al sólo efecto de consulta a la UNIDAD DE INFORMACION FINANCIERA del MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS.
+
+8\. Coordinar con las autoridades competentes la realización de tareas vinculadas a las funciones a su cargo y los procedimientos a aplicar para la mejor racionalización de los trámites registrales.
+
+9\. Promover la adhesión al régimen previsto por el Decreto Nº 826/11, de los Gobiernos Provinciales y el de la CIUDAD AUTONOMA DE BUENOS AIRES a fin de proporcionar la información correspondiente.
+
+Planilla anexa al artículo 3º
+
+PRESUPUESTO 2012
+
+RECURSOS HUMANOS
+
+JURISDICCION 40 - MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS
+
+PROGRAMA: 19 - REGULACION Y CONTROL REGISTRAL
+
+ACTIVIDAD: 01 - COORDINACION REGISTRAL
+
+| CARGO O CATEGORIA | CANTIDAD DE CARGOS |
+|---|---|
+| PERSONAL PERMANENTE |  |
+| PERSONAL DEL SINEP - Decreto Nº 2098/08 y modificatorios |  |
+| Nivel A | +1 |
+| Nivel E | -1 |
+| Subtotal Escalafón | 0 |
+| TOTAL PROGRAMA | 0 |

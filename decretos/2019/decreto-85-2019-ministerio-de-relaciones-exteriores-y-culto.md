@@ -1,0 +1,99 @@
+---
+title: "Decreto 85/2019: MINISTERIO DE RELACIONES EXTERIORES Y CULTO — DESIGNACIONES"
+identifier: "Decreto 85/2019"
+infoleg_id: "333632"
+type: decree
+jurisdiction: ar
+language: es
+date: 2019-12-27
+published: 2019-12-28
+boletin_oficial: "34272"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: unknown
+text_version: "texto actualizado"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=333632"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/330000-334999/333632/texact.htm"
+retrieved: 2026-10-12
+---
+
+# Decreto 85/2019: MINISTERIO DE RELACIONES EXTERIORES Y CULTO — DESIGNACIONES
+
+MINISTERIO DE RELACIONES EXTERIORES, COMERCIO INTERNACIONAL Y CULTO
+
+Decreto 85/2019
+
+DCTO-2019-85-APN-PTE - Designaciones.
+
+Ciudad de Buenos Aires, 27/12/2019
+
+VISTO el artículo 99, inciso 7 de la CONSTITUCIÓN NACIONAL.
+
+EL PRESIDENTE DE LA NACIÓN ARGENTINA
+
+DECRETA:
+
+## ARTÍCULO 1°
+
+Dáse por designado a partir del 10 de diciembre de 2019 en el cargo de Secretario de Relaciones Exteriores del MINISTERIO DE RELACIONES EXTERIORES, COMERCIO INTERNACIONAL Y CULTO al señor Embajador Extraordinario y Plenipotenciario Doctor D. Pablo Anselmo TETTAMANTI (D.N.I. N° 10.161.448).
+
+## ARTÍCULO 2°
+
+Dáse por designado a partir del 10 de diciembre de 2019 en el cargo de Secretario de Coordinación y Planificación Exterior del MINISTERIO DE RELACIONES EXTERIORES, COMERCIO INTERNACIONAL Y CULTO Doctor D. Rodolfo Martin YAÑEZ (D.N.I. N° 24.518.097).
+
+## ARTÍCULO 3°
+
+Dáse por designado a partir del 23 de diciembre de 2019 en el cargo de Secretario de Malvinas, Antártida y Atlántico Sur del MINISTERIO DE RELACIONES EXTERIORES, COMERCIO INTERNACIONAL Y CULTO al Licenciado D. Daniel Fernando FILMUS (D.N.I. N° 12.011.209).
+
+## ARTÍCULO 4°
+
+Dáse por designado, a partir del 27 de diciembre de 2019, en el cargo de Secretario de Relaciones Económicas Internacionales del MINISTERIO DE RELACIONES EXTERIORES, COMERCIO INTERNACIONAL Y CULTO al licenciado Jorge NEME (D.N.I. N° 7.838.558).
+
+(Artículo sustituido por art. 1° del Decreto N° 275/2020 B.O. 17/3/2020)
+
+## ARTÍCULO 5°
+
+Dáse por designado a partir del 10 de diciembre de 2019 en el cargo de Secretario de Culto del MINISTERIO DE RELACIONES EXTERIORES, COMERCIO INTERNACIONAL Y CULTO al señor Guillermo Rodolfo OLIVERI (D.N.I. N° 11.211.928).
+
+## ARTÍCULO 6°
+
+Dáse por designado, a partir del 19 de diciembre de 2019, en el cargo de Subsecretario de Asuntos Nacionales del MINISTERIO DE RELACIONES EXTERIORES, COMERCIO INTERNACIONAL Y CULTO al señor Fernando Rodrigo ASENCIO (D.N.I N° 22.629.610).
+
+(Artículo sustituido por art. 2° del Decreto N° 275/2020 B.O. 17/3/2020)
+
+## ARTÍCULO 7°
+
+Dáse por designado a partir del 19 de diciembre de 2019 en el cargo de Subsecretaria de Asuntos Legales e Institucionales del MINISTERIO DE RELACIONES EXTERIORES, COMERCIO INTERNACIONAL Y CULTO a la Doctora Da. María Inés MONZÓ (D.N.I. N° 29.826.236).
+
+## ARTÍCULO 8°
+
+Dáse por designado a partir del 10 de diciembre de 2019 en el cargo de Subsecretario de Política Exterior del MINISTERIO DE RELACIONES EXTERIORES, COMERCIO INTERNACIONAL Y CULTO al señor Embajador Extraordinario y Plenipotenciario Doctor D. José Luis Santiago PEREZ GABILONDO (D.N.I. N° 11.528.633).
+
+## ARTÍCULO 9°
+
+Dáse por designado a partir del 10 de diciembre de 2019 en el cargo de Subsecretaria del Mercosur y Negociaciones Económicas Internacionales del MINISTERIO DE RELACIONES EXTERIORES, COMERCIO INTERNACIONAL Y CULTO a la señora Embajadora Extraordinaria y Plenipotenciaria Licenciada Da. María del Carmen SQUEFF (D.N.I. N° 11.911.571).
+
+## ARTÍCULO 10
+
+Dáse por designado a partir del 19 de diciembre de 2019 en el cargo de Subsecretario de Promoción del Comercio e Inversiones del MINISTERIO DE RELACIONES EXTERIORES, COMERCIO INTERNACIONAL Y CULTO al Licenciado D. Pablo Enrique SÍVORI (D.N.I. N° 21.656.721).
+
+## ARTÍCULO 11
+
+Dáse por designado a partir del 19 de diciembre de 2019 en el cargo de Subsecretaria de Negociaciones Económicas Multilaterales y Bilaterales del MINISTERIO DE RELACIONES EXTERIORES, COMERCIO INTERNACIONAL Y CULTO a la Licenciada Da. Carola Beatriz RAMON (D.N.I. N° 23.326.887).
+
+## ARTÍCULO 12
+
+Dáse por designado a partir del 19 de diciembre de 2019 como titular de la UNIDAD GABINETE DE ASESORES del MINISTERIO DE RELACIONES EXTERIORES, COMERCIO INTERNACIONAL Y CULTO al Doctor D. Guillermo Justo CHAVES (D.N.I. N° 22.029.013).
+
+## ARTÍCULO 13
+
+Asígnase la categoría de Embajador Extraordinario y Plenipotenciario, al solo efecto del rango protocolar, conforme lo establece el artículo 6° de la Ley del Servicio Exterior de la Nación N° 20.957, a los señores D. Rodolfo Martin YAÑEZ, D. Daniel Fernando FILMUS, D. Jorge NEME, D. Guillermo Rodolfo OLIVERI, D. Fernando Rodrigo ASENCIO, D. Pablo Enrique SÍVORI, D. Guillermo Justo CHAVES y a las señoras Da. María Inés MONZÓ y Da. Carola Beatriz RAMON, mientras dure el desempeño de sus funciones en el MINISTERIO DE RELACIONES EXTERIORES, COMERCIO INTERNACIONAL Y CULTO.
+
+## ARTÍCULO 14
+
+Los gastos que demande el cumplimiento del presente decreto serán atendidos con cargo a las partidas específicas del presupuesto de la Jurisdicción 35 - MINISTERIO DE RELACIONES EXTERIORES, COMERCIO INTERNACIONAL Y CULTO.
+
+## ARTÍCULO 15
+
+Comuníquese, publíquese, dése a la DIRECCIÓN NACIONAL DEL REGISTRO OFICIAL y archívese. FERNÁNDEZ - Santiago Andrés Cafiero - Felipe Carlos Solá
+
+e. 28/12/2019 N° 100857/19 v. 28/12/2019
