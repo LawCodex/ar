@@ -1,0 +1,47 @@
+---
+title: "Ley 21779: INSTITUTO NACIONAL DE ESTADISTICAS Y CENSOS — MULTAS"
+identifier: "Ley 21779"
+infoleg_id: "113170"
+type: act
+jurisdiction: ar
+language: es
+date: 1978-04-14
+published: 1978-04-25
+boletin_oficial: "23900"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=113170"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/110000-114999/113170/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 21779: INSTITUTO NACIONAL DE ESTADISTICAS Y CENSOS — MULTAS
+
+SISTEMA ESTADISTICO NACIONAL
+
+LEY N° 21.779
+
+Modificación parcial.
+
+Buenos Aires, 14 de abril de 1978.
+
+En uso de las atribuciones conferidas por el artículo 5° del Estatuto para el Proceso de Reorganización Nacional.
+
+EL PRESIDENTE DE LA NACION ARGENTINA SANCIONA Y PROMULGA CON FUERZA DE
+
+LEY:
+
+## ARTICULO 1°
+
+Reemplázase el artículo 15 de la Ley 17.622 por el siguiente:
+
+"Artículo 15.- Incurrirán en infracción y serán pasibles de multas de cinco mil pesos ($ 5.000.-) a quinientos mil pesos ($ 500.000.-), conforme al procedimiento previsto en la reglamentación de la presente ley, quienes no suministren en término, falseen o produzcan con omisión maliciosa las informaciones necesarias para las estadísticas y los censos a cargo del Sistema Estadístico Nacional. Los importes mínimos y máximos previstos en el presente artículo se reajustarán semestralmente, el primero de enero y el primero de julio de cada año en función de los incrementos habidos en los semestres que vencen el treinta y uno de diciembre y el treinta de junio, de conformidad con la variación operada en el nivel general de precios al por mayor en dichos períodos."
+
+## ARTICULO 2°
+
+Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese.
+
+VIDELA
+
+José A. Martinez de Hoz

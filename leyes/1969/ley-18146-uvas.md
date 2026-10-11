@@ -1,0 +1,67 @@
+---
+title: "Ley 18146: UVAS — INSTITUTO NACIONAL DE VITIVINICULTURA-COMERCIALIZACION DE PRODUCTOS AGROPECUARIOS"
+identifier: "Ley 18146"
+infoleg_id: "301146"
+type: act
+jurisdiction: ar
+language: es
+date: 1969-03-13
+published: 1969-03-21
+boletin_oficial: "21647"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=301146"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/301146/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 18146: UVAS — INSTITUTO NACIONAL DE VITIVINICULTURA-COMERCIALIZACION DE PRODUCTOS AGROPECUARIOS
+
+Ley 18.146
+
+REGISTRO EN EL INSTITUTO NACIONAL DE VITIVINICULTURA DE VENTA DE UVAS.
+
+BUENOS AIRES, 13 de marzo de 1969
+
+registro en el Instituto Nacional de Vitivinicultura de venta de
+
+uvas y de vinos.
+
+En uso de las atribuciones conferidas por el artículo 5 del
+
+Estatuto de la Revolución Argentina,
+
+EL PRESIDENTE DE LA NACION ARGENTINA
+
+SANCIONA Y PROMULGA CON FUERZA DE LEY:
+
+## ARTICULO 1
+
+Toda venta de uvas realizada por el productor, cualquiera sea su destino, deberá ser registrada en el Instituto Nacional de Vitivinicultura, dentro de los cinco días de su celebración, mediante la presentación de un ejemplar del contrato de compra-venta firmado por las partes, y en su defecto por declaración jurada escrita que lo supla, también firmada por los contratantes.
+
+## ARTICULO 2
+
+En cualquiera de los casos, sea que se presente un ejemplar del contrato o declaración jurada, el instrumento deberá contener: nombres del vendedor y comprador, domicilios, el objeto del contrato con determinación de la especie, calidad y cantidad de la uva vendida y su destino industrial o comercial el precio y forma de pago, y si no hubiese fijación de precio el modo al que las partes se sujetan para determinarlo.
+
+## ARTICULO 3
+
+Quedan igualmente sujetos a la obligación establecida en los artículos anteriores, todos los contratos de compra-venta de vinos y demás productos o subproductos derivados de la uva realizados por los propietarios de esos productos o por quienes puedan disponer de ellos por cualquier título, con bodegueros, industriales, elaboradores, fraccionadores y todo otro comerciante o adquirente, con excepción de las ventas al detalle y de las efectuadas por el comercio minorista.
+
+## ARTICULO 4
+
+La misma obligación comprende a todos los contratos relacionados a operaciones de exportación o importación de los productos contemplados en los artículos precedentes.
+
+## ARTICULO 5
+
+La obligación emergente de esta ley incumbe a ambas partes contratantes, pero el cumplimiento por una de ellas eximirá de responsabilidad a la otra.
+
+## ARTICULO 6
+
+Las infracciones a la presente ley serán reprimidas con las multas previstas en el artículo 24, inciso i), de la ley 14 878, y no se dará trámite a ninguna gestión que se practique o deba practicarse en el Instituto Nacional de Vitivinicultura mientras los interesados no acrediten haber cumplido con las obligaciones de registrar las operaciones establecidas en los artículos anteriores.
+
+## ARTICULO 7
+
+Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese.
+
+ONGANIA - Krieger Vasena.

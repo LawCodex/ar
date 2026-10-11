@@ -55,13 +55,25 @@ def add_docs(out, docs):
                 a["metadata"]["friendly-url"]["subdomain"],
                 a["metadata"]["friendly-url"]["description"]),
         }
-        out["%s:%s:%s" % (tn, rec["numero"], (rec["fecha"] or "")[:4])] = rec
+        out["%s:%s:%s" % (tn, rec["numero"], str(rec["fecha"] or "")[:4])] = rec
+
+
+DONE = set()
+PARTIAL = os.path.join(RAW, "saij_partial.json")
+
+
+def save_partial(out):
+    json.dump({"done": sorted(DONE), "out": out}, open(PARTIAL, "w"), ensure_ascii=False)
 
 
 def harvest(sess, out, t, f="", e=""):
+    key = "%s|%s|%s" % (t, f, e)
+    if key in DONE:
+        return
     d = fetch(sess, t, 0, f, e, p=1)
     total = total_of(d)
     if total == 0:
+        DONE.add(key)
         return
     if total > MAXOFF:
         if not f:
@@ -80,6 +92,8 @@ def harvest(sess, out, t, f="", e=""):
         return
     for off in range(0, total, PAGE):
         add_docs(out, fetch(sess, t, off, f, e)["documentResultList"])
+    DONE.add(key)
+    save_partial(out)
     print(t, f, e, total, len(out), file=sys.stderr, flush=True)
 
 
@@ -88,6 +102,10 @@ def main():
     sess = requests.Session()
     sess.headers["User-Agent"] = UA
     out = {}
+    if os.path.exists(PARTIAL):
+        pd = json.load(open(PARTIAL))
+        DONE.update(pd["done"])
+        out.update(pd["out"])
     for t in ("Ley", "Decreto/Decreto de Necesidad y Urgencia"):
         harvest(sess, out, t)
     json.dump(out, open(os.path.join(RAW, "saij_status.json"), "w"), ensure_ascii=False, indent=0)

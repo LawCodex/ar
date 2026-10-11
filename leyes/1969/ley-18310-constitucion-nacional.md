@@ -1,0 +1,57 @@
+---
+title: "Ley 18310: CONSTITUCION NACIONAL — ARTICULO 67, INCISO 27 - REGLAMENTACION"
+identifier: "Ley 18310"
+infoleg_id: "231371"
+type: act
+jurisdiction: ar
+language: es
+date: 1969-08-08
+published: 1969-08-25
+boletin_oficial: "21751"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=231371"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/231371/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 18310: CONSTITUCION NACIONAL — ARTICULO 67, INCISO 27 - REGLAMENTACION
+
+CONSTITUCION NACIONAL
+
+LEY N° 18.310
+
+Se reglamenta e interpreta el inciso 27 del artículo 67.
+
+Buenos Aires, 8 de agosto de 1969.
+
+En uso de las atribuciones conferidas por el artículo 5° del Estatuto de la Revolución Argentina,
+
+El Presidente de la Nación Argentina, Sanciona y Promulga con Fuerza de
+
+Ley:
+
+## Artículo 1°
+
+La jurisdicción ejercida por la Nación sobre las tierras adquiridas en las provincias sólo es exclusiva en los casos de cesión dentro de los procedimientos constitucionales que producen la desmembración de territorio con pérdida del dominio eminente; o en los casos de transmisión por compra o en otra forma legal de lugares destinados a fines de defensa nacional.
+
+## Artículo 2°
+
+Tratándose de adquisiciones hechas por la Nación de tierras situadas en las provincias para establecimientos de utilidad nacional, imperará la jurisdicción y leyes nacionales únicamente en lo afectado o inherente a esa utilidad nacional destinados a servir objetos expresamente encomendados al Gobierno Federal por la Constitución y leyes nacionales.
+
+También imperarán la jurisdicción y leyes nacionales en aquellos casos en que ese uso de utilidad pública nacional se efectúa por gestión privada en virtud de una concesión otorgada por la Administración Nacional.
+
+## Artículo 3°
+
+En lo no comprendido en ese uso, las provincias mantendrán su jurisdicción y podrán ejercer los actos que de ella se deriven, en tanto no interfieran directa o indirectamente con las actividades normales que la utilidad nacional implique, siempre que no hubieren hecho renuncia expresa de ese poder mediante el procedimiento establecido en la respectiva constitución provincial.
+
+## Artículo 4°
+
+A los fines de solucionar los problemas de hecho que se pueden presentar en la aplicación de la presente ley, la Nación celebrará con las Provincias involucradas los convenios que fueren necesarios.
+
+## Artículo 5°
+
+Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese.
+
+Onganía. — Francisco A. Imaz.

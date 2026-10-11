@@ -1,0 +1,43 @@
+---
+title: "Ley 12937: CREDITOS — DECRETOS - RATIFICACION"
+identifier: "Ley 12937"
+infoleg_id: "120585"
+type: act
+jurisdiction: ar
+language: es
+date: 1947-01-16
+published: 2006-10-05
+boletin_oficial: "31005"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=120585"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/120000-124999/120585/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 12937: CREDITOS — DECRETOS - RATIFICACION
+
+Ley 12.937
+
+El Senado y Cámara de Diputados, etc.
+
+## ARTICULO 1º
+
+Ratifícanse los decretos dictados por el Poder Ejecutivo Nº 9.147/44, Acuerdo General de Ministros del 11 de abril de 1944 y su complementario Nº 14.706/44 del 7 de junio de 1944, por el que se abrió un crédito extraordinario al Departamento de Marina por la cantidad de DIEZ Y OCHO MILLONES DE PESOS MONEDA NACIONAL ($. 18.000.000 m/n.) destinado a atender la adquisición de materiales y elementos, como asimismo el pago de gastos y jornales para su confección por los Talleres de la Armada para la formación de un stock de movilización; Nº 10.426/ 44, dictado en Acuerdo General de Ministros del 25 de abril de 1944 y su complementario Nº 14.705/44 dictado en Acuerdos de Ministros del 7 de junio de 1944, por el que se dispuso la apertura de un crédito de TRES MILLONES DE PESOS MONEDA NACIONAL ($ 3.000.000. m/n.), para la adquisición de los materiales, pagos de jornales y gastos necesarios para la formación de un stock de vestuario y equipo para caso de movilización; Nº 15.168/44, dictado en Acuerdo General de Ministros del 14 de junio de 1944 y su complementario Nº 19.012/44, por el que se abrió un crédito extraordinario al Departamento de Marina por la cantidad de DOCE MILLONES DE PESOS MONEDA NACIONAL ($ 12.000.000 m/n.,) destinado a atender la adquisición de armamento y munición, elementos de movilidad marítimos y terrestres y otros materiales con destino a satisfacer las necesidades de los servicios a cargo de la Prefectura General Marítima.
+
+## ARTICULO 2º
+
+A los fines de la ejecución de esta ley, autorízase al Poder Ejecutivo, para hacer uso del crédito de la Nación por empréstitos internos o externos en la forma que el mismo determine.
+
+## ARTICULO 3º
+
+Los gastos que origine el cumplimiento de la presente ley, se imputarán a la misma.
+
+## ARTICULO 4º
+
+Comuníquese al Poder Ejecutivo.
+
+Dada en la Sala de Sesiones del Congreso Argentino, en Buenos Aires, a los dieciséis días del mes de enero del año mil novecientos cuarenta y siete.
+
+J. Hortensio Quijano. — Alberto H. Reales, Secretario del Senado. — Ricardo C. Guardo. — L. Zavalla Carbó, Secretario de la C. de Diputados.

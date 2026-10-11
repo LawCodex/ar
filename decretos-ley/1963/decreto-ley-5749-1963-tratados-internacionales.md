@@ -1,0 +1,79 @@
+---
+title: "Decreto-Ley 5749/1963: TRATADOS INTERNACIONALES — CONVENIO TRAMITACION DE EXHORTOS JUDICIALES ENTRE ARGENTINA Y PERU - APROBACION"
+identifier: "Decreto-Ley 5749/1963"
+infoleg_id: "205893"
+type: decree-law
+jurisdiction: ar
+language: es
+date: 1963-07-16
+published: 1963-07-24
+boletin_oficial: "20178"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=205893"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/205000-209999/205893/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Decreto-Ley 5749/1963: TRATADOS INTERNACIONALES — CONVENIO TRAMITACION DE EXHORTOS JUDICIALES ENTRE ARGENTINA Y PERU - APROBACION
+
+Ministerio de Relaciones Exteriores y Culto
+
+JUSTICIA NACIONAL
+
+TRAMITACION DE EXHORTOS JUDICIALES- Apruebase el convenio suscripto con la República del Perú, el 2/7/1935
+
+DECRETO-LEY N° 5.749
+
+BUENOS AIRES, 16 de Julio de 1963.
+
+VISTO: Que con fecha 2 de Julio de 1935 fue suscripto en Buenos Aires un Convenio Relativo a la Tramitación de Exhortos Judiciales con la República del Perú, y
+
+CONSIDERANDO:
+
+Que dicho Convenio ha sido ratificado por el Gobierno de la República del Perú;
+
+Que las disposiciones del Convenio facilitan la colaboración judicial entre ambos países, eliminando el requisito de la legalización de las correspondientes firmas siempre que los exhortos sean cursados por la vía diplompatica;
+
+Que la necesidad y urgencia que existen en asegurar la plena vigencia del Convenio justifican, de por sí, el ejercicio de la potestad legislativa señalada en el artículo 67, inciso 19, de la Constitución Nacional:
+
+El presidente de la Nación Argentina DECRETA con fuerza de
+
+LEY:
+
+## ARTICULO 1º
+
+Apruébase el convenio relativo a la tramitación de exhortos judiciales, suscrito con el gobierno de la República del Perú en Buenos Aires el 2 de julio de 1935.
+
+## ARTICULO 2º
+
+Autorízase al Ministerio de Relaciones Exteriores y Culto a preparar el correspondiente instrumento de ratificación y a efectuar su canje en la ciudad de Lima.
+
+## ARTICULO 3º
+
+El presente decreto será refrendado por los señores ministros secretarios de Estado en los departamentos de Interior, Defensa Nacional, Relaciones Exteriores y Culto y Trabajo y Seguridad Social e interino de Educación y Justicia.
+
+## ARTICULO 4º
+
+Comuníquese, dése a la Dirección General del Boletín Oficial e Imprentas, publíquese y archívese.
+
+GUIDO – Osiris G. Villegas – José M Astigueta – Juan C. Cordini - Bernardo Bas.
+
+CONVENIO ENTRE ARGENTINA Y PERÚ
+
+## Artículo 1
+
+Las autoridades competentes de los dos países darán curso, dentro de sus respectivas jurisdicciones y de conformidad con la legislación local vigente, a los exhortos judiciales que las del otro les dirija, sin que constituya requisito necesario para su recepción y diligenciamiento, la legalización de las firmas correspondientes; siempre que tales exhortos sean cursados por la vía diplomática, mediante nota oficial del agente diplomático acreditado ante el Gobierno del otro país.
+
+## Artículo 2
+
+El presente Convenio regirá hasta tres meses después, que una de las partes notifique a la otra, su resolución de ponerle término.
+
+## Artículo 3
+
+El presente Convenio será ratificado y los instrumentos de ratificación, serán canjeados en Lima, dentro del más breve plazo posible.
+
+En fe de lo cual, los Plenipotenciarios arriba indicados firmaron el presente Convenio en dos ejemplares, y les pusieron sus respectivos sellos, en Buenos Aires a los dos días del mes de Julio de mil novecientos treinta y cinco.
+
+Saavedra Lamas. - Concha.

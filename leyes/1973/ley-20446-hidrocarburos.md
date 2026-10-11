@@ -1,0 +1,59 @@
+---
+title: "Ley 20446: HIDROCARBUROS — IMPUESTOS SOBRE EL PETROLEO Y SUS DERIVADOS - FACULTASE AL PODER EJECUTIVO A OTORGAR FACILIDADES"
+identifier: "Ley 20446"
+infoleg_id: "222342"
+type: act
+jurisdiction: ar
+language: es
+date: 1973-05-22
+published: 1973-05-24
+boletin_oficial: "22673"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=222342"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/220000-224999/222342/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 20446: HIDROCARBUROS — IMPUESTOS SOBRE EL PETROLEO Y SUS DERIVADOS - FACULTASE AL PODER EJECUTIVO A OTORGAR FACILIDADES
+
+IMPUESTOS
+
+Ley N° 20.446
+
+Se autoriza a Empresas y Organismos estatales para pagar en cuotas impuestos que recaigan sobre el petróleo y sus derivados.
+
+Bs. As., 22/5/1973
+
+En uso de las atribuciones conferidas por el artículo 5° del Estatuto de la Revolución Argentina
+
+EL PRESIDENTE DE LA NACIÓN ARGENTINA SANCIONA Y PROMULGA CON FUERZA DE
+
+LEY:
+
+## Artículo 1º
+
+Facúltase al Poder Ejecutivo a otorgar facilidades para el pago, en cuotas mensuales y consecutivas durante un lapso de hasta 24 meses de los impuestos nacionales que recaigan sobre el petróleo, sus derivados y demás combustibles y lubricantes, incluidos los de aviación, y sobre el consumo de energía eléctrica, que se adeudaren al 28 de febrero de 1973 por los responsables del ingreso de los mismos que se indican en el artículo siguiente. Dicho lapso podrá ser extendido en circunstancias excepcionales, hasta 36 meses.
+
+## Art. 2º
+
+Serán beneficiarias del régimen establecido en el artículo anterior las empresas y organismos del Estado -nacional, provincial o municipal- las sociedades en que la participación del Estado -nacional, provincial o municipal- sea mayoritaria, y las cooperativas prestatarias de servicios públicos de electricidad que acrediten que el incumplimiento en el pago de los impuestos indicados en el artículo 1º se produjo por razones vinculadas con el régimen tarifario que aplicaron.
+
+## Art. 3º
+
+Los interesados deberán presentar solicitud de acogimiento a los beneficios en la presente ley, dentro de los 60 días de su promulgación ante la Dirección General Impositiva o el Ministerio de Obras y Servicios Públicos (Energía) según corresponda, acompañando la propuesta de un plan de pagos y los elementos justificativos del mismo, la que quedará sujeta a resolución del Poder Ejecutivo. El Poder Ejecutivo queda facultado para determinar en cada caso, la forma, plazo y condiciones, incluso intereses, de las facilidades que otorgue dentro de los límites establecidos, y a delegar su resolución en el ministerio pertinente.
+
+## Art. 4º
+
+Declárase la exención de multas, recargos y cualquier otra sanción que correspondiere, vinculada con la demora en el ingreso de los tributos a que se refieren los artículos precedentes.
+
+## Art. 5º
+
+Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese.
+
+LANUSSE.
+
+Pedro A. Gordillo.
+
+Jorge Wehbe.

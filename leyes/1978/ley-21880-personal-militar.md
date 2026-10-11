@@ -1,0 +1,63 @@
+---
+title: "Ley 21880: PERSONAL MILITAR — HONORES CONFERIDOS POR GOBIERNOS EXTRANJEROS"
+identifier: "Ley 21880"
+infoleg_id: "119636"
+type: act
+jurisdiction: ar
+language: es
+date: 1978-09-19
+published: 2006-09-11
+boletin_oficial: "30987"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=119636"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/115000-119999/119636/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 21880: PERSONAL MILITAR — HONORES CONFERIDOS POR GOBIERNOS EXTRANJEROS
+
+Ley 21.880
+
+Bs. As., 19/9/1978
+
+En uso de las atribuciones conferidas por el artículo 5º del Estatuto para el Proceso de Reorganización Nacional,
+
+EL PRESIDENTE DE LA NACION ARGENTINA SANCIONA Y PROMULGA CON FUERZA DE LEY:
+
+## ARTICULO 1º
+
+Autorízase la aceptación de los honores conferidos por gobiernos extranjeros, que se detallan a continuación a:
+
+\- General de División Don CARLOS ENRIQUE LAIDLAW; condecoraciones "MEDALLA DE HONOR DE GUERRA POLITICA" y "BANDERA RESPLANDECIENTE" en el grado de "GRAN CORDON" otorgadas por el Gobierno de la República de China y "ORDEN AL MERITO EN MATERIA DE SEGURIDAD NACIONAL", otorgada por el Gobierno de la República de Corea.
+
+\- General de División Don LEOPOLDO FORTUNATO GALTIERI; condecoraciones "CRUZ PERUANA AL MERITO MILITAR" en el grado de "GRAN OFICIAL", otorgada por el Gobierno de la República del Perú; "CRUZ DE LAS FUERZAS TERRESTRES VENEZOLANAS", en su Segunda Clase, otorgada por el Gobierno de la República de Venezuela y "ORDEN DEL MERITO MILITAR" en el grado de "GRAN OFICIAL", otorgada por el Gobierno de la República del Paraguay.
+
+\- General de Brigada Don LUIS SANTIAGO MARTELLA; condecoraciones "ORDEN DEL MERITO MILITAR JOSE MARIA CORDOBA" en el grado de "COMENDADOR" y "ORDEN SANMARTINIANA" en el grado de "COMENDADOR", otorgadas por el Gobierno de la República de Colombia.
+
+\- General de Brigada Don EUGENIO GUAÑABENS PERELLO; condecoración "ESTRELLA AL MERITO MILITAR", otorgada por el Gobierno de la República de Chile.
+
+\- Coronel de Infantería Don ROBERTO OSCAR TERRILE; condecoraciones "MEDALLA DE HONOR DE GUERRA POLITICA" y "BANDERA RESPLANDECIENTE" en el grado de "CORBATA ESPECIAL", otorgadas por el Gobierno de la República de China.
+
+\- Coronel de Artillería Don HORACIO OSCAR ROTTA; condecoración "BANDERA RESPLANDECIENTE" en el grado de "CORBATA", otorgada por el Gobierno de la República de China.
+
+\- Coronel de Infantería (R) Don ROBERTO ARTUROSHAW; condecoraciones "ORDEM NACIONAL DO CRUZEIRO DO SUL" en el grado de "GRAN OFICIAL", otorgada por el Gobierno de los Estados Unidos del Brasil; "ORDEN MILITAR DE AYACUCHO", en el grado de "CABALLERO", otorgada por el Gobierno de la República del Perú y "ORDEN DEL CONDOR DE LOS ANDES" en el grado de "OFICIAL", otorgada por el Gobierno de la República de Bolivia.
+
+\- Coronel de Caballería (R) Don JULIAN GAZARI BARROSO; condecoración "CRUZ PERUANA AL MERITO MILITAR" en el grado de "COMENDADOR", otorgada por el Gobierno de la República del Perú.
+
+\- Teniente Coronel de Artillería Don JORGE ALBERTO BAVASTRO; condecoración "ORDEN DEL MERITO MILITAR" en el grado de "OFICIAL", otorgada por el Gobierno de la República del Paraguay.
+
+\- Mayor de Ingenieros Don WASHINGTON MANUEL SALVADORES; condecoración "MEDALLA DE LA LUZ BRILLANTE" otorgada por el Gobierno de la República de China.
+
+\- Mayor de Infantería Don CARLOS MARIA ZABALA; condecoración "PROCER DE LA LIBERTAD GENERAL DE DIVISION JOSE MIGUEL LANZA" en el grado de "CABALLERO", otorgada por el Gobierno de la República de Bolivia.
+
+\- Mayor de Artillería, Don FLORENCIO ALBERTO OLMOS; condecoración "CRUZ DEL MERITO MILITAR CON DISTINTIVO BLANCO DE 1ra CLASE". otorgada por el Gobierno del Reino de España.
+
+\- Sargento Enfermero de Veterinaria ANIBAL EDGARDO ALEGRE; condecoración "MEDALLA DORADA DE LA REPUBLICA DE AUSTRIA", otorgada por el Gobierno de la República Federativa de Austria.
+
+## ARTICULO 2º
+
+Comuníquese, dése a la Dirección Nacional del Registro Oficial y archívese.
+
+Firmas

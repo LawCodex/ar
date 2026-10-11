@@ -1,0 +1,45 @@
+---
+title: "Ley 17322: ADMINISTRACION GENERAL DE OBRAS SANITARIAS — REGIMEN DE CONTRATACIONES DIRECTAS Y LICITCIONES PRIVADAS"
+identifier: "Ley 17322"
+infoleg_id: "260164"
+type: act
+jurisdiction: ar
+language: es
+date: 1967-06-26
+published: 1967-06-29
+boletin_oficial: "21219"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=260164"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/260000-264999/260164/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 17322: ADMINISTRACION GENERAL DE OBRAS SANITARIAS — REGIMEN DE CONTRATACIONES DIRECTAS Y LICITCIONES PRIVADAS
+
+ADMINISTRACION GENERAL DE OBRAS SANITARIAS
+
+Ley N° 17.322
+
+Régimen de contrataciones directas y licitaciones privadas.
+
+Buenos Aires, 26 de junio de 1967
+
+En uso de las atribuciones conferidas por el artículo 5° del estatuto de la Revolución Argentina,
+
+El Presidente de la Nación Argentina Sanciona y Promulga con fuerza de
+
+LEY:
+
+Articuo 1° - Agrégase al artículo 4°, como inciso a), de la Ley 13.577, el siguiente: "Efectuar contrataciones directas por un importe no superior a los quinientos mil pesos moneda nacional ( $ 500.000 m/n) y licitar privadamente hasta un valor estimado para la operación de dos millones quinientos mil pesos moneda nacional ($ 2.500.000 m/n); en ambos casos de acuerdo con el régimen de la ley de contabilidad. Estos topes podrán ser modificados por el Poder Ejecutivo Nacional atendiendo a la necesidad de su actualización".
+
+## Artículo 2°
+
+Fíjase la siguiente redacción para el artículo 4°, inciso b), de la Ley 13.577: "Celebrar convenios de compra venta, permuta y locación de bienes muebles o inmuebles; dar en préstamo de uso a entidades de bien público o interés nacional muebles o inmuebles que no se encuentren afectados inmediatamente al servicio público; aceptar donaciones y recibir usufructos; celebrar contratos para la adquisición de materiales, ejecución de obras y prestación de servicios, con licitación pública o sin ella, de acuerdo con las facultades conferidas por la presente ley, y las normas de contabilidad y de obras públicas".
+
+## Artículo 3°
+
+Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese.
+
+Onganía. - Adalbert Krieger Vasena.

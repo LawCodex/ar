@@ -1,0 +1,53 @@
+---
+title: "Ley 20927: PREVISION SOCIAL — PENSIONES - REHABILITACION"
+identifier: "Ley 20927"
+infoleg_id: "137883"
+type: act
+jurisdiction: ar
+language: es
+date: 1974-09-30
+published: 1974-10-31
+boletin_oficial: "23027"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=137883"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/135000-139999/137883/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 20927: PREVISION SOCIAL — PENSIONES - REHABILITACION
+
+PREVISION SOCIAL
+
+Rehabilitación de prestaciones para determinados pensionistas.
+
+LEY Nº 20.927
+
+Sancionada: Septiembre 30 de 1974.
+
+Promulgada: Octubre 25 de 1974.
+
+POR CUANTO:
+
+EL SENADO Y CÁMARA DE DIPUTADOS DE LA NACIÓN ARGENTINA REUNIDOS EN CONGRESO, ETC., SANCIONAN CON FUERZA DE LEY:
+
+## ARTICULO 1º
+
+Los pensionistas cuyo derecho a pensión se hubiera extinguido por aplicación del artículo 2º, inciso b) del decreto ley 17.562/67 en razón de haber denunciado a la caja su matrimonio, podrán solicitar la rehabilitación de la prestación, la que será liquidada a partir de la fecha de dicha solicitud.
+
+## ARTICULO 2º
+
+El derecho acordado en el artículo anterior no podrá ser ejercido si existieran causahabientes que hubieran acrecido su parte u obtenido la pensión como consecuencia de la extinción de la prestación para el beneficiario que contrajo matrimonio.
+
+## ARTICULO 3º
+
+Comuníquese al Poder Ejecutivo..
+
+Dada en la Sala de Sesiones del Congreso Argentino, en Buenos Aires, a los treinta días del mes de septiembre del año mil novecientos setenta y cuatro.
+
+| J. A. ALLENDE | R. A. LASTIRI. |
+|---|---|
+| Aldo H. N. Cantoni. | Ludovico Lavia. |
+
+— Registrada bajo el Nº 20.927. —

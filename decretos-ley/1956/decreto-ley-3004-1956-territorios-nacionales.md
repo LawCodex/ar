@@ -1,0 +1,21 @@
+---
+title: "Decreto-Ley 3004/1956: TERRITORIOS NACIONALES — TERRITORIO DE TIERRA DEL FUEGO-ORGANIZACION DE LA JUSTICIA"
+identifier: "Decreto-Ley 3004/1956"
+infoleg_id: "296852"
+type: decree-law
+jurisdiction: ar
+language: es
+date: 1956-02-21
+published: 1956-02-28
+boletin_oficial: "18099"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=296852"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/296852/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Decreto-Ley 3004/1956: TERRITORIOS NACIONALES — TERRITORIO DE TIERRA DEL FUEGO-ORGANIZACION DE LA JUSTICIA
+
+DECRETO LEY 3.004 JURISDICCION DEL JUZGADO DE RIO GALLEGOS. SURPIMESE EL DE USHUAIA Buenos Aires, 21 de febrero de 1956 VISTO que por el art. 57 de la Ley Nº 13.998 se creó el Juzgado Nacional de Primera Instancia con asiento en Ushuaia con jurisdicción en el ex Territorio Nacional de Tierra del Fuego, en las Islas Malvinas y en la zona Antártida Argentina, y CONSIDERANDO: Que el funcionamiento del Juzgado de referencia ha demostrado, en la práctica, que no llena ninguna necesidad que justifique su mantenimiento, atento al escaso número de expedientes tramitados; Que las actuales necesidades del Juzgado Nacional de Primera Instancia con asiento en Ushuaia pueden cubrirse con ventaja ampliando la actual jurisdicción del Juzgado Nacional de Primera Instancia con asiento en Río Gallegos; Por ello, El Presidente Provisional de la Nación Argentina, en Ejercicio del Poder Legislativo, Decreta con Fuerza de Ley: Artículo 1º - Suprímese el Juzgado Nacional de Primera Instancia del ex Territorio de Tierra del Fuego con asiento en Ushuaia. Art. 2º - Amplíase la jurisdicción del actual Juzgado Nacional de Primera Instancia con asiento en Río Gallegos al territorio sobre el cual tiene competencia el Juzgado que se suprime por el artículo anterior. Art. 3º - Incorpórase al Juzgado Nacional de Primera Instancia con asiento en Río Gallegos, la Secretaría del Juzgado Nacional de Primera Instancia de Ushuaia, que se trasladará con los expedientes en trámite, muebles, útiles, personal y los créditos que presupuestariamente le corresponden. Art. 4º - Deróganse las disposiciones legales y reglamentarias que se opongan al presente Decreto-Ley. Art. 5º - El presente Decreto-Ley será refrendado por el Excelentísimo señor Vicepresidente de la Nación y los señores Ministros Secretarios de Estado en los Departamentos de Justicia, Ejército, Marina y Aeronáutica. Art. 6º - Comuníquese, publíquese, dése a la Dirección General del Registro Nacional y archívese. ARAMBURU. - Isaac Rojas. - Laureano Landaburu. - Arturo Ossorio Arana. - Teodoro Hartung. - Julio C. Krause.

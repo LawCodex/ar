@@ -1,0 +1,53 @@
+---
+title: "Ley 23037: CONCESION DE SERVICIO PUBLICO — PEAJE - VIALIDAD - COMPLEJO ZARATE BRAZO LARGO"
+identifier: "Ley 23037"
+infoleg_id: "304421"
+type: act
+jurisdiction: ar
+language: es
+date: 1983-12-09
+published: 1983-12-14
+boletin_oficial: "25320"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304421"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304421/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 23037: CONCESION DE SERVICIO PUBLICO — PEAJE - VIALIDAD - COMPLEJO ZARATE BRAZO LARGO
+
+PEAJE
+
+LEY N° 23.037
+
+Dispónese la eliminación definitiva del cobro de peajes en el Puente General Belgrano, que vincula a las Provincias del Chaco y Corrientes y en el Complejo Zárate- Brazo Largo, que comunica a la Provincia de Buenos Aires con la de Entre Ríos.
+
+Buenos Aires, 9 de diciembre de 1983
+
+En uso de las atribuciones conferidas por el Artículo 5 del Estatuto para el Proceso de Reorganización Nacional,
+
+EL PRESIDENTE DE LA NACION ARGENTINA SANCIONA Y PROMULGA CON FUERZA DE
+
+LEY:
+
+## ARTICULO 1°
+
+Derógase el Artículo 2 inciso b) y el Artículo 7 de la Ley 18.789.
+
+## ARTICULO 2°
+
+Elimínase el cobro de derecho de peaje en el Complejo Ferrovial Zárate - Brazo Largo.
+
+## ARTICULO 3°
+
+El Poder Ejecutivo Nacional dictará las medidas pertinentes para que quede eliminado el cobro de derecho de peaje en el Puente General Belgrano.
+
+## ARTICULO 4°
+
+Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese.
+
+BIGNONE
+
+Conrado Bauer

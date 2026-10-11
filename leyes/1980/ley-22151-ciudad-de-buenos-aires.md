@@ -1,0 +1,63 @@
+---
+title: "Ley 22151: CIUDAD DE BUENOS AIRES — SERVICIO PUBLICO-VIALIDAD-VIA PUBLICA"
+identifier: "Ley 22151"
+infoleg_id: "304040"
+type: act
+jurisdiction: ar
+language: es
+date: 1980-01-30
+published: 1980-02-05
+boletin_oficial: "24349"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304040"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304040/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 22151: CIUDAD DE BUENOS AIRES — SERVICIO PUBLICO-VIALIDAD-VIA PUBLICA
+
+Ley 22.151
+
+RECONSTRUCCION DE LA VIA PUBLICA POR PRESTADORES DE SERVICIOS PUBLICOS.
+
+BUENOS AIRES, 30 de enero de 1980
+
+En uso de las atribuciones conferidas por el artículo 5 del
+
+Estatuto para el Proceso de Reorganización Nacional,
+
+EL PRESIDENTE DE LA NACION ARGENTINA
+
+SANCIONA Y PROMULGA CON FUERZA DE LEY:
+
+## ARTICULO 1
+
+En el ámbito de la Ciudad de Buenos Aires las empresas prestatarias de servicios públicos tendrán la responsabilidad de proceder a la reconstrucción o reparación de la vía pública, en los casos en que hayan efectuado roturas con motivo de sus obras de extensión, renovación, conexión o reparación de sus instalaciones.
+
+## ARTICULO 2
+
+La reconstrucción o reparación deberá ser realizada dentro de los plazos, normas y técnicas vigentes o que se dicten, emanados de la Municipalidad de la Ciudad de Buenos Aires.
+
+## ARTICULO 3
+
+En aquellos casos en que, por la modalidad operativa del trabajo a realizar, la Municipalidad de la Ciudad de Buenos Aires considere factible desarrollar una acción mancomunada, podrá celebrar acuerdos para tales fines con las empresas prestatarias de servicios públicos, ejecutando, por cuenta y cargo de éstas los trabajos de normalización del estado de la vía pública a que se refiere la presente Ley.
+
+## ARTICULO 4
+
+Antes de proceder a la rotura de la vía pública las empresas prestatarias de servicios públicos deberán solicitar el permiso correspondiente a la Municipalidad de la Ciudad de Buenos Aires, la que los extenderá condicionados al cumplimiento de la presente Ley.
+
+## ARTICULO 5
+
+La falta de cumplimiento por parte de las empresas de servicios públicos a las disposiciones de la presente ley, dará lugar a la aplicación de las sanciones que correspondan, conforme la legislación municipal vigente.
+
+## ARTICULO 6
+
+Derógase la Ley 19.084.
+
+## ARTICULO 7
+
+Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese.
+
+VIDELA - Martínez de Hoz - Harguindeguy.

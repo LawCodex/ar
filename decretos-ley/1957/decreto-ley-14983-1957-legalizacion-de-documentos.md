@@ -1,0 +1,77 @@
+---
+title: "Decreto-Ley 14983/1957: LEGALIZACION DE DOCUMENTOS — REGIMEN"
+identifier: "Decreto-Ley 14983/1957"
+infoleg_id: "48576"
+type: decree-law
+jurisdiction: ar
+language: es
+date: 1957-11-12
+published: 1957-11-21
+boletin_oficial: "18528"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=48576"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/45000-49999/48576/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Decreto-Ley 14983/1957: LEGALIZACION DE DOCUMENTOS — REGIMEN
+
+DECRETO- LEY N° 14.983
+
+Deroganse las Leyes Nros. 44 y 5.133 sobre Regimen de Legalización de Documentos
+
+Bs. As., 12 de nov. de 1957.
+
+CONSIDERANDO:
+
+Que la Ley 44 de fecha 12 de agosto de 1863, y su modificatoria, Ley 5.133 de fecha 12 de setiembre de 1907, no llenan en la actualidad las necesidades para las que fueron sancionadas;
+
+Que es imprescindible, por tanto, sustituir el rígido sistema adoptado por dichas leyes, por otro que permita agilizar el trámite de las legalizaciones;
+
+Que es necesario, asimismo, reconocer a las provincias el derecho de dictar su propia legislación en la materia;
+
+Que todo ello reportará beneficios, tanto en el orden nacional como en el provincial;
+
+Por ello,
+
+El Presidente Provisional de la Nación Argentina, en ejercicio del Poder Legislativo, Decreta con Fuerza de
+
+LEY:
+
+## Artículo 1º
+
+Serán tenidos por auténticos los actos y decretos de los Poderes Ejecutivos de cada provincia y los actos y leyes de sus respectivas legislaturas, siempre que se hayan publicado o comunicado en la forma que cada una de dichas provincias hubiere adoptado para su promulgación y ejecución.
+
+## Art. 2º
+
+Serán igualmente tenidos por auténticos los actos, procedimientos judiciales, sentencias y testimonios y demás documentos emanados de organismos provinciales, que se hallaren legalizados conforme a las reglamentaciones que al efecto dicte cada provincia.
+
+## Art. 3º
+
+La legalización de los instrumentos públicos, certificados, copias y demás documentos emanados de organismos u oficinas de la Nación, como así los autos, procedimientos judiciales, sentencias, testimonios y documentos de los tribunales de Justicia de la Nación, estará a cargo de las autoridades que determine la Corte Suprema de Justicia de la Nación, la que reglamentará el procedimiento que debe observarse en la materia.
+
+Los documentos legalizados de acuerdo al presente artículo, serán tenidos por auténticos en todo el territorio de la Nación.
+
+## Art. 4º
+
+Los actos públicos, procedimientos, sentencias y demás documentos de que se habla en los artículos anteriores, autenticados en la forma que en ellos se determina, merecerán plena fe y crédito y surtirán tales efectos ante todos los tribunales y autoridades dentro del territorio de la Nación, como por uso y ley corresponde ante los tribunales y autoridades de la provincia de donde proceden.
+
+## Art. 5º
+
+Lo dispuesto en el presente decreto-ley no obsta a la aplicación del artículo 44, inciso b) de la Ley número 12.990, ni a la del artículo 57 del Decreto número 26.655/51, relativos a la legalización de los documentos notariales por el Colegio de escribanos.
+
+## Art. 6º
+
+Deróganse las Leyes 44 y 5133 y cualquier otra disposición que se oponga al presente decreto-ley.
+
+## Art. 7º
+
+El presente decreto-ley será refrendado por el Excmo. señor Vicepresidente provisional de la Nación y los señores ministros secretarios de Estado en los departamentos de Educación y Justicia, Guerra, Marina y Aeronáutica.
+
+## Art. 8º
+
+Comuníquese, publíquese, anótese, dése a la Dirección General del Boletín Oficial y archívese.
+
+ARAMBURU.- Isaac Rojas.- Acdel E. Salas. - Víctor J. Majó. - Teodoro Hartung. - Jorge H. Landaburu.

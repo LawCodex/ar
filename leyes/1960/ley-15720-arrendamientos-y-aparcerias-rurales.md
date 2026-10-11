@@ -1,0 +1,73 @@
+---
+title: "Ley 15720: ARRENDAMIENTOS Y APARCERIAS RURALES — LEY N° 13.897 - MODIFICACION"
+identifier: "Ley 15720"
+infoleg_id: "177815"
+type: act
+jurisdiction: ar
+language: es
+date: 1960-09-30
+published: 1960-11-04
+boletin_oficial: "19374"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=177815"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/175000-179999/177815/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 15720: ARRENDAMIENTOS Y APARCERIAS RURALES — LEY N° 13.897 - MODIFICACION
+
+ARRENDAMIENTOS Y APARCERIAS RURALES
+
+LEY N° 15.720
+
+CAMARAS REGIONALES. — Sustitúyese el artículo 2° de la Ley 13.897.
+
+Sancionada: setiembre 30 de 1960.
+
+POR CUANTO:
+
+El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de LEY:
+
+## ARTICULO 1°
+
+Sustitúyese el artículo 2° de la Ley 13.897, por el siguiente:
+
+## Artículo 2°
+
+Las Cámaras Regionales deberán dictar pronunciamiento dentro de los 90 días. Dentro de los 15 días de notificados, dicho pronunciamiento será apelable en relación ante la Cámara Central, la cual deberá expedirse en el plazo de 60 días.
+
+A su elección, dentro del plazo de 15 días de notificada del pronunciamiento de la Cámara Regional, la parte vencida podrá interponer recurso de apelación para ante la Cámara Federal con jurisdicción territorial en el legar de la sede de aquélla. La interposición de este recurso importa la renuncia del autorizado en el párrafo anterior.
+
+En caso de que una de las partes hubiera interpuesto apelación ante la Cámara Federal y la otra ante la Cámara Central, el recurso se tramitará ante aquélla.
+
+Los pronunciamientos de las Cámaras Regionales y de la Cámara Central harán cosa juzgada y serán ejecutables por las autoridades judiciales competentes.
+
+## ARTICULO 2°
+
+Agrégase al artículo 26 de la Ley 14.451, lo siguiente:
+
+Dentro del plazo de 15 días de notificada del pronunciamiento de la Cámara Regional, la parte vencida podrá, a elección suya, interponer recurso de apelación ante la Cámara Central de Arrendamientos y Aparcerías Rurales o ante la Cámara Federal con jurisdicción territorial en el lugar de la sede de aquélla.
+
+En caso de que una de las partes hubiera interpuesto apelación ante la Cámara Federal y la otra ante la Cámara Central, el recurso se tramitará ante aquélla.
+
+Dicho recurso se tramitará y la decisión recaída se ejecutará conforme lo prevé la Ley 13.897.
+
+## ARTICULO 3°
+
+Derógase el Decreto-Ley 6.283/58.
+
+## ARTICULO 4°
+
+Comuníquese al Poder Ejecutivo.
+
+Dada en la Sala de Sesiones del Congreso Argentino, en Buenos Aires, a los treinta días del mes de setiembre del año mil novecientos sesenta.
+
+| J. M. GUIDO | F. F. MONJARDIN |
+|---|---|
+| Alejandro N. Barraza | Eduardo T. Oliver |
+
+Registrada bajo el N° 15.720
+
+Aprobada por el Poder Ejecutivo según el artículo 70 de la Constitución Nacional

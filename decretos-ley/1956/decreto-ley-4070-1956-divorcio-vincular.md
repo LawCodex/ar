@@ -1,0 +1,47 @@
+---
+title: "Decreto-Ley 4070/1956: DIVORCIO VINCULAR — DECRETO SUSPENSIVO DEL DIVORCIO VINCULAR"
+identifier: "Decreto-Ley 4070/1956"
+infoleg_id: "296872"
+type: decree-law
+jurisdiction: ar
+language: es
+date: 1956-03-01
+published: 1956-03-07
+boletin_oficial: "18105"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=296872"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/296872/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Decreto-Ley 4070/1956: DIVORCIO VINCULAR — DECRETO SUSPENSIVO DEL DIVORCIO VINCULAR
+
+Decreto Ley 4.070/56
+
+DERECHO CIVIL-FAMILIA-DIVORCIO-
+
+BUENOS AIRES, 1 de marzo de 1956
+
+Por ello, el Presidente provisional de la Nación Argentina, en
+
+ejercicio del Poder Legislativo, decreta con fuerza de ley:
+
+## Art. 1
+
+Declárase en suspenso, hasta tanto se adopte sanción definitiva sobre el problema del divorcio, la disposición del artículo 31 de la ley 14.394 en cuanto habilita para contraer nuevo matrimonio a las personas divorciadas a que el texto se refiere.
+
+## Art. 2
+
+A partir de la fecha de la presente ley se paralizarán en el estado en que se encontraren, los trámites judiciales destinados a actuar la disposición aludida en el artículo anterior, y no se dará curso a las nuevas peticiones que se presenten para acogerse a ella.
+
+## Art. 3
+
+El presente decreto ley será refrendado por el Excmo. señor Vicepresidente provisional de la Nación y por todos los señores ministros secretarios de Estado en acuerdo general.
+
+## Art. 4
+
+Comuníquese, etc.
+
+ARAMBURU - Rojas - Busso - Ossorio Arana - Hartung - Krause - Mercier - Llamazares - Ygartúa - Dell Oro Maini - Alizón García - Blanco - Alsogaray - Landaburu - Mendiondo - Podestá Costa - Martínez -Migone - Bonnet -

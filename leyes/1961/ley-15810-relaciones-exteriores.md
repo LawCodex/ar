@@ -1,0 +1,55 @@
+---
+title: "Ley 15810: RELACIONES EXTERIORES — RELACIONES DIPLOMATICAS CON EL REINO DE CAMBODIA - ESTABLECIMIENTO"
+identifier: "Ley 15810"
+infoleg_id: "193365"
+type: act
+jurisdiction: ar
+language: es
+date: 1961-05-31
+published: 1961-06-23
+boletin_oficial: "19562"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=193365"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/193365/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 15810: RELACIONES EXTERIORES — RELACIONES DIPLOMATICAS CON EL REINO DE CAMBODIA - ESTABLECIMIENTO
+
+LEY N° 15.810
+
+RELACIONES EXTERIORES
+
+Apruébase el establecimiento de relaciones diplomáticas con el Reino de Cambodia y apruébase la creación de la Legación de la República.
+
+Sancionada: 31 de mayo de 1961.
+
+Promulgada: 19 de junio de 1961.
+
+POR CUANTO:
+
+El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etcétera, sancionan con fuerza de
+
+LEY:
+
+## ARTICULO 1°
+
+Apruébase el establecimiento de relaciones diplomáticas entre la República Argentina y el Reino de Cambodia, formalizadas mediante el cambio de notas firmadas en la ciudad de Bangkok, el 28 de enero de 1960 por el Representante Diplomático de la República Argentina y el Representante Diplomático de Cambodia acreditados en Tailandia.
+
+## ARTICULO 2°
+
+Apruébase la creación de la Legación de la República en el Reino de Cambodia, con sede en Pnom Penh, dispuesta por Decreto Nº 2.856-M 139 del 21 de marzo de 1960.
+
+## ARTICULO 3°
+
+Comuníquese al Poder Ejecutivo.
+
+Dada en la Sala de Sesiones del Congreso Argentino, en Buenos Aires, a los treinta y un días del mes mayo del año mil novecientos sesenta y uno.
+
+J. M. GUIDO F. F. M. MONJARDIN
+
+Claudio A. Maffei Eduardo T. Oliver
+
+Registrada bajo el Nº 15.810

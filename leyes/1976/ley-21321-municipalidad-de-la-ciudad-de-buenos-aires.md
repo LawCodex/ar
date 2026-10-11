@@ -1,0 +1,65 @@
+---
+title: "Ley 21321: MUNICIPALIDAD DE LA CIUDAD DE BUENOS AIRES — TRIBUNAL DE FALTAS"
+identifier: "Ley 21321"
+infoleg_id: "92721"
+type: act
+jurisdiction: ar
+language: es
+date: 1976-05-31
+published: 1976-06-04
+boletin_oficial: "23419"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=92721"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/90000-94999/92721/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 21321: MUNICIPALIDAD DE LA CIUDAD DE BUENOS AIRES — TRIBUNAL DE FALTAS
+
+MUNICIPALIDAD DE LA CIUDAD DE BUENOS AIRES
+
+Tribunal de Faltas.
+
+Suspéndese la garantía de inamovilidad de funcionarios.
+
+LEY Nº 21.321
+
+Buenos Aires, 31 de mayo de 1976.
+
+En uso de las atribuciones conferidas por el artículo 5º del Estatuto para el proceso de Reorganización Nacional,
+
+EL PRESIDENTE DE LA NACION ARGENTINA SANCIONA Y PROMULGA CON FUERZA DE LEY:
+
+## ARTICULO 1º
+
+Suspéndese la garantía de inamovilidad acordada por el artículo 55 del Decreto-Ley Nº 19.987/72, a los jueces y camaristas del Tribunal Municipal de Faltas, y declárase "en comisión" a dichos magistrados.
+
+## ARTICULO 2º
+
+Facúltase al Intendente Municipal de la Ciudad de Buenos Aires para remover a los funcionarios mencionados en el artículo 1º y para cubrir las respectivas vacantes, o para confirmar a quienes se encuentren en el desempeño de aquellos cargos.
+
+## ARTICULO 3º
+
+Los jueces y camaristas designados o confirmados de acuerdo con el artículo anterior, gozarán de las garantías establecidas en el artículo 55 del Decreto-Ley Nº 19.987/72.
+
+## ARTICULO 4º
+
+Los jueces y camaristas que se designen y los que sean confirmados en esta oportunidad deberán prestar juramento ante el señor Intendente.
+
+## ARTICULO 5º
+
+Suspéndese la aplicación de toda norma legal que se oponga al procedimiento fijado por la presente Ley.
+
+## ARTICULO 6º
+
+Las disposiciones de los artículos 1º, 2º y 5º de la presente Ley, regirán durante 60 días a contar desde la fecha de su sanción.
+
+## ARTICULO 7º
+
+Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese.
+
+VIDELA.
+
+Albano E. Harguindeguy.

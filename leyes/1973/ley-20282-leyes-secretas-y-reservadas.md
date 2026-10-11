@@ -1,0 +1,43 @@
+---
+title: "Ley 20282: LEYES SECRETAS Y RESERVADAS — PAGO DE IMPUESTOS - LIBERASE"
+identifier: "Ley 20282"
+infoleg_id: "245851"
+type: act
+jurisdiction: ar
+language: es
+date: 1973-04-16
+published: 2015-04-15
+boletin_oficial: "33108"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=245851"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/245000-249999/245851/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 20282: LEYES SECRETAS Y RESERVADAS — PAGO DE IMPUESTOS - LIBERASE
+
+LEYES SECRETAS Y RESERVADAS
+
+Ley S 20.282
+
+Publicación conforme lo establecido por la Ley N° 26.134.
+
+Bs. As., 16/4/1973
+
+EL PRESIDENTE DE LA NACION ARGENTINA SANCIONA Y PROMULGA CON FUERZA DE
+
+LEY:
+
+## ARTÍCULO 1°
+
+Libérase del pago de los impuestos establecidos por la Ley 19.258, modificada por la Ley 19.443 y prorrogada por la Ley 20.052; por la Ley 19.976; por la Ley 19.852 modificada por la Ley 20.069 y por el Decreto-Ley 8509/56, así como de todo otro impuesto a las operaciones de compra-venta de ganado, a la venta de SETECIENTOS CINCUENTA Y DOS (752) vacunos subastados en remate público por la SOCIEDAD RURAL DE SAN JUSTO (Provincia de SANTA FE), el día sábado 27 de enero de 1973, cuyo producido se destinará a la ayuda y reconstrucción del área afectada por el siniestro que azotó a dicha ciudad el día 10 de enero próximo pasado.
+
+## ARTÍCULO 2°
+
+Los agentes de retención de los impuestos mencionados en el artículo 1° deberán enviar a los organismos competentes una declaración jurada respecto de las operaciones realizadas en la fecha preseñalada.
+
+## ARTÍCULO 3°
+
+Comuníquese, dése a la DIRECCION NACIONAL DEL REGISTRO OFICIAL y archívese. — LANUSSE.

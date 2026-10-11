@@ -1,0 +1,69 @@
+---
+title: "Ley 19020: EDUCACION SUPERIOR — UNIVERSIDAD NACIONAL DE RIO CUARTO - CREACION"
+identifier: "Ley 19020"
+infoleg_id: "195141"
+type: act
+jurisdiction: ar
+language: es
+date: 1971-05-01
+published: 1971-05-07
+boletin_oficial: "22170"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=195141"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/195141/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 19020: EDUCACION SUPERIOR — UNIVERSIDAD NACIONAL DE RIO CUARTO - CREACION
+
+EDUCACION
+
+LEY Nº 19.020
+
+Creación de la Universidad Nacional de Río Cuarto.
+
+Bs. As., 1º/5/1971
+
+En uso de las atribuciones conferidas por el artículo 5º del Estatuto de la Revolución Argentina,
+
+EL PRESIDENTE DE LA NACION ARGENTINA SANCIONA Y PROMULGA CON FUERZA DE
+
+LEY:
+
+## Artículo 1º
+
+Créase la Universidad Nacional de Río Cuarto.
+
+## Art. 2º
+
+La Universidad Nacional de Río Cuarto, tendrá su sede en la ciudad del mismo nombre, se regirá por las disposiciones legales y reglamentarias aplicables a las universidades nacionales y comenzará a funcionar el 1º de enero de 1972.
+
+## Art. 3º
+
+Hasta tanto se constituyan el Consejo Superior y los Consejos Académicos de Facultades o Departamentos, sus atribuciones serán ejercidas por un Rector organizador y por Decanos o Directores organizadores, respectivamente, todos los cuales serán designados por el Poder Ejecutivo Nacional. Las atribuciones de la Asamblea Universitaria serán ejercidas por el Ministro de Cultura y Educación.
+
+## Art. 4º
+
+El Ministerio de Cultura y Educación designará, dentro de los treinta (30) días, un Delegado organizador que ejercerá sus funciones hasta la designación del Rector organizador y deberá elevar, antes del 30 de noviembre del corriente año, los siguientes proyectos:
+
+a) El proyecto de Estatuto provisorio para el período de organización de la Universidad;
+
+b) El proyecto de plan de organización y desarrollo de la Universidad para los próximos cinco años;
+
+c) El proyecto de presupuesto para 1972.
+
+## Art. 5º
+
+Los gastos que demande el cumplimiento de la presente ley, durante el corriente año, serán atendidos con el presupuesto del Ministerio de Cultura y Educación.
+
+## Art. 6º
+
+Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese.
+
+LANUSSE
+
+José L. Cantini
+
+Aldo Ferrer

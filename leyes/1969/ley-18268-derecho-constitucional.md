@@ -1,0 +1,77 @@
+---
+title: "Ley 18268: DERECHO CONSTITUCIONAL — INTERVENCION FEDERAL-CORDOBA"
+identifier: "Ley 18268"
+infoleg_id: "301239"
+type: act
+jurisdiction: ar
+language: es
+date: 1969-07-04
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=301239"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/301239/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 18268: DERECHO CONSTITUCIONAL — INTERVENCION FEDERAL-CORDOBA
+
+PROVINCIAS
+
+CORDOBA. - Dase por terminada la Intervención Federal y se designa Gobernador.
+
+Buenos Aires, 4 de julio de 1969.
+
+Excelentísimo señor Presidente de la Nación:
+
+Tengo el honor de dirigirme a V. E. con el objeto de someter a su consideración un proyecto de ley por el cual se da por terminada la Intervención Federal al Poder Ejecutivo de la Provincia de Córdoba, dispuesta por la Ley 18.258.
+
+Dios guarde a V. E.
+
+Francisco A. Imaz
+
+LEY Nº 18.268.
+
+Buenos Aires, 4 de julio de 1969.
+
+En uso de las atribuciones conferidas por el artículo 5º del Estatuto de la Revolución Argentina,
+
+El Presidente de la Nación Argentina,
+
+Sanciona y Promulga con fuerza de Ley:
+
+## Artículo 1º
+
+Dáse por terminada la Intervención Federal al Poder Ejecutivo de la Provincia de Córdoba, dispuesta por la Ley 18.258.
+
+## Artículo 2º
+
+Dánse las gracias al señor Interventor General de Brigada D. Jorge Raúl Carcagno, por los importantes y patrióticos servicios prestados en el desempeño de su misión.
+
+## Artículo 3º
+
+Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese.
+
+ONGANIA.
+
+Francisco A. Imaz.
+
+DECRETO N° 3.665.
+
+Buenos Aires, 4 de julio de 1969.
+
+En uso de las facultades que le acuerda el Artículo 9° del Estatuto de la Revolución Argentina y conforme a las previsiones establecidas en el mismo,
+
+El Presidente de la Nación Argentina, Decreta:
+
+## Artículo 1°
+
+Desígnase Gobernador de la Provincia de Córdoba al Comodoro (R.E.) D. Roberto Huerta.
+
+## Art. 2°
+
+El presente decreto será refrendado por el señor Ministro del Interior.
+
+## Art. 3°
+
+Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese.

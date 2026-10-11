@@ -1,0 +1,57 @@
+---
+title: "Ley 21106: ARRENDAMIENTOS Y APARCERIAS RURALES — LEY 20772 - PRORROGA"
+identifier: "Ley 21106"
+infoleg_id: "190569"
+type: act
+jurisdiction: ar
+language: es
+date: 1975-09-29
+published: 1975-11-04
+boletin_oficial: "23276"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=190569"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/190569/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 21106: ARRENDAMIENTOS Y APARCERIAS RURALES — LEY 20772 - PRORROGA
+
+ARRENDAMIENTOS Y APARCERIAS RURALES
+
+LEY N° 21.106
+
+Prorroga la vigencia de la Ley N° 20.772.
+
+Sancionada: Septiembre 29 de 1975.
+
+Promulgada de Hecho: Octubre 22 de 1975.
+
+POR CUANTO:
+
+EL SENADO Y LA CÁMARA DE DIPUTADOS DE LA NACIÓN ARGENTINA
+
+SANCIONAN CON FUERZA DE LEY:
+
+## ARTICULO 1°
+
+Prorrógase hasta el 30 de junio de 1977 la vigencia de las disposiciones de la ley 20.772.
+
+## ARTICULO 2°
+
+La presente ley es de orden público.
+
+## ARTICULO 3°
+
+Comuníquese al Poder Ejecutivo.
+
+Dada en la Sala de Sesiones del Congreso Argentino, en Buenos Aires, a los veintinueve días del mes de septiembre del año mil novecientos setenta y cinco.
+
+| A. GARCIA | N. SANCHEZ TORANZO |
+|---|---|
+| D. Caressi | L. Lavia |
+
+— Registrada bajo el N° 21.106 —
+
+Aprobada por el Poder Ejecutivo de acuerdo con lo dispuesto por el Art. 70 de la Constitución Nacional.

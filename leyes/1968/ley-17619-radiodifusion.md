@@ -1,0 +1,51 @@
+---
+title: "Ley 17619: RADIODIFUSION — AUTORIZACIONES"
+identifier: "Ley 17619"
+infoleg_id: "300722"
+type: act
+jurisdiction: ar
+language: es
+date: 1968-01-23
+published: 1968-01-29
+boletin_oficial: "21364"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=300722"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/300722/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 17619: RADIODIFUSION — AUTORIZACIONES
+
+RADIODIFUSION
+
+Los actuales titulares de licencia de radiodifusión podrán continuar la explotación de sus emisoras, hasta tanto los nuevos adjudicatarios habiliten las respectivas estaciones.
+
+Buenos Aires, 23 de enero de 1968.
+
+Excelentísimo señor Presidente:
+
+Tengo el honor de dirigirme a V. E. sometiendo a su consideración el proyecto de ley que se acompaña, por el cual se faculta al Poder Ejecutivo para autorizar a los actuales titulares de licencias de radiodifusión a continuar la explotación de sus emisoras, hasta tanto quienes resulten adjudicatarios en el concurso público ya abierto, habiliten sus respectivas estaciones.
+
+El proyecto acompañado tiene por obejto asegurar la continuidad del servicio, evitando la posible paralización de emisoras de radio en el lapso comprendido entre el vencimiento de las licencias actuales y la iniciación de las actividades de los nuevos titulares, a quienes los Pliegos de Bases y Condiciones acuerdan diez y ocho meses de plazo para hacerlo.
+
+Dios guarde a V. E.
+
+Guillermo A. Borda. - Julio A. Teglia.
+
+LEY N° 17.619
+
+Buenos Aires, 23 de enero de 1968.
+
+En uso de las atribuciones conferidas por el artículo 5° del Estatuto de la Revolución Argentina,
+
+El Presidente de la Nación Argentina, Sanciona y Promulga con fuerza de Ley:
+
+## Artículo 1°
+
+El Poder Ejecutivo autorizará a los actuales titulares de licencias de radiodifusión a continuar, a título precario, la explotación de sus emisoras, hasta tanto quienes resulten adjudicatarios en el concurso público en trámite, habiliten las correspondientes estaciones en las condiciones y plazos previstos en los Pliegos de Bases y Condiciones.
+
+## Artículo 2°
+
+Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese.

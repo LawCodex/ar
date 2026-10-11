@@ -1,0 +1,55 @@
+---
+title: "Ley 20730: JUBILACIONES Y PENSIONES — DECRETO N° 9316/46 - MODIFICACION"
+identifier: "Ley 20730"
+infoleg_id: "233528"
+type: act
+jurisdiction: ar
+language: es
+date: 1974-08-28
+published: 1974-10-09
+boletin_oficial: "23011"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=233528"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/233528/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 20730: JUBILACIONES Y PENSIONES — DECRETO N° 9316/46 - MODIFICACION
+
+PREVISION SOCIAL
+
+LEY N° 20.730
+
+Modifícase parcialmente el decreto ley 9.316/46
+
+Sancionada: Agosto 28 de 1974
+
+Promulgada: Octubre 3 de 1974
+
+POR CUANTO:
+
+EL SENADO Y CAMARA DE DIPUTADOS DE LA NACION ARGENTINA REUNIDOS EN CONGESO, ETC., SANCIONAN CON FUERZA DE
+
+LEY:
+
+## ARTICULO 1°
+
+Modifícase el artículo 16 del decreto ley 9.316/46, el que quedará redactado de la siguiente forma:
+
+## Artículo 16
+
+Los beneficios del presente decreto ley se extienden a los derechohabientes de quienes hubieren fallecido con anterioridad a la sanción del presente decreto ley y que, de encontrarse en actividad, estarian en condiciones de solicitar alguna prestación, así como a los derechohabientes de los afiliados que fallecieron con posterioridad a la fecha de la sanción
+
+## ARTICULO 2°
+
+Comuníquese al Poder Ejecutivo.
+
+Dada en la Sala de Sesiones del Congreso Argentino, en Buenos Aires, a los veintiocho días del mes de agosto del año mil novecientos setenta y cuatro.
+
+| J. A. ALLENDE | R. A. LASTIRI |
+|---|---|
+| Aldo H. N. Cantoni | Ludovico Lavia |
+
+\- Registrada bajo el N° 20.730 -

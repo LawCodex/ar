@@ -1,0 +1,59 @@
+---
+title: "Ley 22603: IMPUESTO SOBRE VENTAS, COMPRAS, CAMBIO O PERMUTA DE DIVISAS — ENTIDADES FINANCIERAS-CASAS DE CAMBIO-BASE IMPONIBLE-HECHO IMPONIBLE-PROCEDIMIENTO TRIBUTARIO"
+identifier: "Ley 22603"
+infoleg_id: "304283"
+type: act
+jurisdiction: ar
+language: es
+date: 1982-06-04
+published: 1982-06-07
+boletin_oficial: "24936"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304283"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304283/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 22603: IMPUESTO SOBRE VENTAS, COMPRAS, CAMBIO O PERMUTA DE DIVISAS — ENTIDADES FINANCIERAS-CASAS DE CAMBIO-BASE IMPONIBLE-HECHO IMPONIBLE-PROCEDIMIENTO TRIBUTARIO
+
+Ley 22.603
+
+IMPUESTO SOBRE LA COMPRA, VENTA Y PERMUTA DE DIVISAS
+
+BUENOS AIRES, 4 de junio de 1982
+
+En uso de las atribuciones conferidas por el Artículo 5 del
+
+Estatuto para el Proceso de Reorganización Nacional,
+
+EL PRESIDENTE DE LA NACION ARGENTINA
+
+SANCIONA Y PROMULGA CON FUERZA DE LEY:
+
+## ARTICULO 1
+
+Establécese un impuesto de carácter excepcional de DOS MIL PESOS ($ 2.000) por dólar estadounidense o su equivalente en otras monedas, que pagarán las entidades financieras autorizadas para operar en cambios, casas, agencias y oficinas de cambio, sobre su posición neta de cambios al 4 de mayo de 1982 declarada al Banco Central de la República Argentina en fórmulas 111 ó 4033.
+
+## ARTICULO 2
+
+Las sumas resultantes del impuesto establecido en el Artículo 1 serán ingresadas, dentro de los CINCO (5) días hábiles de publicada esta Ley, en el Banco de la Nación Argentina.
+
+## ARTICULO 3
+
+La finalidad del presente gravamen se declara de interés nacional a los efectos de lo dispuesto en el segundo párrafo del Artículo 7 de la Ley 20.221 y sus modificaciones (texto ordenado en 1979), y en tal carácter, el producido será transferido íntegramente a Rentas Generales.
+
+## ARTICULO 4
+
+El impuesto que establece el Artículo 1, se regirá por las disposiciones de la Ley 11.683 y sus modificaciones (texto ordenado en 1978), y su aplicación, percepción y fiscalización estará a cargo de la Dirección General Impositiva.
+
+## ARTICULO 5
+
+Las disposiciones de la presente ley tendrán vigencia a partir de la fecha de su publicación.
+
+## ARTICULO 6
+
+Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese.
+
+GALTIERI - Alemann

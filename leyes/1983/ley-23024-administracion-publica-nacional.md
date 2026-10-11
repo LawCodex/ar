@@ -1,0 +1,45 @@
+---
+title: "Ley 23024: ADMINISTRACION PUBLICA NACIONAL — PODER EJECUTIVO NACIONAL - FACULTASE"
+identifier: "Ley 23024"
+infoleg_id: "248551"
+type: act
+jurisdiction: ar
+language: es
+date: 1983-12-09
+published: 1983-12-14
+boletin_oficial: "25320"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=248551"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/245000-249999/248551/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 23024: ADMINISTRACION PUBLICA NACIONAL — PODER EJECUTIVO NACIONAL - FACULTASE
+
+ADMINISTRACION PUBLICA NACIONAL
+
+Ley Nº 23.024
+
+Facúltase al Poder Ejecutivo Nacional a otorgar al personal de su dependencia no comprendido en convenciones colectivas de trabajo, un aumento en sus remuneraciones a partir del 1º de diciembre de 1983.
+
+Buenos Aires, 9 de diciembre de 1983.
+
+EN uso de las atribuciones conferidas por el artículo 5º del Estatuto para el Proceso de Reorganización Nacional,
+
+EL PRESIDENTE DE LA NACION ARGENTINA SANCIONA Y PROMULGA CON FUERZA DE
+
+LEY:
+
+## ARTICULO 1º
+
+A los aumentos salariales que el Poder Ejecutivo Nacional resuelva respecto del mes de diciembre de 1983, para el personal dependiente del Gobierno Nacional no comprendido en convenciones colectivas de trabajo, no le serán de aplicación las disposiciones del artículo 28 del Decreto-Ley Nº 16.990/57, incorporado a la Ley Nº 11.672 (Complementaria Permanente de Presupuesto) por el artículo 45 de la Ley Nº 15.021 y sustituido por el artículo 30 de la Ley Nº 15.796.
+
+## ARTICULO 2º
+
+Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese.
+
+BIGNONE
+
+Jorge Wehbe

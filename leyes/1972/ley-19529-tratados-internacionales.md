@@ -1,0 +1,53 @@
+---
+title: "Ley 19529: TRATADOS INTERNACIONALES — DECLARACION CJTA. COMUNICACIONES ENTRE ISLAS MALVINAS Y TERRITORIO CONT. ARGENTINO - APROBACION"
+identifier: "Ley 19529"
+infoleg_id: "214011"
+type: act
+jurisdiction: ar
+language: es
+date: 1972-03-20
+published: 1972-03-24
+boletin_oficial: "22389"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=214011"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/210000-214999/214011/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 19529: TRATADOS INTERNACIONALES — DECLARACION CJTA. COMUNICACIONES ENTRE ISLAS MALVINAS Y TERRITORIO CONT. ARGENTINO - APROBACION
+
+CONVENIOS INTERNACIONALES
+
+LEY N° 19.529
+
+Se aprueba una Declaración Conjunta referente a comunicaciones entre las Islas Malvinas y el territorio continental argentino.
+
+Bs. As. 20/3/72
+
+En uso de las atribuciones conferidas por el Artículo 5° del Estatuto de la Revolución Argentina,
+
+EL PRESIDENTE DE LA NACION ARGENTINA SANCIONA Y PROMULGA CON FUERZA DE
+
+LEY:
+
+## Artículo 1°
+
+Apruébase la Declaración Conjunta referente a la apertura de las comunicaciones entre las Islas Malvinas y el territorio continental argentino así como el anexo de dicha Declaración, que fueron inicialados por los representantes de la República Argentina y del Reino Unido de Gran Bretaña e Irlanda del Norte en la ciudad de Buenos Aires el 1 de julio de 1971, los cuales forman parte de la presente ley.
+
+## Art. 2°
+
+Apruébase la nota de fecha 5 de agosto de 1971 -cuyo texto integra la presente ley- por la que se comunicó al Gobierno del Reino Unido de Gran Bretaña e Irlanda del Norte que el Gobierno de la República Argentina pondría en ejecución a partir de esa fecha las medidas referidas en la Declaración Conjunta que se aprueba en el artículo anterior.
+
+## Art. 3°
+
+Apruébase el Acuerdo por notas reversales celebrado en la ciudad de Buenos Aires el 5 de agosto de 1971 -cuyo texto forma parte de la presente ley-, que se refiere a las reservas sobre soberanía efectuadas por el Gobierno de la República Argentina y el Gobierno del Reino Unido de Gran Bretaña e Irlanda del Norte como consecuencia de la puesta en ejecución de la Declaración Conjunta del 1 de julio de 1971.
+
+## Art. 4°
+
+Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese.
+
+LANUSSE.
+
+Luis M. A. de Pablo Pardo.

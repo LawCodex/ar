@@ -1,0 +1,53 @@
+---
+title: "Decreto-Ley 2811/1955: ADMINISTRACION PUBLICA NACIONAL — MINISTERIOS DEL INTERIOR Y JUSTICIA - SEPARACION"
+identifier: "Decreto-Ley 2811/1955"
+infoleg_id: "166322"
+type: decree-law
+jurisdiction: ar
+language: es
+date: 1955-11-12
+published: 1955-11-24
+boletin_oficial: "18032"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=166322"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/165000-169999/166322/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Decreto-Ley 2811/1955: ADMINISTRACION PUBLICA NACIONAL — MINISTERIOS DEL INTERIOR Y JUSTICIA - SEPARACION
+
+DECRETO – LEY Nº 2.811
+
+Bs. Aires. 12/11/55
+
+VISTA: La necesidad de llevar al pueblo de la República la convicción de que se mantiene inalterable el propósito de cumplir en todas sus partes el programa de la Revolución Libertadora, tal como fue formulada por el Presidente del Gobierno Provisional al prestar juramento en la Capital Federal;
+
+CONSIDERANDO:
+
+Que la síntesis cabal de dicho programa está contenida en la fórmula de hacer efectivo en todo el país el imperio del derecho, no solo por imposición de las armas victoriosas sino porque ella traduce un propósito irrevocable de la totalidad del pueblo argentino.
+
+Que en el acatamiento a las normas jurídicas está la mejor garantía de la libertad y de la democracia, en los cuales el Gobierno Provisional juzga que están perfectamente expresadas la tradición nacional y el respeto de los derechos naturales.
+
+Que el régimen depuesto cuando quiso aniquilar las últimas defensas del honor y de la libertad de nuestro pueblo, con el fin de convertir el Poder Judicial en instrumento de una política mezquina, quebró aquella tradición, confundiendo arbitrariamente el ministerio político con el de Justicia.
+
+Que dicha confusión es un contrasentido jurídico al que conviene poner término.
+
+EL PRESIDENTE PROVISIONAL DE LA NACION ARGENTINA, EN EJERCICIO DEL PODER LEGISLATIVO,
+
+DECRETA CON FUERZA DE LEY:
+
+## Artículo 1º
+
+Sepáranse los ministerios del Interior y de Justicia, constituyendo los nuevos Departamentos de Estado que se denominarán Ministerio del Interior y Ministerio de Justicia.
+
+## Art. 2º
+
+El presente Decreto será refrendado por los señores Ministros Secretarios de Estado en los departamentos de Ejército, Marina y Aeronáutica.
+
+## Art. 3º
+
+Comuníquese, publíquese, dése a la Dirección General del Registro Nacional y archívese.
+
+LONARDI. – Arturo Ossorio Arana – Teodoro Hartung. – Ramón A. Abrahín.

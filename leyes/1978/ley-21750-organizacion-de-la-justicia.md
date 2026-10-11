@@ -1,0 +1,55 @@
+---
+title: "Ley 21750: ORGANIZACION DE LA JUSTICIA — JUSTICIA NACIONAL-COMPETENCIA COMERCIAL-CAMARA DE APELACIONES"
+identifier: "Ley 21750"
+infoleg_id: "303837"
+type: act
+jurisdiction: ar
+language: es
+date: 1978-02-15
+published: 1978-02-21
+boletin_oficial: "23857"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=303837"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/303837/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 21750: ORGANIZACION DE LA JUSTICIA — JUSTICIA NACIONAL-COMPETENCIA COMERCIAL-CAMARA DE APELACIONES
+
+Ley 21.750
+
+SUPRESION DEL TRIBUNAL DEL MERCADO DE ABASTO Y OFICINA DE GUIAS Y CERTIFICADOS DE CAPITAL FEDERAL
+
+BUENOS AIRES, 15 de febrero de 1978
+
+En uso de las atribuciones conferidas por el artículo 5 del
+
+Estatuto para el Proceso de Reorganización Nacional,
+
+EL PRESIDENTE DE LA NACION ARGENTINA SANCIONA Y PROMULGA CON
+
+FUERZA DE LEY:
+
+## ARTICULO 1
+
+Suprímese a partir de la publicación de la presente ley, el TRIBUNAL DEL MERCADO DE ABASTO Y OFICINA DE GUIAS Y CERTIFICADOS DE LA CAPITAL FEDERAL, existente en el ámbito del Ministerio de Justicia.
+
+## ARTICULO 2
+
+Las causas pendientes en dicho Tribunal a la fecha de entrada en vigencia de la presente ley serán remitidas a la Cámara Nacional de Apelaciones en lo Comercial para su distribución.
+
+## ARTICULO 3
+
+La expedición de guías y certificados que actualmente otorga el citado Tribunal quedará a cargo del Mercado Nacional de Hacienda.
+
+## ARTICULO 4
+
+Al personal permanente del Tribunal del Mercado de Abasto y Oficina de Guiás y Certificados de la Capital Federal se le asignará nuevo destino dentro del ámbito del Ministerio de Justicia, según sus respectivas categorías y las necesidades funcionales existentes.
+
+## ARTICULO 5
+
+Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese.
+
+VIDELA - Gómez

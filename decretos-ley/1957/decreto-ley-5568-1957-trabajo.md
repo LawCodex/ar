@@ -1,0 +1,53 @@
+---
+title: "Decreto-Ley 5568/1957: TRABAJO — LEY N° 11.317 - MODIFICACION"
+identifier: "Decreto-Ley 5568/1957"
+infoleg_id: "194572"
+type: decree-law
+jurisdiction: ar
+language: es
+date: 1957-05-27
+published: 1957-07-16
+boletin_oficial: "18439"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=194572"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/194572/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Decreto-Ley 5568/1957: TRABAJO — LEY N° 11.317 - MODIFICACION
+
+Acláranse los Alcances del Art. 1° de la Ley 11.317
+
+Decreto-Ley N° 5.568/1957
+
+Buenos Aires, 27 de mayo de 1957.
+
+VISTO que nuestro país ha ratificado el Convenio Internacional del Trabajo en su 16a reunión, relativo a la edad de admisión de los niños a los trabajos industriales y
+
+CONSIDERANDO:
+
+Que una de las obligaciones emergentes de la ratificación de un convenio internacional del trabajo consiste en la adecución de la legislación nacional a los principios y disposiciones del texto internacional;
+
+Que en este caso particular, se trata de completar las disposiciones de la ley 11.317 sobre trabajo de mujeres y menores, teniendo en vista las normas del Convenio N° 33;
+
+Que la más completa y cuidadosa protección de la salud de los menores es principio fundamental que debe guiar la acción de Estado en la materia;
+
+Por ello
+
+El Presidente Provisional de la Nación Argentina en Ejercicio del Poder Legislativo Decreta con Fuerza de Ley:
+
+## Artículo 1°
+
+Agréguese al párrafo último del artículo 1° de la Ley N° 11.317, el siguiente: "y se trate de trabajos ligeros que no sean nocivos para la salud de los menores y no excedan de dos horas diarias".
+
+## Art. 2°
+
+El presente decreto-ley será refrendado por el Vicepresidente Provisional y los señores Ministros Secretarios de Estado en los Departamentos de Trabajo y Previsión, Ejército, Marina y Aeronáutica.
+
+## Art. 3°
+
+Comuníquese, publíquese, dése a la Dirección General del Boletín Oficial y archívese.
+
+ARAMBURU. - Isaac Rojas. - Tristán E. Guevara. - Víctor J. Majó. - Teodoro Hartung. - Eduardo F. McLoughlin.

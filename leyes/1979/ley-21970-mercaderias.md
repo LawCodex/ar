@@ -1,0 +1,63 @@
+---
+title: "Ley 21970: MERCADERIAS — TERRITORIO NACIONAL DE TIERRA DEL FUEGO, ANTARTIDA E ISLAS DEL ATLANTICO SUR"
+identifier: "Ley 21970"
+infoleg_id: "199395"
+type: act
+jurisdiction: ar
+language: es
+date: 1979-04-04
+published: 1979-04-09
+boletin_oficial: "24142"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=199395"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/199395/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 21970: MERCADERIAS — TERRITORIO NACIONAL DE TIERRA DEL FUEGO, ANTARTIDA E ISLAS DEL ATLANTICO SUR
+
+MERCADERIAS
+
+LEY Nº 21.970
+
+Territorio Nacional de Tierra del Fuego, Antártida e Islas del Atlántico Sur.
+
+Buenos Aires, 4 de abril de 1979.
+
+En uso de las atribuciones conferidas por el artículo 5º del Estatuto para el Proceso de Reorganización Nacional,
+
+EL PRESIDENTE DE LA NACION ARGENTINA SANCIONA Y PROMULGA CON FUERZA DE
+
+LEY:
+
+## ARTICULO 1º
+
+Los gobiernos provinciales y el Territorio Nacional de Tierra del Fuego, Antártida Argentina e Islas del Atlántico Sur ejercerán el control y vigilancia sobre el cumplimiento de las Leyes 17.016, 17.088, 19.982 y 19.511 -con las limitaciones mencionadas en los artículos 30 y 31- y sus normas reglamentarias, con respecto a los hechos cometidos en su jurisdicción y que afecten exclusivamente el comercio local, juzgando las presuntas infracciones. A ese fin determinarán los organismos y personal que cumplirán tales funciones, pudiendo delegar sus atribuciones en los gobiernos municipales.
+
+## ARTICULO 2º
+
+En cualquier estado del procedimiento, cuando surgiere que la presunta infracción pudiera afectar al comercio interjurisdiccional, las actuaciones serán remitidas a la Autoridad Nacional de Aplicación para su trámite ulterior.
+
+## ARTICULO 3º
+
+La Autoridad Nacional de Aplicación, sin perjuicio de las funciones que se encomiendan a los gobiernos locales por el artículo 1º, podrá actuar concurrentemente en la vigilancia, contralor y juzgamiento de las normas mencionadas, aunque las presuntas infracciones pudieran afectar exclusivamente al comercio local.
+
+## ARTICULO 4º
+
+El importe de las multas y el producido de los decomisos que se obtengan por la intervención inicial del personal de fiscalización de los gobiernos locales ingresarán a su erario.
+
+## ARTICULO 5º
+
+Los gobiernos locales informarán a la Autoridad Nacional de Aplicación sobre los organismos que designen, las delegaciones que efectúen y las sanciones que apliquen.
+
+## ARTICULO 6º
+
+Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese.
+
+VIDELA
+
+José A. Martinez de Hoz.
+
+Albano E. Harguindeguy.

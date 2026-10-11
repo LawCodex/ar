@@ -1,0 +1,79 @@
+---
+title: "Decreto-Ley 4263/1956: ADMINISTRACION GENERAL DE PUERTOS — EXPLOTACION Y CONSERVACION PORTUARIA - TRANSFIERESE ATRIBUCION"
+identifier: "Decreto-Ley 4263/1956"
+infoleg_id: "264667"
+type: decree-law
+jurisdiction: ar
+language: es
+date: 1956-03-07
+published: 1956-03-13
+boletin_oficial: "18109"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=264667"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/260000-264999/264667/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Decreto-Ley 4263/1956: ADMINISTRACION GENERAL DE PUERTOS — EXPLOTACION Y CONSERVACION PORTUARIA - TRANSFIERESE ATRIBUCION
+
+ADMINISTRACION GENERAL DE PUERTOS
+
+Decreto-Ley N° 4.263/1956
+
+Buenos Aires, 7 de Marzo de 1956
+
+VISTO la existencia de decretos y disposiciones contradictorias que afectan al régimen portuario, y
+
+CONSIDERANDO:
+
+Que el desenvolvimiento y organización de los servicios portuarios se ve trabado por disposiciones orgánicas parciales en cuanto a las atribuciones y determinaciones de jurisdicción del organismo portuario;
+
+Que en las organizaciones mundiales portuarias más importantes los servicios de esta índole por su evidente carácter técnico-comercial se hallan separados de las funciones de orden fiscal aduanero;
+
+Que de este modo se logra dar a los puertos la eficiencia técnica comercial que exige la rapidez de los medios de transporte modernos;
+
+Que no puede mantenerse por más tiempo una situación de irresolución en la política explotativa de los puertos por los perjuicios que ocasiona al comercio y al Estado por el costo de sus servicios.
+
+EL PRESIDENTE PROVISIONAL DE LA NACIÓN ARGENTINA, EN EJERCICIO DEL PODER LEGISLATIVO, DECRETA CON FUERZA DE
+
+LEY:
+
+## Artículo 1
+
+La explotación y conservación portuaria atribuida a la Dirección Nacional de Puertos por superior Decreto N° 8.803/1949 con excepción de los servicios de practicaje, amarre y funciones de seguridad que estarán a cargo de la Prefectura Nacional Marítima, será ejercida por la Administración General de Puertos que actuará con carácter de empresa del Estado, quedando reservado para el Ministerio de Hacienda, por conducto de la Dirección Nacional de Aduanas, exclusivamente el ejercicio de las funciones fiscales de verificación y autorización de despacho o embarque de mercaderías.
+
+## Art. 2
+
+El Ministerio de Transportes someterá a la aprobación del Poder Ejecutivo, dentro de los sesenta (60) días de la fecha del presente decreto-ley el régimen orgánico y estatuto a que se ajustará el funcionamiento de la citada empresa, de conformidad con lo dispuesto por la Ley N° 13.653 (t.o.) y su Decreto Reglamentario N° 5.883/55, de manera de asegurar la explotación técnico-comercial de los puertos en forma integral.
+
+## Art. 3
+
+Determínase que los recursos de la Administración General de Puertos estarán constituidos por los fondos provenientes de los distintos rubros de la explotación portuaria que se halle en su cargo, con excepción de los relativos a los derechos de entrada, faros y balizas y sanidad, que continuarán ingresando a rentas generales.
+
+## Art. 4
+
+El régimen establecido por el artículo que precede se aplicará indefectiblemente a partir del vencimiento del plazo fijado por el artículo 2° debiendo adoptarse en el ínterin de los Departamentos de Hacienda y de Transportes las previsiones necesarias para que el organismo portuario pueda concretar en definitiva, a esa fecha, la disponibilidad de sus fondos de explotación, acordando paralelamente las normas de coordinación administrativa necesarias para garantizar una real separación de las funciones fiscales de las portuarias.
+
+## Art. 5
+
+Acuérdase a la Administración General de Puertos un anticipo de hasta la suma de Cincuenta millones de pesos moneda nacional (m$n. 50.000.000), que se tomará de las disponibilidades de la Tesorería General de la Nación, con destino a atender los gastos iniciales de la citada empresa. Dicha suma será reintegrada con el producido de los recursos que le correspondan en virtud de lo dispuesto por el presente decreto-ley.
+
+## Art. 6
+
+Deróganse las disposiciones que se opongan al presente decreto-ley.
+
+## Art. 7
+
+El presente Decreto-Ley será refrendado por los ministros secretarios de Estado en los Departamentos de Transportes y Hacienda.
+
+## Art. 8
+
+Dése cuenta oportunamente al Congreso Nacional.
+
+## Art. 9
+
+Comuníquese, publíquese, dése a la Dirección General del Registro Nacional y vuelva al Ministerio de Transporte y de Hacienda a sus efectos.
+
+ARAMBURU - Isaac Rojas - Sadi E. Bonnet - Eugenio A. Blanco - Arturo Ossorio Arana - Teodoro Hartung - Julio C. Krause

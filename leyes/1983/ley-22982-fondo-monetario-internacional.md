@@ -1,0 +1,59 @@
+---
+title: "Ley 22982: FONDO MONETARIO INTERNACIONAL — AUMENTO DE LA CUOTA ARGENTINA - APRUEBASE"
+identifier: "Ley 22982"
+infoleg_id: "251833"
+type: act
+jurisdiction: ar
+language: es
+date: 1983-11-18
+published: 1983-11-23
+boletin_oficial: "25306"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=251833"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/250000-254999/251833/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 22982: FONDO MONETARIO INTERNACIONAL — AUMENTO DE LA CUOTA ARGENTINA - APRUEBASE
+
+FONDO MONETARIO INTERNACIONAL
+
+Ley Nº 22.982
+
+Apruébase el aumento de la cuota argentina en el citado Organismo.
+
+Buenos Aires, 18 de noviembre de 1983.
+
+EN uso de las atribuciones conferidas por el artículo 5º del Estatuto para el Proceso de Reorganización Nacional,
+
+EL PRESIDENTE DE LA NACION ARGENTINA SANCIONA Y PROMULGA CON FUERZA DE
+
+LEY:
+
+## ARTICULO 1º
+
+Apruébese el aumento del aporte de la República Argentina al Fondo Monetario Internacional en la suma de trescientos diez millones quinientos mil derechos especiales de giro (Deg. 310.500.000) con el cual la cuota de nuestro país en ese Organismo se eleva a un mil ciento trece millones de derechos especiales de giro (derechos especiales de giro 1.113.000.000).
+
+## ARTICULO 2º
+
+El pago de dicho aumento se efectuará conforme a lo establecido en el artículo III, sección 3 del Convenio Constitutivo del Fondo Monetario Internacional, aprobado por Ley número 21.648, y de acuerdo con las normas y procedimientos dispuestos en la Resolución Nº 38-l aprobada por la Junta de Gobernadores del Organismo, el 31 de marzo de 1983.
+
+## ARTICULO 3º
+
+Autorízase al Banco Central de la República Argentina, para que, en nombre y por cuenta del Gobierno Nacional, efectúe los pagos a que se refiere el artículo 2º y, a tal efecto, en cuanto a la porción del aumento que debe ser integrada en pesos argentinos, emita a la orden del Fondo Monetario Internacional, por la suma que corresponda, valores no negociables sin interés, pagaderos a la vista, que serán entregados a dicho Organismo en sustitución del aporte en efectivo, de conformidad con los términos del artículo III, sección 4 del Convenio Constitutivo del Fondo Monetario Internacional.
+
+## ARTICULO 4º
+
+El Banco Central de la República Argentina, queda autorizado a efectuar en nombre y por cuenta del Gobierno Nacional, los pagos que fueran necesarios para hacer frente a los compromisos emergentes de las situaciones previstas en el artículo V, sección II del Convenio Constitutivo del Fondo Monetario Internacional.
+
+## ARTICULO 5º
+
+Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese.
+
+BIGNONE
+
+Jorge Wehbe
+
+Juan R. Aguirre Lanari

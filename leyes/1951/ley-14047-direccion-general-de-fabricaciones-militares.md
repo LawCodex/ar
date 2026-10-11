@@ -1,0 +1,37 @@
+---
+title: "Ley 14047: DIRECCION GENERAL DE FABRICACIONES MILITARES — LEY 12709 - MODIFICACION"
+identifier: "Ley 14047"
+infoleg_id: "120510"
+type: act
+jurisdiction: ar
+language: es
+date: 1951-08-16
+published: 2006-10-04
+boletin_oficial: "31004"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=120510"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/120000-124999/120510/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 14047: DIRECCION GENERAL DE FABRICACIONES MILITARES — LEY 12709 - MODIFICACION
+
+Ley 14.047
+
+EL SENADO Y LA CAMARA DE DIPUTADOS, etc.
+
+## ARTICULO 1º
+
+Sustitúyese el artículo 34 de la ley Nº 12.709, por el siguiente:
+
+El Estado tiene el monopolio de la exportación de las armas, municiones y material de guerra. El Poder Ejecutivo, con intervención del Consejo Económico Nacional y de los Ministerios de Defensa Nacional (Dirección General de Fabricaciones Militares) y de Relaciones Exteriores y Culto, podrá autorizar dicha exportación de armas, municiones y material de guerra. Cuando el valor de los materiales exportados a un mismo país, por año, exceda de la cantidad de diez millones de pesos moneda nacional (m$n. 10.000.000), el Poder Ejecutivo dará cuenta al Honorable Congreso de la operación autorizada.
+
+## ARTICULO 2º
+
+Comuníquese al Poder Ejecutivo.
+
+Dada en la Sala de Sesiones del Congreso Argentino, en Buenos Aires, a los dieciséis días del mes de Agosto del año mil novecientos cincuenta y uno.
+
+Alberto Teisaire, Alberto H. Reales, Secretario del Senado. — Héctor J. Campora, L. Zavalla Carbó, Secretario de la C. de Diputados.

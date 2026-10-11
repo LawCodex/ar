@@ -1,0 +1,61 @@
+---
+title: "Ley 14322: PENSIONES GRACIABLES"
+identifier: "Ley 14322"
+infoleg_id: "296633"
+type: act
+jurisdiction: ar
+language: es
+date: 1954-08-25
+published: 1954-09-16
+boletin_oficial: "17732"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=296633"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/296633/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 14322: PENSIONES GRACIABLES
+
+PRORROGANSE LAS PENSIONES GRACIABLES Y LAS OTORGADAS DE ACUERDO A LA LEY 12.821
+
+LEY 14.322
+
+Sancionada: Agosto 25-1954
+
+Promulgada: Setiembre 10-1954
+
+El Senado y Cámara de Diputados de la Nación Argentina,
+
+reunidos en Congreso, sancionan con fuerza de
+
+LEY:
+
+## ARTICULO 1°
+
+Prorrógase por el término de diez años las pensiones graciables y las otorgadas de acuerdo a la Ley 12.821, que caducan durante el corriente año, a contar desde la fecha de su vencimiento.
+
+## ARTICULO 2°
+
+El gasto que demande el cumplimiento de la presente ley, se imputará al artículo 3° de la Ley 13.478.
+
+## ARTICULO 3°
+
+Comuníquese al Poder Ejecutivo.
+
+Dada en la Sala de Sesiones del Congreso Argentino, en Buenos Aires, a 25 de agosto de 1954.
+
+A. TEISAIRE A. J. BENITEZ
+
+Alberto H. Reales Rafael V. González.
+
+-- Registrada bajo el N° 14.322 --
+
+Buenos Aires, 10 de setiembre de 1954.
+
+POR TANTO:
+
+Téngase por Ley de la Nación, cúmplase, comuníquese, publíquese y dése a la Dirección General del Registro Nacional.
+
+PERON. - Alejandro H. Giavarini.

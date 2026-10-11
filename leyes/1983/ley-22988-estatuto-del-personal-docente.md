@@ -1,0 +1,71 @@
+---
+title: "Ley 22988: ESTATUTO DEL PERSONAL DOCENTE — LEY Nº 14473 - MODIFICACION"
+identifier: "Ley 22988"
+infoleg_id: "126950"
+type: act
+jurisdiction: ar
+language: es
+date: 1983-11-25
+published: 1983-11-29
+boletin_oficial: "25310"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=126950"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/125000-129999/126950/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 22988: ESTATUTO DEL PERSONAL DOCENTE — LEY Nº 14473 - MODIFICACION
+
+ESTATUTO DEL DOCENTE
+
+Modifícanse las escalas de antigüedad determinadas por el artículo 40 del Estatuto del Docente, Ley N° 14.473, y sus modificatorias Leyes Nros. 16.442 y 19.891.
+
+LEY N° 22.988
+
+Buenos Aires, 25 de noviembre de 1983.
+
+En uso de las atribuciones conferidas por el artículo 5 del Estatuto para el Proceso de Reorganización Nacional,
+
+EL PRESIDENTE DE LA NACION ARGENITNA SANCIONA Y PROMULGA CON FUERZA DE LEY:
+
+## ARTICULO 1°
+
+Sustitúyese a partir del 1° de noviembre de 1983, el artículo 40 del Estatuto del Docente (Ley Nro. 14.473), modificado por la Ley N° 16.442 y la Ley N° 19.891, el que quedará redactado de la siguiente forma:
+
+"Artículo 40. – El personal docente en actividad, cualquiera sea el grado o categoría en que reviste, percibirá bonificaciones por año de servicios, de acuerdo con los porcentajes que se determinan en la siguiente escala:
+
+al año de antigüedad: 10 %
+
+a los dos años de antigüedad: 15 %
+
+a los cinco años de antigüedad: 30 %
+
+a los siete años de antigüedad: 40 %
+
+a los diez años de antigüedad: 50 %
+
+a los doce años de antigüedad: 60 %
+
+a los quince años de antigüedad: 70 %
+
+a los diecisiete años de antigüedad: 80 %
+
+a los veinte años de antigüedad: 100 %
+
+a los veintidós años de antigüedad: 110 %
+
+a los veinticuatro años de antigüedad: 120 %
+
+Estas bonificaciones se determinarán teniendo en cuenta la antigüedad total en la docencia y regirán a partir del mes siguiente a la fecha en que se cumplan los términos fijados para cada período".
+
+## ARTICULO 2°
+
+Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese.
+
+BIGNONE
+
+Cayetano A. Licciardo
+
+Jorge Wehbe

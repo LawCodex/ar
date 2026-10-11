@@ -1,0 +1,49 @@
+---
+title: "Ley 23039: MINISTERIO DE ACCION SOCIAL — COBERTURA DE PERSONAL"
+identifier: "Ley 23039"
+infoleg_id: "304422"
+type: act
+jurisdiction: ar
+language: es
+date: 1983-12-09
+published: 1983-12-16
+boletin_oficial: "25322"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304422"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304422/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 23039: MINISTERIO DE ACCION SOCIAL — COBERTURA DE PERSONAL
+
+MINISTERIO DE ACCION SOCIAL
+
+LEY N° 23.039
+
+Autorízase al citado Ministerio para que proceda, a la cobertura de cargos de las estructuras orgánicas aprobadas por Decretos Nros. 1.586/83, 1.587/83, 1.588/83, 1.589/83 y 1.654/83 con determinado personal, exceptuándoselo del cumplimiento de las previsiones contenidas en el artículo 8° inciso j) de la Ley N° 22.140.
+
+Buenos Aires, 9 de diciembre de 1983
+
+En uso de las atribuciones conferidas por el artículo 5° del Estatuto para el Proceso de Reorganización Nacional,
+
+EL PRESIDENTE DE LA NACION ARGENTINA SANCIONA Y PROMULGA CON FUERZA DE
+
+LEY:
+
+## ARTICULO 1°
+
+Autorízase al Ministerio de Acción Social para que proceda por esta única vez a la cobertura de los cargos de las estructuras orgánicas aprobadas por Decretos números 1.586/83, 1.587/83, 1.588/83, 1.589/83 y 1.653/83 y a las asignaciones de funciones emergentes de las mismas, con el personal que se detalla en planilla anexa que forma parte de la presente ley, quedando exceptuado del cumplimiento de las disposiciones previstas en el artículo 8°, inciso j) del Régimen Jurídico Básico de la Función Pública, aprobado por Ley N° 22.140.
+
+## ARTICULO 2°
+
+Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese.
+
+BIGNONE
+
+Adolfo Navajas Artaza
+
+[imagen: https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304422/Ley23039-1.jpg]
+
+[imagen: https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304422/Ley23039-2.jpg]

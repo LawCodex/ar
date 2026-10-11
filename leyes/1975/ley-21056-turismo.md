@@ -1,0 +1,73 @@
+---
+title: "Ley 21056: TURISMO — TRANSPORTES DE MEDIA Y LARGA DISTANCIA - MEDIDAS PROMOCIONALES"
+identifier: "Ley 21056"
+infoleg_id: "233112"
+type: act
+jurisdiction: ar
+language: es
+date: 1975-09-17
+published: 1975-10-30
+boletin_oficial: "23273"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=233112"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/233112/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 21056: TURISMO — TRANSPORTES DE MEDIA Y LARGA DISTANCIA - MEDIDAS PROMOCIONALES
+
+TURISMO
+
+LEY Nº 21.056
+
+Se disponen medidas promocionales, en medios de transporte de media y larga distancia.
+
+Sancionada: Setiembre 17 de 1975.
+
+Promulgada de hecho: Octubre 7 de 1975.
+
+POR CUANTO:
+
+EL SENADO Y CAMARA DE DIPUTADOS DE LA NACION ARGENTINA REUNIDOS EN CONGRESO, ETC., SANCIONAN CON FUERZA DE
+
+LEY:
+
+## ARTICULO 1º
+
+En los medios de transporte nacional de media y larga distancia, de carácter nacional e internacional, se destacarán las bellezas naturales del país, sus lugares históricos y centros turísticos. En las respectivas unidades de transporte de pasajeros mencionados se exhibirán fotos, láminas, afiches y todo otro elemento semejante con el fin de promover intensivamente el turismo nacional e internacional.
+
+## ARTICULO 2º
+
+En las estaciones terminales o cabeceras de medios de transporte del país se establecerá, por intermedio de la Secretaría de Estado de Deportes y Turismo, una oficina de información en la que se destacarán en forma notable, por medio de afiches y todo otro elemento afín, las zonas turísticas nacionales, sus accesos y comodidades, con el objeto de promover la afluencia turística de y hacia esas zonas.
+
+## ARTICULO 3º
+
+En las oficinas de expendio de pasajes de Aerolíneas Argentinas en el exterior se dispondrá de un espacio físico para la instalación de un stand donde se expongan afiches, láminas y todo otro elemento promocional de centros turísticos del país y poder ofrecer, asimismo, la información que corresponda por intermedio del personal especializado en la materia.
+
+## ARTICULO 4º
+
+Las compañías extranjeras de transporte de pasajeros, con licencia para actuar en nuestro país, dispondrán las medidas para que en las sedes donde desarrollen sus actividades en nuestro medio se expongan notoriamente, conjuntamente con las de los países que representan, todo material publicitario a que hace referencia el artículo 1º, con el objeto de promover e intensificar las corrientes turísticas de y hacia nuestro país.
+
+## ARTICULO 5º
+
+El Poder Ejecutivo reglamentará la presente ley dentro de los 90 días posteriores a su aprobación, estableciendo, si fuera necesario, las excepciones correspondientes.
+
+## ARTICULO 6º
+
+El gasto que demande el cumplimiento de la presente ley se tomará de "Rentas Generales" hasta su incorporación al presupuesto general de la Nación.
+
+## ARTICULO 7º
+
+Comuníquese al Poder Ejecutivo.
+
+Dada en la Sala de Sesiones del Congreso Argentino, en Buenos Aires, a los diecisiete días del mes de setiembre del año mil novecientos setenta y cinco.
+
+| AMERICO GARCIA | N. S. TORANZO |
+|---|---|
+| A. H. N. Cantoni | Ludovico Lavia |
+
+\- Registrada bajo el Nº 21.056 -
+
+Aprobada por el Poder Ejecutivo de acuerdo con lo dispuesto por el Artículo 70 de la Constitución Nacional.

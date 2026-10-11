@@ -1,0 +1,55 @@
+---
+title: "Ley 23128: FALTA DE ANOTACIONES DE NACIMIENTOS — AMNISTIA"
+identifier: "Ley 23128"
+infoleg_id: "26501"
+type: act
+jurisdiction: ar
+language: es
+date: 1984-09-30
+published: 1984-11-07
+boletin_oficial: "25547"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=26501"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/26501/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 23128: FALTA DE ANOTACIONES DE NACIMIENTOS — AMNISTIA
+
+IDENTIFICACION, REGISTRO Y CLASIFICACION DEL POTENCIAL HUMANO NACIONAL
+
+Amnistíase a las personas que no hayan dado cumplimiento a lo prescripto en los artículos 28 y 29 del decreto-ley N° 8.204/63 y a quienes hubieran incurrido en las infracciones previstas en los artículos 35 al 40 de la norma de facto N° 22.435.
+
+LEY N° 23.128
+
+Sancionada: Setiembre 30 de 1984.
+
+Promulgada: Octubre 31 de 1984.
+
+EL SENADO Y CAMARA DE DIPUTADOS DE LA NACION ARGENTINA, REUNIDOS EN CONGRESO, ETC., SANCIONAN CON FUERZA DE LEY:
+
+## ARTICULO 1°
+
+Amnistíase a las personas que a la fecha de promulgación de la presente ley, no hayan dado cumplimiento a lo prescripto en los artículos 28 y 29 del decreto-ley 8204/63, ratificado por ley 16.478 y modificado por la ley 20.751.
+
+## ARTICULO 2°
+
+Amnistíase a las personas que a la fecha de promulgación de la presente ley, hubieran incurrido en las infracciones previstas en los artículos 35, 36, 37, 38, 39 y 40 de la norma de facto 22.435, modificatoria de la norma de facto 17.671.
+
+## ARTICULO 3°
+
+Las personas comprendidas en los artículos 1º y 2º de esta ley, deberán dar cumplimiento a su obligación dentro del término de un año a contar desde los treinta días de publicada la presente.
+
+## ARTICULO 4°
+
+Comuníquese al Poder Ejecutivo.
+
+Dada en la Sala de Sesiones del Congreso Argentino, en Buenos Aires, a los treinta días del mes de setiembre del año mil novecientos ochenta y cuatro.
+
+| J.C. PUGLIESE | E.OTERO |
+|---|---|
+| Carlos A. Bravo | Antonio J. Macris |
+
+–Registrada bajo el N° 23.128–

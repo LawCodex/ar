@@ -1,0 +1,59 @@
+---
+title: "Decreto-Ley 3824/1945: ZONAS FRANCAS — DERECHOS DE IMPORTACION-FRANQUICIAS ADUANERAS-SERVICIOS PORTUARIOS"
+identifier: "Decreto-Ley 3824/1945"
+infoleg_id: "295115"
+type: decree-law
+jurisdiction: ar
+language: es
+date: 1945-02-20
+published: 1945-02-23
+boletin_oficial: "15126"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=295115"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/295115/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Decreto-Ley 3824/1945: ZONAS FRANCAS — DERECHOS DE IMPORTACION-FRANQUICIAS ADUANERAS-SERVICIOS PORTUARIOS
+
+Decreto Ley 3.824/45
+
+ZONA FRANCA AL SUR DEL PARALELO 42.
+
+BUENOS AIRES, 20 de febrero de 1945
+
+## ARTICULO 1
+
+Declárase libre de todo derecho la introducción por las aduanas y receptorías marítimas y terrestres situadas al Sur del paralelo 42 de los materiales y mercaderías extranjeros necesarios para el vestuario, la alimentación, la salud, la vivienda y el trabajo de la población, a saber: tejidos y confecciones de toda clase substancias alimenticias, frescas o en conservas y bebidas de toda clase, con exclusión de las alcohólicas finas drogas y específicos necesarios para la lucha contra las enfermedades materiales de construcción de cualquier clase herramientas en general y máquinas de cualquier clase con destino a las industrias existentes o a instalarse. Las mercaderías aludidas precedentemente quedarán exentas, asimismo, de toda obligación en materia de cambios. La Dirección General de Aduanas previo asesoramiento de la Secretaría de Industria y Comercio formulará oportunamente una nómina de las mercaderías que se considerarán libres a los efectos de este decreto, medida que tendrá validez inmediatamente de aprobada por intermedio del Ministerio de Hacienda.
+
+## ARTICULO 2
+
+La franquicia reconocida por el artículo precedente no comprenderá los servicios de almacenaje, eslingaje, guinche o tracción, los cuales serán abonados si se hace uso de ellos. El derecho de estadística se pagará en todos los casos.
+
+## ARTICULO 3
+
+Los buques que fondéen en puertos ubicados al Sur del paralelo 42 aun cuando no hagan operaciones ni lleven carga para ellos, y cuando su permanencia sea menor de ocho días, no pagarán los derechos portuarios establecidos por la Ley núm. 11.251 y disposiciones complementarias y no serán objeto de sanción penal alguna por el hecho de no presentar su documentación visada en forma legal, siempre que ella se encuentre visada por algún cónsul de nación amiga, en defecto del nuestro en los lugares donde no lo hubiere.
+
+## ARTICULO 4
+
+El Poder Ejecutivo, por intermedio del Ministerio de Hacienda, adoptará las precauciones necesarias para asegurar que las mercaderías liberadas de derechos de aduana por el presente decreto, sean consumidas, usadas o aplicadas en los territorios nacionales situados al Sur del paralelo 42.
+
+## ARTICULO 5
+
+Las mercaderías beneficiadas con la franquicia que consagra el artículo 1 no podrán transponer la línea citada en el artículo 4 sin abonar los derechos aduaneros, que les fueron dispensados a su internación en el país. Las infracciones que con las mismas se cometan serán juzgadas con arreglo a las penas que estatuyen las ordenanzas de aduana y la Ley 11.231 para las mercaderías de procedencia extranjera.
+
+## ARTICULO 6
+
+Las disposiciones del presente decreto entrarán en vigor a los 180 días de su publicación en el Boletín Oficial.
+
+## ARTICULO 7
+
+Dése cuenta oportunamente del presente decreto al Honorable Congreso de la Nación.
+
+## ARTICULO 8
+
+Comuníquese, etc.
+
+FARRELL - Ameghino - Teisaire - Etcheverry Boneo - Pistarini - Avalos - Peron.

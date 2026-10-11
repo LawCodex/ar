@@ -1,0 +1,49 @@
+---
+title: "Ley 17426: RADIOFONIA Y TELEVISION — DECRETO LEY N° 15.957/1946 - MODIFICACION"
+identifier: "Ley 17426"
+infoleg_id: "300568"
+type: act
+jurisdiction: ar
+language: es
+date: 1967-09-07
+published: 1967-09-13
+boletin_oficial: "21271"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=300568"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/300568/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 17426: RADIOFONIA Y TELEVISION — DECRETO LEY N° 15.957/1946 - MODIFICACION
+
+RADIOFONIA Y TELEVISION
+
+LEY Nº 17.426
+
+Modifícase el artículo del Decreto 15.957/46 referente a las licencias para la instalación y funcionamiento de estaciones radioeléctricas de aficionado.
+
+Buenos Aires, 7 de setiembre de 1967.
+
+En uso de las atribuciones conferidas por el Artículo 5º del Estatuto de la Revolución Argentina,
+
+El Presidente de la Nación Argentina, Sanciona y Promulga con fuerza de
+
+Ley:
+
+## Artículo 1º
+
+Modifícase el texto del Artículo 9º del Decreto Nº 15.957/46, convalidado por Ley Nº 12.913, por el siguiente:
+
+“Las licencias para la instalación y funcionamiento de estaciones radioeléctricas de aficionado serán otorgadas a argentinos nativos o por opción, o a argentinos naturalizados con más de diez años en el ejercicio de la ciudadanía o a argentinos naturalizados que no teniendo esa antigüedad como tales, hayan renunciado a la opción que acuerda el Artículo 21º de la Constitución Nacional.
+
+Asimismo, la Secretaría de Estado de Comunicaciones queda facultada para otorgar permisos a radioaficionados extranjeros que se hallen de paso o se radiquen en el país; que posean licencia de igual categoría otorgada por las autoridades del país de origen y siempre que se establezca una relación de reciprocidad con dichos Estados, respecto a los ciudadanos argentinos que se hallen en similares condiciones. Tales permisos se ajustarán a las disposiciones reglamentarias vigentes y a las normas que se dicten a tal efecto.
+
+El Ministerio de Relaciones Exteriores y Culto suscribirá los acuerdos con la correspondiente intervención de la Secretaría de Estado de Comunicaciones”.
+
+## Artículo 2º
+
+Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese.
+
+Onganía. — Guillermo A. Borda.

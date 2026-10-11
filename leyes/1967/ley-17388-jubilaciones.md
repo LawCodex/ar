@@ -1,0 +1,55 @@
+---
+title: "Ley 17388: JUBILACIONES — REGIMENES NACIONALES DE PREVISION"
+identifier: "Ley 17388"
+infoleg_id: "198115"
+type: act
+jurisdiction: ar
+language: es
+date: 1967-08-16
+published: 1967-08-25
+boletin_oficial: "21258"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=198115"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/198115/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 17388: JUBILACIONES — REGIMENES NACIONALES DE PREVISION
+
+JUBILACIONES
+
+LEY N° 17.388
+
+Son modificadas las disposiciones legales contenidas en los régimenes nacionales de previsión, referentes a pérdida, restricción o suspensión del derecho al beneficio de jubilación.
+
+Buenos Aires, 16 de agosto de 1967
+
+En ejercicio de las facultades conferidas por el artículo 5° del Estatuto de la Revolución Argentina,
+
+El Presidente de la Nación Argentina, Sanciona Y Promulga con fuerza de
+
+Ley:
+
+## Artículo 1°
+
+Deróganse todas las disposiciones contenidas en las leyes nacionales de previsión, referentes a la pérdida, restricción o suspensión del derecho al beneficio de jubilación, por destitución o separación definitiva del servicio con motivo de incumplimiento o mal desempeño de los deberes a su cargo o abuso de bebidas alcohólicas, causa criminal pendiente o condena criminal.
+
+## Artículo 2°
+
+En caso de condena, por sentencia penal definitiva, a inhabilitación absoluta, sea como pena principal o accesoria, los derechohabientes del condenado quedarán subrogados en los derechos de éste para gestionar y percibir, mientras subsista esa pena, la jubilación de que fuere titular o a que tuviere derecho, en el orden y proporción establecidos en los respectivos regímenes de previsión.
+
+## Artículo 3°
+
+Los afiliados que hubieran sufrido la pérdida, restricción o suspensión del beneficio de jubilación como consecuencia de la aplicación de las disposiciones que se derogan por la presente ley, o sus causahabientes, podrán solicitar el otorgamiento o rehabilitación del beneficio, o de la pensión según corresponda, los que serán liquidados a partir de la fecha de dicha solicitud.
+
+## Artículo 4°
+
+La presente ley será de aplicación a todos los regímenes nacionales de previsión comprendidos en la Ley 14.236.
+
+## Artículo 5°
+
+Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese.
+
+Onganía. — Julio E. Alvarez

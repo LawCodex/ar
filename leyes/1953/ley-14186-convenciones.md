@@ -1,0 +1,45 @@
+---
+title: "Ley 14186: CONVENCIONES — CONVENCION INTERAMERICANA SOBRE DERECHO DE AUTOR EN OBRAS LITERARIAS, CIENTIFICAS Y ARTISTICAS"
+identifier: "Ley 14186"
+infoleg_id: "192495"
+type: act
+jurisdiction: ar
+language: es
+date: 1953-05-13
+published: 1953-07-24
+boletin_oficial: "17445"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=192495"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/192495/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 14186: CONVENCIONES — CONVENCION INTERAMERICANA SOBRE DERECHO DE AUTOR EN OBRAS LITERARIAS, CIENTIFICAS Y ARTISTICAS
+
+RATIFICASE LA CONVENCION INTERAMERICANA SOBRE EL DERECHO DE AUTOR EN OBRAS LITERARIAS, CIENTIFICAS Y ARTISTICAS SUSCRIPTA EN WASHINGTON
+
+LEY 14.186
+
+Sancionada: Mayo 13-1953
+
+Promulgada: Julio 20-1953
+
+El Senado y la Cámara de Diputados de la Nación Argentina, reunidos en congreso, sancionan con fuerza de LEY:
+
+## ARTICULO 1°
+
+Ratifícase la Convención Interamericana sobre el Derecho de Autor en Obras Literarias, Científicas y Artísticas, suscrita en la ciudad de wáshington, Estados Unidos de América, el 22 de junio de 1946.
+
+## ARTICULO 2°
+
+Comuníquese al Poder Ejecutivo.
+
+Dada en la Sala de Sesiones del Congreso Argentino, en Buenos Aires a los trece días del mes de mayo del año mil novecientos cincuenta y tres.
+
+| A. TEISARE | A. J. BENITEZ |
+|---|---|
+| Alberto H. Reales | Rafael V. González |
+
+— Registrada bajo el N° 14.186 —

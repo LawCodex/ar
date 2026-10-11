@@ -1,0 +1,67 @@
+---
+title: "Decreto-Ley 4613/1958: ENTIDADES FINANCIERAS — DECRETO LEY N° 13127/57 - MODIFICACION"
+identifier: "Decreto-Ley 4613/1958"
+infoleg_id: "183052"
+type: decree-law
+jurisdiction: ar
+language: es
+date: 1958-04-14
+published: 1958-05-06
+boletin_oficial: "18638"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=183052"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/183052/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Decreto-Ley 4613/1958: ENTIDADES FINANCIERAS — DECRETO LEY N° 13127/57 - MODIFICACION
+
+ENTIDADES FINANCIERAS
+
+DECRETO-LEY N° 4613
+
+Determínanse las causas por las que no se podrán desempeñar funciones en los Bancos.
+
+Bs. As., 14/4/58
+
+VISTO el artículo 4° del Decreto-Ley N° 13.127/1957 que inhabilita para desempeñar funciones en los bancos a las personas que fueren objetadas por el Banco Central de la República Argentina, y
+
+CONSIDERANDO:
+
+Que no fue propósito de esta disposición otorgar poderes discrecionales a las autoridades del Banco Central de la República Argentina, sino exigir las máximas garantías de seriedad y de responsabilidad a los directores y promotores de empresas bancarias.
+
+Que, por lo tanto, conviene precisar, en reemplazo de aquella norma genérica, las causales de incompatibilidad entre determinadas situaciones concretas y el ejercicio de las funciones y cargos a que se refiere dicha disposición, pues, en esta materia, es de todo punto vista preferible establecer preceptos cuya objetividad no ofrezca dudas para los fines de su inmediata aplicación en los casos en que ello fuera procedente.
+
+Por ello,
+
+El presidente provisional de la Nación Argentina en ejercicio del Poder Legislativo decreta con fuerza de ley:
+
+## Artículo 1°
+
+Sustitúyase el texto del artículo 4 del Decreto Ley N° 13.127/57 por el siguiente:
+
+"Artículo 4.- No podrán desempeñarse como promotores de nuevos bancos ni ocupar cargos directivos en los bancos existentes o los nuevos que se constituyan:
+
+a) Los fallidos, los concursados civilmente y los deudores morosos de los bancos.
+
+b) Los penados con inhabilitación absoluta o especial.
+
+c) Los condenados por delitos comunes.
+
+d) Los que, encontrándose sometidos a proceso criminal, hayan sufrido prisión preventiva.
+
+e) Los que se hallen comprendidos en las disposiciones del Inc. b) del Art. 32 del decreto ley 13.127/57; y
+
+f) Los declarados por autoridad competente responsables de irregularidades cometidas en el gobierno y administración de entidades bancarias."
+
+## Art. 2°
+
+El presente decreto ley será refrendado por el Excmo. Señor Vicepresidente Provisional de la Nación y por los señores ministros secretarios de Estado de los Departamentos de Hacienda, interino de Guerra, de Marina y de Aeronáutica.
+
+## Art. 3°
+
+Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese.
+
+ARAMBURU. – Isaac Rojas. – Adalberto Krieger Vasena – Teodoro Hartung – Jorge H. Landaburu

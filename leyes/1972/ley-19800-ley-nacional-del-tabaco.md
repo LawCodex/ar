@@ -1,0 +1,379 @@
+---
+title: "Ley 19800: LEY NACIONAL DEL TABACO — FONDO ESPECIAL DEL TABACO"
+identifier: "Ley 19800"
+infoleg_id: "17440"
+type: act
+jurisdiction: ar
+language: es
+date: 1972-08-23
+published: 1972-08-31
+boletin_oficial: "22495"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: unknown
+text_version: "texto actualizado"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=17440"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/15000-19999/17440/texact.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 19800: LEY NACIONAL DEL TABACO — FONDO ESPECIAL DEL TABACO
+
+LEY NACIONAL DEL TABACO
+
+Ley Nº 19.800
+
+Bs.As., 23/8/72
+
+Ver Antecedentes Normativos
+
+En uso de las atribuciones conferidas por el artículo 5º del Estatuto de la Revolución Argentina,
+
+EL PRESIDENTE DE LA NACION ARGENTINA SANCIONA Y PROMULGA CON FUERZA DE LEY:
+
+## Artículo 1º
+
+Se regirán por la presente Ley todas las actividades tabacaleras del país, a partir del 1º de enero de 1973.
+
+## Art. 2º
+
+El Poder Ejecutivo Nacional designará el órgano de aplicación de la presente Ley.
+
+De la Comisión Nacional Asesora Permanente del Tabaco.
+
+## Art. 3º
+
+Créase la Comisión Nacional Asesora Permanente del Tabaco, que estará integrada por representantes de los organismos competentes, gobiernos provinciales y asociaciones más representativas de los trabajadores y empresarios vinculados con la producción, industrialización y exportación. Las normas de funcionamiento y designación de los integrantes de la Comisión, se determinarán en la reglamentación de la presente ley.
+
+(Artículo sustituido por art. 1º de la Ley Nº 20.678 B.O. 28/06/1974)
+
+## Art. 4º
+
+La Comisión Nacional Asesora Permanente del Tabaco tendrá las siguientes funciones:
+
+a) Asesorará anualmente en lo que hace a las necesidades del volumen de producción, por tipo y clase de tabaco;
+
+b) Asesorará anualmente en cuanto a la fecha de iniciación y finalización del acopio, por tipo y clase de tabaco;
+
+c) Asesorará en lo relacionado con la habilitación de nuevas áreas tabacaleras;
+
+d) Asesorará en todos los estudios relacionados con la tipificación oficial de los distintos tipos de tabaco;
+
+e) Asesorará en los problemas atinentes al proceso integral de la actividad tabacalera, comprendiendo todas las etapas de producción, industrialización y comercialización interna y externa.
+
+De la Producción
+
+## Art. 5º
+
+El órgano de aplicación determinará las distintas zonas ecológicas del país, orientando la investigación y la extensión hacia la difusión de las variedades de mejor comportamiento agronómico e industrial y hacia las prácticas más convenientes de cultivo, cosecha, curación y acondicionamiento.
+
+## Art. 6º
+
+El órgano de aplicación creará el Registro Nacional de Semillas de Tabaco, en el que deberán inscribirse las variedades existentes y aquellas que, por su aptitud, en el futuro merezcan su incorporación con el fin de asegurar la difusión de los cultivares más aptos.
+
+## Art. 7º
+
+El órgano de aplicación y los organismos competentes estudiarán los aspectos socio-económicos de las zonas productoras y aconsejarán las medidas que correspondan adoptarse cuando existan problemas que merezcan un tratamiento especial, diferencial o de emergencia.
+
+## Art. 8º
+
+El órgano de aplicación llevará un registro de toda persona, entidad o sociedad, que se dedique al cultivo del tabaco.
+
+## Art. 9º
+
+(Artículo derogado por art. 67 del Decreto Nº 2284/91 B.O. 01/11/1991, según texto del art. 7º del Decreto Nº 2488/91 B.O. 26/11/1991)
+
+## Art. 10
+
+(Artículo derogado por art. 67 del Decreto Nº 2284/91 B.O. 01/11/1991, según texto del art. 7º del Decreto Nº 2488/91 B.O. 26/11/1991)
+
+## Art. 11
+
+(Artículo derogado por art. 67 del Decreto Nº 2284/91 B.O. 01/11/1991, según texto del art. 7º del Decreto Nº 2488/91 B.O. 26/11/1991)
+
+## Art. 12
+
+El ingreso que el productor percibirá se integrará de la siguiente forma:
+
+a) Mediante el pago que debe efectuar el comprador como precio de acopio.
+
+b) El importe que abonará el Fondo Especial del Tabaco.
+
+c) El adicional de emergencia que establezca el órgano de aplicación para algunos tipos de tabaco según lo previsto en el inciso a) del artículo 27 de la presente ley.
+
+(Por art. 1º de la Ley Nº 24.291 B.O. 29/12/1993 se restablece la vigencia del presente artículo; y, por art. 3º de la misma norma se sustituye)
+
+## Art. 13
+
+(Artículo derogado por art. 67 del Decreto Nº 2284/91 B.O. 01/11/1991, según texto del art. 7º del Decreto Nº 2488/91 B.O. 26/11/1991)
+
+## Art. 14
+
+(Artículo derogado por art. 67 del Decreto Nº 2284/91 B.O. 01/11/1991, según texto del art. 7º del Decreto Nº 2488/91 B.O. 26/11/1991)
+
+De la Comercialización.
+
+## Art. 15
+
+Las personas físicas o jurídicas que se dediquen a la compra de tabaco (acopiadores, industriales o exportadores), en cualquiera de sus tipos y en las distintas zonas productoras, para poder desarrollar sus actividades deberán estar inscriptas en un registro que se creará en el organismo competente, el que dará vista de las listas correspondientes al órgano de aplicación.
+
+## Art. 16
+
+Los locales destinados a la recepción de tabaco, ya sea en forma permanente o transitoria, deberán ser previamente habilitados por el órgano de aplicación, quién podrá convenir y delegar dicha función a los Gobiernos Provinciales.
+
+(Por art. 1º de la Ley Nº 24.291 B.O. 29/12/1993 se restablece la vigencia del presente artículo)
+
+## Art. 17
+
+(Artículo derogado por art. 67 del Decreto Nº 2284/91 B.O. 01/11/1991, según texto del art. 7º del Decreto Nº 2488/91 B.O. 26/11/1991)
+
+## Art. 18
+
+(Artículo derogado por art. 67 del Decreto Nº 2284/91 B.O. 01/11/1991, según texto del art. 7º del Decreto Nº 2488/91 B.O. 26/11/1991)
+
+## Art. 19
+
+(Artículo derogado por art. 67 del Decreto Nº 2284/91 B.O. 01/11/1991, según texto del art. 7º del Decreto Nº 2488/91 B.O. 26/11/1991)
+
+## Art. 20
+
+El órgano de aplicación determinará anualmente las fechas de iniciación y finalización de compra por tipo comercial.
+
+## Art. 21
+
+Para preservar la sanidad de las zonas productoras, el órgano de aplicación o los Gobiernos Provinciales facilitarán, entre otras medidas, y de acuerdo al arancel respectivo, la desinfección en cámaras autorizadas de los tabacos y arpilleras que se utilicen en el consumo interno.
+
+Del Fondo Especial del Tabaco.
+
+## Art. 22
+
+Créase el Fondo Especial del Tabaco a los fines indicados en los artículos 27 y 28 de la presente Ley.
+
+## Art. 23
+
+El Fondo Especial del Tabaco se integrará de la siguiente forma:
+
+a) Con el siete por ciento (7 %) del precio total de venta al público de cada paquete de cigarrillos;
+
+b) Con el remanente de la Cuenta Especial Nº 887, Fondo Especial del Tabaco;
+
+c) Con los intereses, multas y otros ingresos que resultaren de la administración del Fondo, y
+
+d) Con las donaciones, legados y contribuciones que se le hicieren.
+
+## Art. 24
+
+Establécese un adicional del uno por ciento (1%) del precio de venta al público de los cigarrillos, que los industriales fabricantes de cigarrillos utilizarán para el pago del porcentaje habitual de la comercialización en todo el país (mayoristas y minoristas) sobre el Fondo Especial del Tabaco establecido en la presente Ley.
+
+## Art. 25
+
+Establécese un adicional del tres y medio por mil (3,5‰) del precio del paquete de cigarrillos vendido de dos (2) unidades básicas el adicional establecido por el artículo 25 de la Ley 19.800, sus normas modificatorias y reglamentarias.
+
+Los fondos que por tal concepto se recauden, serán destinados a las obras sociales de los sindicatos de la actividad. Asimismo se establece un adicional fijo de pesos siete centavos con una décima de centavos ($ 0,071) por paquete de veinte (20) cigarrillos vendidos, o su proporción en función de la cantidad de cigarrillos por paquete, de los cuales pesos seis centavos con cinco décimas de centavos ($ 0,065) integrarán la recaudación indicada en el inciso a) del artículo 23 del Fondo Especial del Tabaco y el resto será destinado según lo establecido en el artículo 24 de dicho fondo.
+
+El adicional fijo establecido en el párrafo anterior se incrementará en otros pesos siete centavos con una décima de centavos ($ 0,071) a partir del 1º de julio del año 2009, de los cuales pesos seis centavos con cinco décimas de centavos ($ 0,065) integrarán la recaudación indicada en el inciso a) del artículo 23 de esta ley y el resto será destinado según lo establecido en el artículo 24.
+
+El monto del adicional fijo establecido en los párrafos precedentes se calculará mediante la aplicación del siguiente procedimiento:
+
+El 1º de enero del año 2009, se establecerá la relación o proporción resultante de dividir el monto del adicional fijo de pesos catorce centavos con dos décimas de centavos ($ 0,142) por el precio promedio ponderado de ese momento. La proporción establecida precedentemente, comenzará a regir a partir del 10 de enero de 2010, momento a partir del cual se aplicará al precio promedio ponderado al inicio de cada semestre, a efectos de establecer el monto del adicional fijo vigente para cada semestre.
+
+La Administración Federal de Ingresos Públicos, entidad autárquica en el ámbito del Ministerio de Economía y Finanzas Públicas, en función a la información que a tales fines deberá suministrarle la Secretaría de Agricultura, Ganadería, Pesca y Alimentos, dependiente del Ministerio de Producción, deberá determinar el precio promedio ponderado a que alude el párrafo precedente.
+
+(Artículo sustituido por art. 4º de la Ley Nº 26.467 B.O. 09/01/2009. Vigencia: Ver art. 7° de la misma norma)
+
+## Art. 25 bis
+
+Entiéndese que la base imponible a fin de aplicar las alícuotas definidas en los artículos 23, 24 y 25 de esta ley, es el precio de venta al público descontando el Impuesto al Valor Agregado y el Impuesto Adicional de Emergencia sobre el precio final de venta de cada paquete de cigarrillos, creado por la ley 24.625 y sus modificaciones. Para la determinación del precio de venta al público resultarán de aplicación las disposiciones de los tres últimos párrafos del artículo 2° del Título I de la Ley de Impuestos Internos, texto sustituido por la ley 24.674 y sus modificaciones.
+
+(Artículo sustituido por art. 125 de la Ley N° 27.430 B.O. 29/12/2017. Vigencia: el día siguiente al de su publicación en el Boletín Oficial y surtirán efecto de conformidad con lo previsto en cada uno de los Títulos que la componen. Ver art. 128 de la Ley de referencia)
+
+## Art. 26
+
+Los montos que se recauden de acuerdo con lo establecido en los artículos 23, inciso a), 24 y 25, atento a su destino, estarán exentos del impuesto establecido en el artículo 31 de la Ley de Impuestos Internos (t.o. en 1968 y sus modificaciones) y de todo otro gravamen que pudiera corresponderle, tanto a los industriales como al sector de la distribución.
+
+Tales montos quedan, asimismo, excluídos del régimen de impuestos internos, conforme lo previsto en el artículo 6º de la Ley 14.390 y sus modificaciones.
+
+## Art. 27
+
+El órgano de aplicación retendrá del total recaudado, de acuerdo con lo indicado en el artículo 23 y en el inciso a) del artículo 25 el veinte por ciento (20%), que se afectará a las siguientes finalidades:
+
+a) El noventa y siete por ciento (97%) del total para compensar déficit provinciales de recaudación del Fondo Especial del Tabaco y para atender los problemas críticos económicos y sociales de las áreas tabacaleras que se caracterizan por régimen jurídico de tenencia de la tierra con predominio del minifundio y, fundamentalmente, de minifundio combinado con el sistema de aparcería, y
+
+b) El tres por ciento (3%) restante para atender las tareas relacionadas con el mejoramiento de la calidad de la producción tabacalera por diversos medios, especialmente la obtención, multiplicación y distribución de semillas selectas; incremento de la tecnología tabacalera en todos sus aspectos; la difusión de sus resultados; y otros gastos inherentes al cumplimiento de la presente Ley.
+
+(Por art. 1º de la Ley Nº 24.291 B.O. 29/12/1993 se restablece la vigencia del presente artículo)
+
+## Art. 28
+
+El órgano de aplicación distribuirá el ochenta por ciento (80%) de los fondos recaudados por lo establecido en el artículo 23 y en el inciso a) del artículo 25 de esta ley, entre las provincias productoras de tabaco.
+
+De acuerdo con el valor de la producción, se repartirá entre las provincias de tabacos claros un porcentaje de la recaudación equivalente al de la cantidad de paquetes de cigarrillos rubios, de dos (2) unidades básicas vendidas sobre la venta total y entre las provincias productoras de tabacos oscuros una proporción igual a la que correspondiera a la venta de paquetes de cigarrillos negros de dos (2) unidades básicas en el total.
+
+Asimismo, corresponderá a las provincias un porcentaje de los fondos recaudados que equivalga a la cantidad de paquetes de cigarrillos mezcla, de dos (2) unidades básicas vendidos sobre la venta total. Dicho porcentaje, se distribuirá, a su vez, entre las provincias productoras de tabacos claros y productoras de tabacos oscuros en la proporción que cada uno de dichos tabacos integre la composición de los cigarrillos mezcla.
+
+(Por art. 1º de la Ley Nº 24.291 B.O. 29/12/1993 se restablece la vigencia del presente artículo)
+
+## Art. 29
+
+El órgano de aplicación celebrará convenios con los Gobiernos Provinciales, en interés de los productores, acerca del destino de los fondos mencionados en el artículo anterior, así como los previstos en el inciso a) del artículo 27. Tales fondos serán entregados a aquéllos con carácter definitivo y no reintegrable y teniendo en cuenta el siguiente orden de prioridades:
+
+a) Pagar a los productores el importe establecido en el inciso b) del artículo 12.
+
+b) Colaborar en el mejoramiento de técnicas de producción, a través de organismos de investigación nacional y provinciales.
+
+c) Apoyar la formación de existencias adecuadas de tabaco que permitan asegurar un abastecimiento estable a la industria y a la exportación.
+
+d) Propiciar sistemas de producción y comercialización cooperativa entre los productores tabacaleros.
+
+e) Concurrir al ordenamiento de la producción y de la comercialización del tabaco.
+
+f) Promover la conversión, complementación y diversificación agraria en la zonas tabacaleras.
+
+g) Atender los gastos que origine el funcionamiento de la COMISION NACIONAL ASESORA PERMANENTE DEL TABACO y de los Organismos Provinciales de aplicación.
+
+El órgano de aplicación fiscalizará la administración de los fondos y su efectiva afectación a los destinos previstos en los planes respectivos por él aprobados estableciendo en el acto de aprobación los sistemas de fiscalización que estimen convenientes. Asimismo, al término de cada ejercicio, deberá elaborar y poner a disposición de los Gobiernos Provinciales el balance del Fondo Especial del Tabaco.
+
+(Por art. 1º de la Ley Nº 24.291 B.O. 29/12/1993 se restablece la vigencia del presente artículo; y, por art. 3º de la misma norma se sustituye.)
+
+## Art. 30
+
+En cada provincia productora de tabaco podrá constituirse gradualmente una reserva financiera con sus recursos del Fondo Especial del Tabaco para asegurar que el pago del importe establecido en el artículo 12, inciso b) pueda hacerse efectivo en el momento de la comercialización de la producción.
+
+(Por art. 1º de la Ley Nº 24.291 B.O. 29/12/1993 se restablece la vigencia del presente artículo; y, por art. 3º de la misma norma se sustituye.)
+
+## Art. 31
+
+Los recursos provenientes del Fondo Especial del Tabaco serán administrados por cada provincia, de conformidad con sus modalidades de comercialización, por los organismos que cada una de ellas determine, debiendo rendir cuenta al órgano de aplicación.
+
+(Por art. 1º de la Ley Nº 24.291 B.O. 29/12/1993 se restablece la vigencia del presente artículo)
+
+De la Importación y Exportación.
+
+## Art. 32
+
+(Artículo derogado por art. 67 del Decreto Nº 2284/91 B.O. 01/11/1991, según texto del art. 7º del Decreto Nº 2488/91 B.O. 26/11/1991)
+
+## Art. 33
+
+(Artículo derogado por art. 67 del Decreto Nº 2284/91 B.O. 01/11/1991, según texto del art. 7º del Decreto Nº 2488/91 B.O. 26/11/1991)
+
+## Art. 34
+
+(Artículo derogado por art. 67 del Decreto Nº 2284/91 B.O. 01/11/1991, según texto del art. 7º del Decreto Nº 2488/91 B.O. 26/11/1991)
+
+## Art. 35
+
+(Artículo derogado por art. 67 del Decreto Nº 2284/91 B.O. 01/11/1991, según texto del art. 7º del Decreto Nº 2488/91 B.O. 26/11/1991)
+
+De la Industrialización.
+
+## Art. 36
+
+Los manufactureros de tabaco deberán inscribirse en el organismo competente, el que dará vista de la información al órgano de aplicación.
+
+## Art. 37
+
+(Artículo derogado por art. 67 del Decreto Nº 2284/91 B.O. 01/11/1991, según texto del art. 7º del Decreto Nº 2488/91 B.O. 26/11/1991)
+
+## Art. 38
+
+Las manufacturas inscriptas en la Dirección General Impositiva con carácter de "amplias" y "limitadas" deberán abonar al órgano de aplicación, la tasa de "Contralor de Calidad", consistente en dos centavos ($ 0,02) por cada kilogramo de tabaco que ingrese a elaboración.
+
+## Art. 39
+
+Las manufacturas sujetas al pago de la tasa indicada en el artículo 38, informarán al órgano de aplicación dentro de los primeros quince (15) días de cada mes, la cantidad de tabaco ingresado a elaboración durante el mes anterior, abonando al presentar dicha información la tasa correspondiente.
+
+## Art. 40
+
+Dentro del primer trimestre de cada año, las manufacturas harán llegar al órgano de aplicación una planilla demostrativa del movimiento de tabaco registrado al año anterior.
+
+## Art. 41
+
+Los industriales fabricantes de cigarrillos deberán presentar al organismo competente, dentro de los quince (15) días anteriores a la vigencia de la presente Ley, el cálculo con los efectos que la aplicación de la misma ocasionará en el nivel de precios de sus productos y una proposición de los nuevos precios de venta de cada marquilla.
+
+De las Sanciones.
+
+## Art. 42
+
+El incumplimiento de la presente Ley y de su reglamentación, hará pasible a los infractores de sanciones consistentes en multas entre un mínimo de AUSTRALES SEISCIENTOS OCHENTA Y NUEVE MIL SETECIENTOS SETENTA Y SEIS (A 689.776) y un máximo de AUSTRALES DOSCIENTOS SETENTA Y CINCO MILLONES OCHOCIENTOS OCHENTA Y CINCO MIL NOVECIENTOS SESENTA (A 275.885.960) sin perjuicio de las sanciones previstas por la legislación aduanera e impositiva.
+
+(Montos actualizados por art. 1º de la Resolución Nº 271/91 de la Subsecretaría de Agricultura, Ganadería y Pesca B.O. 08/08/1991)
+
+## Art. 43
+
+Las sanciones a que se refiere el artículo 42 serán impuestas por el órgano de aplicación y podrán ser apelables ante la Cámara Federal de Apelaciones con jurisdicción en el lugar en que se cometió la infracción o ante la Cámara Federal de Apelaciones en lo Penal Económico de la Capital Federal. El recurso deberá interponerse dentro del plazo de diez (10) días de notificada la sanción, previo pago de la multa en el caso de que la misma no supere los AUSTRALES DOS MILLONES SESENTA Y NUEVE MIL CIENTO CINCUENTA (A 2.069.150).
+
+(Monto actualizado por art. 2º de la Resolución Nº 271/91 de la Subsecretaría de Agricultura, Ganadería y Pesca B.O. 08/08/1991)
+
+De las Disposiciones Complementarias.
+
+## Art. 44
+
+Para verificar el cumplimiento de la presente Ley, el órgano de aplicación podrá efectuar inspecciones a las sedes de las firmas compradoras (acopiadores, industriales y/o exportadores) y revisar los libros de impuestos internos correspondientes.
+
+La aplicación, percepción y fiscalización del sobreprecio y adicionales establecidos, se regirá por las disposiciones de la Ley 11.683 (t.o. en 1968 y sus modificaciones), a cuyo efecto las facultades y poderes que le acuerda dicho ordenamiento a la Dirección General Impositiva, deberán entenderse como referidas al órgano de aplicación de la presente ley. (Párrafo incorporado por art. 1º de la Ley Nº 20.132 B.O. 07/02/1973)
+
+## Art. 45
+
+Derógase toda disposición que se oponga a la presente Ley.
+
+## Art. 46
+
+Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y Archívese.
+
+LANUSSE
+
+Ernesto J. Lanusse.
+
+Daniel García.
+
+Ernesto J. Parellada.
+
+Cayetano A. Licciardo.
+
+Antecedentes Normativos
+
+\- Artículo 25 bis incorporado por art. 5º de la Ley Nº 26.467 B.O. 09/01/2009. Vigencia: Ver art. 7° de la misma norma;
+
+\- Artículo 25 sustituido por art. 1º de la Ley Nº 23.684 B.O. 20/07/1989;
+
+\- Artículo 31 derogado por art. 67 del Decreto Nº 2284/91 B.O. 01/11/1991, según texto del art. 7º del Decreto Nº 2488/91 B.O. 26/11/1991;
+
+\- Artículo 30 derogado por art. 67 del Decreto Nº 2284/91 B.O. 01/11/1991, según texto del art. 7º del Decreto Nº 2488/91 B.O. 26/11/1991;
+
+\- Artículo 29 derogado por art. 67 del Decreto Nº 2284/91 B.O. 01/11/1991, según texto del art. 7º del Decreto Nº 2488/91 B.O. 26/11/1991;
+
+\- Artículo 28 derogado por art. 67 del Decreto Nº 2284/91 B.O. 01/11/1991, según texto del art. 7º del Decreto Nº 2488/91 B.O. 26/11/1991;
+
+\- Artículo 27 derogado por art. 67 del Decreto Nº 2284/91 B.O. 01/11/1991, según texto del art. 7º del Decreto Nº 2488/91 B.O. 26/11/1991;
+
+\- Artículo 16 derogado por art. 67 del Decreto Nº 2284/91 B.O. 01/11/1991, según texto del art. 7º del Decreto Nº 2488/91 B.O. 26/11/1991;
+
+\- Artículo 12 derogado por art. 67 del Decreto Nº 2284/91 B.O. 01/11/1991, según texto del art. 7º del Decreto Nº 2488/91 B.O. 26/11/1991;
+
+\- Artículo 43, monto actualizado por art. 2º de la Resolución Nº 85/90 de la Secretaría de Agricultura, Ganadería y Pesca B.O. 08/02/1990;
+
+\- Artículo 42, montos actualizados por art. 1º de la Resolución Nº 85/90 de la Secretaría de Agricultura, Ganadería y Pesca B.O. 08/02/1990;
+
+\- Artículo 43, monto actualizado por art. 2º de la Resolución Nº 175/86 de la Secretaría de Agricultura, Ganadería y Pesca B.O. 03/04/1986;
+
+\- Artículo 42, montos actualizados por art. 1º de la Resolución Nº 175/86 de la Secretaría de Agricultura, Ganadería y Pesca B.O. 03/04/1986;
+
+\- Artículo 43, monto actualizado por art. 2º de la Resolución Nº 60/85 de la Secretaría de Agricultura y Ganadería B.O. 18/02/1985;
+
+\- Artículo 42, montos actualizados por art. 1º de la Resolución Nº 60/85 de la Secretaría de Agricultura y Ganadería B.O. 18/02/1985;
+
+\- Artículo 25 sustituido por art. 1º de la Ley Nº 23.074 B.O. 31/07/1984;
+
+\- Artículo 29 sustituido por art. 1º de la Ley Nº 22.867 B.O. 05/08/1983;
+
+\- Artículo 28 sustituido por art. 1º de la Ley Nº 22.867 B.O. 05/08/1983;
+
+\- Artículo 43, monto actualizado por art. 2º de la Ley Nº 22.517 B.O. 10/12/1981;
+
+\- Artículo 42, montos actualizados por art. 1º de la Ley Nº 22.517 B.O. 10/12/1981;
+
+\- Artículo 25 sustituido por art. 1º de la Ley Nº 21.140 B.O. 05/11/1975;
+
+\- Artículo 25 sustituido por art. 3º de la Ley Nº 20.678 B.O. 28/06/1974;
+
+\- Artículo 13 sustituido por art. 2º de la Ley Nº 20.678 B.O. 28/06/1974.

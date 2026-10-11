@@ -1,0 +1,63 @@
+---
+title: "Ley 18882: REMUNERACION — SALARIO MINIMO, VITAL Y MOVIL-AUMENTO SALARIAL:ALCANCES"
+identifier: "Ley 18882"
+infoleg_id: "301693"
+type: act
+jurisdiction: ar
+language: es
+date: 1970-12-29
+published: 1971-01-05
+boletin_oficial: "22087"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=301693"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/301693/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 18882: REMUNERACION — SALARIO MINIMO, VITAL Y MOVIL-AUMENTO SALARIAL:ALCANCES
+
+Se fija el salario vital mínimo.
+
+Buenos Aires, 29 de diciembre de 1970.
+
+Excelentísimo señor Presidente de la Nación:
+
+TENGO el honor de dirigirme al Primer Magistrado para elevar a vuestra consideración un proyecto de ley por el que se actualiza el nivel del salario vital mínimo, a partir del 1° de enero de 1971.
+
+Se estima que las variaciones que refleja el costo de vida hacen necesario proceder al reajuste del salario vital mínimo en la cuantía que se considera equitativa y que sirva a la finalidad –reiteradamente enunciada como objetivo de la política socioeconómica del Gobierno de la Nación- de satisfacer necesidades perentorias del trabajador.
+
+Respecto del Sector Público, la materia referente a salario corresponde ser considerada en las normas específicas de aquél, de allí la exclusión que apunta el artículo 2° del proyecto.
+
+Dios guarde a Vuestra Excelencia.
+
+Juan A. Luco.
+
+Aldo Ferrer.
+
+LEY N° 18.882
+
+Bs. As., 29/12/70
+
+En uso de las atribuciones conferidas por el artículo 5° del Estatuto de la Revolución Argentina.
+
+EL PRESIDENTE DE LA NACIÓN
+
+ARGENTINA SANCIONA Y PROMULGA
+
+CON FUERZA DE LEY:
+
+## Artículo 1º
+
+Fíjase el salario vital mínimo, a partir del 1° de enero de 1971 en trescientos pesos ($ 300.-), doce pesos ($ 12.-) y un peso con cincuenta centavos ($ 1,50) para el trabajador sin cargas de familia, remunerado por mes, por día o por hora, respectivamente.
+
+## Art. 2º
+
+El salario vital mínimo fijado por el artículo anterior no regirá respecto de los organismos centralizados, descentralizados y autárquicos de la Administración Pública Nacional.
+
+## Art. 3º
+
+Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese.
+
+LEVINGSTON.

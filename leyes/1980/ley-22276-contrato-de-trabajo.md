@@ -1,0 +1,53 @@
+---
+title: "Ley 22276: CONTRATO DE TRABAJO — LEY 20744 - MODIFICACION"
+identifier: "Ley 22276"
+infoleg_id: "77208"
+type: act
+jurisdiction: ar
+language: es
+date: 1980-08-25
+published: 1980-08-28
+boletin_oficial: "24490"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=77208"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/75000-79999/77208/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 22276: CONTRATO DE TRABAJO — LEY 20744 - MODIFICACION
+
+CONTRATOS DE TRABAJO
+
+LEY N° 22.276
+
+Sustitúyese un artículo del Régimen de Contrato de Trabajo. Ley N° 20.744 (t.o. 1976)
+
+Buenos Aires, 25 de agosto de 1980
+
+En uso de las atribuciones conferidas por el artículo 5° del Estatuto para el Proceso de Reorganización Nacional,
+
+EL PRESIDENTE DE LA NACION ARGENTINA
+
+SANCIONA Y PROMULGA CON FUERZA DE LEY
+
+## ARTICULO 1°
+
+Sustitúyese el artículo 192 del Régimen de Contrato de Trabajo, Ley N° 20.744 (t.o. 1976), por el siguiente:
+
+"Artículo 192 - Ahorro. — El empleador, dentro de los treinta (30) días de la ocupación de un menor comprendido entre los catorce (14) y dieciséis (16) años, deberá gestionar la apertura de una cuenta de ahorro en la Caja Nacional de Ahorro y Seguro. Dicha entidad otorgará a las mismas el tratamiento propio de las cuentas de ahorro especial. La documentación respectiva permanecerá en poder y custodia del empleador mientras el menor trabaje a sus órdenes, debiendo ser devuelta a éste o a sus padres o tutores al extinguirse el contrato de trabajo, o cuando el menor cumpla los dieciséis (16) años de edad."
+
+## ARTICULO 2°
+
+Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese.
+
+VIDELA.
+
+Llamil Reston.
+
+José A. Martínez de Hoz.
+
+Jorge A. Fraga.
+
+Alberto Rodríguez Varela.

@@ -1,0 +1,47 @@
+---
+title: "Decreto-Ley 3944/1958: DISOLUCION DEL ORGANISMO — JUNTA CONSULTIVA NACIONAL"
+identifier: "Decreto-Ley 3944/1958"
+infoleg_id: "297592"
+type: decree-law
+jurisdiction: ar
+language: es
+date: 1958-03-31
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=297592"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/297592/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Decreto-Ley 3944/1958: DISOLUCION DEL ORGANISMO — JUNTA CONSULTIVA NACIONAL
+
+Es Disuelta la Junta Consultiva Nacional
+
+DEC.-LEY Nº 3.944.
+
+Bs.As., 31/3/58
+
+VISTO el Decreto-Ley Nº 2.011/55 por el cual se creó la Junta Consultiva Nacional, y CONSIDERANDO: Que dada la proximidad de la fecha de entrega del mando a las autoridades elegidas en los comicios del 23 de febrero de 1958, es conveniente dar por finalizadas las funciones desempeñadas por la Junta Consultiva Nacional, ya que la misma fué creada para cumplir su cometido de asesoramiento mientras duraran las funciones del Gobierno Provisional; Que la Junta Consultiva Nacional por haber sido integrada por personas representativas de las diversas corrientes de opinión, fundadas en la concepción política de la democracia y la libertad, representó un nexo más de unión entre pueblo y autoridades y significó el deseo de las Fuerzas Armadas de escuchar y dar preponderante participación a la civilidad en su transitorio gobierno hasta la vuelta a la completa normalidad institucional del país; Que corresponde en estas circunstancias al Gobierno Provisional destacar la importante y patriótica labor desempeñada por la misma y agradecer la eficaz y desinteresada colaboración prestada por quienes la integraron; Por ello,
+
+El Presidente Provisional de la Nación Argentina, en Ejercicio del Poder Legislativo, Decreta con Fuerza de Ley:
+
+## Artículo 1º
+
+Declárase disuelta la Junta Consultiva Nacional, creada por Decreto-Ley Nº 2.011/55.
+
+## Art. 2º
+
+Dénse por terminadas las funciones de los señores Miembros de la misma.
+
+## Art. 3º
+
+Dénsele las gracias por los importantes y patrióticos servicios prestados a la Nación.
+
+## Art. 4º
+
+El presente decreto-ley será refrendado por el Excmo. Señor Vicepresidente Provisional de la Nación y los señores Ministros Secretarios de Estado en los Departamentos de Comunicaciones e interino del Interior, Marina y Aeronáutica e interino de Guerra.
+
+## Art. 5º
+
+Comuníquese, publíquese, dése a la Dirección del Boletín Oficial y archívese.

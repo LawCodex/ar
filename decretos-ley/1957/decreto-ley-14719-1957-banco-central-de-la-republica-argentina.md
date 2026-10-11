@@ -1,0 +1,59 @@
+---
+title: "Decreto-Ley 14719/1957: BANCO CENTRAL DE LA REPUBLICA ARGENTINA — REPRESENTACION JUDICIAL DEL ESTADO"
+identifier: "Decreto-Ley 14719/1957"
+infoleg_id: "233171"
+type: decree-law
+jurisdiction: ar
+language: es
+date: 1957-11-06
+published: 1957-11-13
+boletin_oficial: "18522"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=233171"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/233171/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Decreto-Ley 14719/1957: BANCO CENTRAL DE LA REPUBLICA ARGENTINA — REPRESENTACION JUDICIAL DEL ESTADO
+
+DECRETO-LEY Nº 14.719
+
+El Banco Central Representará a la Nación en los Juicios por Cobro de Gravámenes en Importaciones y Recargos de Cambios.
+
+Bs. As., 6 de nov. de 1957
+
+VISTO: Que corresponde perseguir judicialmente el cobro de los gravámenes extraordinarios a las importaciones y recargos de cambio establecidos por los Decretos Nros. 2.001, 2.008 y 2.238/55, aduedados por los firmantes de los compromisos de pagos en cuotas, suscriptos de conformidad a los términos del Decreto número 5.152/65;
+
+La necesidad de contestar las demandas por repetición de lo pagado por ese concepto, y lo aconsejado al respecto por el Consejo de Administración del Fondo de Restablecimiento Económico Nacional, y
+
+CONSIDERANDO:
+
+Que es conveniente, por razones de economía procesal y administrativa, la centralización y uniformidad de la representación judicial en todo cuanto se relacione con la iniciación y prosecución de las acciones legales vinculadas a los recursos del Fondo de Restablecimiento Económico Nacional;
+
+Que la especialidad de las cuestiones que determinaron la imposición de los gravámenes extraordinarios y los recargos de cambio sobre las importaciones vinculadas a las materias de competencia del Banco Central de la República Argentina, hace, asimismo, que sea esta Institución la más indicada para representar y defender judicialmente los intereses del Fondo;
+
+Por ello:
+
+El Presidente Provisional de la Nación Argentina, en Ejercicio del Poder Legislativo, Decreta con Fuerza de
+
+Ley:
+
+## Artículo 1º
+
+La representación de la Nación en los juicios por cobro de los gravámenes extraordinarios y recargos de cambio a las importaciones y en las demandas por repetición de lo pagado por esos conceptos, será ejercida en todas las instancias por el Banco Central de la República Argentina.
+
+## Art. 2º
+
+El patrocinio legal en los referidos juicios será ejercido por los funcionarios letrados de la Asesoría Legal del Banco Central de la República Argentina.
+
+## Art. 3º
+
+El presente decreto será refrendado por el Excmo. señor Vicepresidente Provisional y por los señores Ministros Secretarios de Estado en los Departamentos de Educación y Justicia, de Hacienda, de Ejército, de Marina y de Aeronáutica.
+
+## Art. 4º
+
+Comuníquese, publíquese, dése a la Dirección General del Boletín Oficial y archívese.
+
+ARAMBURU. - Isaac Rojas. - Acdel E. Salas. - Víctor J. Majó. - Teodoro Hartung. - Jorge H. Landaburu. - Adalberto Krieger Vasena.

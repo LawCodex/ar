@@ -1,0 +1,45 @@
+---
+title: "Ley 22482: ADMINISTRACION NACIONAL DE ADUANAS — LIQUIDACION REEMBOLSO"
+identifier: "Ley 22482"
+infoleg_id: "304211"
+type: act
+jurisdiction: ar
+language: es
+date: 1981-08-12
+published: 1981-08-20
+boletin_oficial: "24735"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304211"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304211/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 22482: ADMINISTRACION NACIONAL DE ADUANAS — LIQUIDACION REEMBOLSO
+
+ADMINISTRACION NACIONAL DE ADUANAS
+
+LEY N° 22.482
+
+Se autoriza al citado organismo a liquidar el reembolso fijado por Resolución M.E. N° 567/78.
+
+Buenos Aires, 12 de agosto de 1981
+
+EN uso de las atribuciones conferidas por el artículo 5° del Estatuto de Reorganización Nacional,
+
+EL PRESIDENTE DE LA NACION ARGENTINA SANCIONA Y PROMULGA CON FUERZA DE
+
+LEY:
+
+## ARTICULO 1°
+
+Autorízase a la Administración Nacional de Aduanas a liquidar el reembolso fijado por Resolución M.E. N° 567/78 a la firma Igarreta S.A.C.I., por la exportación al Territorio Nacional de la Tierra del Fuego, Antártida e Islas del Atlántico Sud de una (1) pick-up, marca Dodge D.200W, chasis N° 5N2100251F, motor N° 52B00638, adquirida por la Armada Argentina.
+
+## ARTICULO 2°
+
+Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese.
+
+VIOLA.
+
+Lorenzo J. Sigaut.

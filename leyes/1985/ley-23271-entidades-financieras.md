@@ -1,0 +1,53 @@
+---
+title: "Ley 23271: ENTIDADES FINANCIERAS — DISPOSICION DE INFORMACION SECRETA PARA LA D.G.I."
+identifier: "Ley 23271"
+infoleg_id: "24086"
+type: act
+jurisdiction: ar
+language: es
+date: 1985-09-27
+published: 1985-10-21
+boletin_oficial: "25787"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=24086"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/24086/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 23271: ENTIDADES FINANCIERAS — DISPOSICION DE INFORMACION SECRETA PARA LA D.G.I.
+
+ENTIDADES FINANCIERAS
+
+LEY 23.271
+
+Disposiciones referentes al secreto establecido en el título V de la Ley N° 21.526 y en los artículos 8°, 46 y 48 de la Ley N° 17.811.
+
+Sancionada: Setiembre 27 de 1985.
+
+Promulgada: Octubre 16 de 1985.
+
+EL SENADO Y LA CAMARA DE DIPUTADOS DE LA NACION ARGENTINA
+
+REUNIDOS EN CONGRESO, ETC., SANCIONAN CON FUERZA DE LEY:
+
+## ARTICULO 1º
+
+El secreto establecido en el título V de la ley 21.526 y en los artículos 8º, 46 y 48 de la ley 17.811 no regirá para las informaciones que, en cumplimiento de sus funciones legales, solicite la Dirección General Impositiva, a cualquiera de las entidades o sujetos comprendidos en los regímenes de las citadas leyes y sus modificaciones. Estas informaciones podrán ser de carácter particular o general y referirse a uno o varios sujetos determinados o no, aun cuando el o los mismos no se encuentren bajo fiscalización. En materia bursátil, las informaciones requeridas no pueden referirse a operaciones en curso de realización o pendientes de liquidación.
+
+## ARTICULO 2º
+
+Las disposiciones de la presente ley tienen carácter de orden público.
+
+## ARTICULO 3º
+
+Comuníquese al Poder Ejecutivo.
+
+Dada en la Sala de Sesiones del Congreso Argentino en Buenos Aires, a los veintisiete días del mes de setiembre de mil novecientos ochenta y cinco.
+
+| JUAN C. PUGLIESE | EDISON OTERO |
+|---|---|
+| Carlos A. Bravo | Antonio J. Macris. |
+
+— Registrada bajo el N° 23.271 —

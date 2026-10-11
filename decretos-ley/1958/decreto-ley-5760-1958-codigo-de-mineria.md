@@ -1,0 +1,81 @@
+---
+title: "Decreto-Ley 5760/1958: CODIGO DE MINERIA — ARTICULO 281 - AGREGUESE"
+identifier: "Decreto-Ley 5760/1958"
+infoleg_id: "108987"
+type: decree-law
+jurisdiction: ar
+language: es
+date: 1958-04-23
+published: 1958-05-15
+boletin_oficial: "18645"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=108987"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/105000-109999/108987/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Decreto-Ley 5760/1958: CODIGO DE MINERIA — ARTICULO 281 - AGREGUESE
+
+AGREGASE EL ARTICULO 281 AL CODIGO DE MINERIA
+
+Decreto-Ley N° 5.760/1958
+
+Bs. As., 23 de abril de 1958
+
+VISTO este expediente N° 20.798/158, en el que el Ministerio de Comercio e Industria propone un agregado al Código de Minería, mediante el cual se posibilite la exigencia en cada caso concreto, de que la explotación de las minas se realice con la con intensidad razonable, y
+
+CONSIDERANDO:
+
+Que las condiciones que el Código de Minería vigente ha impuesto a la concesión, y que consisten en el pago de un canon anual por pertenencia y en la inversión de un mínimum de capital fijo en usinas, maquinarias u obras directamente conducentes al beneficio o explotación no obligan a mantener las minas en actividad, con lo cual se vulnera uno de los principios del sistema regalista que inspira nuestra legislación minera, consistente en que las minas son concedidas a los particulares para que sean explotadas, como medio por el cual ellas han de rendir más y mejores beneficios a la sociedad;
+
+Que aún antes de la mejora de 1917, que introdujo las condiciones referidas (Ley N° 10.723), el Código no alcanzó a llenar satisfactoriamente ese objetivo , porque la condición que hasta entonces impuso fue la del amparo o pueble de las minas, que por consistir en la exigencia de un trabajo escasísimo y revestido de una forma primitiva y rudimentaria, no podia ser, por sí sola, la causa determinante de una explotación regular;
+
+Que, por lo expuesto, se hace necesario agregar a las condiciones actuales, una que posibilite al Estado -Nacional o Provincial según el territorio en que se encuentren las minas- a exigir en los casos en que o considere procedente, que la explotación se realice con la intensidad razonable que corresponda a las circunstancias en que se desarrolle la empresa a como tiene establecido para las minas de hidrocarburos fluidos el art. 393 del Código;
+
+Que la Ley N° 10.723 dispuso que todo su articulado sustituiría a la Sección I del Título IX del Código (artículo I Ley citada), a cuyo numeró entre paréntesis diecisiete artículos, como sustituyendo a otros tantos artículos de aquel, lo cual constituye un error evidente, tanto porque la Sección sustituida se componía de sólo trece artículos (269 al 281), como porque los cinco últimos artículos de los diecisiete artículos aludidos corresponden a materias tratadas en otros lugares del Código, a punto tal que dos de ellos (el 14 y el 15 de la Ley citada) reemplazaron íntegramente el texto de los artículos 136 y 146, y los tres restantes se refieren a disposiciones transitorias que merecen incluirse en el Título Final del Código;
+
+Que la corrección legal de este error en la articulación de 1917, ya realizado, por otra parte, por la doctrina (Guillermo J. Cano, "Código de Minería de la República Argentina Anotado con sus Fuentes" Buenos Aires. J-A4, Tomo II, página 312 nota del autor XCIII), permitirá incluir el agregado propuesto por el Ministro de Comercio e Industria, como artículo 281 del Código, con lo que pasará a integrar, como en realidad corresponde en razón de la materia, la Sección I del Título IX, que en virtud de la Ley N° 10.273 contiene las disposiciones relativas al canon y a la inversión de capital fijo, que son, como la que se propicia, condiciones de la concesión:
+
+Por ello y lo propuesto por el Ministerio de Comercio e Industria,
+
+El Presidente Provisional de la Nación Argentina en Ejercicio del Poder Legislativo
+
+Decreta con Fuerza de Ley:
+
+## Artículo 1°
+
+Agrégase al Código de Minería, como artículo 281, el siguiente:
+
+"Artículo 281. - El Estado podrá exigir que la explotación se realice con la intensidad razonable que corresponda a la capacidad productiva de la concesión, a las características de la zona, medios de transporte disponibles, demanda de los productos, y a la existencia de equipos de laboreo.
+
+"La resolución que se dicte por el Poder Ejecutivo respectivo puede ser impugnada por acción judicial dentro de los diez días de notificarse personalmente o por cédula en el domicilio especial constituido ante la Autoridad Minera. La resolución administración no se ejecutará mientras no se dicte la sentencia definitiva.
+
+"Si no se cumpliera lo resuelto dentro de los seis meses de la notificación administrativa o de la sentencia confirmatoria cuando mediare acción judicial, la concesión podrá ser declarada caduca por el Poder Ejecutivo"
+
+## Art. 2°
+
+La Sección I del Título IX del Código de Minería se denominará "Del canon, de la inversión de capital y de la intensidad de la explotación".
+
+## Art. 3°
+
+Los textos de las reformas introducidas por los artículos 14 y 15 de la Ley N° 10.723, sustituirán los de los derogados artículos 136 y 146 del Código de Minería, respectivamente.
+
+## Art. 4°
+
+Incorpóranse al Título Final del Código de Minería, a continuación de los artículos que actualmente lo integran, los artículos 16, 17 y 18 de la Ley N° 11.723.
+
+## Art. 5°
+
+Los artículos del Título Final del Código de Minería se numerarán desde el 409 al 414 inclusive.
+
+## Art. 6°
+
+El presente Decreto-Ley será refrendado por el señor Vicepresidente de la Nación y los señores Ministros Secretarios de Estado en los Departamentos de Comercio e Industria, interino de Educación y Justicia, Aeronáutica, interino de Guerra, y Marina.
+
+## Art. 7°
+
+Comuníquese, publíquese, dése a la Dirección General del Boletín Oficial e Imprentas y archívese.
+
+ARAMBURU. - Isaac Rojas. - Julio C. Cueto Rúa. - Alberto F. Mercler. - Jorge H. Landaburu. - Teodoro Hartung.

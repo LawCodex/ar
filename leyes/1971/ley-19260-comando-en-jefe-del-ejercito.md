@@ -1,0 +1,63 @@
+---
+title: "Ley 19260: COMANDO EN JEFE DEL EJERCITO — LEY NRO. 14.366 - MODIFICACION"
+identifier: "Ley 19260"
+infoleg_id: "119988"
+type: act
+jurisdiction: ar
+language: es
+date: 1971-09-24
+published: 2006-09-20
+boletin_oficial: "30994"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=119988"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/115000-119999/119988/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 19260: COMANDO EN JEFE DEL EJERCITO — LEY NRO. 14.366 - MODIFICACION
+
+Ley 19.260
+
+República Argentina
+
+Comando en Jefe del Ejército
+
+Bs. As., 24/9/1971
+
+EXCELENTISIMO SEÑOR PRESIDENTE DE LA NACION:
+
+Tengo el honor de someter a la consideración de Vuestra Excelencia un proyecto de ley destinado a corregir referencias erróneas consignadas en la Ley 14.366, artículo 1º, inciso 1º, ap. b).
+
+Por el precitado ordenamiento legal se dispuso en concordancia con el artículo 14 de la Ley 14.037 que fueran exceptuados de ser transferidos a la Provincia del Chaco determinados inmuebles que continuaron siendo dominio del Estado Nacional.
+
+En esa situación quedó afectado a Gendarmería Nacional el predio consignado en los siguientes términos:
+
+Resistencia: fracción Este de la zona del puerto con 6.300 m2; fracción Este, solar b, manzana 169, 1.160 m2; solares c, d y e de la manzana 169, 4.350 m2.
+
+Conforme constancias efectuadas el inmueble de mención se encuentra situado en "Puerto Bermejo", localidad también de la Provincia del Chaco, y no en Resistencia como figura en el texto legal.
+
+Además la superficie de los solares c, d y e que se consigna como de 4.350 m2, totaliza en realidad 4.395 m2, de acuerdo también a datos informados por la Dirección de Catastro de la mencionada Provincia.
+
+El proyecto que se acompaña tiene en consecuencia por único objeto rectificar formalmente tales referencias, subsanando así errores presumiblemente de imprenta y de mensura.
+
+Dios guarde a Vuestra Excelencia.
+
+Firmas
+
+Bs. As., 24/9/1971
+
+En uso de las atribuciones conferidas por el artículo 5º del Estatuto de la Revolución Argentina,
+
+EL PRESIDENTE DE LA NACION ARGENTINA SANCIONA Y PROMULGA CON FUERZA DE LEY:
+
+## ARTICULO 1º
+
+Corrígese el texto del artículo 1º, inciso 1º, ap. b) de la Ley 14.366, debiendo decir "Puerto Bermejo", en vez de "Resistencia" y "4.395 m2" en vez de "4.350 m2".
+
+## ARTICULO 2º
+
+Comuníquese, dése a la Dirección Nacional del Registro Oficial y archívese.
+
+Firmas

@@ -1,0 +1,67 @@
+---
+title: "Ley 14795: HIDROCARBUROS — YACIMIENTOS PETROLIFEROS FISCALES - PLAN DE REACTIVACION"
+identifier: "Ley 14795"
+infoleg_id: "236501"
+type: act
+jurisdiction: ar
+language: es
+date: 1959-01-14
+published: 1959-02-06
+boletin_oficial: "18858"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=236501"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/235000-239999/236501/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 14795: HIDROCARBUROS — YACIMIENTOS PETROLIFEROS FISCALES - PLAN DE REACTIVACION
+
+Y.P.F. PLAN DE REACTIVACION
+
+Ley N° 14.795
+
+Incorpórase a su programa de obras, el oleoducto Challacó (Neuquén) a Bahía Blanca (Buenos Aires) sus obras conexas y la construccioón de dos destilerías.
+
+Sancionada: enero 14 de 1959.
+
+Promulgada: enero 3 de 1959.
+
+POR CUANTO:
+
+El Senado y Cámara de Diputados de la Nación Argentina, reunidos en Congreso, etc., sancionan con fuerza de
+
+LEY:
+
+## ARTICULO 1°
+
+Incorpórase el programa de obras del plan de reactivación de Yacimientos Petrolíferos Fiscales el oleoducto Challacó (provincia de Neuquén) a Bahía Blanca (provincia de Buenos Aires), sus obras conexas y la construcción de dos destilerías de menor capacidad de elaboración en la zona de Bahía Blanca (provincia de Buenos Aires) y San Lorenzo (provincia de Santa Fe), en reemplazo de la programada originalmente en la zona del gran Buenos Aires.
+
+## ARTICULO 2°
+
+Modifícase el crédito autorizado por el artículo 1° del Decreto ley N° 13.997/57 para la realización del plan de reactivación de Yacimientos Petrolíferos Fiscales, fijándolo en el importe de veintiún mil treinta y cuatro millones novecientos treinta y ocho mil doscientos veinte pesos moneda nacional de curso legal (m$n 21.034.938.220).
+
+## ARTICULO 3°
+
+Facúltase al Poder Ejecutivo a practicar los ajustes del crédito aprobado por el artículo 2° de la presente ley adecuándolo al valor real de las obras y los tipos de cambio a que se liquiden las operaciones en divisas extranjeras, dando posterior cuenta al Honorable Congreso de la Nación.
+
+## ARTICULO 4°
+
+Facúltase a Yacimientos Petrolíferos Fiscales a introducir modificaciones en el plan de reactivación, cuando sus necesidades de trabajo así lo requieran, siempre que no se alteren los créditos totales a que se refiere el artículo 2° de esta ley con los ajustes emergentes del artícuo 3°, y a efectuar las correspondientes contrataciones dentro de las facultades de su Estatuto Orgánico.
+
+## ARTICULO 5°
+
+Las demás disposiciones del citado decreto ley número 13.997/1957, mantienen plena vigencia.
+
+## ARTICULO 6°
+
+Comuníquese al Poder Ejecutivo.
+
+Dada en la Sala de Sesiones del Congreso Argentino, en Buenos Aires, a catorce días del mes de enero del año mil novecientos cincuenta y nueve.
+
+J. M. GUIDO J. R. DECAVI
+
+Noé Jitrik Guillermo González
+
+Registrada bajo el número 14.795

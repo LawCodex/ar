@@ -1,0 +1,63 @@
+---
+title: "Ley 22404: EXPROPIACIONES — UTILIDAD PUBLICA"
+identifier: "Ley 22404"
+infoleg_id: "304171"
+type: act
+jurisdiction: ar
+language: es
+date: 1981-02-16
+published: 1981-02-20
+boletin_oficial: "24612"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304171"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304171/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 22404: EXPROPIACIONES — UTILIDAD PUBLICA
+
+EXPROPIACIONES
+
+LEY N° 22.404
+
+Declárase de utilidad pública y sujetas a expropiación, todas las tiendas necesarias para la construcción de un puerto en la zona de Punta Loyola, Provincia de Santa Cruz.
+
+Buenos Aires, 16 de febrero de 1981.
+
+En uso de las atribuciones conferidas por el artículo 5° del Estatuto para el Proceso de Reorganización Nacional,
+
+EL PRESIDENTE DE LA NACIÓN ARGENTIAN SANCIONA Y PROMULGA CON FUERZA DE
+
+LEY:
+
+## Artículo 1°
+
+Declárase de utilidad pública y sujetas a expropiación todas las tierras necesarias para la construcción de un puerto en la zona de Punta Loyola, provincia de Santa Cruz, caminos líneas férreas y obras conexas que afecten directa o indirectamente a la realización, mantenimiento, funcionamiento o infraestructura de la citada obra. Las referidas tierras deberán quedar comprendidas dentro de las áreas que delimite el Poder Ejecutivo Nacional.
+
+## Art. 2°
+
+A los fines indicados en el artículo 1°, facúltase al Poder Ejecutivo Nacional para que a través del Ministerio de Economía, Secretaría de Estado de Energía, y por intermedio de Yacimientos Carboníferos Fiscales, formalice la expropiación de los inmuebles dentro de las áreas delimitadas, una vez individualizados los mismos de acuerdo a lo normado por la Ley N° 21.499.
+
+## Art. 3°
+
+En el caso de que alguna de las fracciones afectadas perteneciere al Estado Nacional, Provincial o Municipio, entes descentralizados o autárquicos o cualquier otra repartición, la Secretaría de Estado de Energía por intermedio de Yacimientos Carboníferos Fiscales, iniciará las gestiones pertinentes a fin de obtener la cesión de las tierras a título gratuito.
+
+## Art. 4°
+
+Todas las tierras expropiadas o cedidas quedarán afectadas al uso de yacimientos
+
+Carboníferos Fiscales.
+
+## Art. 5°
+
+Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese.
+
+VIDELA.
+
+José A. Martínez de Hoz.
+
+Albano E. Harguindeguy.
+
+David R. H. de la Riva.

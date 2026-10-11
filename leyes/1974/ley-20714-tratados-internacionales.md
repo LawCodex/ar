@@ -1,0 +1,51 @@
+---
+title: "Ley 20714: TRATADOS INTERNACIONALES — COMUNICACIONES-CORREOS-UNION POSTAL DE LAS AMERICAS Y ESPAÑA-ENCOMIENDA POSTAL-GIRO POSTAL"
+identifier: "Ley 20714"
+infoleg_id: "303083"
+type: act
+jurisdiction: ar
+language: es
+date: 1974-08-08
+published: 1974-09-09
+boletin_oficial: "22989"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=303083"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/303083/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 20714: TRATADOS INTERNACIONALES — COMUNICACIONES-CORREOS-UNION POSTAL DE LAS AMERICAS Y ESPAÑA-ENCOMIENDA POSTAL-GIRO POSTAL
+
+Ley 20.714
+
+APROBACION DE LAS ACTAS DEL X CONGRESO DE LA UNION POSTAL DE LAS AMERICAS Y ESPAÑA DE 1971.
+
+BUENOS AIRES, 8 de agost0 de 1974
+
+El Senado y la Cámara de Diputados
+
+de la Nación Argentina, reunidos en Congreso, etc.
+
+SANCIONAN CON FUERZA DE LEY
+
+## ARTICULO 1
+
+Apruébanse las actas del X Congreso de la Unión Postal de las Américas y España, suscriptas en Santiago de Chile el 26 de noviembre de 1971, y que forman parte de la presente ley:
+
+a) Constitución de la Unión Postal de las Américas y España b) Reglamento general de la Unión Postal de las Américas y España y su protocolo final c) Convenio de la Unión Postal de las Américas y España y su protocolo final d) Reglamento de ejecución del convenio e) Acuerdo relativo a cartas y cajas con valor declarado f) Acuerdo relativo a encomiendas postales y su protocolo final g) Reglamento de ejecución del acuerdo relativo a encomiendas postales h) Acuerdo relativo a giros postales y su protocolo final i) Reglamento de la Oficina Internacional de la Unión Postal de las Américas y España j) Reglamento de la Oficina de Trasbordos de la Unión Postal de las Américas y España.
+
+## ARTICULO 2
+
+Formúlese la siguiente reserva en el acto de ratificación de las actas mencionadas en el artículo 1:
+
+"La República Argentina hace constar que, de acuerdo con el principio general de reciprocidad, aplicará las mismas medidas restrictivas o de excepción que establezcan otros Estados miembros, bien en los protocolos finales o en el acto de ratificación de las actas".
+
+## ARTICULO 3
+
+Comuniquese al Poder Ejecutivo.
+
+NOTA DE REDACCION: CONVENIOS ANEXOS NO PUBLICADOS
+
+ALLENDE - Cantoni - LASTIRI - Lavia -

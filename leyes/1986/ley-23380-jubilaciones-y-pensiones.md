@@ -1,0 +1,45 @@
+---
+title: "Ley 23380: JUBILACIONES Y PENSIONES — LEY Nº 18037 Y 18038 - MODIFICACION"
+identifier: "Ley 23380"
+infoleg_id: "22745"
+type: act
+jurisdiction: ar
+language: es
+date: 1986-09-25
+published: 1986-12-11
+boletin_oficial: "26047"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=22745"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/22745/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 23380: JUBILACIONES Y PENSIONES — LEY Nº 18037 Y 18038 - MODIFICACION
+
+JUBILACIONES Y PENSIONES
+
+Modifícanse los incisos 1º de los artículos 38 y 26 de las Leyes números 18.037 y 18.038, respectivamente.
+
+LEY Nº 23.380
+
+Sancionada: Setiembre 25 de 1986.
+
+Promulgada: Octubre 10 de 1986.
+
+EL SENADO Y CAMARA DE DIPUTADOS DE LA NACION ARGENTINA REUNIDOS EN CONGRESO, ETC., SANCIONAN CON FUERZA DE LEY:
+
+## ARTICULO 1º
+
+Suprímese del inciso 1º del Artículo 38 de la Ley 18.037 y del inciso 1º del Artículo 26 de la Ley 18.038 el siguiente párrafo: "...incapacitado para el trabajo y a cargo de la causante a la fecha de su deceso".
+
+## ARTICULO 2º
+
+Comuníquese al Poder Ejecutivo.Dada en la Sala de Sesiones del Congreso Argentino, en Buenos Aires, a los veinticinco días del mes de setiembre del año mil novecientos ochenta y seis.
+
+| J. C. PUGLIESE | V. H. MARTINEZ |
+|---|---|
+| Carlos A. Bravo | Antonio J. Macris |
+
+– Registrada bajo el Nº 23.380 –

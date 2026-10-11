@@ -1,0 +1,55 @@
+---
+title: "Ley 22503: TRANSFERENCIAS — MATERIAL DE ARTILLERIA CON DESTINO AL EJERCITO"
+identifier: "Ley 22503"
+infoleg_id: "304224"
+type: act
+jurisdiction: ar
+language: es
+date: 1981-10-05
+published: 1981-10-08
+boletin_oficial: "24770"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304224"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304224/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 22503: TRANSFERENCIAS — MATERIAL DE ARTILLERIA CON DESTINO AL EJERCITO
+
+TRANSFERENCIAS
+
+LEY N° 22.503
+
+Se transfiere con carácter definitivo y sin cargo diverso material de Artillería con destino al Ejército de la República de Bolivia.
+
+Buenos Aires, 5 de octubre de 1981.
+
+EN uso de las atribuciones conferidas por el artículo 5° del Estatuto para el Proceso de Reorganización Nacional.
+
+EL PRESIDENTE DE LA NACIÓN ARGENTINA SANCIONA Y PROMULGA CON FUERZA DE
+
+LEY:
+
+## ARTICULO 1°
+
+Facúltase al Poder Ejecutivo Nacional a través del Ministerio de Defensa (Comando en Jefe del Ejército) a transferir con carácter definitivo y sin cargo a la República de Bolivia con destino al Ejército de ese país, el siguiente material de Artillería:
+
+—Seis (6) cañones Bofors cal. 75 mm L40 motorizado NI 11, 34, 35, 41, 43 y 172 respectivamente.
+
+—Dos mil (2.000) tiros completos cal. 75 mm L40.
+
+—Elementos de dirección del fuego y topografía correspondientes a una batería de Artillería.
+
+—Reglamentos y talas de tiro, para la programación y dirección del fuego de la batería y el Grupo.
+
+## ARTICULO 2°
+
+Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese.
+
+VIOLA.
+
+Norberto M. Couto.
+
+Oscar H. Camilión.

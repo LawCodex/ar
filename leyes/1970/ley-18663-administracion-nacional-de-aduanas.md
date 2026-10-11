@@ -1,0 +1,55 @@
+---
+title: "Ley 18663: ADMINISTRACION NACIONAL DE ADUANAS"
+identifier: "Ley 18663"
+infoleg_id: "301534"
+type: act
+jurisdiction: ar
+language: es
+date: 1970-04-24
+published: 1970-05-05
+boletin_oficial: "21922"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=301534"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/301534/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 18663: ADMINISTRACION NACIONAL DE ADUANAS
+
+Ley 18.663
+
+TRASPASO DE FUNCIONES DE LA DIRECCION NACIONAL DE ADUANAS A LA ADMINISTRACION NACIONAL DE ADUANAS.
+
+BUENOS AIRES, 24 de abril de 1970
+
+En uso de las atribuciones conferidas por el artículo 5. del
+
+Estatuto de la Revolución Argentina,
+
+EL PRESIDENTE DE LA NACION ARGENTINA
+
+SANCIONA Y PROMULGA CON FUERZA DE LEY:
+
+## ARTICULO 1
+
+Las funciones y atribuciones que legalmente correspondían a la anteriormente denominada Dirección Nacional de Aduanas y a sus funcionarios y organismos dependientes, a partir del 25 de noviembre de 1969, se entenderán otorgadas: a)Las de la Dirección Nacional de Aduanas, a la ADMINISTRACION NACIONAL DE ADUANAS. b)Las del Director Nacional de Aduanas, al Administrador Nacional de Aduanas. c)Las del Subdirector Nacional de Aduanas, al Subadministrador Nacional de Aduanas. d)Las del Administrador y Subadministrador de la Aduana de la Capital relativas a la apertura, instrucción y resolución de los sumarios por presuntas infracciones a la legislación aduanera, al Jefe del Departamento Contencioso Capital de la Administración Nacional de Aduanas, o a quien legalmente lo sustituya. e)Las del Administrador y Subadministrador de la Aduana de la Capital, relativas a todas las materias no contempladas en el inciso precedente, al Jefe del Departamento Operativa Capital de la Administración Nacional de Aduanas, o a quien legalmente lo sustituya. f)Las de los demás funcionarios y dependencias aduaneras, a aquellos funcionarios y dependencias aduaneras a quienes hayan sido o fueren conferidas por el Poder Ejecutivo Nacional, o la Administración Nacional de Aduanas de conformidad con lo dispuesto por aquél.
+
+## ARTICULO 2
+
+Las disposiciones del artículo anterior no enervan las facultades atribuidas a la ex-Dirección Nacional de Aduanas por la ley N.18.520, las que se entenderán conferidas a la Administración Nacional de Aduanas.
+
+## ARTICULO 3
+
+(Nota de redacción) (Modificatorio L.18.250)
+
+## ARTICULO 4
+
+La presente ley entrará en vigor a partir del día siguiente al de su publicación en el Boletín Oficial.
+
+## ARTICULO 5
+
+Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese.
+
+ONGANIA - Dagnino Pastore

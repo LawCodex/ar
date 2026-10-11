@@ -1,0 +1,55 @@
+---
+title: "Ley 15808: RELACIONES EXTERIORES — RELACIONES DIPLOMATICAS CON EL REINO DE MARRUECOS - ESTABLECIMIENTO"
+identifier: "Ley 15808"
+infoleg_id: "193363"
+type: act
+jurisdiction: ar
+language: es
+date: 1961-05-31
+published: 1961-06-23
+boletin_oficial: "19562"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=193363"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/193363/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 15808: RELACIONES EXTERIORES — RELACIONES DIPLOMATICAS CON EL REINO DE MARRUECOS - ESTABLECIMIENTO
+
+LEY N° 15.808
+
+RELACIONES EXTERIORES
+
+Apruébase el establecimiento de relaciones diplomáticas con el Reino de Marruecos y apruébase la creación de la Embajada de la República.
+
+Sancionada: 31 de mayo de 1961.
+
+Promulgada: 19 de junio de 1961.
+
+POR CUANTO:
+
+El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etcétera, sancionan con fuerza de
+
+LEY:
+
+## ARTICULO 1°
+
+Apruébase el establecimiento de relaciones diplomáticas entre la República Argentina y el Reino de Marruecos, formalizadas mediante gestión cumplida por el Embajador argentino ante las Naciones Unidas y el Representante marroquí ante el mismo Organismo, habiéndose dado a publicidad simultáneamente dicho convenio entre ambas Cancillerías el 28 de julio de 1960, en sendos comunicados en Rabat y en Buenos Aires.
+
+## ARTICULO 2°
+
+Apruébase la creación de la Embajada de la República en el Reino de Marruecos, con sede en Rabat, dispuesta por Decreto 12.716/60.
+
+## ARTICULO 3°
+
+Comuníquese al Poder Ejecutivo.
+
+Dada en la Sala de Sesiones del Congreso Argentino, en Buenos Aires, a los treinta y un días del mes mayo del año mil novecientos sesenta y uno.
+
+J. M. GUIDO F. F. M. MONJARDIN
+
+Claudio A. Maffei Eduardo T. Oliver
+
+Registrada bajo el Nº 15.808

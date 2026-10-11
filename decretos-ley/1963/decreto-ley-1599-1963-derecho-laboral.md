@@ -1,0 +1,59 @@
+---
+title: "Decreto-Ley 1599/1963: DERECHO LABORAL — TRABAJADORES PORTUARIOS-SINDICATOS-ELECCIONES SINDICALES-SINDICATO UNICO PORTUARIO ARGENTINO"
+identifier: "Decreto-Ley 1599/1963"
+infoleg_id: "299676"
+type: decree-law
+jurisdiction: ar
+language: es
+date: 1963-03-01
+published: 1963-04-01
+boletin_oficial: "20087"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=299676"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/299676/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Decreto-Ley 1599/1963: DERECHO LABORAL — TRABAJADORES PORTUARIOS-SINDICATOS-ELECCIONES SINDICALES-SINDICATO UNICO PORTUARIO ARGENTINO
+
+Secretaría de Marina.
+
+ASOCIACION PROFESIONAL DE TRABAJADORES.
+
+SINDICATO UNICO PORTUARIOS ARGENTINOS (S.U.T.A).- Confírmase lo dispuesto por el Decreto número 669/63.
+
+DECRETO-LEY Nº 1.599
+
+Buenos Aires, 1º de marzo de 1963.
+
+VISTO lo solicitado por el Ministerio de Trabajo y Seguridad Social, atento lo que resulta del acta suscripta entre el Delegado de Poder Ejecutivo y los miembros de la Comisión Permanente de Enlace de los Gremios del Transporte, con fecha 22 de enero de 1963, y
+
+CONSIDERANDO: Que, según se desprende de lo informado por el Delegado Electoral en la Seccional Buenos Aires del Sindicato Único Portuarios Argentinos (S.U.P.A.), algunas de las disposiciones y términos establecidos en el Decreto Nº 669/63 no se ajustan estrictamente a las prescripciones estatutarias contenidas en la carta orgánica del Sindicato de referencia; Que, no obstante lo expresado, las disposiciones del referido decreto han perseguido, fundamentalmente, resolver con celeridad todos los problemas vinculados con la regularización institucional del gremio; Que, beneficiando en consecuencia a la organización sindical el rápido procedimiento fijado para la elección de sus autoridades definitivas, es conveniente ratificar las normas pertinentes de aquel decreto, dándole fuerza de ley: Por ello,
+
+El Presidente de la Nación Argentina, DECRETA con fuerza de LEY:
+
+## ARTICULO 1º
+
+Confírmase lo dispuesto por los artículos 3º y 4º del Decreto Nº 669/63, así como el artículo 5º del mismo, con las modificaciones que resultan, para este último, del artículo 1º del Decreto Nº 1.139/63.
+
+## ARTICULO 2º
+
+Confírmase asímismo el artículo 2º del Decreto Nº 669/63, en lo que concierne a facultad del Delegado Electoral para convocar a elecciones, como también en lo que respecta a oportunidad, plazo y padrón a que alude dicho artículo.
+
+## ARTICULO 3º
+
+Deróganse todas las prescripciones legales y estatutarias que puedan oponerse a la vigenvcia del presente.
+
+## ARTICULO 4º
+
+Oportunamente dése cuenta al Honorable Congreso de la Nación.
+
+## ARTICULO 5º
+
+E l presente decreto será refrendado por los señores Ministros Secretarios de Estado en los Departamentos de Trabajo y Seguridad Social, de Interior y de Defensa Nacional y firmado por el Señor Secretario de Estado de Marina.
+
+## ARTICULO 6º
+
+Comuníquese, publíquese, dése a la Dirección General del Boletín Oficial e imprentas y archívese.

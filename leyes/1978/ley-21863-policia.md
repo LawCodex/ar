@@ -1,0 +1,37 @@
+---
+title: "Ley 21863: POLICIA — PODER EJECUTIVO - AUTORIZACION"
+identifier: "Ley 21863"
+infoleg_id: "119634"
+type: act
+jurisdiction: ar
+language: es
+date: 1978-08-21
+published: 2006-09-11
+boletin_oficial: "30987"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=119634"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/115000-119999/119634/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 21863: POLICIA — PODER EJECUTIVO - AUTORIZACION
+
+Ley "S" 21.863
+
+Bs. As., 21/8/1978
+
+En uso de las atribuciones conferidas por el artículo 5º del Estatuto para el Proceso de Reorganización Nacional,
+
+EL PRESIDENTE DE LA NACION ARGENTINA SANCIONA Y PROMULGA CON FUERZA DE LEY:
+
+## ARTICULO 1º
+
+Autorízase al Poder Ejecutivo Nacional, a transferir en calidad de comodato con destino a la Policía de la Ciudad de Asunción, República del Paraguay, un (1) transmisor de comunicaciones para puesto móvil, marca Gates ST- 1A de 1Kw., gabinete con corredera para bastidor excitador SG-70, manipulador y micrófono EV-719 y un (1) receptor de comunicaciones marca Marks Electronics, modelo RV-310B, compuesto por un (1) receptor Hammarlund SP 600 modificado, un (1) conversor RC-288A y gabinete.
+
+## ARTICULO 2º
+
+Comuníquese y archívese.
+
+Firmas

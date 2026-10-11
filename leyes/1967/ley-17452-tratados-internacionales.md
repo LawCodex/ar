@@ -1,0 +1,51 @@
+---
+title: "Ley 17452: TRATADOS INTERNACIONALES — FONDO ESPECIAL PARA EL DESARROLLO DE LAS NACIONES UNIDAS - APROBACION"
+identifier: "Ley 17452"
+infoleg_id: "203748"
+type: act
+jurisdiction: ar
+language: es
+date: 1967-09-15
+published: 1967-09-22
+boletin_oficial: "21278"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=203748"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/200000-204999/203748/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 17452: TRATADOS INTERNACIONALES — FONDO ESPECIAL PARA EL DESARROLLO DE LAS NACIONES UNIDAS - APROBACION
+
+CONVENIOS INTERNACIONALES
+
+LEY N° 17.452
+
+Apruébase el firmado con el Fondo Especial de las Naciones Unidas para el Desarrollo y las Naciones Unidas.
+
+Buenos Aires, 15 de setiembre de 1967
+
+En uso de las atribuciones conferidas por el Art. 5° del Estatuto de la Revolución Argentina,
+
+El Presidente de la Nación Argentina, Sanciona y Promulga con fuerza de
+
+LEY:
+
+## Artículo 1°
+
+Apruébase el convenio-plan de operaciones firmado el día 12 de mayo de 1967 entre el Gobierno de la República Argentina, por una parte, y el Fondo Especial de las Naciones Unidas para el Desarrollo y las Naciones Unidas, por otra parte, que obra en expediente 3.890/67 (D.G.F.M.).
+
+## Artículo 2°
+
+Desígnase a la Dirección General de Fabricaciones Militares encargada de tratar con el organismo de ejecución nombrado por el Fondo Especial de las Naciones Unidas, todas las cuestiones relativas al mismo, inclusive la designación del "representante del Gobierno asignado al proyecto".
+
+## Artículo 3°
+
+Prorrógase hasta el 31 de diciembre de 1968 el plazo establecido por el artículo 3 del Decreto-Ley 9.009/63.
+
+## Artículo 4°
+
+Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese.
+
+Onganía - Antonio R. Lanusse.

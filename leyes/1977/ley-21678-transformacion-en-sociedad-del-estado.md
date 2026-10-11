@@ -1,0 +1,63 @@
+---
+title: "Ley 21678: TRANSFORMACION EN SOCIEDAD DEL ESTADO — INSTITUTO NACIONAL DE REASEGURO"
+identifier: "Ley 21678"
+infoleg_id: "32013"
+type: act
+jurisdiction: ar
+language: es
+date: 1977-10-31
+published: 1977-11-03
+boletin_oficial: "23780"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=32013"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/30000-34999/32013/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 21678: TRANSFORMACION EN SOCIEDAD DEL ESTADO — INSTITUTO NACIONAL DE REASEGURO
+
+SOCIEDADES DEL ESTADO
+
+Transfórmase el Instituto Nacional de Reaseguros (INDER), en sociedad del Estado denominada Instituto Nacional de Reaseguros (INDER), bajo el régimen de la Ley Nº 20.705.
+
+LEY Nº 21.678.
+
+Buenos Aires, 31 de octubre de 1977.
+
+En uso de las atribuciones conferidas por el artículo 5º del Estatuto del Proceso de Reorganización Nacional.
+
+El PRESIDENTE DE LA NACION ARGENTINA SANCIONA Y PROMULGA CON FUERZA DE LEY:
+
+## ARTICULO 1º
+
+Transfórmase el Instituto Nacional de Reaseguros (INDER), en Sociedad del Estado denominada Instituto Nacional de Reaseguros (INDER), bajo el régimen de la Ley 20.705, en cuanto no sea modificada por esta ley.
+
+## ARTICULO 2º
+
+La citada Sociedad es continuadora de pleno derecho de todos los negocios del Instituto Nacional de Reaseguros constituido por la Ley Nº 14.152 y titular de todo su patrimonio, quedando eximida de la necesidad de cualquier tipo de reinscripciones.
+
+## ARTICULO 3º
+
+Dentro de los noventa (90) días a partir de la publicación de la presente ley, el Ministerio de Economía deberá elevar al Poder Ejecutivo Nacional, para su aprobación, el nuevo Estatuto Orgánico del Instituto Nacional de Reaseguros, Sociedad del Estado (INDER).
+
+## ARTICULO 4º
+
+El Instituto Nacional de Reaseguros Sociedad del Estado (INDER) está sujeto al Control de la Superintendencia de Seguros de la Nación, con los alcances que para los aseguradores surgen de la Ley 20.091.
+
+## ARTICULO 5º
+
+El personal del Instituto Nacional de Reaseguros (INDER) continuará comprendido en las disposiciones que rigen para los empleados de seguros.
+
+## ARTICULO 6º
+
+Decláranse inaplicables a la sociedad que se crea por esta ley, los artículos 8º y 9º último párrafo de la Ley Nº 20.705.
+
+## ARTICULO 7º
+
+Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese.
+
+VIDELA.
+
+José A. Martínez de Hoz.

@@ -1,0 +1,67 @@
+---
+title: "Decreto-Ley 4918/1955: COMERCIALIZACION DE PRODUCTOS AGROPECUARIOS — INSTITUTO NACIONAL DE CARNES-INSTITUTO NACIONAL DE ELEVADORES DE GRANOS-INTERVENTOR"
+identifier: "Decreto-Ley 4918/1955"
+infoleg_id: "296783"
+type: decree-law
+jurisdiction: ar
+language: es
+date: 1955-12-07
+published: 1956-01-04
+boletin_oficial: "18060"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=296783"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/296783/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Decreto-Ley 4918/1955: COMERCIALIZACION DE PRODUCTOS AGROPECUARIOS — INSTITUTO NACIONAL DE CARNES-INSTITUTO NACIONAL DE ELEVADORES DE GRANOS-INTERVENTOR
+
+Será Reestructurado el Régimen para la Comercialización de Productos Agropecuarios
+
+DEC.LEY Nº 4.918. - Bs. As. 7/12/955.
+
+VISTO la necesidad de adaptar los organismos que tienen a su cargo la comercialización de los productos fundamentales agropecuarios, a la orientación económica que se ha propuesto el Gobierno, y
+
+CONSIDERANDO:
+
+Que es conveniente estudiar de inmediato el régimen futuro al que se ajustará la comercialización tanto de los productos primarios del agro, como los industriales derivados de los mismos, y la intervención estatal o privada en los procesos consiguientes;
+
+Que, como consecuencia, será necesario estudiar asimismo la estructura de los organismos oficiales que habrán de intervenir en las materias respectivas, en concordancia con la competencia estatal que pueda corresponder conforme a los estudios antedichos;
+
+Que, hasta tanto se determinen los regímenes definitivos a que se ha hecho mención, se estima oportuno modificar, en los Institutos Nacional de Carnes y de Granos y Elevadores, la dirección y administración de los mismos; Por ello,
+
+El Presidente Provisional de la Nación Argentina, en Ejercicio del Poder Legislativo, Decreta con Fuerza de Ley:
+
+## Artículo 1º
+
+El Ministerio de Comercio proyectará y elevará al Poder Ejecutivo, dentro del término de treinta (30) días de entrar en funcionamiento la Comisión Asesora a que se refiere el artículo siguiente, el régimen a que ha de ajustarse la comercialización de los productos actualmente sujetos a la intervención de los Institutos Nacionales de Carnes y de Granos y Elevadores, como así también la estructura y dependencia de los organismos que tendrán a su cargo las funciones pertinentes.
+
+## Art. 2º
+
+El Ministerio de Comercio designará, a tal fin, una Comisión Asesora Honoraria para cada uno de los Institutos, que se integrará con representantes de los Ministerios de Finanzas, de Agricultura y Ganadería y de Comercio, y por productores, comerciantes e industriales vinculados a las actividades específicas de cada uno de ellos.
+
+## Art. 3º
+
+La Dirección y Administración de los Institutos Nacionales de Carnes y de Granos y Elevadores serán ejercidas por interventores designados por el Ministerio de Comercio, que actuarán bajo su dependencia.
+
+## Art. 4º
+
+Los Interventores tendrán las mismas atribuciones que las Leyes números 14.155, 14.378 y 14.379 confieren a los respectivos Directorios, salvo aquellas que dichas Leyes acuerdan al Presidente, las que serán ejercidas por el señor Ministro Secretario de Estado en el Departamento de Comercio, o el señor Subsecretario del mismo, en su caso.
+
+## Art. 5º
+
+Dése oportunamente cuenta al H. Congreso de la Nación.
+
+## Art. 6º
+
+Derógase toda otra disposición que se oponga al presente Decreto-Ley.
+
+## Art. 7º
+
+El presente Decreto será refrendado por los señores Ministros Secretarios de Estado en los Departamentos de Comercio, de Finanzas y de Agricultura y Ganadería.
+
+## Art. 8º
+
+Comuníquese, publíquese, dése a la Dirección General del Registro Nacional y vuelva al Ministerio de Comercio, a sus efectos.

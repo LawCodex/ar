@@ -1,0 +1,79 @@
+---
+title: "Ley 22925: JUSTICIA — JUZGADO FEDERAL EN LA CIUDAD DE MAR DEL PLATA - CREACION"
+identifier: "Ley 22925"
+infoleg_id: "196500"
+type: act
+jurisdiction: ar
+language: es
+date: 1983-09-22
+published: 1983-09-29
+boletin_oficial: "25268"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=196500"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/196500/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 22925: JUSTICIA — JUZGADO FEDERAL EN LA CIUDAD DE MAR DEL PLATA - CREACION
+
+JUSTICIA
+
+Ley Nº 22.925
+
+Créase un Juzgado Federal de Primera Instancia con asiento en la ciudad de Mar del Plata, Provincia de Buenos Aires. Competencia.
+
+Buenos Aires, 22 de setiembre de 1983.
+
+En uso de las atribuciones conferidas por el artículo 5º del Estatuto para el Proceso de Reorganización Nacional;
+
+EL PRESIDENTE DE LA NACION ARGENTINA SANCIONA Y PROMULGA CON FUERZA DE
+
+LEY:
+
+## ARTICULO 1º
+
+Créase un (1) Juzgado Federal de Primera Instancia con asiento en la ciudad de Mar del Plata, Provincia de Buenos Aires, el cual tendrá competencia en forma exclusiva en todos los asuntos en que no corresponda intervenir a la Justicia en lo Criminal y Correccional.
+
+## ARTICULO 2º
+
+La competencia en materia penal estará reservada al conocimiento del actual Juzgado Federal de esa jurisdicción.
+
+## ARTICULO 3º
+
+El Juzgado creado por el artículo 1º, se integrará con las dos (2) actuales Secretarías Civiles del Juzgado Federal existente en la ciudad de Mar del Plata, quedando este último formado por sus dos (2) Secretarías Penales.
+
+## ARTICULO 4º
+
+La Fiscalía Federal y la Defensoría Oficial mantendrán su actual competencia e intervendrán en los expedientes radicados ante cualquiera de los dos (2) Juzgados cuando así por ley corresponda.
+
+## ARTICULO 5º
+
+Las causas no penales cuya competencia corresponda al Juzgado creado por el artículo 1º, le serán remitidas para su conocimiento a partir de la fecha de entrada en vigencia de esta ley.
+
+## ARTICULO 6º
+
+Las disposiciones de esta ley entrarán en vigencia una vez que el Poder Ejecutivo Nacional haya incorporado los créditos necesarios a la Jurisdicción 05 Poder Judicial de la Nación.
+
+## ARTICULO 7º
+
+Créase un (1) cargo de Juez Federal de Primera Instancia a fin de integrar el Juzgado mencionado en el artículo 1º de esta ley.
+
+## ARTICULO 8º
+
+Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese.
+
+BIGNONE
+
+Lucas Lennon
+
+Llamil Reston
+
+Jorge Wehbe
+
+## ANEXO A — JUZGADO FEDERAL DE PRIMERA INSTANCIA DE MAR DEL PLATA
+
+Magistrado
+
+1\. - Juez Federal de Primera Instancia.

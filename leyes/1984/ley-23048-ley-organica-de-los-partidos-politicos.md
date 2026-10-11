@@ -1,0 +1,51 @@
+---
+title: "Ley 23048: LEY ORGANICA DE LOS PARTIDOS POLITICOS — LEY N° 22.627 - SU MODIFICACION"
+identifier: "Ley 23048"
+infoleg_id: "28158"
+type: act
+jurisdiction: ar
+language: es
+date: 1984-02-08
+published: 1984-02-22
+boletin_oficial: "25370"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=28158"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/28158/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 23048: LEY ORGANICA DE LOS PARTIDOS POLITICOS — LEY N° 22.627 - SU MODIFICACION
+
+LEY ORGANICA DE LOS PARTIDOS POLITICOS
+
+LEY N° 23.048
+
+Sustitúyese el artículo 56 de la Ley de facto N° 22.627.
+
+Sancionada: Febrero 8 de 1984.
+
+Promulgada: Febrero 17 de 1984
+
+EL SENADO Y CÁMARA DE DIPUTADOS DE LA NACIÓN ARGENTINA REUNIDOS EN CONGRESO, ETC., SANCIONAN CON FUERZA DE
+
+LEY:
+
+## ARTICULO 1°
+
+Sustitúyese artículo 56 de la ley de facto 22.627, por el siguiente: "Artículo 56 — Créase el fondo partidario permanente, con la finalidad de proveer a los partidos políticos reconocidos de los medios económicos que contribuyan a facilitarles el cumplimiento de sus funciones institucionales. La ley general de presupuesto determinará la afectación de los recursos necesarios bajo el rubro 'fondo partidario permanente'. El Poder Ejecutivo Nacional, por intermedio del Ministerio del Interior, dispondrá de dicho fondo, a los efectos que determina esta ley y demás disposiciones legales vigentes sobre la materia."
+
+## ARTICULO 2°
+
+Comuníquese al Poder Ejecutivo. Dada en la Sala de Sesiones del Congreso Argentino en Buenos Aires, a los ocho días del mes de febrero del año mil novecientos ochenta y cuatro.
+
+V. H. MARTINEZ
+
+J. C. PUGLIESE
+
+Antonio J. Macris
+
+Carlos A. Bravo
+
+— Registrada bajo el N° 23.048 —

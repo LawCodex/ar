@@ -1,0 +1,63 @@
+---
+title: "Ley 21275: OPCION PARA SALIR DEL PAIS"
+identifier: "Ley 21275"
+infoleg_id: "303534"
+type: act
+jurisdiction: ar
+language: es
+date: 1976-03-29
+published: 1976-04-02
+boletin_oficial: "23377"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=303534"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/303534/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 21275: OPCION PARA SALIR DEL PAIS
+
+Seguridad Nacional
+
+Suspéndese toda tramitación sobre opción para salir del país.
+
+Ley N° 21.275
+
+Buenos Aires, 29 de marzo de 1976
+
+Visto lo estatuido por esta Junta Militar mediante Acto Institucional de fecha 24 de marzo de 1976, y
+
+Considerando:
+
+Que constituye una primordial responsabilidad de gobierno consolidar la paz interior y preservar los permanentes intereses de la República.
+
+Que el Estado de Sitio implica la suspensión de las garantías constitucionales, con la finalidad de proteger tan vitales objetivos de la Nación.
+
+Que la suspensión del ejercicio del derecho de opción para salir del país, que confiere el artículo 23 de la Constitución Nacional, se ha estatuido en salvaguardia de los intereses esenciales del Estado.
+
+Que ello hace necesario adecuar la legislación a la presente circunstancia histórica.
+
+Que resulta imprescindible establecer pautas a las que deben ajustarse las solicitudes de opción para salir del país, que actualmente se encuentran en trámite.
+
+Por ello,
+
+LA JUNTA MILITAR
+
+SANCIONA Y PROMULGA
+
+CON FUERZA DE
+
+LEY:
+
+## Artículo 1°
+
+Quedan automáticamente sin efecto todas las solicitudes de opción para salir del país que se hayan presentado durante la vigencia de ese derecho, cualquiera sea la etapa en que se encuentre su tramitación.
+
+## Artículo 2°
+
+Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese.
+
+Videla.
+
+Massera.

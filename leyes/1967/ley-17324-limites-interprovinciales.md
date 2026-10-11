@@ -1,0 +1,65 @@
+---
+title: "Ley 17324: LIMITES INTERPROVINCIALES — COMISION NACIONAL DE LIMITES INTERPROVINCIALES - CREASE"
+identifier: "Ley 17324"
+infoleg_id: "270582"
+type: act
+jurisdiction: ar
+language: es
+date: 1967-06-27
+published: 1967-07-04
+boletin_oficial: "21222"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=270582"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/270000-274999/270582/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 17324: LIMITES INTERPROVINCIALES — COMISION NACIONAL DE LIMITES INTERPROVINCIALES - CREASE
+
+COMISION NACIONAL DE LIMITES INTERPROVINCIALES
+
+Créase.
+
+LEY N° 17.324
+
+Buenos Aires, 27 de junio de 1967
+
+En uso de las atribuciones conferidas por el artículo 5° del Estatuto de la Revolución Argentina.
+
+El Presidente de la Nación Argentina, Sanciona y Promulga con fuerza de Ley:
+
+## Artículo 1°
+
+Créase la Comisión Nacional de Límites Interprovinciales (C.N.L.I.P) constituída por el sñor Director Gemeral de Provincias, un representante del Instituto Geográfico Militar y el señor Sunsecretario de Estado de Gobierno, quien la presidirá.
+
+## Artículo 2°
+
+La Comisión Nacional, dentro del plazo de sesenta días de publicada la presente, determinará las cuestiones pendientes y las provincias interesadas designarán representantes a fin de hacer valer sus respectivos derechos.
+
+## Artículo 3°
+
+En cada cuestión, la Comisión Nacional convocará a los representantes de las provincias en litigio, durante un plazo de noventa días hábiles, a conciliar sus diferencias y fijar o demarcar, de común acuerdo, sus respectivos límites.
+
+## Artículo 4°
+
+Si las provincias no llegaran al acuerdo previsto en el artículo anterior, deberán presentar sus respectivas pretensiones, con todas la documentaciones y pruebas que hagan a su derecho, dentro del plazo de noventa días a contar del emplazamiento que les formula la Comisión Nacional.
+
+## Artículo 5°
+
+Vencido el plazo indicado en el artículo anterior, la Comisión Nacional teniendo en cuenta las documentaciones y pruebas aportadas, y las que de oficio requiera, dictaminará en cada cuestión, fijando o demarcando los límites controvertidos.
+
+## Artículo 6°
+
+Los acuerdos previstos en el artículo 3, y los dictámenes producidos conforme al artículo 5, serán puestos a consideración del señor ministro del Interior y posteriormente, por esa vía ministerial, elevados al señor Presidente de la Nación a los efectos del inciso 14 del art. 67 de la Constitución Nacional
+
+## Artículo 7°
+
+El Instituto Geográfico Militar del Ministerio de Defensa y la Dirección General de Provincias de la Secretaría de Estado de Gobierno colaborarán con la Comisión Nacional y le prestarán el apoyo administrativo y técnico que les sea requerido.
+
+## Artículo 8°
+
+Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese.
+
+Onganía. - Guillermo A. Borda.

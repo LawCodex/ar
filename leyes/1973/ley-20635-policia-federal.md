@@ -1,0 +1,55 @@
+---
+title: "Ley 20635: POLICIA FEDERAL — DECRETO-LEY Nº 333/58 - MODIFICACION"
+identifier: "Ley 20635"
+infoleg_id: "183204"
+type: act
+jurisdiction: ar
+language: es
+date: 1973-12-27
+published: 1974-01-14
+boletin_oficial: "22830"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=183204"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/183204/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 20635: POLICIA FEDERAL — DECRETO-LEY Nº 333/58 - MODIFICACION
+
+FUERZAS ARMADAS Y DE SEGURIDAD
+
+Policía Federal.
+
+Se modifica parcialmente la Ley Orgánica en lo que respecta a antigüedad para promociones.
+
+LEY Nº 20.635
+
+Sancionada: Diciembre 27 de 1973
+
+Promulgada: Enero 7 de 1974
+
+POR CUANTO:
+
+EL SENADO Y CAMARA DE DIPUTADOS DE LA NACION ARGENTINA REUNIDOS EN CONGRESO, ETC., SANCIONAN CON FUERZA DE LEY:
+
+## ARTICULO 1º
+
+Modifícanse –con carácter de excepción para las promociones del corriente año– las disposiciones del anexo 17 de la Ley Orgánica de la Policía Federal, reduciendo las antigüedades mínimas en el grado para la promoción al inmediato de dos (2) a un (1) año en la jerarquía de comisario inspector de los escalafones de seguridad y bomberos, de cuatro (4) a tres (3) años en la jerarquía de principal del escalafón de bomberos, y de tres (3) a dos (2) años en las jerarquías de inspector del escalafón de bomberos y subinspector de los escalafones de seguridad y bomberos.
+
+## Art. 2º
+
+Suspender –con carácter de excepción para las promociones del corriente año– las citadas disposiciones reglamentarias para todas las jerarquías del personal subalterno.
+
+## Art. 3º
+
+Comuníquese al Poder Ejecutivo.
+
+Dada en la Sala del Congreso Argentino, en Buenos Aires, a los veintisiete días del mes de diciembre del año mil novecientos setenta y tres.
+
+| J. A. ALLENDE | R.A. LASTIRI |
+|---|---|
+| Aldo H. Cantoni | Alberto L. Rocamora |
+
+– Registrada bajo el Nº 20.635 –

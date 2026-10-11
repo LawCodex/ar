@@ -1,0 +1,47 @@
+---
+title: "Ley 22115: CONVENCIONES COLECTIVAS DE TRABAJO — PERSONAL EXCLUIDO DEL CONVENIO COLECTIVO-PERSONAL JERARQUICO"
+identifier: "Ley 22115"
+infoleg_id: "304022"
+type: act
+jurisdiction: ar
+language: es
+date: 1979-12-04
+published: 1979-12-10
+boletin_oficial: "24310"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304022"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304022/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 22115: CONVENCIONES COLECTIVAS DE TRABAJO — PERSONAL EXCLUIDO DEL CONVENIO COLECTIVO-PERSONAL JERARQUICO
+
+Ley 22.115
+
+INCORPORACION DEL PERSONAL JERARQUICO EN NEGOCIACION DE CONVENIOS COLECTIVOS DE TRABAJO
+
+BUENOS AIRES, 4 de diciembre de 1979
+
+En uso de las atribuciones conferidas por el artículo 5 del
+
+Estatuto para el Proceso de Reorganización Nacional,
+
+EL PRESIDENTE DE LA NACION ARGENTINA
+
+SANCIONA Y PROMULGA CON FUERZA DE LEY:
+
+## ARTICULO 1
+
+Facúltase al Poder Ejecutivo para que, en oportunidad de proceder a la revisión de las convenciones colectivas de trabajo y a la formación de sus nuevos textos ordenados conforme con lo establecido en el artículo 5 de la Ley 21.476 proceda a excluir de ellas al personal jerarquizado cuando en una misma convención se encuentre comprendido con el que no reviste tal carácter. A los fines de la exclusión indicada, se tendrán en cuenta las funciones del personal de que se trate y las características particulares que en cada caso puedan presentarse.
+
+## ARTICULO 2
+
+La aplicación de la presente ley en ningún caso significará disminución de los niveles remunerativos del personal que se excluya de las convenciones colectivas. Las condiciones laborales que resulten de los nuevos textos ordenados que se apruebe, se incorporarán a los respectivos contratos individuales de trabajo vigentes de dicho personal, en la medida que fueren compatibles con la función que desempeñe.
+
+## ARTICULO 3
+
+Comuníquese, publíquese, dese a la Dirección Nacional del Registro Oficial y archívese.
+
+VIDELA - Martínez de Hoz - Reston -

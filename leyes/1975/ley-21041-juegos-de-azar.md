@@ -1,0 +1,55 @@
+---
+title: "Ley 21041: JUEGOS DE AZAR — DECRETO LEY Nº 18226/69 - MODIFICASE PARCIALMENTE"
+identifier: "Ley 21041"
+infoleg_id: "195237"
+type: act
+jurisdiction: ar
+language: es
+date: 1975-09-11
+published: 1975-10-06
+boletin_oficial: "23255"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=195237"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/195237/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 21041: JUEGOS DE AZAR — DECRETO LEY Nº 18226/69 - MODIFICASE PARCIALMENTE
+
+JUEGOS DE AZAR
+
+LEY N° 21.041
+
+Modifícase parcialmente el Decreto-Ley N° 18.226/69 en lo que respecta a expendio, propaganda, circulación y venta de billetes de lotería, rifas y otras manifestaciones de juego de azar.
+
+Sancionada: Setiembre 11 de 1975.
+
+Promulgada de hecho: Setiembre 30 de 1975.
+
+POR CUANTO:
+
+EL SENADO Y CAMARA DE DIPUTADOS DE LA NACION ARGENTINA REUNIDOS EN CONGRESO, ETC., SANCIONAN CON FUERZA DE
+
+LEY:
+
+## ARTICULO 1°
+
+Sustitúyese el texto del artículo 13 del Decreto-Ley N° 18.226/69 por el siguiente:
+
+**Artículo 13.** Queda autorizada en la Capital Federal y territorio nacional de la Tierra del Fuego, Antártida e Islas del Atlántico Sur, la introducción por cualquier medio y con fines de expendio, al igual que el anuncio, propaganda, circulación y venta de toda otra lotería además de la emitida por la Lotería de Beneficencia Nacional y Casinos, como asimismo la exhibición, reproducción y circulación de extractos correspondientes a las mismas. Queda prohibida la venta en la vía pública de billetes de lotería, rifas y tómbolas, bonos de contribución y demás participaciones de juegos de azar no autorizados expresamente.
+
+## ARTICULO 2°
+
+Comuníquese al Poder Ejecutivo.
+
+Dada en la Sala de Sesiones el Congreso Argentino en Buenos Aires, a los once días del mes de septiembre del año mil novecientos setenta y cinco.
+
+ITALO A. LUDER N.S. TORANZO
+
+Aldo H. N. Cantoni Ludovico Levia
+
+-Registrada bajo el N° 21.041-
+
+Aprobada por el Poder Ejecutivo de Acuerdo con lo dispuesto por el art. 70 de la Constitución Nacional.

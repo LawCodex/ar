@@ -1,0 +1,51 @@
+---
+title: "Decreto-Ley 13645/1957: PREFECTURA NAVAL ARGENTINA — LEY 12992 - MODIFICACION"
+identifier: "Decreto-Ley 13645/1957"
+infoleg_id: "162589"
+type: decree-law
+jurisdiction: ar
+language: es
+date: 1957-10-29
+published: 1957-11-07
+boletin_oficial: "18518"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=162589"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/160000-164999/162589/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Decreto-Ley 13645/1957: PREFECTURA NAVAL ARGENTINA — LEY 12992 - MODIFICACION
+
+DECRETO - LEY Nº 13.645
+
+Sustitúyense Palabras del Art. 7º de la Ley 12.992.
+
+Buenos Aires, 29 de octubre de 1957.
+
+VISTO el Expediente SN. Ppm. 5 número 398-a/56, atento lo informado por el Ministerio de Marina y,
+
+CONSIDERANDO:
+
+Que la Ley número 12.992 de "Retiros y Pensiones para el Personal de la Prefectura Nacional Marítima" establece en su artículo 7º que se computarán a los efectos del retiro "los servicios prestados en la administración nacional";
+
+Que según el artículo 1º del decreto del Decreto - Ley número 9.316/46 convalidado por Ley número 12.921, son computables para la obtención de las distintas prestaciones establecidas en los regímenes de cada una de las Secciones del Instituto Nacional de Previsión Social, los servicios prestados sucesiva o simultáneamente, bajo el régimen de una o de diversas Secciones o Cajas;
+
+Que los servicios prestados por el personal de la Prefectura Nacional Marítima en actividades sujetas a otros regímenes jubilatorios son reconocidos actualmente por la Caja Nacional de Jubilaciones y Pensiones Civiles —Ley Nº 4.349—, en virtud de así haberlo acordado el Directorio del Instituto Nacional de Previsión Social, según consta en el Expediente Nº 5.531/49 de dicho Instituto;
+
+Que es necesario, en consecuencia, condicionar el texto de la precitada Ley número 12.992 de Retiros y Pensiones para el Personal de la Prefectura Nacional Marítima al criterio de legislación aplicado, evitando en el futuro interpretaciones que restrinjan los alcances actuales de dicha apreciación,
+
+El Presidente Provisional de la Nación Argentina, en ejercicio del Poder Legislativo, Decreta con Fuerza de Ley:
+
+## Artículo 1º
+
+Sustitúyense las palabras "en la administración nacional" del artículo 7º de la Ley Nº 12.992, por "bajo otros regímenes jubilatorios".
+
+## Art. 2º
+
+El presente decreto - ley será refrendado por el Excelentísimo señor Vicepresidente Provisional de la Nación y los señores Ministros Secretarios de Estado en los Departamentos de Trabajo y Previsión, de Guerra, de Marina y de Aeronáutica.
+
+## Art. 3º
+
+Comuníquese, publíquese, dése a la Dirección General del Boletín Oficial y archívese en el Ministerio de Marina (Prefectura Nacional Marítima). ARAMBURU. — Isaac Rojas. — Tristán E. Guevara. — Víctor J. Majó. — Teodoro Hartung. — Jorge H. Landaburu.

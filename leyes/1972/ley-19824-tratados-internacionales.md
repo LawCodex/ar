@@ -1,0 +1,71 @@
+---
+title: "Ley 19824: TRATADOS INTERNACIONALES — ACUERDO CON BRASIL ELIMINACION DOBLE IMPOSICION TRANSPORTE AUTOMOTOR TERRESTRE - APROBACION"
+identifier: "Ley 19824"
+infoleg_id: "215536"
+type: act
+jurisdiction: ar
+language: es
+date: 1972-09-06
+published: 1972-10-10
+boletin_oficial: "22523"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=215536"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/215000-219999/215536/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 19824: TRATADOS INTERNACIONALES — ACUERDO CON BRASIL ELIMINACION DOBLE IMPOSICION TRANSPORTE AUTOMOTOR TERRESTRE - APROBACION
+
+ACORDES INTERNACIONALES
+
+LEY N° 19.824
+
+Apruébase el acuerdo sobre exención impositiva celebrado con Brasil.
+
+Bs. As. 6/9/73.
+
+En uso de las atribuciones conferidas por el artículo 5° del Estatuto de la Revolución Argentina,
+
+EL PRESIDENTE DE LA NACION ARGENTINA SANCIONA Y PROMULGA CON FUERZA DE
+
+LEY:
+
+## Artículo 1°
+
+Apruébase el acuerdo con la República Federativa del Brasil para la eliminación de la doble imposición en materia de transporte automotor terrestre, suscripto en la ciudad de Brasil el 15 de marzo de 1972, y cuyo texto forma parte de la presente Ley.
+
+## Art. 2°
+
+Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese.
+
+LANUSSE.
+
+Eduardo F. Mc Loughlin.
+
+Cayetano A. Licciardo.
+
+Brasilia, 15 de marzo de 1972.
+
+A. S. E. el señor Ministro de Estado de Relaciones Exteriores de la República Federativa del Brasil, D. Mario Gibson Barboza.
+
+Brasilia.
+
+Señor Ministro:
+
+Con el objeto de incrementar el flujo del comercio y del transporte de pasajeros y carga entre la Argentina y el Brasil por vía terrestre, tengo el honor de dirirme a Vuestra Excelencia para comunicarle lo siguiente:
+
+I. El Gobierno de la Argentina se compromete a eximir, en base al principio de reciprocidad, toda renta obtenida en operaciones de transporte terrestre en el tráfico internacional, por empresas brasileñas que ejercen tales actividades de acuerdo con el "Convenio sobre transporte internacional terrestre" firmado el 19 de octubre de 1965, de todos los impuestos sobre la renta o cualquier otro semejante sobre renta o lucro, que son o puedan ser cobrados en la Argentina.
+
+II. Por "empresas brasileñas" se entienden las empresas de derecho público o privado con dirección, administración y sede en la República Federativa del Brasil o constituidas de acuerdo con sus leyes.
+
+III. La exención prevista en el ítem I será aplicada sobre la renta obtenida a partir del 19 de octubre de 1966.
+
+IV. El Gobierno de la Argentina podrá dejar sin efecto el régimen de exención previsto en esta nota en cualquier momento mediante denuncia con aviso previo de seis meses.
+
+La presente nota y la de tenor equivalente y de la misma fecha de Vuestra Excelencia constituyen un acuerdo entre nuestros Gobiernos.
+
+Aprovecho la oportunidad para reiterar a Vuestra Excelencia las seguridades de mi consideración más distinguida.
+
+Luis Maria de Pablo Pardo, Ministro de Relaciones Exteriores y Culto.

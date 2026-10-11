@@ -1,0 +1,81 @@
+---
+title: "Decreto-Ley 4743/1963: FERTILIZANTES"
+identifier: "Decreto-Ley 4743/1963"
+infoleg_id: "299734"
+type: decree-law
+jurisdiction: ar
+language: es
+date: 1963-06-12
+published: 1963-06-19
+boletin_oficial: "20150"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: unknown
+text_version: "texto actualizado"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=299734"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/299734/texact.htm"
+retrieved: 2026-10-12
+---
+
+# Decreto-Ley 4743/1963: FERTILIZANTES
+
+Decreto Ley 4.743/63
+
+USO DE FERTILIZANTES.
+
+BUENOS AIRES, 12 de junio de 1963
+
+EL PRESIDENTE DE LA NACION ARGENTINA
+
+DECRETA CON FUERZA DE LEY:
+
+## ART. 1
+
+(Nota de redacción) Modificatorio del Decreto 5.439/59.
+
+## ART. 2
+
+(Nota de redacción) Modificatorio del Decreto 5.439/59.
+
+## ART. 3
+
+(Nota de redacción) Modificatorio del Decreto 5.439/59.
+
+## ART. 4
+
+(Nota de redacción) Modificatorio del Decreto 5.439/59.
+
+## ART.5
+
+La comprobación de destino a que se hace referencia en el artículo 4 precedente, estará a cargo de la Secretaría de Estado de Hacienda (Dirección Nacional de Aduanas).
+
+## Art. 6
+
+Todos los productos enunciados en el artículo 4 que antecede, quedarán eximidos del pago del derecho consular. El derecho de estadística se reducirá al 3% (tres por mil).
+
+## Art. 7
+
+A partir de la fecha de este decreto las ventas de fertilizantes, sean éstos de origen nacional o extranjero, quedan exentas del pago del impuesto a las ventas.
+
+*Art. 8. (Nota de redacción) Derogado por Ley 18.032 )
+
+## Art. 9
+
+El Ministerio del Interior invitará a los Gobiernos provinciales a otorgar, en sus respectivas jurisdicciones, facilidades impositivas que contribuyan a que los fertilizantes puedan llegar a bajo precio al productor rural.
+
+## Art. 10
+
+Las disposiciones de los artículos 1, 2, 3, 4 y 6 regirán hasta el 31 de diciembre de 1965. Si antes de esa fecha las fábricas nacionales existentes o que se establezcan en el futuro se encontraran en condiciones de abastecer adecuadamente los requerimientos del mercado interno a precios competitivos, las secretarías de Estado de Industria y Minería y de Agricultura y Ganadería, por resolución conjunta, podrán dejar sin efecto lo establecido por los artículos mencionados más arriba con referencia a todos o algunos de los productos liberados de recargos.
+
+## Art. 11
+
+En el caso previsto en el segundo párrafo del artículo anterior, el restablecimiento de los recargos subsistirá hasta tanto la Secretaría de Estado de Industria y Minería arbitre o promueva las medidas que correspondan para preservar la evolución de las industrias nacionales, asegurándoles condiciones de competencia en relación a niveles de precios internacionales.
+
+## Art. 12
+
+El presente decreto será refrendado por los señores ministros secretarios en los departamentos de Interior, de Defensa Nacional, de Relaciones Exteriores y Culto y de Economía y firmado por los señores secretarios de Estado de Hacienda, de Industria y Minería, de Comercio y de Agricultura y Ganadería.
+
+## Art. 13
+
+Comuníquese, publíquese, dése a la Dirección General del Boletín Oficial e Imprentas y archívese.
+
+GUIDO - Villegas - Astigueta - Cordini - Martínez de Hoz - Tiscornia - Gottheil - López Saubidet.

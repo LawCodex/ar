@@ -1,0 +1,73 @@
+---
+title: "Ley 21694: TURISMO — LEY N° 17.752 - PROROGASE SU VIGENCIA"
+identifier: "Ley 21694"
+infoleg_id: "232570"
+type: act
+jurisdiction: ar
+language: es
+date: 1977-11-30
+published: 1977-12-05
+boletin_oficial: "23802"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=232570"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/232570/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 21694: TURISMO — LEY N° 17.752 - PROROGASE SU VIGENCIA
+
+TURISMO
+
+Ley N° 21.694
+
+Prorrógase la vigencia de ciertos beneficios impositivos contemplados en la Ley N° 17.752 y sus modificaciones.
+
+Buenos Aires, 30 de noviembre de 1977.
+
+En uso de las atribuciones conferidas por el artículo 5° del Estatuto para el Proceso de Reorganización Nacional.
+
+EL PRESIDENTE DE LA NACION ARGENTINA SANCIONA Y PROMULGA CON FUERZA DE
+
+LEY:
+
+## ARTICULO 1°
+
+Prorróganse los plazos previstos en los artículos 5°, 7° y 9° inciso c) de la Ley N° 17.752 y sus modificatorias hasta el 31 de diciembre de 1978 a partir de cuya fecha quedarán derogadas las normas citadas. La presente prórroga será de aplicación para aquellas empresas que a la fecha de la presente Ley cuenten con el correspondiente decreto aprobatorio del Poder Ejecutivo y que hubieran alcanzado como mínimo, en la construcción, la estructura de hormigón armado y dado principio al equipamiento.
+
+## ARTICULO 2°
+
+Para permanecer en el goce de los beneficios, las obras deberán estar habilitadas en no menos del ochenta por ciento (80%) de sus habitaciones, con los servicios correspondientes, antes del 30 de junio de 1978.
+
+## ARTICULO 3°
+
+La Secretaría de Estado de Deportes y Turismo:
+
+a) Deberá comunicar dentro de los quince (15) días de promulgada la presente Ley, a la Dirección General Impositiva, las empresas que se encuentren comprendidas en los términos de los artículos 5°, 7° y 9° inciso c) de la Ley N° 17.752 y sus modificatorias y artículo 1° de la presente, como así también la fecha a partir de la cual comenzarán a regir los beneficios del artículo 9° incisos a) y b) de la Ley N° 17.752.
+
+b) Deberá comunicar a la Dirección General Impositiva, en los plazos establecidos en los artículos 1° y 2° de la presente Ley, las empresas que podrán continuar dentro de los beneficios de la Ley N° 17.752 y sus modificatorias.
+
+c) Podrá autorizar las modificaciones de los proyectos en curso de ejecución, dentro de la Ley N° 17.752 y sus modificatorias para permitir su adecuación a la Ley N° 18.828 y su reglamentación.
+
+## ARTICULO 4°
+
+La presente ley tendrá vigencia a partir del día siguiente al de su publicación en el Boletín Oficial y con efectos a partir del 1° de enero de 1976, inclusive.
+
+## ARTICULO 5°
+
+Se aclara que las franquicias en los Impuestos a los Réditos y Sustitutivo del Gravamen a la Transmisión Gratuita de Bienes, instituidos por la Ley N° 17.752, se consideran extendidas a los impuestos a las ganancias, sobre capitales y patrimonios, de emergencia a las empresas, y sobre los capitales de las empresas, a partir de la fecha en que empezaron a regir, en cuanto sustituyen o reemplazan a aquellos.
+
+## ARTICULO 6°
+
+Facúltase a la Dirección General Impositiva a dictar las normas necesarias para la aplicación de la presente ley.
+
+## ARTICULO 7°
+
+Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese.
+
+VIDELA.
+
+Julio J. Bardi.
+
+José A. Martínez de Hoz.

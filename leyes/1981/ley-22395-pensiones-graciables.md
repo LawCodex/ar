@@ -1,0 +1,85 @@
+---
+title: "Ley 22395: PENSIONES GRACIABLES — PENSIONES GRACIABLES - PRORROGA"
+identifier: "Ley 22395"
+infoleg_id: "304165"
+type: act
+jurisdiction: ar
+language: es
+date: 1981-02-06
+published: 1981-02-16
+boletin_oficial: "24608"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304165"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304165/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 22395: PENSIONES GRACIABLES — PENSIONES GRACIABLES - PRORROGA
+
+PENSIONES GRACIABLES
+
+LEY N° 22.395
+
+Prorróganse pensiones graciables.
+
+Buenos Aires, 6 de febrero de 1981.
+
+En uso de las atribuciones conferidas por el artículo 5° del Estatuto para el proceso de Reorganización Nacional,
+
+EL PRESIDENTE DE LA NACIÓN ARGENTINA SANCIONA Y PROMULGA CON FUERZA DE
+
+LEY:
+
+## Artículo 1°
+
+Prorrógase por el término de diez (10) años a contar desde las fechas de sus respectivos vencimientos, las pensiones graciables otorgadas a las personas cuya nómina corre agregada en planilla Anexo I a la presente ley.
+
+## Art. 2°
+
+El gasto que demande el cumplimiento de esta ley se imputará al artículo 3° de la ley 18.748.
+
+## Art. 3°
+
+Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese.
+
+VIDELA.
+
+Jorge A. Fraga.
+
+## ANEXO I
+
+(Nómina de Beneficiarios) a la Ley N° 22.395.
+
+Apellido y nombre:
+
+Biscardi, María Luisa Benavidez de, (Prorrogada por ley 18.636); Documento N° 3.482.682.
+
+Apellido y nombre:
+
+Galíndez, Francisca, (Concedida por ley 18.238); Documento N° 0.550.227.
+
+Apellido y nombre:
+
+Gatto, Enriqueta Estela, (Prorrogada por ley 18.496); Documento N° 3.351.420.
+
+Apellido y nombre:
+
+Pacheco, Amalia, (Prorrogada por ley 19.386); Documento N° 3.347.667.
+
+Apellido y nombre:
+
+Palacio, María Elena Etchichury de, (Prorrogada por ley 18.054); Documento N° 3.737.544.
+
+Apellido y nombre:
+
+Rimoldi, María Josefa Charlin de, (Prorrogada por ley 20.357); Documento N° 1.705.551 P.F.
+
+Apellido y nombre:
+
+Sabater, Irenea Villar de, (Prorrogada por ley 18.999). Documento N° 2.947.194.
+
+Apellido y nombre:
+
+Salvadores, María Esther Bettetini de, (Prorrogada por ley 18.186); Documento N° 2.946.242.

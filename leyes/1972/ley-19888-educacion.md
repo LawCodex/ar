@@ -1,0 +1,87 @@
+---
+title: "Ley 19888: EDUCACION — UNIVERSIDAD NACIONAL DE LOMAS DE ZAMORA - CREACION"
+identifier: "Ley 19888"
+infoleg_id: "231243"
+type: act
+jurisdiction: ar
+language: es
+date: 1972-10-13
+published: 1972-10-24
+boletin_oficial: "22532"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=231243"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/231243/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 19888: EDUCACION — UNIVERSIDAD NACIONAL DE LOMAS DE ZAMORA - CREACION
+
+EDUCACION
+
+LEY N° 19.888
+
+Créase la Universidad Nacional de Lomas de Zamora.
+
+Bs. As., 13/10/72
+
+En uso de las atribuciones conferidas por el artículo 5° del Estatuto de la Revolución Argentina,
+
+EL PRESIDENTE DE LA NACION ARGENTINA SANCIONA Y PROMULGA CON FUERZA DE
+
+LEY:
+
+## Artículo 1º
+
+Créase la Universidad Nacional de Lomas de Zamora.
+
+## Art. 2º
+
+La Universidad Nacional de Lomas de Zamora tendrá su sede en el partido del mismo nombre; se regirá por las disposiciones de la Ley Orgánica de las Universidades Nacionales y comenzará a funcionar a partir de la fecha que determine el Ministerio de Cultura y Educación, de acuerdo con las atribuciones que le fija el artículo 4º de la presente ley.
+
+## Art. 3º
+
+El Ministerio de Cultura y Educación propondrá al Poder Ejecutivo Nacional la designación de un Delegado Organizador de la Universidad que se crea.
+
+## Art. 4º
+
+Hasta tanto el Poder Ejecutivo designe, a propuesta del Ministerio de Cultura y Educación, el Rector Organizador y los Decanos o Directores Organizadores, respectivamente, las atribuciones del Consejo Superior y Consejos Académicos serán ejercidas por el Delegado Organizador. Las atribuciones de la Asamblea Universitaria serán ejercidas por el Ministerio de Cultura y Educación.
+
+## Art. 5º
+
+Dentro de los treinta (30) días de designado el Delegado Organizador el Ministerio de Cultura y Educación elevará el Proyecto de Estructura Orgánica Básica, con la misión y las funciones de la Universidad Nacional de Lomas de Zamora.
+
+## Art. 6º
+
+El Delegado Organizador elevará al Ministerio de Cultura y Educación, dentro de los sesenta (60) días de su designación, el proyecto de cronograma de tareas a realizar para el funcionamiento progresivo de la Universidad, el que se ajustará a las disponibilidades crediticias que se le asignen en el Presupuesto Nacional de la Administración Pública.
+
+## Art. 7º
+
+El cronograma deberá contemplar en general, las tareas siguientes:
+
+a) Análisis estimativo de la cantidad posible de matrículas de ingreso en función de la evolución y proyección de egresos de enseñanza media y tasa de pase de la enseñanza media a la universitaria;
+
+b) Dimensionamiento de la Universidad;
+
+c) Diseño del modelo de sistema universitario que contemple la problemática local, corrija a su vez las deficiencias estructurales del actual sistema y asegure su ajuste a los lineamientos trazados por la comisión que realizó su estudio de factibilidad;
+
+d) Análisis de inversiones y costos del proyecto.
+
+## Art. 8º
+
+La Universidad Nacional de Lomas de Zamora, por conducto del Ministerio de Cultura y Educación, podrá celebrar convenios ad referéndum del Poder Ejecutivo Nacional, para la transferencia de bienes, servicios u otras prestaciones que sean necesarios para implementar la organización y el funcionamiento de la Universidad Nacional que se crea por la presente ley.
+
+## Art. 9º
+
+Las erogaciones que demande el cumplimiento de la presente ley, serán atendidas con los recursos previstos en el presente ejercicio fiscal por el Ministerio de Cultura y Educación.
+
+## Art. 10
+
+Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese.
+
+LANUSSE
+
+Gustavo Malek
+
+Arturo Mor Roig

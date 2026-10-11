@@ -1,0 +1,53 @@
+---
+title: "Ley 13935: RELACIONES DIPLOMATICAS — RELACIONES DIPLOMATICAS CON LA INDIA - ESTABLECIMIENTO"
+identifier: "Ley 13935"
+infoleg_id: "193283"
+type: act
+jurisdiction: ar
+language: es
+date: 1950-09-01
+published: 1950-09-20
+boletin_oficial: "16739"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=193283"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/193283/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 13935: RELACIONES DIPLOMATICAS — RELACIONES DIPLOMATICAS CON LA INDIA - ESTABLECIMIENTO
+
+LEY 13.935
+
+ESTABLECEN CON LA INDIA RELACIONES DIPLOMATICAS
+
+Sancionada: Setiembre 1º - 1950
+
+Promulgada: Setiembre 14 - 1950
+
+POR CUANTO:
+
+La Cámara de Diputados y Senadores de la Nación Argentina, reunidos en Congreso, sancionan con fuerza de
+
+LEY:
+
+## ARTICULO 1º
+
+Apruébase el establecimiento de relaciones diplomáticas entre la India y la República Argentina, realizado mediante notas reversales firmadas en la ciudad de Buenos Aires, el dia 3 de febrero de 1949, por su excelencia el señor ministro de Relaciones Exteriores , doctor Juan Atilio Bramuglia, y su señoria el cónsul general de la India en la República, don Aftab Rai.
+
+## ARTICULO 2º
+
+Créase la embajada de la República Argentina en la India con sede en Nueva Delhi.
+
+## ARTICULO 3º
+
+Comuniquese al Poder Ejecutivo.
+
+Dada en la Sala de Sesiones del Congreso Argentino, en Buenos Aires, al primer día del mes de setiembre del año del Libertador General San Martín mil novecientos cincuenta.
+
+J. H. QUIJANO H. J. CAMPORA
+
+Alberto H Reales Rafael V. Gonzalez
+
+\- Registrada bajo el número 13.935 -

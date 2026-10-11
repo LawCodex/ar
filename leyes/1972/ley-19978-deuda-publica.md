@@ -1,0 +1,59 @@
+---
+title: "Ley 19978: DEUDA PUBLICA — DEUDA INTERNA-EMPRESTITO-EMISION DE TITULOS-VALORES NACIONALES AJUSTABLES"
+identifier: "Ley 19978"
+infoleg_id: "302484"
+type: act
+jurisdiction: ar
+language: es
+date: 1972-11-28
+published: 1972-12-04
+boletin_oficial: "22558"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302484"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302484/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 19978: DEUDA PUBLICA — DEUDA INTERNA-EMPRESTITO-EMISION DE TITULOS-VALORES NACIONALES AJUSTABLES
+
+Ley 19.978
+
+EMISION DE TITULOS DE LA DEUDA PUBLICA INTERNA DENOMINADOS "VALORES NACIONALES AJUSTABLES".
+
+BUENOS AIRES, 28 de noviembre de 1972
+
+En uso de las atribuciones conferidas por el artículo 5 del
+
+Estatuto de la Revolución Argentina,
+
+EL PRESIDENTE DE LA NACION ARGENTINA
+
+SANCIONA Y PROMULGA CON FUERZA DE LEY:
+
+## ARTICULO 1
+
+Para la atención de las erogaciones que por disposición legal deben cubrirse con el producido de la negociación de empréstitos, el Poder Ejecutivo queda autorizado para emitir en una o varias series, títulos de la deuda pública interna que se denominarán "VALORES NACIONALES AJUSTABLES".
+
+## ARTICULO 2
+
+Los títulos a que se refiere el artículo anterior devengarán un interés del 7 % anual, pagadero semestralmente y la amortización se efectuará, sobre cada título, en cinco servicios anuales iguales equivalentes cada uno al veinte por ciento (20%) del monto emitido, a partir del segundo año de su emisión. El plazo del empréstito será de seis (6) años.
+
+## ARTICULO 3
+
+Los servicios de renta y amortización serán pagados por el BANCO CENTRAL DE LA REPUBLICA ARGENTINA ajustando el valor nominal de los mismos, mediante la aplicación del porcentaje de variación, disminuido en cinco (5) puntos anuales, del nivel del Indice de Precios Mayoristas Nacionales no Agropecuarios, elaborado por el Instituto Nacional de Estadística y Censos. Asimismo, queda autorizado el Poder ejecutivo para establecer el mecanismo de aplicación del citado ajuste.
+
+## ARTICULO 4
+
+Los títulos serán al portador y cotizables en todas las bolsas y mercados de valores del país.
+
+## ARTICULO 5
+
+Los títulos de la presente emisión, así como su renta, estarán exentos de todo gravamen impositivo.
+
+## ARTICULO 6
+
+Comuníquese, publíquese, dése a la DIRECCION NACIONAL DEL REGISTRO OFICIAL y archívese.
+
+LANUSSE - Wehbe.

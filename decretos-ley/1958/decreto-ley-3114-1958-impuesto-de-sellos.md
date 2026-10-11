@@ -1,0 +1,41 @@
+---
+title: "Decreto-Ley 3114/1958: IMPUESTO DE SELLOS — TASA DE JUSTICIA"
+identifier: "Decreto-Ley 3114/1958"
+infoleg_id: "297579"
+type: decree-law
+jurisdiction: ar
+language: es
+date: 1958-03-18
+published: 1958-03-26
+boletin_oficial: "18612"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=297579"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/297579/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Decreto-Ley 3114/1958: IMPUESTO DE SELLOS — TASA DE JUSTICIA
+
+AUMENTANSE LAS TASAS DEL IMPUESTO DE SELLOS
+
+DECRETO-LEY Nº 3.114
+
+Bs. As., 18/3/58.
+
+VISTO la necesidad de ajustar las tasas vigentes del impuesto de sellos que gravan las actuaciones judiciales y cuya actualización no se efectúa desde el año 1950, con el objeto de obtener los recursos financieros indispensables para asegurar el normal funcionamiento de la Justicia,
+
+El Presidente Provisional de la Nación Argentina,
+
+en Ejercicio del Poder Legislativo,
+
+Decreta con Fuerza de Ley:
+
+## Artículo 1º
+
+Auméntase, a partir del 1º de abril de 1958, en un cien por ciento (100 %) las tasas establecidas en el Título IV (Capítulo I - Sellado de actuación y Capítulo II - Impuesto de Justicia) de la ley de impuesto de sellos (texto ordenado en 1956 y sus disposiciones modificatorias).
+
+## Art. 2º
+
+El presente decreto-ley será refrendado por el señor Vicepresidente Provisional de la Nación y por los señores Ministros Secretarios de Estado en los Departamentos de Hacienda, de Guerra, de Marina y de Aeronáutica.

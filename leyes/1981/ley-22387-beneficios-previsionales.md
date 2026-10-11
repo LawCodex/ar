@@ -1,0 +1,53 @@
+---
+title: "Ley 22387: BENEFICIOS PREVISIONALES — PENSIONES GRACIABLES"
+identifier: "Ley 22387"
+infoleg_id: "304160"
+type: act
+jurisdiction: ar
+language: es
+date: 1981-01-29
+published: 1981-02-05
+boletin_oficial: "24601"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304160"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304160/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 22387: BENEFICIOS PREVISIONALES — PENSIONES GRACIABLES
+
+PENSIONES GRACIABLES
+
+LEY N° 22.387
+
+Acuérdase una pensión graciable vitalicia.
+
+Buenos Aires, 29 de enero de 1981.
+
+En uso de las atribuciones conferidas por el artículo 5° del Estatuto para el Proceso de Reorganización Nacional,
+
+EL PRESIDENTE DE LA NACION ARGENTINA SANCIONA Y PROMULGA CON FUERZA DE
+
+LEY:
+
+## Artículo 1°
+
+Acuérdase a la señora Julia Inés María de Luján Buela de Castro Olivera, D.N.I. 16.776.702, en concurrencia con sus hijos menores Mariano Julián Luis Castro Olivera, D.N.I. 16.978.011, Juan Raúl Castro Olivera, D.N.I. 7.152.764, Alejandro Castro Olivera D.N.I. 20.290.153, Magdalena Inés Castro Olivera, D.N.I. 22.234.277, Federico Manuel Castro Olivera, DNI. 24.220.830 y Santiago Martín Castro Olivera, D.N.I. N° 25.659.660, una pensión graciable cuyo monto mensual será equivalente a tres (3) veces el haber mínimo de jubilación ordinaria que perciben los beneficiarios del régimen de jubilaciones y pensiones para trabajadores en relación de dependencia, la que será compatible con cualquier otro ingreso, sin limitación alguna.
+
+## Art. 2°
+
+El beneficio que se acuerda por el artículo precedente se extinguirá para la citada en primer término por las causales previstas en la ley 17.562 y sus modificatorias y para los restantes copartícipes cuando alcazan la mayoría de edad o contraigan matrimonio.
+
+## Art. 3°
+
+El gasto que demande el cumplimiento de la presente ley será atendido con cargo al artículo 3° de la ley 18.748.
+
+## Art. 4°
+
+Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese.
+
+VIDELA.
+
+Jorge A. Fraga.

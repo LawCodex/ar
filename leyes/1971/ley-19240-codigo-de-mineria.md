@@ -1,0 +1,63 @@
+---
+title: "Ley 19240: CODIGO DE MINERIA — MODIFICACIONES"
+identifier: "Ley 19240"
+infoleg_id: "108971"
+type: act
+jurisdiction: ar
+language: es
+date: 1971-09-16
+published: 1971-09-24
+boletin_oficial: "22266"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=108971"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/105000-109999/108971/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 19240: CODIGO DE MINERIA — MODIFICACIONES
+
+LEY Nº 19240
+
+PRIVATIZACIONES
+
+Se incluyen el cuarzo y los feldespatos entre los minerales de primera categoría establecidos por el Art. 3º del Código de Mineria.
+
+Bs. As. 16/9/71
+
+En uso de las atribuciones conferidas por el artículo 5º del Estatuto de la Revolución Argentina,
+
+EL PRESIDENTE DE LA NACION ARGENTINA SANCIONA Y PROMULGA CON FUERZA DE
+
+LEY:
+
+## Artículo 1º
+
+Decláranse incluídos el cuarzo y los feldespatos entre las sustancias de primera categoría, comprendidas en el artículo 3º del Código de Mineria.
+
+## Art. 2º
+
+Las sustancias mencionadas en el artículo 1º que se encuentren en explotación a la fecha de publicación de esta ley, podrán ser denunciadas únicamente por el propietario del terreno, sin perjuicio de los derechos contractuales del actual explotante.
+
+El derecho preferencial acordado al propietario del terreno caducará si no fuera ejercido dentro del término de un año contado a partir de la expuesta publicación. En tal supuesto y dentro de los seis meses inmediatamente posteriores a la fecha de la caducidad, el denuncio podrá ser hecho únicamente por el actual explotante.
+
+## Art. 3º
+
+Cuando las sustancias enunciadas en el artículo 1º se encuentren en terrenos ocupados por minas de la primera o segunda categoría y sean objeto de actual explotación por el propietario del terreno o por un tercero con su consentimiento, el titular de la mina está obligado a permitir la continuación de la explotación por el término de dos años contados a partir de la publicación de esta ley. Transcurrido el mismo, el explotante deberá cesar todo trabajo sin derecho a indemnización de ninguna especie.
+
+El transcurso del mismo término de dos años determinará la extinción del derecho del propietario superficiario para continuar recibiendo del titular de la mina la entrega de esas sustancias o el pago de los derechos creditorios que se hubieran convenido por la extracción de las mismas.
+
+Los lapsos precedentemente indicados no serán de aplicación en los casos en que exista contrato escrito. En esos casos los derechos del explotante se extinguirán con el transcurso del plazo contractual. Las disposiciones de este artículo son de orden público.
+
+## Art. 4º
+
+Las consecuencias emergentes del transcurso de los plazos consignados en los artículos 2º y 3º se producirán en forma automática, sin necesidad de declaración de la autoridad.
+
+## Art. 5º
+
+Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese.
+
+LANUSSE.
+
+Oscar M. Chescotta.

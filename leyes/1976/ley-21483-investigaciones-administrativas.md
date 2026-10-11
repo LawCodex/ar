@@ -1,0 +1,49 @@
+---
+title: "Ley 21483: INVESTIGACIONES ADMINISTRATIVAS — CONVALIDASE DOS RESOLUCIONES DEL MINISTERIO DE JUSTICIA"
+identifier: "Ley 21483"
+infoleg_id: "303672"
+type: act
+jurisdiction: ar
+language: es
+date: 1976-12-30
+published: 1977-01-07
+boletin_oficial: "23571"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=303672"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/303672/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 21483: INVESTIGACIONES ADMINISTRATIVAS — CONVALIDASE DOS RESOLUCIONES DEL MINISTERIO DE JUSTICIA
+
+INVESTIGACIONES ADMINISTRATIVAS
+
+LEY N° 21.483
+
+Convalídase dos resoluciones del Ministerio de Justicia
+
+Buenos Aires 30 de diciembre 1976.
+
+En uso de las atribuciones conferidas por el artículo 5° del Estatuto para el Proceso de Reorganización Nacional,
+
+El Presidente de la Nación Argentina Sanciona y Promulga con Fuerza de
+
+Ley:
+
+## ARTICULO 1º
+
+Convalídanse las res. 482/76 y 537 bis/76 del Ministerio de Justicia de la Nación por las cuales se prorrogó el plazo que la Ley N° 21.271 otorga al interventor-liquidador de la Cruzada de la Solidaridad para cumplir su cometido.
+
+## ARTICULO 2º
+
+Facúltase al Poder Ejecutivo nacional a conceder las futuras prórrogas que fueran necesarias para el cumplimiento de los fines determinados en la ley citada.
+
+## ARTICULO 3º
+
+Comuníquese, publiquese, dése a la Dirección Nacional del Registro Oficial y archívese.
+
+VIDELA
+
+Julio A. Gómez.

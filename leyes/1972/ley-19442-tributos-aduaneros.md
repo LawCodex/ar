@@ -1,0 +1,47 @@
+---
+title: "Ley 19442: TRIBUTOS ADUANEROS — DERECHOS DE IMPORTACION-EXENCIONES IMPOSITIVAS"
+identifier: "Ley 19442"
+infoleg_id: "302100"
+type: act
+jurisdiction: ar
+language: es
+date: 1972-01-24
+published: 1972-01-25
+boletin_oficial: "22348"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302100"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302100/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 19442: TRIBUTOS ADUANEROS — DERECHOS DE IMPORTACION-EXENCIONES IMPOSITIVAS
+
+Ley 19.442
+
+COMPLEMENTARIA DE LEY DE ADUANAS (T.O. 1962)
+
+BUENOS AIRES, 24 de enero de 1972
+
+En uso de las atribuciones conferidas por el artículo 5 del
+
+Estatuto de la Revolución Argentina,
+
+EL PRESIDENTE DE LA NACION ARGENTINA
+
+SANCIONA Y PROMULGA CON FUERZA DE LEY:
+
+## ARTICULO 1
+
+Autorízase al PODER EJECUTIVO a delegar en forma conjunta en los Ministerios de Comercio y de Hacienda y Finanzas la facultad establecida en el artículo 138 de la Ley de Aduanas, texto ordenado en 1962 y sus modificaciones, en los casos previstos en el inciso g) del apartado 2 del citado artículo. Esta facultad será ejercida en casos de extrema urgencia que causen, o amenacen causar, graves distorsiones en las condiciones del abastecimiento interno que perjudiquen la satisfacción de necesidades comunes de la población, y previa evaluación de las circunstancias, que se realizará juntamente con los demás Organismos competentes en la materia.
+
+## ARTICULO 2
+
+La presente ley entrará en vigor el día siguiente al de su publicación en el Boletín Oficial.
+
+## ARTICULO 3
+
+Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial, y archívese.
+
+LANUSSE - Licciardo - Girelli.

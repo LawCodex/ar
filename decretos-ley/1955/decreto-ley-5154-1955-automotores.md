@@ -1,0 +1,87 @@
+---
+title: "Decreto-Ley 5154/1955: AUTOMOTORES — IMPORTACION DE AUTOMOTORES-TRANSPORTE DE PASAJEROS"
+identifier: "Decreto-Ley 5154/1955"
+infoleg_id: "296788"
+type: decree-law
+jurisdiction: ar
+language: es
+date: 1955-12-12
+published: 1955-12-20
+boletin_oficial: "18049"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=296788"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/296788/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Decreto-Ley 5154/1955: AUTOMOTORES — IMPORTACION DE AUTOMOTORES-TRANSPORTE DE PASAJEROS
+
+DECRETO-LEY N° 5.154.
+
+Buenos Aires, 12 de diciembre de 1955.
+
+VISTO el Decreto N° 5.153/55 por el que se establecen los recargos de cambio que deberán abonarse por la importación de ciertos tipos de automotores, y
+
+CONSIDERANDO:
+
+Que por dicho Decreto se prohibe la introducción de los vehículos de determinadas características;
+
+Que hay en puerto o en viaje automóviles comprendidos en dichas categorías cuya introducción al país se considera conveniente facilitar a fin de solucionar las situaciones creadas, aún en aquellos casos en que se trate de operaciones no amparadas por el permiso de cambio que exigían las anteriores disposiciones;
+
+Que igual situación se presenta con respecto a las importaciones de unidades cuya entrega a los compradores aún no se concretó por parte de los representantes o fabricantes;
+
+Que los recursos que se recauden por aplicación de este recargo de cambio irán a integrar el Fondo de Restablecimiento Económico Nacional y se destinarán a fines de carácter social; Por todo ello,
+
+El Presidente Provisional de la Nación Argentina, en ejercicio del Poder Legislativo, Decreta con Fuerza de Ley:
+
+## Artículo 1°
+
+Los automóviles, completos, para el transporte de pasajeros, que a la fecha del presente Decreto- con o sin permiso de cambio- se encuentren en viaje o pendientes de retiro a plaza y/o nacionalización, como así también aquellos que habiendo sido ya importados no fueron entregados a los compradores por parte de los representantes o fabricantes, podrán ser introducidos a plaza o entregados siempre que previamente se abonen los recargos de cambio que se establecen a continuación:
+
+M$N.
+
+a) Automóviles de más de 1.000 kilogramos
+
+y hasta 1.500 kilogramos de peso y cuyo costo
+
+en fábrica según catálogo (excluídas las mejoras
+
+opcionales) exceda de Dls. 2.000 -------- 350.000
+
+b) Automóviles de más de 1500 kilogramos y
+
+hasta 1.900 kilogramos de peso y cuyo costo en
+
+fábrica según catálogo (excluídas las mejoras
+
+opcionales) no exceda Dls. 2.000 ---------- 400.000
+
+c) Automóviles de más de 1.600 y hasta 1.900
+
+kilogramos de peso y cuyo costo en fábrica según
+
+catálogo (excluídas las mejoras opcionales) exceda
+
+de Dls. 2.000 ----------- 500.000
+
+d) Automóviles de más de 1.900 kilogramos de peso. 800.000
+
+Igual tratamiento corresponde aplicar a los automóviles pendientes de embarque amparados por permisos de cambio vigentes a la fecha.
+
+## Art. 2°
+
+Los automóviles que se encuentren en las condiciones de importación expuestas precedentemente, no amparados por permisos de cambio y que por sus características no están comprendidos en el detalle consignado en el artículo 1°, podrán ser nacionalizados siempre que se ajusten a las disposiciones del Derecho número 5.153/55
+
+## Art. 3°
+
+Serán aplicables a estas importaciones las disposiciones de los artículos 3°, 4°, 5°, 6°, y 7° del Derecho número 5.153/55.
+
+## Art. 4°
+
+El presente Decreto será refrendado por los señores Ministros Secretarios de Estado en los Departamentos de Finanzas, de Hacienda y de Relaciones Exteriores y Culto de la Nación.
+
+## Art. 5°
+
+Comuníquese, publíquese, dése a la Dirección General del Registro Nacional y archívese.

@@ -1,0 +1,47 @@
+---
+title: "Ley 19604: FUERZAS ARMADAS Y DE SEGURIDAD — LEY NRO. 19.101 - MODIFICACION"
+identifier: "Ley 19604"
+infoleg_id: "86483"
+type: act
+jurisdiction: ar
+language: es
+date: 1972-05-02
+published: 1972-05-09
+boletin_oficial: "22418"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=86483"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/85000-89999/86483/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 19604: FUERZAS ARMADAS Y DE SEGURIDAD — LEY NRO. 19.101 - MODIFICACION
+
+FUERZAS ARMADAS Y DE SEGURIDAD
+
+Ascensos "Post Mortem"
+
+LEY N° 19.604
+
+Bs. As. 2/5/72
+
+En uso de las atribuciones conferidas por el Artículo 5° del Estatuto de la Revolución Argentina,
+
+EL PRESIDENTE DE LA NACION ARGENTINA SANCIONA Y PROMULGA CON FUERZA DE LEY:
+
+## Artículo 1º
+
+Inclúyase en la Ley para el Personal Militar N° 19.101 como artículo 52 bis, el texto que a continuación se transcribe: Artículo 52 bis: "El militar que en tiempo de paz, con motivo de acontecimientos extraordinarios que revistan carácter de función de guerra, realice aislado o en ejercicio del mando, un acto heroico que le causare la muerte, podrá ser ascendido al grado inmediato superior, aun cuando no haya cumplido en su grado, el tiempo mínimo para el ascenso que determina esta Ley. En todos los casos, el mérito extraordinario deberá ser comprobado documentalmente en la forma que reglamente cada Fuerza".
+
+## Art. 2º
+
+Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese.
+
+LANUSSE
+
+Pedro A. Gordillo
+
+Carlos A. Rey
+
+Carlos G. N. Coda

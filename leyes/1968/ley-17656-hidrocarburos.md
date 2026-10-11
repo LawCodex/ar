@@ -1,0 +1,53 @@
+---
+title: "Ley 17656: HIDROCARBUROS — YACIMIENTOS PETROLIFEROS FISCALES - APRUEBASE CONVENIO"
+identifier: "Ley 17656"
+infoleg_id: "223493"
+type: act
+jurisdiction: ar
+language: es
+date: 1968-02-23
+published: 1968-03-14
+boletin_oficial: "21395"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=223493"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/220000-224999/223493/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 17656: HIDROCARBUROS — YACIMIENTOS PETROLIFEROS FISCALES - APRUEBASE CONVENIO
+
+YACIMIENTOS PETROLIFEROS FISCALES
+
+Ley N° 17.656
+
+Apruébase el convenio de transacción celebrado con una firma petrolera y se delara al mismo de interés nacional.
+
+Buenos Aires, 23 de febrero de 1968.
+
+El Presidente de la Nación Argentina, Sanciona y Promulga con fuerza de
+
+Ley:
+
+## Artículo 1°
+
+Apruébase el convenio de transacción firmado el día 30 de noviembre de 1967 por el Secretario de estado de Energía y Minería, el Procurador del Tesoro de la nación y el Administrador General de Yacimientos Petrolíferos Fiscales con C.A.D.I.P.S.A. (Compañía Argentina para el Desarrollo de la Industria del Petróleo y Minerales, Sociedad Anónima).
+
+## Artículo 2°
+
+La Secretaría de Estado de Hacienda dispondrá el pago a C.A.D.I.P.S.A., dentro de los sesenta días de promulgación de esta ley, de las sumas que se le adeudan en virtud del convenio que se aprueba, efectuando el pago de la Tesorería General de la Nación con cargo a Rentas Generales.
+
+## Artículo 3°
+
+Declárase de interés nacional, en los términos del artículo 11° de la Ley N° 15.273, la actividad emergente del contrato N° 8.942/62 suscripto entre Yacimientos Petrolíferos Fiscales y C.A.D.I.P.S.A. el día 21 de febrero de 1962 y la que derive del convenio de transacción que esta ley aprueba.
+
+## Artículo 4°
+
+El Banco Central de la República Argentina acordará la garantía de transferibilidad prevista en el artículo 11° del contrato entre Yacimientos Petrolíderos Fiscales y C.A.D.I.P.S.A. en su texto modificado por el convenio de transacción que se aprueba por el artículo 1° de esta ley.
+
+## Artículo 5°
+
+Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese.
+
+Onganía. - Adalbert Krieger Vasena.

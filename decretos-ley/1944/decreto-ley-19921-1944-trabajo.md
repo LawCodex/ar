@@ -1,0 +1,75 @@
+---
+title: "Decreto-Ley 19921/1944: TRABAJO — FERIADOS-REMUNERACION-TRABAJO A DESTAJO"
+identifier: "Decreto-Ley 19921/1944"
+infoleg_id: "294952"
+type: decree-law
+jurisdiction: ar
+language: es
+date: 1944-06-25
+published: 1944-08-28
+boletin_oficial: "14981"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: unknown
+text_version: "texto actualizado"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=294952"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/294952/texact.htm"
+retrieved: 2026-10-12
+---
+
+# Decreto-Ley 19921/1944: TRABAJO — FERIADOS-REMUNERACION-TRABAJO A DESTAJO
+
+Decreto Ley 19.921/44
+
+DERECHO AL PAGO DE SALARIOS LOS DIAS FERIADOS.
+
+BUENOS AIRES, 25 de junio de 1944
+
+El presidente de la Nación Argentina
+
+DECRETA:
+
+## ARTICULO 1
+
+El Decreto 10.991, se aplicará en todo el territorio de la República a partir del 29 de abril de 1944, y de conformidad con las siguientes disposiciones reglamentarias.
+
+## ARTICULO 2
+
+Los dadores de trabajo, aun cuando se tratare de personas de derecho público, sin más excepciones que las que establecen las Leyes de descanso dominical, están comprendidos dentro del régimen del Decreto 10.991 y de la presente reglamentación.
+
+## ARTICULO 3
+
+El personal remunerado por día o destajo perteneciente a fábricas, talleres, casas de comercio y demás establecimientos o sitios de trabajo, que en virtud de lo dispuesto en el artículo 1 del Decreto 10.991 se viera impedido de trabajar en los días que el mismo señala, tendrá derecho a percibir la remuneración correspondiente a esos días, aún cuando coincidiera en domingo.
+
+## ARTICULO 4
+
+El personal a que se refiere el artículo anterior que no trabajara en algunos de los días señalados en el Decreto 10.991, por coincidir con el fijado para su descanso semanal de acuerdo con las Leyes respectivas, tendrá derecho a percibir el salario correspondiente a ese día.
+
+## ARTICULO 5
+
+Los trabajadores tendrán derecho a percibir la remuneración indicada en los artículos anteriores siempre que hubieren trabajado a las órdenes de un mismo empleador 48 horas o seis jornadas dentro del término de diez días hábiles anteriores al feriado. Igual derecho tendrán los que hubieran trabajado la víspera hábil del día feriado y continuaran trabajando en cualquiera de los 5 días subsiguientes.
+
+## ARTICULO 6
+
+Para liquidar las remuneraciones se tomará como base el salario correspondiente a una jornada normal de trabajo. Cuando se tratare de trabajo a destajo se tomará como salario base el promedio de los percibidos en los 6 días de trabajo efectivo inmediatamente anteriores al feriado o el que corresponda al menor número de días trabajados.
+
+## ARTICULO 7
+
+Cuando dentro del período de vacaciones estuviere incluído alguno de los días señalados en la presente reglamentación, el empleador abonará el salario correspondiente a ese día aun cuando coincidiera en domingo.
+
+## ARTICULO 8
+
+En caso de accidente o enfermedad los salarios se liquidarán de conformidad con lo que establecen las Leyes respectivas.
+
+*ARTICULO 9. - El pago de los salarios correspondientes a los 5 días declarados feriados por el Decreto 10.991, se efectuará en los períodos indicados en el artículo 2 de la Ley 11.278.
+
+*ARTICULO 10. - Las personas comprendidas dentro de las disposiciones de la Ley 12.713, estarán sujetas al siguiente régimen especial: a) Tendrán derecho a percibir los salarios correspondientes a los días indicados por el Decreto, los obreros que hayan trabajado para el patrono en la quincena anterior al feriado b) El salario a abonar será igual a la cantidad que resulte de dividir por 25 la suma que arroje la adición de lo percibido por el obrero en la quincena en que esté comprendido el feriado, más lo ganado en la quincena anterior. En ningún caso el salario que deberá abonar un patrono excederá de ocho pesos moneda nacional para el obrero a domicilio, y de doce pesos moneda nacional para el tallerista c) "El salario deberá hacerse efectivo el día de pago correspondiente a la quincena subsiguiente a aquéllas en la cual se encuentra comprendido el feriado." d) Los obreros del tallerista, cualquiera sea la importancia del taller, estarán sometidos al régimen que determinan los artículos 1 al 10 de este Decreto e) Los talleristas que tengan a su cargo más de tres obreros ayudantes o aprendices y los intermediarios no gozarán de los beneficios acordados por el Decreto.
+
+## ARTICULO 11
+
+El presente Decreto será refrendado por el señor Secretario de Estado en el Departamento de Guerra.
+
+## ARTICULO 12
+
+Comuníquese, publíquese, dése al Registro Nacional y archívese.
+
+FARRELL - Peron -

@@ -1,0 +1,58 @@
+---
+title: "Ley 21015: COMERCIO EXTERIOR — LEY 20545 - MODIFICACION"
+identifier: "Ley 21015"
+infoleg_id: "67832"
+type: act
+jurisdiction: ar
+language: es
+date: 1975-08-28
+published: 1975-09-25
+boletin_oficial: "23248"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=67832"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/65000-69999/67832/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 21015: COMERCIO EXTERIOR — LEY 20545 - MODIFICACION
+
+COMERCIO EXTERIOR
+
+LEY 21.015
+
+Amplíanse las modificaciones introducidas a la Ley N° 20.545
+
+Sancionada: Agosto 28 de 1975.
+
+Promulgada de Hecho: Setiembre 16 de 1975.
+
+POR CUANTO:
+
+EL SENADO Y CAMARA DE DIPUTADOS DE LA NACION ARGENTINA REUNIDOS EN CONGRESO. ETC,.
+
+SANCIONAN CON FUERZA DE LEY:
+
+## Artículo 1°
+
+Amplíanse las modificaciones al art.5° de la ley 20.545 introducidas por ley 20.636, agregando a continuación de su texto, el siguiente:
+
+p) Bienes y materiales con destino a la enseñanza de la ciencia, la cultura, el arte y la técnica, en asociaciones y entidades civiles de bien público, con la sola presentación que los acredite como tales por la autoridad competente, siempre y cuando la industria nacional no esté en condiciones de proveerlos o substituirlos por ninguna alternativa técnica viable;
+
+q) Bienes materiales con destino a la investigación científica y tecnológica en asociaciones y entidades civiles de bien público, con la sola presentación que las acredite como tales por la autoridad competente, siempre y cuando la industria nacional no esté en condiciones de proveerlos o substituirlos por ninguna alternativa técnica viable;
+
+r) Las donaciones fehacientemente documentadas por parte de una entidad extranjera o internacional no radicada en el país, acompañando certificación del Consulado de la República Argentina del lugar de residencia del donante, previa aceptación formal del beneficiario de la donación quien deberá investir la misma calidad jurídica prescripta en los incs. p) y q) precedentes.
+
+## Artículo 2°
+
+Comuníquese al Poder Ejecutivo.
+
+Dada en la Sala de Sesiones del Congreso Argentino, en Buenos Aires, a los veintiocho días del mes de agosto del año mil novecientos setenta y cinco.
+
+| I.A. LUDER Aldo H. N. Cantoni | N.S. TORANZO Alberto L. Rocamora |
+|---|---|
+
+—Registrada bajo el N° 21.015—
+
+Aprobada por el Poder Ejecutivo de acuerdo con lo dispuesto por el Art. 70 de la Constitución Nacional.

@@ -1,0 +1,64 @@
+---
+title: "Ley 16509: TRATADOS INTERNACIONALES — CONVENIO DE AVIACION CIVIL INTERNACIONAL 1944 - APROBACION PROTOCOLO DE ENMIENDA"
+identifier: "Ley 16509"
+infoleg_id: "205391"
+type: act
+jurisdiction: ar
+language: es
+date: 1964-10-22
+published: 1964-12-11
+boletin_oficial: "20590"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=205391"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/205000-209999/205391/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 16509: TRATADOS INTERNACIONALES — CONVENIO DE AVIACION CIVIL INTERNACIONAL 1944 - APROBACION PROTOCOLO DE ENMIENDA
+
+AVIACIÓN CIVIL INTERNACIONAL
+
+LEY N° 16.509
+
+Apruébase el protocolo de enmienda al artículo 44, párrafo a) última parte del Convenio, firmado en Chicago el 7/12/1944
+
+Sancionado: octubre 22 de 1964
+
+Promulgación: diciembre 3 de 1964
+
+El Senado y Cámara de Diputados de la Nación Argentina, reunidos en Congreso, etc., sancionan con fuerza de
+
+LEY:
+
+## Artículo 1°
+
+Apruébase el protocolo de enmienda al artículo 48, párrafo a), última parte, del Convenio de Aviación Civil Internacional firmado en Chicago el 7 de diciembre de 1944, al cual la República Argentina se ha adherido por decreto 15.110/46, documento depositado el 4 de junio de 1946, ratificado por ley 13.891, sancionada el 30 de septiembre de 1949 y promulgada el 24 de noviembre del mismo año.
+
+## Artículo 2°
+
+La enmienda aprobada quedará redactada de la siguiente forma: "La asamblea podrá celebrar una reunión extraordinaria en cualquier momento, por convocatoria del consejo a petición de no menos de la quinta parte del número total de Estados contratantes dirigida al secretario general."
+
+## Artículo 3°
+
+Comuníquese al Poder Ejecutivo.
+
+Dada en la sala de sesiones del Congreso Argentino, en Buneos Aires, a veintidos días del mes de octubre del año mil novecientos sesenta y cuaro.
+
+| C. H. PERETTE César A. Rodríguez | A. MOR ROIG Eduardo T. Oliver |
+|---|---|
+
+\- Registrada bajo el N° 10.509-
+
+AVIACIÓN CIVIL INTERNACIONAL
+
+DECRETO N° 9.811
+
+Buenos Aires, 3 de diciembre 1964
+
+POR TANTO:
+
+Téngase por ley de la Nación, cúmplase, comuníquese, publíquese, dése a la Dirección General del Boletín Oficial e Imprentas y archívese.
+
+ILLIA. - Miguel A. Zavala Ortiz. - Leopoldo Suárez. - Mario Romantelli.

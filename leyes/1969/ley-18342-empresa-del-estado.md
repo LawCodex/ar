@@ -1,0 +1,57 @@
+---
+title: "Ley 18342: EMPRESA DEL ESTADO — FERROCARRILES ARGENTINOS"
+identifier: "Ley 18342"
+infoleg_id: "176206"
+type: act
+jurisdiction: ar
+language: es
+date: 1969-09-08
+published: 1969-09-15
+boletin_oficial: "21766"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=176206"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/175000-179999/176206/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 18342: EMPRESA DEL ESTADO — FERROCARRILES ARGENTINOS
+
+EMPRESAS DEL ESTADO
+
+FERROCARRILES ARGENTINOS
+
+LEY N° 18.342
+
+Todas las penas de arresto Previstas en la Ley y en el Reglamento General de Ferrocarriles, serán aplicadas por la autoridad policial local.
+
+Buenos Aires, 8 de setiembre de 1969.
+
+En uso de las atribuciones conferidas por el artículo 5° del Estatuto de la Revolución Argentina,
+
+El Presidente de la Nación Argentina
+
+Sanciona y Promulga con fuerza de Ley:
+
+## Artículo 1º
+
+Todas las penas de arresto previstas en la Ley y en el Reglamento General de Ferrocarriles serán aplicadas por la autoridad policial local.
+
+## Artículo 2º
+
+El arresto superior a Tres (3) días podrá apelarse ante la autoridad judicial competente.
+
+## Artículo 3º
+
+El arrestado por la falta de pago de la multa quedará de inmediato en libertad si satisficiere la misma.
+
+## Artículo 4º
+
+El Poder Ejecutivo Nacional gestionará ante los Gobiernos Provinciales la sanción de normas para la mejor aplicación de esta ley.
+
+## Artículo 5º
+
+Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese.
+
+Onganía. —José M.Dagnino Pastore. — Francisco A. Imaz.

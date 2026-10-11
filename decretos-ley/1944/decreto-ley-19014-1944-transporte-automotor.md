@@ -1,0 +1,53 @@
+---
+title: "Decreto-Ley 19014/1944: TRANSPORTE AUTOMOTOR — CONCESION DE SERVICIO PUBLICO"
+identifier: "Decreto-Ley 19014/1944"
+infoleg_id: "294974"
+type: decree-law
+jurisdiction: ar
+language: es
+date: 1944-07-19
+published: 1944-07-28
+boletin_oficial: "14957"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=294974"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/294974/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Decreto-Ley 19014/1944: TRANSPORTE AUTOMOTOR — CONCESION DE SERVICIO PUBLICO
+
+Decreto Ley 19.014/44
+
+REQUISITOS PARA SOLICITUDES DE EXPLOTACION DE SERVICIOS PUBLICOS DE TRANSPORTE AUTOMOTOR POR CAMINOS
+
+BUENOS AIRES, 19 de julio de 1944
+
+## ARTICULO 1
+
+Toda solicitud de permiso para la explotación de servicios regidos por la ley número 12.346 deberá contener una declaración jurada que exprese, en forma clara y precisa: a)-El nombre y domicilio del propietario de los bienes que integran el capital de la empresa b)-Las obligaciones que gravan dicho capital, con expresión de su naturaleza, causa, monto y nombre del acreedor c)-Los servicios de transporte que el solicitante explota en jurisdicción nacional, provincial o municipal, con especificación de su participación y demás datos exigidos en los incisos anteriores.
+
+Igual declaración deberá formular cada uno de los miembros de la sociedad que solicite permiso con excepción de los suscriptores de acciones de sociedades anónimas, cuando el valor nominal de la totalidad de las acciones suscriptas sea inferior a cinco mil pesos moneda nacional.
+
+## ARTICULO 2
+
+Toda modificación de los datos contenidos en la declaración jurada deberá comunicarse a la Comisión Nacional de Coordinación de Transportes dentro de los quince días de producida, con la misma solemnidad legal.
+
+## ARTICULO 3
+
+No podrán ser permisionarias de servicios públicos de transporte automotor las sociedades por acciones que no sean nominativas.
+
+## ARTICULO 4
+
+Los vehículos afectados al servicio público deben pertenecer en propiedad al empresario y estar inscriptos a su nombre, excepto los arrendados con la previa aprobación de la Comisión.
+
+## ARTICULO 5
+
+Toda falsa declaración o el incumplimiento de lo dispuesto en el artículo 2 será causa suficiente para poder disponer la caducidad del permiso, sin más trámite.
+
+## ARTICULO 6
+
+Comuníquese, etc.
+
+FARRELL - Pistarini - Ameghino - Perón - Teisaire - Peluffo.

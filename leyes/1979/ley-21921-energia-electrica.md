@@ -1,0 +1,53 @@
+---
+title: "Ley 21921: ENERGIA ELECTRICA — LEY N° 20.50 - MODIFICASE"
+identifier: "Ley 21921"
+infoleg_id: "226341"
+type: act
+jurisdiction: ar
+language: es
+date: 1979-01-08
+published: 1979-01-11
+boletin_oficial: "24080"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=226341"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/225000-229999/226341/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 21921: ENERGIA ELECTRICA — LEY N° 20.50 - MODIFICASE
+
+ENERGIA ELECTRICA
+
+Ley N° 21.921
+
+Modifícase la Ley N° 20.050
+
+Buenos Aires 8 de enero de1979.
+
+En uso de las atribuciones conferidas por el Artículo 5° del Estatuto para el Proceso de Reorganización Nacional,
+
+EL PRESIDENTE DE LA NACION ARGENTINA SANCIONA Y PROMULGA CON FUERZA DE
+
+LEY:
+
+## ARTICULO 1°
+
+Modifícase la Ley número 20.050 en la siguiente forma:
+
+1 - Sustitúyese el Artículo 2° por el siguiente:
+
+"ARTICULO 2° - Los estudios y proyectos de las obras a construir e instalaciones complementarias, con sus respectivos presupuestos, planes económicos y de financiación, cronograma de ejecución y puesta en funcionamiento y las restantes condiciones y cláusulas establecidas por el Artículo 15 y concordantes de la Ley N° 15.336, como asimismo las bases contractuales de la concesión deberán ser propuestas por Hidronor S.A., Hidroeléctrica Norpatagónica Sociedad Anónima, al Poder Ejecutivo por intermedio de la Secretaría de Estado de Energía. El Poder Ejecutivo prestará la aprobación que corresponda, con las modificaciones o reformas que estime necesario introducir quedando facultado para suscribir el contrato de concesión respectivo y asimismo para autorizar a Hidronor S.A., Hidroeléctrica Norpatagónica Sociedad Anónima, a introducir en los proyectos aprobados a aquellas modificaciones o adaptaciones que, sin alterar sus características fundamentales, resulten convenientes para la ejecución del Complejo".
+
+2\. Sustitúyese el Artículo 3° por el siguiente:
+
+**ARTICULO 3°.** En los programas que Hidronor S.A. Hidroeléctrica Norpatagónica Sociedad Anónima, eleve al Poder Ejecutivo, el plan de acción para la ejecución del Complejo Hidroeléctrico Alicopá deberá prever la entrada en servicio de las turbinas de cada aprovechamiento de conformidad con los requerimientos de demanda de potencia y energía del respectivo plan nacional de equipamiento energético".
+
+## ARTICULO 2°
+
+Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese.
+
+VIDELA
+
+José A. Martínez de Hoz

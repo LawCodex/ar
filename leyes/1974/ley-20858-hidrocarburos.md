@@ -1,0 +1,71 @@
+---
+title: "Ley 20858: HIDROCARBUROS — PROVINCIAS - CHUBUT- PROVISION DE GAS EN DETERMINADAS LOCALIDADES"
+identifier: "Ley 20858"
+infoleg_id: "223131"
+type: act
+jurisdiction: ar
+language: es
+date: 1974-08-30
+published: 1974-10-30
+boletin_oficial: "23026"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=223131"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/220000-224999/223131/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 20858: HIDROCARBUROS — PROVINCIAS - CHUBUT- PROVISION DE GAS EN DETERMINADAS LOCALIDADES
+
+PROVINCIAS
+
+Ley N° 20.858
+
+Chubut.
+
+Provisión de gas en determinadas localidades.
+
+Sancionada: Setiembre 30 de 1974.
+
+Promulgada: De hecho.
+
+POR CUANTO:
+
+EL SENADO Y CÁMARA DE DIPUTADOS DE LA NACIÓN ARGENTINA REUNIDOS EN CONGRESO, ETC., SANCIONAN CON FUERZA DE
+
+LEY:
+
+## ARTICULO 1°
+
+La Empresa Gas del Estado establecerá instalaciones para el almacenamiento y envasado de gas licuado en la ciudad de Esquel, provincia de Chubut, de acuerdo a las necesidades y características que determinan su importancia, su zona adyacente y el constante progreso demográfico de la misma.
+
+## ARTICULO 2°
+
+La provisión de servicio de cilindros de 45 kg. de gas licuado comprende, además de Esquel, las localidades de Trevelín, El Bolsón y El Maitén.
+
+## ARTICULO 3°
+
+La Empresa Gas del Estado convendrá con Ferrocarrriles Argentinos el transporte del gas licuado a granel hasta el lugar de almacenamiento y envasado citado en el artículo 1°.
+
+## ARTICULO 4°
+
+Los terrenos necesarios para las instalaciones de referencia serán tramitados ante el Gobierno de la Provincia del Chubut.
+
+## ARTICULO 5°
+
+Los fondos que demande el cumplimiento de esta ley serán tomados de Rentas Generales, con imputación a la misma.
+
+## ARTICULO 6°
+
+Comuníquese al Poder Ejecutivo.
+
+Dada en la Sala del Congreso Argentino, en Buenos Aires, a los treinta días del mes de setiembre del año mil novecientos setenta y cuatro.
+
+J. A. ALLENDE R. A. LASTIRI
+
+Irma Sosa de Cesaretti Ludovico Lavia
+
+\- Registrada bajo el N° 20.858 -
+
+Aprobada por el Poder Ejecutivo, de acuerdo con lo dispuesto por el Art. 70 de la Constitución Nacional.
