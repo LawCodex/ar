@@ -1,0 +1,75 @@
+---
+title: "Decreto de Necesidad y Urgencia 842/2022: FERIADO NACIONAL — DECLARACION"
+identifier: "Decreto de Necesidad y Urgencia 842/2022"
+infoleg_id: "376857"
+type: decree
+jurisdiction: ar
+language: es
+date: 2022-12-19
+published: 2022-12-20
+boletin_oficial: "35071"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-necesidad-urgencia-842-nacional-decreto-necesidad-urgencia-declara-feriado-nacional-20-diciembre-2022-motivo-festejos-populares-seleccion-argentina-futbol-se-consagro-campeones-mundiales-copa-mundial-fifa-catar-2022-dn20220000842-2022-12-19"
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=376857"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/375000-379999/376857/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Decreto de Necesidad y Urgencia 842/2022: FERIADO NACIONAL — DECLARACION
+
+FERIADO NACIONAL
+
+Decreto 842/2022
+
+DECNU-2022-842-APN-PTE - Campeones Mundiales de Fútbol en la “Copa Mundial de la FIFA CATAR 2022”.
+
+Ciudad de Buenos Aires, 19/12/2022
+
+VISTO Y CONSIDERANDO:
+
+Que el día 18 de diciembre de 2022 la SELECCIÓN MASCULINA ARGENTINA DE FÚTBOL se consagró CAMPEONA DEL MUNDO en la “Copa Mundial de la FIFA CATAR 2022”, obteniendo el tercer título mundial en su historia.
+
+Que el plantel de la selección argentina, liderado por su capitán Lionel Andrés MESSI y dirigido por su técnico Lionel Sebastián SCALONI, tras un arduo camino, defendió los colores celeste y blanco de nuestra bandera, ante una multitud de hinchas y simpatizantes que los alentaron desde todos los rincones de la patria, así como desde los diferentes estadios donde se disputaron los partidos.
+
+Que la obtención del título en la Copa Mundial de Fútbol 2022 es un merecido premio para todos los integrantes de la Selección Argentina y su cuerpo técnico por su espíritu de lucha, esfuerzo, unión, perseverancia, trabajo en equipo y compromiso, quienes tuvieron el temple necesario para sobreponerse a las dificultades sin bajar jamás los brazos, y se constituyeron como un ejemplo incuestionable para todo el pueblo argentino, demostrando que con sólidos ideales, siempre juntos y unidos, se pueden alcanzar los objetivos propuestos.
+
+Que en este contexto, y toda vez que la SELECCIÓN ARGENTINA regresará al país el día martes 20 de diciembre de 2022, y con el fin de que el pueblo argentino pueda festejar en paz y en unión, compartiendo la alegría con nuestros jugadores y su cuerpo técnico, resulta propicio declararlo Feriado Nacional.
+
+Que, no obstante lo expuesto, y atento la proximidad del cierre del ejercicio 2022 resulta necesario que el personal de las instituciones bancarias y entidades financieras y de la ADMINISTRACIÓN FEDERAL DE INGRESOS PÚBLICOS (AFIP) preste servicios hasta las 12:00 horas del día 20 de diciembre.
+
+Que la Ley Nº 26.122 regula el trámite y los alcances de la intervención del HONORABLE CONGRESO DE LA NACIÓN respecto de los Decretos de Necesidad y Urgencia dictados por el PODER EJECUTIVO NACIONAL, en virtud de lo dispuesto por el artículo 99, inciso 3 de la CONSTITUCIÓN NACIONAL.
+
+Que la citada ley determina que la COMISIÓN BICAMERAL PERMANENTE tiene competencia para pronunciarse respecto de la validez o invalidez de los Decretos de Necesidad y Urgencia, así como para elevar el dictamen al plenario de cada Cámara para su expreso tratamiento, en el plazo de DIEZ (10) días hábiles.
+
+Que el artículo 22 de la Ley Nº 26.122 dispone que las Cámaras se pronuncien mediante sendas resoluciones y que el rechazo o aprobación de los decretos deberá ser expreso conforme lo establecido en el artículo 82 de la CONSTITUCIÓN NACIONAL.
+
+Que la presente medida se dicta en uso de las atribuciones conferidas por el artículo 99, incisos 1 y 3 de la CONSTITUCIÓN NACIONAL.
+
+Por ello,
+
+EL PRESIDENTE DE LA NACIÓN ARGENTINA EN ACUERDO GENERAL DE MINISTROS
+
+DECRETA:
+
+## ARTÍCULO 1º
+
+Declárase feriado nacional el día 20 de diciembre de 2022 con el fin de que el pueblo argentino pueda festejar y compartir con la SELECCIÓN MASCULINA ARGENTINA DE FÚTBOL el título de Campeones Mundiales de Fútbol obtenido en la “Copa Mundial de la FIFA CATAR 2022”.
+
+## ARTÍCULO 2º
+
+Instrúyese a los distintos organismos para que implementen las medidas necesarias a efectos de mantener la continuidad de los servicios esenciales.
+
+## ARTÍCULO 3º
+
+Exceptúase de lo dispuesto en el artículo 1° del presente al personal de las instituciones bancarias y entidades financieras y de la ADMINISTRACIÓN FEDERAL DE INGRESOS PÚBLICOS (AFIP), el que deberá prestar servicios hasta las 12:00 horas.
+
+## ARTÍCULO 4°
+
+Comuníquese, publíquese, dese a la DIRECCIÓN NACIONAL DEL REGISTRO OFICIAL y archívese.
+
+FERNÁNDEZ - Juan Luis Manzur - Eduardo Enrique de Pedro - Santiago Andrés Cafiero - Jorge Enrique Taiana - Sergio Tomás Massa - Diego Alberto Giuliano - Gabriel Nicolás Katopodis - Carla Vizzotti - Victoria Tolosa Paz - Ximena Ayelén Mazzina Guiñazú - Martín Ignacio Soria - Aníbal Domingo Fernández - Tristán Bauer - Daniel Fernando Filmus - Jaime Perczyk - Raquel Cecilia Kismer - Juan Cabandie - Matías Lammens - Santiago Alejandro Maggiotti
+
+e. 20/12/2022 N° 103769/22 v. 20/12/2022

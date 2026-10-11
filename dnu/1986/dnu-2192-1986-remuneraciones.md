@@ -9,7 +9,9 @@ date: 1986-11-28
 published: 1986-12-02
 boletin_oficial: "26041"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-necesidad-urgencia-2192-nacional-decreto-necesidad-urgencia-sobre-remuneraciones-administracion-publica-nacional-dn19860002192-1986-11-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=47012"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/45000-49999/47012/norma.htm"

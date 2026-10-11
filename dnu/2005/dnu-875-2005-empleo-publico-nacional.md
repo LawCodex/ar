@@ -1,0 +1,223 @@
+---
+title: "Decreto de Necesidad y Urgencia 875/2005: EMPLEO PUBLICO NACIONAL — HOMOLOGACION DE ACTA ACUERDO DEL 7/7/2005 - AUMENTO A ESTATALES"
+identifier: "Decreto de Necesidad y Urgencia 875/2005"
+infoleg_id: "108031"
+type: decree
+jurisdiction: ar
+language: es
+date: 2005-07-20
+published: 2005-07-21
+boletin_oficial: "30700"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-necesidad-urgencia-875-nacional-decreto-necesidad-urgencia-sobre-homologacion-acta-acuerdo-comision-negociadora-nivel-sectorial-correspondiente-al-sinapa-dn20050000875-2005-07-20"
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=108031"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/105000-109999/108031/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Decreto de Necesidad y Urgencia 875/2005: EMPLEO PUBLICO NACIONAL — HOMOLOGACION DE ACTA ACUERDO DEL 7/7/2005 - AUMENTO A ESTATALES
+
+EMPLEO PUBLICO NACIONAL
+
+Decreto 875/2005
+
+Homológase el Acta Acuerdo y Anexos de la Comisión Negociadora del Nivel Sectorial correspondiente al Sistema Nacional de la Profesión Administrativa (SINAPA) de fecha 7 de julio de 2005. Vigencia.
+
+Bs. As., 20/7/2005
+
+VISTO el Expediente Nº 1.124.479/2005 del Registro del MINISTERIO DE TRABAJO, EMPLEO Y SEGURIDAD SOCIAL, la Ley Complementaria Permanente de Presupuesto Nº 11.672 (texto ordenado por Decreto Nº 689/99) y sus modificatorias, la Ley Nº 24.185, la Ley Marco de Regulación de Empleo Público Nacional Nº 25.164, el Decreto Nº 447 del 17 de marzo de 1993, el Convenio Colectivo General de Trabajo para la Administración Pública Nacional homologado por el Decreto Nº 66 del 29 de enero de 1999, el Acta Acuerdo del 7 de julio de 2005 de la Comisión Negociadora Sectorial correspondiente al Sistema Nacional de la Profesión Administrativa aprobado por el Decreto Nº 993 del 27 de mayo de 1991 (T.O. 1995) y sus modificatorios, y
+
+CONSIDERANDO:
+
+Que por imperio de la mencionada Ley Nº 24.185 y sus modificatorias y complementarias, se estableció el régimen aplicable a las negociaciones colectivas entre la Administración Pública Nacional y sus empleados.
+
+Que el artículo 26 del Anexo a la Ley Nº 25.164 determinó que el Sistema Nacional de la Profesión Administrativa (S.I.N.A.P.A.) vigente podrá ser revisado, adecuado y modificado, de ser procedente, en el ámbito de la negociación colectiva con excepción de las materias reservadas a la potestad reglamentaria del Estado por la citada Ley Nº 24.185.
+
+Que, en cumplimiento del mecanismo establecido por la Ley Nº 24.185 y el Anexo II del Convenio Colectivo General de Trabajo para la Administración Pública Nacional homologado por el Decreto Nº 66/99, como asimismo de las prescripciones del precitado artículo 26 del Anexo a la Ley Marco de Regulación del Empleo Público Nacional Nº 25.164, se ha constituido la Comisión Negociadora Sectorial correspondiente al Sistema Nacional de la Profesión Administrativa aprobado por el Decreto Nº 993 del 27 de mayo de 1991 (T.O. 1995) y sus modificatorios.
+
+Que, las partes, en el marco previsto por el artículo 6º de la Ley Nº 24.185, reglamentado por el artículo 4º del Decreto Nº 447/93 y resoluciones complementarias, arribaron a un acuerdo de nivel sectorial para la modificación del régimen retributivo del personal comprendido en dicho Sistema Nacional, concretado a través del Acta Acuerdo de fecha 7 de julio de 2005 de la referida Comisión Negociadora Sectorial.
+
+Que el mencionado acuerdo cumple con los requisitos del artículo 11 de la Ley Nº 24.185.
+
+Que se han cumplimentado las intervenciones prescriptas por los artículos 67, segundo párrafo y 69, inciso 2, del Convenio Colectivo de Trabajo General para la Administración Pública Nacional homologado por el Decreto Nº 66/99.
+
+Que asimismo ha emitido el correspondiente dictamen la Comisión Técnica Asesora de Política Salarial del Sector Público, señalando que, en atención a las prescripciones del artículo 12 de la Ley Complementaria Permanente de Presupuesto Nº 11.672 (texto ordenado por Decreto Nº 689/99) y sus modificatorias y a la cláusula décima del Acuerdo que dispone su vigencia, corresponde que su instrumentación por parte del PODER EJECUTIVO NACIONAL se formalice en el marco del artículo 99, inciso 3, de la CONSTITUCION NACIONAL.
+
+Que el MINISTERIO DE TRABAJO, EMPLEO Y SEGURIDAD SOCIAL ha tomado la intervención prevista en los artículos 7º, 10 y concordantes de la Ley Nº 24.185.
+
+Que las partes solicitaron al PODER EJECUTIVO NACIONAL la adopción de las medidas conducentes para efectivizar la vigencia de las modificaciones acordadas, a partir del 1º de julio de 2005.
+
+Que el artículo 3º del Código Civil de la REPUBLICA ARGENTINA dispone que las leyes no tienen efecto retroactivo, sean o no de orden público, salvo disposición en contrario, por lo que resulta necesario el dictado de una norma que expresamente consagre la vigencia del Acta Acuerdo que se homologa por el presente, desde la fecha allí consignada.
+
+Que por similares motivos cabe hacer una excepción a lo dispuesto por el artículo 12 de la Ley Complementaria Permanente de Presupuesto Nº 11.672 (texto ordenado por Decreto Nº 689/99) y sus modificatorias, en este caso particular.
+
+Que, con relación a la vigencia temporal, el acuerdo alcanzado rige en todas sus cláusulas a partir del 1º de julio de 2005.
+
+Que la situación en la que se dicta esta medida configura una circunstancia excepcional que hace imposible seguir los trámites ordinarios previstos por la CONSTITUCION NACIONAL para la sanción de las leyes.
+
+Que la Dirección General de Asuntos Jurídicos del MINISTERIO DE TRABAJO, EMPLEO Y SEGURIDAD SOCIAL ha tomado la intervención que le compete.
+
+Que el presente se dicta en ejercicio de las atribuciones emergentes del artículo 99, inciso 3, de la CONSTITUCION NACIONAL.
+
+Por ello,
+
+EL PRESIDENTE DE LA NACION ARGENTINA EN ACUERDO GENERAL DE MINISTROS
+
+DECRETA:
+
+## Artículo 1º
+
+Homológase el Acta Acuerdo y Anexos de la Comisión Negociadora del Nivel Sectorial correspondiente al Sistema Nacional de la Profesión Administrativa - SINAPA (Decreto Nº 993/ 91 T.O. 1995 y sus modificatorios) - de fecha 7 de julio de 2005, que se incorporan como Anexos I, II, III y IV del presente Decreto.
+
+## Art. 2º
+
+La vigencia de todas las cláusulas del Acta Acuerdo homologada por el presente será a partir del 1º de julio de 2005.
+
+## Art. 3º
+
+Los Adicionales por Mayor Capacitación extendido al Nivel D y por Ejercicio Profesional, previstos en el Acta Acuerdo que se homologa por el artículo 1º, se devengarán a partir del 1º de julio de 2005 y serán abonados una vez cumplimentados los recaudos previstos por las normas en vigencia.
+
+## Art. 4º
+
+A partir del 1º de julio de 2005 cesa la aplicación de los Decretos Nros. 682 del 31 de mayo de 2004 y 1993 del 29 de diciembre de 2004, en el ámbito del Sistema Nacional de la Profesión Administrativa (S.I.N.A.P.A.), aprobado por Decreto Nº 993/91 (T.O. 1995) y modificatorios.
+
+## Art. 5º
+
+Derógase a partir del 1º de julio de 2005, el artículo 15 del Decreto Nº 769 del 12 de mayo de 1994.
+
+## Art. 6º
+
+Dése cuenta al HONORABLE CONGRESO DE LA NACION.
+
+## Art. 7º
+
+Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese. — KIRCHNER. — Alberto A. Fernández. — Alicia M. Kirchner. — Aníbal D. Fernández. — Carlos A. Tomada. — José J. B. Pampuro. — Horacio D. Rosatti. — Ginés M. González García. — Roberto Lavagna. — Daniel F. Filmus. — Julio M. De Vido. — Rafael A. Bielsa.
+
+## ANEXO I al Decreto Nº 875
+
+En la ciudad de Buenos Aires, a los siete días del mes de julio de 2005, siendo las 15:00 hs. en el MINISTERIO DE TRABAJO, EMPLEO Y SEGURIDAD SOCIAL, ante el Dr. Guillermo ALONSO NAVONE, en calidad de Subsecretario de Relaciones Laborales y el Señor Director de Dictámenes y Contenciosos, Dr. José Elías Miguel VERA, en su carácter de Presidente de la Comisión Paritaria del Decreto 66/99 según Resolución M.T.S.S. Nº 233/04 —Sectorial SINAPA—, asistido por el Dr. Juan Pablo MUGNOLO y la Secretaria de Conciliación, Lic. Lucía FERRADAS; comparecen en representación del MINISTERIO DE ECONOMIA, los Sres. Raúl RIGO, en calidad de Subsecretario de Presupuesto, Carlos SANTAMARIA, Jorge CARUSO y Eduardo SAMPAYO; en representación de la JEFATURA DE GABINETE DE MINISTROS, el Sr. Julio VITOBELLO, en calidad de Subsecretario de Coordinación y Evaluación Presupuestaria, Norberto PEROTTI, conjuntamente con los Sres., y Sras. Eduardo SALAS, Inés POZZI, Amalia BORTMAN y Javier PUERTOLAS, por una parte, y, por la otra, en representación de la ASOCIACION TRABAJADORES DEL ESTADO, los Sres. y Sras. Eduardo DE GENNARO, Rubén MOSQUERA, Matías CREMONTE y Alejandra Beatriz GIMENEZ; en representación de la UNION PERSONAL CIVIL DE LA NACION, los Sres. Felipe CARRILLO, Omar AUTON y Hugo SPAIRANI, quienes asisten a la presente audiencia.
+
+Cedida la palabra al Estado Empleador éste formula la siguiente propuesta detallada en las cláusulas subsiguientes:
+
+PRIMERA: Aprobar la escala de unidades retributivas por Nivel y Grado que regirá para el personal comprendido en el Sistema Nacional de la Profesión Administrativa, Decreto Nº 993/91, normativa complementaria y modificatoria, y que como Anexo I forma parte de la presente.
+
+SEGUNDA: Convertir los montos que percibe el personal beneficiario de las sumas no remunerativas y no bonificables oportunamente otorgadas por los Decretos Nº 682/04 y 1993/04, en una Suma Fija Remunerativa No Bonificable consistente en la cantidad de Unidades Retributivas que para cada nivel y grado se detalla en el Anexo II de la presente Acta.
+
+La Suma Fija Remunerativa producto de la conversión mencionada también comprende el reconocimiento por los aportes que deberá afrontar el personal como consecuencia de la medida que se adopta.
+
+A partir de la fecha de entrada en vigencia del presente acuerdo, y como consecuencia de lo dispuesto en el mismo deja de tener efecto, para los trabajadores comprendidos en el ámbito de aplicación del SINAPA, los Decretos Nº 682/04 y 1993/04.
+
+TERCERA: Las partes expresan su voluntad de analizar la posibilidad de hacer bonificable la suma Fija Remunerativa acordada en la cláusula segunda del presente acuerdo y cuyos montos constan en el Anexo II del mismo. Asimismo las partes analizarán la posibilidad de convertir en remunerativo el Suplemento por Función Ejecutiva, manteniendo todas las características y condiciones reguladas en el Decreto Nº 993/91, complementarias y modificatorias, y en particular con relación a la asignación, mantenimiento y extinción del derecho a su percepción y al ejercicio de la función.
+
+CUARTA: Extender el Adicional por Mayor Capacitación regulado en el artículo 69 del Decreto Nº 993/91 (Sistema Nacional de la Profesión Administrativa), al nivel D de dicho régimen, articulando los requisitos mínimos de acceso y las funciones asignadas de manera concordante.
+
+QUINTA: Se crea el Adicional por Ejercicio Profesional que será percibido por el personal comprendido en el Agrupamiento General del SINAPA Decreto Nº 993/91 que revista en los Niveles B y A siempre que desarrolle tareas estrictamente profesionales que requieran acreditación de título Universitario o terciario, de carreras cuya duración no sea inferior a tres (3) años, concordantes con las mismas.
+
+Dicho adicional, que es incompatible con la percepción de los Suplementos por Función Ejecutiva y por Función Específica, consistirá en el 20% de la Asignación Básica del Nivel.
+
+SEXTA: Establecer el valor de las Funciones Ejecutivas, reglamentadas por los Decretos Nº 993/ 91, 994/91; 2129/91; 1512/92; 769/94, con el alcance que consta en el Anexo III:
+
+SEPTIMA: Las partes acuerdan considerar la modificación del adicional por función específica para el agrupamiento científico técnico previa opinión de la Secretaría de Ciencia y Técnica.
+
+OCTAVA: El Estado empleador se compromete a modificar el artículo 3 de Decreto 1993/04 llevando a $ 1200 el monto de la retribución bruta, mensual, normal, habitual y permanente hasta la cual los agentes están habilitados para realizar servicios extraordinarios, con excepción de los servicios requeridos por terceros.
+
+NOVENA: Hasta tanto se acuerde el Convenio Colectivo Sectorial para el personal del SINAPA, y en orden a lo dispuesto por el artículo 143 del Convenio Colectivo General para la Administración Pública Nacional (Decreto Nº 66/99), regirá su correspondiente régimen de carrera aprobado por el Decreto Nº 993/91, normativa complementaria y modificatoria, sin perjuicio de los mejores derechos que expresa y taxativamente se acuerdan en la presente acta.
+
+DECIMA: Lo acordado aquí tendrá vigencia a partir del 1º de julio de 2005.
+
+Cedida la palabra a las entidades gremiales MANIFIESTAN Que prestan conformidad a la propuesta formulada por el Estado Empleador.
+
+Se firma UN (1) solo ejemplar. Con lo que finaliza el acto siendo las 16.50 hs., firmando los presentes al pie, en señal de conformidad ante mí, que CERTIFICO.
+
+## ANEXO II al Decreto Nº 875
+
+## ANEXO I — [imagen: https://servicios.infoleg.gob.ar/infolegInternet/anexos/105000-109999/108031/dto875-21-7-2005.jpg]
+
+## ANEXO II — SUMA FIJA REMUNERATIVA NO BONIFICABLE
+
+(Cláusula 2º, Acta 07/07/05)
+
+<table>
+<tr><td colspan="2"></td></tr>
+<tr><td colspan="2">UNIDADES RETRIBUTIVAS</td></tr>
+<tr><td>F0 F1 F2 F3 F4 F5 F6 F7 F8 F9 F10 E0 E1 E2 E3 E4 E5 E6 E7 E8 E9 E10 D0 D1 D2 D3 D4 D5 D6 D7 D8 D9 D10 C0 C1 C2 C3</td><td>108 108 108 108 108 108 108 108 108 108 108 108 108 108 108 108 108 108 108 108 108 105 108 107 103 92 70 53 43 40 36 31 5 52 43 43 20</td></tr>
+</table>
+
+## ANEXO IV al Decreto Nº 875
+
+## ANEXO III — FUNCIONES EJECUTIVAS
+
+(Cláusula 6º, Acta 07/07/2005)
+
+<table>
+<tr><td colspan="2"></td></tr>
+<tr><td colspan="2">UNIDADES RETRIBUTIVAS</td></tr>
+<tr><td>I II III IV V</td><td>2.625 2.357 2.089 1.821 1.554</td></tr>
+</table>
+
+Senado de la Nación
+
+CONGRESO DE LA NACION
+
+Resolución
+
+Declárase la validez de Decretos del Poder Ejecutivo Nacional.
+
+Bs. As., 23/5/2007
+
+PE-131/07
+
+Al señor Presidente de la Nación.
+
+Tengo el honor de dirigirme al señor Presidente, a fin de llevar a su conocimiento que el Honorable Senado, en la fecha, ha sancionado el siguiente proyecto de resolución:
+
+"EL SENADO
+
+DE LA NACION,
+
+RESUELVE:
+
+## Artículo 1º
+
+Declarar la validez de los Decretos Nº 750 de fecha 30 de junio de 2005, Nº 875 de fecha 20 de julio de 2005, Nº 1073 de fecha 1º de setiembre de 2005, Nº 1104 de fecha 8 de setiembre de 2005, Nº 1107 de fecha 8 de setiembre de 2005, Nº 1246 de fecha 4 de octubre de 2005, Nº 1255 de fecha 6 de octubre de 2005, Nº 1275 de fecha 12 de octubre de 2005, Nº 1295 de fecha 21 de octubre de 2005, Nº 2005 de fecha 29 de diciembre de 2004, Nº 1317 de fecha 26 de octubre de 2005, Nº 1453 de fecha 25 de noviembre de 2005 y Nº 1745 de fecha 29 de diciembre de 2005."
+
+## Art. 2º
+
+Comuníquese al Poder Ejecutivo Nacional." — JOSE J. B. PAMPURO. — Juan H. Estrada.
+
+Saludo a usted muy atentamente.
+
+CONGRESO DE LA NACION
+
+Resolución
+
+Declárase la validez de Decretos del Poder Ejecutivo Nacional.
+
+7225-D-06
+
+OD 1881
+
+Bs. As., 6/6/2007
+
+Al señor Presidente de la Nación.
+
+Tengo el honor de dirigirme al señor Presidente, comunicándole que esta H. Cámara ha aprobado, en sesión de la fecha, la siguiente resolución.
+
+LA CAMARA DE DIPUTADOS DE LA NACION
+
+RESUELVE:
+
+## Artículo 1º
+
+Declarar la validez de los decretos 750 de fecha 30 de junio de 2005; 875 de fecha 20 de julio de 2005; 1073 de fecha 1º de septiembre de 2005; 1104 de fecha 8 de septiembre de 2005; 1107 de fecha 8 de septiembre de 2005; 1246 de fecha 4 de octubre de 2005; 1255 de fecha 6 de octubre de 2005; 1275 de fecha 12 de octubre de 2005; 1295 de fecha 21 de octubre de 2005; 2005 de fecha 29 de diciembre de 2004; 1317 de fecha 26 de octubre de 2005; 1453 de fecha 25 de noviembre de 2005 y 1745 de fecha 29 de diciembre de 2005.
+
+## Art. 2º
+
+_Comuníquese al Poder Ejecutivo.
+
+Dios guarde al señor Presidente.
+
+ALBERTO BALESTRINI. — Enrique Hidalgo.

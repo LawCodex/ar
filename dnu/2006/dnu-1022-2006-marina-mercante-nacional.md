@@ -1,0 +1,93 @@
+---
+title: "Decreto de Necesidad y Urgencia 1022/2006: MARINA MERCANTE NACIONAL — DECRETO 1010/2004 - SU MODIFICACION"
+identifier: "Decreto de Necesidad y Urgencia 1022/2006"
+infoleg_id: "118859"
+type: decree
+jurisdiction: ar
+language: es
+date: 2006-08-08
+published: 2006-08-15
+boletin_oficial: "30969"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/decreto-necesidad-urgencia-1022-nacional-decreto-necesidad-urgencia-sobre-marina-mercante-nacional-dn20060001022-2006-08-08"
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=118859"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/115000-119999/118859/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Decreto de Necesidad y Urgencia 1022/2006: MARINA MERCANTE NACIONAL — DECRETO 1010/2004 - SU MODIFICACION
+
+MARINA MERCANTE NACIONAL
+
+Decreto 1022/2006
+
+Sustitúyese un artículo del Decreto Nº 1010/2004.
+
+Bs. As., 8/8/2006
+
+VISTO el Expediente Nº S01:0202927/2006 del Registro del MINISTERIO DE PLANIFICACION FEDERAL, INVERSION PUBLICA Y SERVICIOS, y
+
+CONSIDERANDO:
+
+Que el Artículo 21 del Decreto Nº 1010 de fecha 06 de agosto de 2004, establece un plazo de DOS (2) años contados a partir de la fecha de su publicación en el Boletín Oficial, para acogerse al régimen instituido por la citada norma.
+
+Que el mencionado Decreto establece que el plazo citado, caducará de pleno derecho si antes de esa fecha entrara en vigencia un nuevo régimen legal para la Marina Mercante Nacional.
+
+Que la transitoriedad de la vigencia del mismo está fundada, en la futura sanción de un cuerpo legal único que permita continuar el desarrollo de la Marina Mercante Nacional, atendiendo los intereses de la Industria Naval Argentina, por ser ambas pilares fundamentales de los Intereses Marítimos Argentinos.
+
+Que aún persisten las razones por las cuales se dictó el mencionado régimen transitorio lo cual amerita la continuidad del mismo, hasta tanto se incorpore un régimen definitivo mediante la sanción de una ley del HONORABLE CONGRESO DE LA NACION.
+
+Que por las razones expuestas resulta necesaria la sustitución del Artículo 21 del Decreto Nº 1010/2004.
+
+Que la situación en la que se dicta la presente medida configura la circunstancia excepcional que hace imposible seguir los trámites ordinarios previstos por la CONSTITUCION NACIONAL para la sanción de las leyes.
+
+Que la DIRECCION GENERAL DE ASUNTOS JURIDICOS del MINISTERIO DE ECONOMIA Y PRODUCCION ha tomado la intervención que le compete, en virtud de lo dispuesto por el Artículo 9º del Decreto Nº 1142 del 26 de noviembre de 2003.
+
+Que la presente medida se dicta en ejercicio de las atribuciones que emanan del Artículo 99 inciso 3 de la CONSTITUCION NACIONAL.
+
+Por ello,
+
+EL PRESIDENTE DE LA NACION ARGENTINA EN ACUERDO GENERAL DE MINISTROS
+
+DECRETA:
+
+## Artículo 1º
+
+Sustitúyese el Artículo 21 del Decreto Nº 1010 de fecha 06 de agosto de 2004, por el siguiente:
+
+"Artículo 21.- Establécese que el régimen aludido en el Artículo 2º y siguientes del presente, caducará de pleno derecho en la fecha en que entre en vigencia un nuevo régimen legal para la Marina Mercante Nacional, sin perjuicio de los derechos adquiridos durante su vigencia".
+
+## Art. 2º
+
+Dése cuenta al HONORABLE CONGRESO DE LA NACION.
+
+## Art. 3º
+
+Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese. — KIRCHNER. — Alberto A. Fernández. — Julio M. De Vido. — Aníbal D. Fernández. — Ginés M. González García. — Nilda C. Garré. — Felisa Miceli. — Carlos A. Tomada. — Alberto J. B. Iribarne. — Daniel F. Filmus. — Juan C. Nadalich
+
+CONGRESO DE LA NACION
+
+Resolución
+
+Declárase la validez del Decreto del Poder Ejecutivo Nacional Nº 1022 del 8 de agosto de 2006.
+
+EL SENADO
+
+Y
+
+LA CAMARA DE DIPUTADOS DE LA NACION
+
+RESUELVEN:
+
+## Artículo 1º
+
+Declarar la validez del Decreto del Poder Ejecutivo Nacional Nº 1022 de fecha 8 de agosto de 2006.
+
+## Art. 2º
+
+Comuníquese al Poder Ejecutivo nacional. — ALBERTO BALESTRINI. — JOSE J. B. PAMPURO. — Enrique Hidalgo. — Juan H. Estrada.
+
+DADA EN LA SALA DE SESIONES DEL CONGRESO ARGENTINO, EN BUENOS AIRES, A LOS ONCE DIAS DEL MES DE ABRIL DEL AÑO DOS MIL SIETE.

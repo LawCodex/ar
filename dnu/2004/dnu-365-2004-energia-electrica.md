@@ -1,0 +1,97 @@
+---
+title: "Decreto de Necesidad y Urgencia 365/2004: ENERGIA ELECTRICA — PRESTAMO REINTEGRABLE - AUTORIZACION"
+identifier: "Decreto de Necesidad y Urgencia 365/2004"
+infoleg_id: "93878"
+type: decree
+jurisdiction: ar
+language: es
+date: 2004-03-26
+published: 2004-03-31
+boletin_oficial: "30372"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-necesidad-urgencia-365-nacional-decreto-necesidad-urgencia-sobre-energia-electrica-dn20040000365-2004-03-26"
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=93878"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/90000-94999/93878/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Decreto de Necesidad y Urgencia 365/2004: ENERGIA ELECTRICA — PRESTAMO REINTEGRABLE - AUTORIZACION
+
+ENERGIA ELECTRICA
+
+Decreto 365/2004
+
+Autorízase al Tesoro Nacional a otorgar un préstamo reintegrable al Fondo Unificado creado por el Artículo 37 de la Ley Nº 24.065 y administrado por la Secretaría de Energía, destinado al pago de las obligaciones exigibles a dicho Fondo para el cumplimiento de sus funciones específicas y al sostenimiento sin distorsiones del sistema de estabilización de precios en el Mercado Eléctrico Mayorista, mediante el auxilio financiero al Fondo de Estabilización.
+
+Bs. As., 26/3/2004
+
+VISTO el Expediente Nº S01:0261455/2003 del Registro del MINISTERIO DE PLANIFICACION FEDERAL, INVERSION PUBLICA Y SERVICIOS, y
+
+CONSIDERANDO:
+
+Que el MERCADO ELECTRICO MAYORISTA (MEM) es un ámbito institucionalizado de transacciones realizadas primariamente entre particulares (Generadores, Distribuidores, Transportistas y Grandes Usuarios), organizado conforme el marco dado por la Ley Nº 24.065 y puesto en funcionamiento a través de una serie de normas reglamentarias y complementarias.
+
+Que en el ámbito del MERCADO ELECTRICO MAYORISTA (MEM) la conformación del precio de la energía eléctrica, tanto en el denominado Mercado "Spot" como en el denominado "Mercado a Término" o de contratos, es la resultante de transacciones privadas entre compradores y vendedores en función del costo económico del sistema conforme los Artículos 35 inciso b) y 36 de la Ley Nº 24.065.
+
+Que la implementación de mecanismos de concurrencia para la definición del precio en los intercambios de energía eléctrica requirió, dada la complejidad del hecho físico subyacente, una sofisticada normativa regulatoria contenida sustancialmente en "Los Procedimientos para la Programación de la Operación, el Despacho de Cargas y el Cálculo de Precios (LOS PROCEDIMIENTOS)" establecidos por la Resolución Nº 61 del 29 de abril de 1992 de la ex-SECRETARIA DE ENERGIA ELECTRICA, entonces dependiente del ex-MINISTERIO DE ECONOMIA Y OBRAS Y SERVICIOS PUBLICOS, sus modificatorias y complementarias.
+
+Que los "Procedimientos" aludidos reglan: i) la totalidad de las transacciones físicas en el MERCADO ELECTRICO MAYORISTA (MEM), ii) las transacciones de transporte en el MERCADO ELECTRICO MAYORISTA (MEM) y iii) las condiciones comerciales de las transacciones en el Mercado "Spot" del MERCADO ELECTRICO MAYORISTA (MEM) y a ellos debe ajustarse el ORGANISMO ENCARGADO DEL DESPACHO (OED) del SISTEMA ARGENTINO DE INTERCONEXION (SADI) cuyas funciones se asignaron a la COMPAÑIA ADMINISTRADORA DEL MERCADO MAYORISTA ELECTRICO SOCIEDAD ANONIMA (CAMMESA) mediante Decreto Nº 1192 del 10 de julio de 1992, reglamentario del Artículo 35 de la Ley Nº 24.065.
+
+Que conforme el Artículo 36 de la Ley Nº 24.065 en el Mercado "Spot" del MERCADO ELECTRICO MAYORISTA (MEM) se diferencian DOS (2) precios, uno "horario" que perciben los vendedores y paga parte de la demanda, los usuarios que optan por abastecerse en el MERCADO ELECTRICO MAYORISTA (MEM), y otro "estacional", que pagan los distribuidores, estabilizado semestralmente con ajustes trimestrales en función del precio horario esperado para el siguiente período y los recursos existentes en el FONDO DE ESTABILIZACION, los que deben ser suficientes para absorber en el período correspondiente los apartamientos entre ambos precios "Spot".
+
+Que en consecuencia, la disponibilidad de recursos en el FONDO DE ESTABILIZACION debe ser tomada en cuenta por la SECRETARIA DE ENERGIA, dependiente del MINISTERIO DE PLANIFICACION FEDERAL, INVERSION PUBLICA Y SERVICIOS, al momento de fijar el Precio de Mercado para el trimestre en cuestión para evitar excesos o faltantes en dicho Fondo. A mayor existencia de dinero en el FONDO DE ESTABILIZACION, existe mayor probabilidad de sancionar precios más bajos dentro de los valores resultantes para los distintos escenarios previsibles y viceversa.
+
+Que es responsabilidad de la SECRETARIA DE ENERGIA, dependiente del MINISTERIO DE PLANIFICACION FEDERAL, INVERSION PUBLICA Y SERVICIOS, aprobar trimestralmente, atendiendo a la correspondiente "Programación Estacional" o "Reprogramación Trimestral" elaborada y elevada por la COMPAÑIA ADMINISTRADORA DEL MERCADO MAYORISTA ELECTRICO SOCIEDAD ANONIMA (CAMMESA), los ajustes al precio estacional a distribuidores, conforme a lo reglado en los "Procedimientos" reglamentarios de dicho Artículo 36 de la Ley Nº 24.065.
+
+Que, a su vez, conforme el Decreto Nº 1398 del 6 de agosto de 1992, es dicho precio estacional el considerado para el traslado a los usuarios finales de las distribuidoras tanto en los contratos de concesión otorgados por el ESTADO NACIONAL cuanto por muchas de las Provincias.
+
+Que fue decisión política del PODER EJECUTIVO NACIONAL, con carácter excepcional, teniendo en cuenta el contexto de emergencia social y la necesidad de prevenir, modular el impacto de un marcado incremento estacional.
+
+Que mediante el Decreto Nº 1181 del 3 de diciembre de 2003 se autorizó un préstamo, reintegrable con intereses, del FONDO UNIFICADO creado por el Artículo 37 de la Ley Nº 24.065 por un monto de hasta PESOS CIENTO CINCUENTA MILLONES ($ 150.000.000).
+
+Que dicho préstamo tuvo por único destino el sostenimiento sin distorsiones del sistema de estabilización de precios en el MERCADO ELECTRICO MAYORISTA (MEM) mediante el auxilio financiero al FONDO DE ESTABILIZACION creado por Resolución Nº 61 del 29 de abril de 1992 de la ex-SECRETARIA DE ENERGIA ELECTRICA, entonces dependiente del ex-MINISTERIO DE ECONOMIA Y OBRAS Y SERVICIOS PUBLICOS, sus modificatorias y complementarias, en el marco del Artículo 36 de la Ley Nº 24.065 y administrado por la COMPAÑÍA ADMINISTRADORA DEL MERCADO MAYORISTA ELECTRICO SOCIEDAD ANONIMA (CAMMESA) en su calidad de ORGANISMO ENCARGADO DEL DESPACHO (OED) conforme el Decreto Nº 1192 del 10 de julio de 1992.
+
+Que por tratarse de un auxilio financiero y no de un subsidio se consideró adecuado establecer que la devolución de las sumas prestadas se efectúe con la tasa de interés equivalente a aquella que determine el BANCO CENTRAL DE LA REPUBLICA ARGENTINA para sus obligaciones de letras aplicable al período de vigencia del préstamo.
+
+Que no habiendo sido posible producir, durante el año 2003, los ajustes necesarios en algunos sectores de la demanda y por lo tanto no siendo posible aún la devolución de las sumas prestadas por el FONDO UNIFICADO en virtud del Decreto Nº 1181 del 3 de diciembre de 2003 debe efectuarse el aporte, por parte del TESORO NACIONAL, de los montos correspondientes a las obligaciones exigibles a dicho Fondo para el cumplimiento de sus funciones específicas, cuyo pago es resorte de la SECRETARIA DE ENERGIA, dependiente del MINISTERIO DE PLANIFICACION FEDERAL, INVERSION PUBLICA Y SERVICIOS. Asimismo debe efectuarse un aporte adicional destinado al sostenimiento sin distorsiones del sistema de estabilización de precios en el MERCADO ELECTRICO MAYORISTA (MEM).
+
+Que en base a ello resulta necesario disponer el otorgamiento de un préstamo por parte del TESORO NACIONAL que será reintegrado dentro del mismo ejercicio.
+
+Que la naturaleza de la situación planteada hace imposible seguir los trámites ordinarios previstos en la CONSTITUCION NACIONAL para la sanción de Leyes.
+
+Que la Dirección General de Asuntos Jurídicos del MINISTERIO DE ECONOMIA Y PRODUCCION ha tomado la intervención que le corresponde según lo establecido por el Artículo 9º del Decreto Nº 1142 del 26 de noviembre de 2003.
+
+Que el PODER EJECUTIVO NACIONAL se encuentra facultado para el dictado de la presente medida en virtud de las atribuciones emergentes del Artículo 99, inciso 3 de la CONSTITUCION NACIONAL y de la Ley Nº 24.065.
+
+Por ello,
+
+EL PRESIDENTE DE LA NACION ARGENTINA EN ACUERDO GENERAL DE MINISTROS
+
+DECRETA:
+
+## Artículo 1º
+
+Autorízase al TESORO NACIONAL a otorgar un préstamo reintegrable al FONDO UNIFICADO, creado por el Artículo 37 de la Ley Nº 24.065 y administrado por la SECRETARIA DE ENERGIA dependiente del MINISTERIO DE PLANIFICACION FEDERAL, INVERSION PUBLICA Y SERVICIOS, por un monto de PESOS DOSCIENTOS MILLONES ($ 200.000.000), a efectivizarse en CUATRO (4) cuotas de PESOS CINCUENTA MILLONES ($ 50.000.000) cada una, destinado al pago de las obligaciones exigibles a dicho Fondo para el cumplimiento de sus funciones específicas y al sostenimiento sin distorsiones del sistema de estabilización de precios en el MERCADO ELECTRICO MAYORISTA (MEM) mediante el auxilio financiero al FONDO DE ESTABILIZACION creado por Resolución Nº 61 del 29 de abril de 1992 de la ex-SECRETARIA DE ENERGIA ELECTRICA, entonces dependiente del ex- MINISTERIO DE ECONOMIA Y OBRAS Y SERVICIOS PUBLICOS, sus modificatorias y complementarias, en el marco del Artículo 36 de la Ley Nº 24.065 y administrado por la COMPAÑÍA ADMINISTRADORA DEL MERCADO MAYORISTA ELECTRICO SOCIEDAD ANONIMA (CAMMESA) en su calidad de ORGANISMO ENCARGADO DEL DESPACHO (OED) conforme el Decreto Nº 1192 del 10 de julio de 1992.
+
+## Art. 2º
+
+Las sumas efectivamente desembolsadas por el TESORO NACIONAL con destino al FONDO UNIFICADO en virtud de la autorización otorgada por el artículo anterior, serán devueltas en su totalidad dentro del ejercicio del año 2004 con más la tasa de interés equivalente a aquella que determine el BANCO CENTRAL DE LA REPUBLICA ARGENTINA para sus obligaciones de letras, aplicable al período de vigencia del préstamo.
+
+## Art. 3º
+
+Los Ministerios de ECONOMIA Y PRODUCCION y de PLANIFICACION FEDERAL, INVERSION PUBLICA Y SERVICIOS dictarán las normas interpretativas y aclaratorias a que dé lugar la aplicación de lo reglado en este decreto.
+
+## Art. 4º
+
+El presente acto entra en vigencia a partir de la fecha de su dictado.
+
+## Art. 5º
+
+Dése cuenta al HONORABLE CONGRESO DE LA NACION.
+
+## Art. 6º
+
+Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese. — KIRCHNER. — Alberto A. Fernández. — Julio M. De Vido. — Daniel F. Filmus. — Carlos A. Tomada. — Alicia M. Kirchner. — Ginés M. González García. — Gustavo O. Beliz. — Aníbal D. Fernández. — José J. B. Pampuro. — Rafael A. Bielsa.

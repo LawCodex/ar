@@ -1,0 +1,79 @@
+---
+title: "Decreto de Necesidad y Urgencia 521/2011: FERIADOS NACIONALES — FERIADO NACIONAL DEL 17 DE AGOSTO - TRASLADO"
+identifier: "Decreto de Necesidad y Urgencia 521/2011"
+infoleg_id: "181754"
+type: decree
+jurisdiction: ar
+language: es
+date: 2011-05-03
+published: 2011-05-04
+boletin_oficial: "32142"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-necesidad-urgencia-521-nacional-decreto-necesidad-urgencia-sobre-traslado-feriado-17-agosto-dn20110000521-2011-05-03"
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=181754"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/181754/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Decreto de Necesidad y Urgencia 521/2011: FERIADOS NACIONALES — FERIADO NACIONAL DEL 17 DE AGOSTO - TRASLADO
+
+FERIADOS NACIONALES
+
+Decreto 521/2011
+
+Trasládase, con carácter excepcional, el feriado nacional establecido para el día 17 de agosto de 2011, al día 22 del mismo mes.
+
+Bs. As., 3/5/2011
+
+VISTO el Decreto Nº 1584/10 por el que se establecen los feriados nacionales y días no laborables en todo el territorio de la Nación, y
+
+CONSIDERANDO:
+
+Que el artículo 2º del citado Decreto Nº 1584/10 dispone que el feriado nacional del 17 de agosto será cumplido el tercer lunes de ese mes.
+
+Que, en consecuencia, dicho feriado nacional debe ser cumplido el lunes 15 de agosto de 2011.
+
+Que el feriado del 17 de agosto constituye un homenaje a nuestro prócer, don José de San Martín, estimándose que el recordatorio de su fallecimiento debe efectuarse en fecha especial contribuyendo a la construcción de la identidad nacional.
+
+Que, por otra parte, el día 14 del referido mes está prevista la realización de las Elecciones Primarias Abiertas, Simultáneas y Obligatorias.
+
+Que dichos comicios se realizarán por primera vez, siendo de suma importancia la participación masiva de la ciudadanía en tal relevante evento, para reafirmar nuestro sistema electoral y la solidez del funcionamiento de las instituciones democráticas.
+
+Que si bien la finalidad del traslado del feriado es fomentar el turismo interno, con la importancia que ello genera como motor de la economía, de mantenerse el mismo el 15 de agosto, podría perjudicarse la concurrencia de muchos ciudadanos al acto eleccionario.
+
+Que en virtud de ello y con el objeto de favorecer y garantizar la asistencia a los citados comicios de carácter obligatorio, resulta necesario trasladar por única vez, el feriado nacional del 17 de agosto, al día 22 de agosto del corriente año.
+
+Que, frente a la proximidad de la fecha en cuestión se hace imposible seguir los trámites ordinarios previstos por la CONSTITUCION NACIONAL para la sanción de las leyes.
+
+Que la Ley Nº 26.122, regula el trámite y los alcances de la intervención del HONORABLE CONGRESO DE LA NACION respecto de los Decretos de Necesidad y Urgencia dictados por el PODER EJECUTIVO NACIONAL, en virtud de lo dispuesto por el artículo 99 inciso 3 de la CONSTITUCION NACIONAL.
+
+Que la citada ley determina que la Comisión Bicameral Permanente tiene competencia para pronunciarse respecto de la validez o invalidez de los Decretos de Necesidad y Urgencia, así como elevar el dictamen al plenario de cada Cámara para su expreso tratamiento, en el plazo de DIEZ (10) días hábiles.
+
+Que el artículo 20 de la Ley Nº 26.122 prevé que, en el supuesto que la Comisión Bicameral Permanente no eleve el correspondiente despacho, las Cámaras se abocarán al expreso e inmediato tratamiento del decreto, de conformidad con lo establecido en los artículos 99, incisos 3 y 82, de la CONSTITUCION NACIONAL.
+
+Que el artículo 22 de la Ley Nº 26.122 dispone que las Cámaras se pronuncien mediante sendas resoluciones y que el rechazo o aprobación de los decretos deba ser expreso conforme lo establecido en el artículo 82 de la Carta Magna.
+
+Que ha tomado intervención la DIRECCION GENERAL DE ASUNTOS JURIDICOS del MINISTERIO DEL INTERIOR.
+
+Que la presente medida se dicta de acuerdo a las facultades emergentes del artículo 99, inciso 3, de la CONSTITUCION NACIONAL y conforme a los artículos 2º, 19 y 20 de la Ley Nº 26.122.
+
+Por ello,
+
+LA PRESIDENTA DE LA NACION ARGENTINA EN ACUERDO GENERAL DE MINISTROS
+
+DECRETA:
+
+## Artículo 1º
+
+Trasládase, con carácter excepcional, sólo para el corriente año, el feriado nacional establecido para el día 17 de agosto de 2011, al día 22 del mismo mes.
+
+## Art. 2º
+
+Dése cuenta a la COMISION BICAMERAL PERMANENTE DEL HONORABLE CONGRESO DE LA NACION.
+
+## Art. 3º
+
+Comuníquese, publíquese, dése a la DIRECCION NACIONAL DEL REGISTRO OFICIAL y archívese. — FERNANDEZ DE KIRCHNER. — Aníbal D. Fernández. — Aníbal F. Randazzo. — Nilda C. Garré. — Amado Boudou. — Débora A. Giorgi. — Julio C. Alak. — Carlos A. Tomada. — Alicia M. Kirchner. — Juan L. Manzur. — Alberto E. Sileoni. — José L. S. Barañao. — Arturo A. Puricelli. — Julio M. De Vido.

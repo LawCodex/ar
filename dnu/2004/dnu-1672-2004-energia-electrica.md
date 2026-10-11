@@ -1,0 +1,81 @@
+---
+title: "Decreto de Necesidad y Urgencia 1672/2004: ENERGIA ELECTRICA — PRESTAMO REINTEGRABLE FONDO UNIFICADO"
+identifier: "Decreto de Necesidad y Urgencia 1672/2004"
+infoleg_id: "101750"
+type: decree
+jurisdiction: ar
+language: es
+date: 2004-11-30
+published: 2004-12-07
+boletin_oficial: "30543"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-necesidad-urgencia-1672-nacional-decreto-necesidad-urgencia-sobre-prestamos-tesoro-nacional-al-fondo-unificado-creado-ley-n-24065-dn20040001672-2004-11-30"
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=101750"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/100000-104999/101750/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Decreto de Necesidad y Urgencia 1672/2004: ENERGIA ELECTRICA — PRESTAMO REINTEGRABLE FONDO UNIFICADO
+
+ENERGIA ELECTRICA
+
+Decreto 1672/2004
+
+Autorízase al Tesoro Nacional a otorgar un préstamo reintegrable al Fondo Unificado creado por la Ley Nº 24.065, con destino al pago de obligaciones exigibles a dicho Fondo y al sostenimiento sin distorsiones del sistema de estabilización de precios en el Mercado Eléctrico Mayorista, mediante el auxilio al Fondo de Estabilización creado por la Resolución Nº 61/92 de la ex Secretaría de Energía Eléctrica y administrado por la Compañía Administradora del Mercado Mayorista Eléctrico Sociedad Anónima (CAMMESA).
+
+Bs. As., 30/11/2004
+
+VISTO el Expediente N° S01:0261455/2003 del Registro del MINISTERIO DE PLANIFICACION FEDERAL, INVERSION PUBLICA Y SERVICIOS, el Decreto N° 365 del 26 de marzo de 2004, el Decreto N° 512 del 23 de abril de 2004, el Decreto N° 962 del 29 de julio de 2004, y
+
+CONSIDERANDO:
+
+Que mediante los decretos citados en el Visto se autorizó al TESORO NACIONAL a otorgar préstamos reintegrables al FONDO UNIFICADO, creado por el Artículo 37 de la Ley N° 24.065 y administrado por la SECRETARIA DE ENERGIA dependiente del MINISTERIO DE PLANIFICACION FEDERAL, INVERSION PUBLICA Y SERVICIOS, destinados al pago de las obligaciones exigibles a dicho Fondo para el cumplimiento de sus funciones específicas y al sostenimiento sin distorsiones del sistema de estabilización de precios en el MERCADO ELECTRICO MAYORISTA (MEM) mediante el auxilio financiero al FONDO DE ESTABILIZACION creado por Resolución N° 61 del 29 de abril de 1992 de la ex- SECRETARIA DE ENERGIA ELECTRICA, entonces dependiente del ex-MINISTERIO DE ECONOMIA Y OBRAS Y SERVICIOS PUBLICOS, sus modificatorias y complementarias, en el marco del Artículo 36 de la Ley N° 24.065 y administrado por la COMPAÑIA ADMINISTRADORA DEL MERCADO MAYORISTA ELECTRICO SOCIEDAD ANONIMA (CAMMESA) en su calidad de ORGANISMO ENCARGADO DEL DESPACHO (OED) conforme el Decreto N° 1192 del 10 de julio de 1992.
+
+Que, teniendo en cuenta la persistencia del estado de emergencia social respecto del sector eléctrico, se considera conveniente continuar modulando el impacto de un marcado incremento estacional considerado para el traslado a los usuarios finales de las distribuidoras tanto en los contratos de concesión otorgados por el ESTADO NACIONAL cuanto por muchas de las Provincias, que técnicamente sería necesario implementar.
+
+Que para que los Agentes acreedores del MERCADO ELECTRICO MAYORISTA (MEM) cobren el total de las acreencias según la normativa vigente a la fecha del dictado de la presente, y por un lapso prolongado de tiempo, en el cual se adaptaran los precios estacionales a los precios mayoristas del MERCADO ELECTRICO MAYORISTA (MEM), será necesario que el ESTADO NACIONAL complemente los ingresos que se obtengan por aplicación de dichos precios estacionales a ser trasladados a los usuarios finales, con aportes específicos del TESORO NACIONAL para poder afrontar el total de las acreencias de los Agentes del Mercado.
+
+Que se deben iniciar los aportes del TESORO NACIONAL para la realización de las inversiones necesarias que permitan incrementar la oferta de energía eléctrica disponible en los centros de demanda con costos accesibles para el normal funcionamiento del MERCADO ELECTRICO MAYORISTA (MEM) logrando su readaptación y disminuyendo, en consecuencia, los costos operativos que se tornarían excesivamente altos y difíciles de soportar.
+
+Que en base a ello resulta necesario disponer el otorgamiento de un nuevo préstamo por parte del TESORO NACIONAL que será reintegrado a partir del ejercicio del año 2007.
+
+Que la naturaleza de la situación planteada hace imposible seguir los trámites ordinarios previstos en la CONSTITUCION NACIONAL para la sanción de las Leyes.
+
+Que el Presupuesto de la Administración Nacional contempla los créditos necesarios para dar parcialmente cumplimiento a la presente medida.
+
+Que la Dirección General de Asuntos Jurídicos del MINISTERIO DE ECONOMIA Y PRODUCCION ha tomado la intervención que le corresponde según lo establecido por el Artículo 9° del Decreto N° 1142 del 26 de noviembre de 2003.
+
+Que el PODER EJECUTIVO NACIONAL se encuentra facultado para el dictado de la presente medida en virtud de las atribuciones emergentes del Artículo 99, inciso 3 de la CONSTITUCION NACIONAL y de la Ley N° 24.065.
+
+Por ello,
+
+EL PRESIDENTE DE LA NACION ARGENTINA EN ACUERDO GENERAL DE MINISTROS
+
+DECRETA:
+
+## Artículo 1°
+
+Autorízase al TESORO NACIONAL a otorgar un préstamo reintegrable al FONDO UNIFICADO, creado por el Artículo 37 de la Ley N° 24.065 y administrado por la SECRETARIA DE ENERGIA dependiente del MINISTERIO DE PLANIFICACION FEDERAL, INVERSION PUBLICA Y SERVICIOS, por un monto de PESOS TRESCIENTOS MILLONES ($ 300.000.000) con destino al pago de las obligaciones exigibles a dicho Fondo para el cumplimiento de sus funciones específicas y al sostenimiento sin distorsiones del sistema de estabilización de precios en el MERCADO ELECTRICO MAYORISTA (MEM) mediante el auxilio financiero al FONDO DE ESTABILIZACION creado por Resolución N° 61 del 29 de abril de 1992 de la ex-SECRETARIA DE ENERGIA ELECTRICA, entonces dependiente del ex-MINISTERIO DE ECONOMIA Y OBRAS Y SERVICIOS PUBLICOS, sus modificatorias y complementarias, en el marco del Artículo 36 de la Ley N° 24.065 y administrado por la COMPAÑIA ADMINISTRADORA DEL MERCADO MAYORISTA ELECTRICO SOCIEDAD ANONIMA (CAMMESA) en su calidad de ORGANISMO ENCARGADO DEL DESPACHO (OED) conforme el Decreto N° 1192 del 10 de julio de 1992.
+
+## Art. 2°
+
+Las sumas efectivamente desembolsadas por el TESORO NACIONAL con destino al FONDO UNIFICADO en virtud de la autorización otorgada por el artículo 1° del presente decreto, serán devueltas a partir del ejercicio del año 2007 con más la tasa de interés equivalente a aquélla que determine el BANCO CENTRAL DE LA REPUBLICA ARGENTINA para sus obligaciones de letras, aplicables al período de vigencia del préstamo. A tal efecto la SECRETARIA DE ENERGIA dependiente del MINISTERIO DE PLANIFICACION FEDERAL, INVERSION PUBLICA Y SERVICIOS deberá determinar el correspondiente cronograma de devolución y proceder a su comunicación a la SECRETARIA DE HACIENDA dependiente del MINISTERIO DE ECONOMIA Y PRODUCCION.
+
+## Art. 3°
+
+El Ministro de ECONOMIA Y PRODUCCION y el Ministro de PLANIFICACION FEDERAL, INVERSION PUBLICA Y SERVICIOS dictarán en forma conjunta o alternada las normas interpretativas y aclaratorias a que dé lugar la aplicación de lo reglado en este decreto.
+
+## Art. 4°
+
+El presente acto entrará en vigencia a partir de la fecha de su dictado.
+
+## Art. 5°
+
+Dése cuenta al HONORABLE CONGRESO DE LA NACION.
+
+## Art. 6°
+
+Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese. — KIRCHNER. — Alberto A. Fernández. — Julio M. De Vido. — Aníbal D. Fernández. — José J. B. Pampuro. — Roberto Lavagna. — Daniel F. Filmus. — Ginés González García. — Alicia M. Kirchner. — Rafael A. Bielsa. — Horacio D. Rosatti. — Carlos A. Tomada.

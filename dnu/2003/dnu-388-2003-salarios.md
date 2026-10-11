@@ -1,0 +1,97 @@
+---
+title: "Decreto de Necesidad y Urgencia 388/2003: SALARIOS — SALARIO MINIMO VITAL Y MOVIL - FIJANSE MONTOS"
+identifier: "Decreto de Necesidad y Urgencia 388/2003"
+infoleg_id: "86820"
+type: decree
+jurisdiction: ar
+language: es
+date: 2003-07-10
+published: 2003-07-15
+boletin_oficial: "30191"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-necesidad-urgencia-388-nacional-decreto-necesidad-urgencia-sobre-salario-minimo-vital-movil-dn20031000388-2003-07-10"
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=86820"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/85000-89999/86820/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Decreto de Necesidad y Urgencia 388/2003: SALARIOS — SALARIO MINIMO VITAL Y MOVIL - FIJANSE MONTOS
+
+SALARIOS
+
+Decreto 388/2003
+
+Fíjanse los montos del salario mínimo vital y móvil, por hora, para los trabajadores jornalizados, y por mes para los trabajadores mensualizados que cumplen la jornada legal de trabajo a tiempo completo, comprendidos en el artículo 140 de la Ley Nº 24.013.
+
+Bs. As., 10/7/2003
+
+VISTO el artículo 14 bis de la CONSTITUCION NACIONAL, las Leyes Nº 24.013 y Nº 25.561, el Decreto Nº 2725 de fecha 26 de diciembre de 1991 y la Resolución del CONSEJO NACIONAL DEL EMPLEO, LA PRODUCTIVIDAD Y EL SALARIO MINIMO, VITAL Y MOVIL Nº 02 de fecha 22 de julio de 1993, y
+
+CONSIDERANDO:
+
+Que por el artículo 1º de la Ley Nº 25.561 se declaró la emergencia pública en materia social, económica, administrativa, financiera y cambiaria.
+
+Que con arreglo al inciso 2) del citado artículo 1º de la Ley Nº 25.561, el PODER EJECUTIVO NACIONAL fue facultado a reactivar el funcionamiento de la economía, mejorar el nivel de empleo y de distribución de ingresos.
+
+Que la crisis económica que ha atravesado nuestro país deterioró sensiblemente el poder adquisitivo de los salarios perjudicando a los trabajadores especialmente a los de menores ingresos.
+
+Que el Título VII, Capítulo Unico, de la Ley Nº 24.013, reglamentado por Decreto Nº 2725/91, regula el instituto del salario mínimo, vital y móvil, precisando en el artículo 140 que los trabajadores allí referidos, tendrán derecho a percibir una remuneración no inferior al valor que se fije para el citado salario mínimo.
+
+Que han transcurrido ya DIEZ (10) años desde la última oportunidad en que se fijó el valor del salario mínimo, vital y móvil, por Resolución del CONSEJO NACIONAL DEL EMPLEO, LA PRODUCTIVIDAD Y EL SALARIO MINIMO, VITAL Y MOVIL Nº 02, de fecha 22 de julio de 1993, que lo determinó en la cantidad de PESOS DOSCIENTOS ($ 200.-) por mes, para el personal mensualizado que cumpliere la jornada legal de trabajo.
+
+Que por lo expuesto resulta oportuno actualizar el monto del salario mínimo, vital y móvil, de manera escalonada y progresiva, para adecuarlo a la situación socioeconómica, estimulando la redistribución del ingreso nacional y promoviendo el logro de los objetivos perseguidos por dicho instituto.
+
+Que debe tenerse presente que el salario mínimo coadyuva al objetivo general de reducir la pobreza mejorando las condiciones de vida de los trabajadores y de sus familias sin producir efectos adversos para el empleo.
+
+Que el salario mínimo, vital y móvil no puede ser tomado como índice o base para la determinación cuantitativa de ningún otro instituto legal o convencional, conforme a lo establecido por el artículo 141 de la Ley Nº 24.013.
+
+Que asimismo la finalidad del instituto, no consiste en sustituir la acción sindical en materia de negociación colectiva, sino proteger a aquellos trabajadores que se encuentran en inferioridad de condiciones para acordar con los empleadores el monto de sus remuneraciones.
+
+Que actualmente ya ha sido superado el momento más agudo de la crisis que vivió el país, pero aún nos encontramos en una situación de emergencia y que impone que las medidas destinadas a garantizar los derechos constitucionales básicos de la población deban ser dispuestas de manera urgente, por lo que resulta necesario obviar, con carácter de excepción, la convocatoria del Consejo tripartito previsto por el artículo 139 de la Ley 24.013.
+
+Que la situación expuesta configura una circunstancia excepcional que hace imposible seguir los trámites previstos por la Ley Nº 24.013 para determinar el monto del salario mínimo, vital y móvil.
+
+Que la Dirección General de Asuntos Jurídicos del MINISTERIO DE TRABAJO, EMPLEO Y SEGURIDAD SOCIAL ha tomado la intervención que le compete.
+
+Que la presente medida se dicta en uso de las atribuciones emergentes del artículo 99, inciso 3, de la CONSTITUCION NACIONAL.
+
+Por ello,
+
+EL PRESIDENTE DE LA NACION ARGENTINA EN ACUERDO GENERAL DE MINISTROS
+
+DECRETA:
+
+## Artículo 1º
+
+Fíjase a partir del 1º de julio de 2003 el monto del salario mínimo, vital y móvil en la cantidad de PESOS UNO CON VEINTICINCO CENTAVOS ($ 1,25.-) por hora, para los trabajadores jornalizados y de PESOS DOSCIENTOS CINCUENTA ($ 250.-) por mes, para los trabajadores mensualizados que cumplen la jornada legal de trabajo a tiempo completo, comprendidos en el artículo 140 de la Ley Nº 24.013.
+
+## Art. 2º
+
+Fíjase a partir del 1º de agosto de 2003 el monto del salario mínimo, vital y móvil en la cantidad de PESOS UNO CON TREINTA CENTAVOS ($ 1,30.-) por hora, para los trabajadores jornalizados y de PESOS DOSCIENTOS SESENTA ($ 260.-) por mes, para los trabajadores mensualizados que cumplen la jornada legal de trabajo a tiempo completo, comprendidos en el artículo 140 de la Ley Nº 24.013.
+
+## Art. 3º
+
+Fíjase a partir del 1º de septiembre de 2003 el monto del salario mínimo, vital y móvil en la cantidad de PESOS UNO CON TREINTA Y CINCO CENTAVOS ($ 1,35.-) por hora, para los trabajadores jornalizados y de PESOS DOSCIENTOS SETENTA ($ 270.-) por mes, para los trabajadores mensualizados que cumplen la jornada legal de trabajo a tiempo completo, comprendidos en el artículo 140 de la Ley Nº 24.013.
+
+## Art. 4º
+
+Fíjase a partir del 1º de octubre de 2003 el monto del salario mínimo, vital y móvil en la cantidad de PESOS UNO CON CUARENTA CENTAVOS ($ 1,40.-) por hora, para los trabajadores jornalizados y de PESOS DOSCIENTOS OCHENTA ($ 280.-) por mes, para los trabajadores mensualizados que cumplen la jornada legal de trabajo a tiempo completo, comprendidos en el artículo 140 de la Ley Nº 24.013.
+
+## Art. 5º
+
+Fíjase a partir del 1º de noviembre de 2003 el monto del salario mínimo, vital y móvil en la cantidad de PESOS UNO CON CUARENTA Y CINCO CENTAVOS ($ 1,45.-) por hora, para los trabajadores jornalizados y de PESOS DOSCIENTOS NOVENTA ($ 290.-) por mes, para los trabajadores mensualizados que cumplen la jornada legal de trabajo a tiempo completo, comprendidos en el artículo 140 de la Ley Nº 24.013.
+
+## Art. 6º
+
+Fíjase a partir del 1º de diciembre de 2003 el monto del salario mínimo, vital y móvil en la cantidad de PESOS UNO CON CINCUENTA CENTAVOS ($ 1,50.-) por hora, para los trabajadores jornalizados y de PESOS TRESCIENTOS ($ 300.-) por mes, para los trabajadores mensualizados que cumplen la jornada legal de trabajo a tiempo completo, comprendidos en el artículo 140 de la Ley Nº 24.013.
+
+## Art. 7º
+
+Dése cuenta al HONORABLE CONGRESO DE LA NACION, en cumplimiento de lo dispuesto por el artículo 99, inciso 3, de la CONSTITUCION NACIONAL.
+
+## Art. 8º
+
+Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese.— KIRCHNER. — Alberto A. Fernández.— Carlos A. Tomada. — Roberto Lavagna.— Aníbal D. Fernández. — Ginés M. González García. — Alicia M. Kirchner. — Rafael A. Bielsa.— Gustavo O. Beliz. — Julio M. De Vido. — José J. B. Pampuro. — Daniel F. Filmus.

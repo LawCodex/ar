@@ -1,0 +1,105 @@
+---
+title: "Decreto de Necesidad y Urgencia 1855/2007: PRESUPUESTO — SERVICIOS - INCORPORACION"
+identifier: "Decreto de Necesidad y Urgencia 1855/2007"
+infoleg_id: "135429"
+type: decree
+jurisdiction: ar
+language: es
+date: 2007-12-06
+published: 2007-12-10
+boletin_oficial: "31299"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-necesidad-urgencia-1855-nacional-decreto-necesidad-urgencia-sobre-modificacion-presupuesto-administracion-nacional-para-ejercicio-2007-dn20070001855-2007-12-06"
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=135429"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/135000-139999/135429/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Decreto de Necesidad y Urgencia 1855/2007: PRESUPUESTO — SERVICIOS - INCORPORACION
+
+PRESUPUESTO
+
+Decreto 1855/2007
+
+Incorpóranse servicios a la Planilla Anexa al Artículo 12 de la Ley Nº 26.198 de Presupuesto General de la Administración Nacional para el Ejercicio 2007.
+
+Bs. As., 6/12/2007
+
+VISTO el Presupuesto General de la Administración Nacional para el Ejercicio 2007, aprobado por la Ley Nº 26.198 y distribuido por la Decisión Administrativa Nº 1 de fecha 15 de enero de 2007, y
+
+CONSIDERANDO:
+
+Que resulta necesario autorizar al MINISTERIO DE DEFENSA, en orden a lo dispuesto por el Artículo 15 de la Ley Nº 24.156 de Administración Financiera y de los Sistemas de Control del Sector Público Nacional y sus modificatorias, para que proceda a contratar la prestación de servicios aeronáuticos con la empresa LOCKHEED MARTIN AIRCRAFT ARGENTINA S.A. con destino a la FUERZA AEREA ARGENTINA.
+
+Que las contrataciones que es menester concretar se enmarcan en los términos del artículo 17.1.6 del contrato suscripto por el Gobierno de la REPUBLICA ARGENTINA, representada por el MINISTERIO DE DEFENSA y LOCKHEED MARTIN AIRCRAFT ARGENTINA S.A. el 15 de diciembre de 1994, por el cual se entregó en concesión a dicha empresa la ex Area de Material Córdoba.
+
+Que al momento de la elevación del proyecto de Ley de Presupuesto para el ejercicio 2007, no estaban resueltos los términos y condiciones en que en definitiva se procederá a las referidas contrataciones y consecuentemente resultaba imposible incluir la autorización citada en consonancia con los mismos.
+
+Que los contratos vigentes en la actualidad se encuentran próximos al cumplimiento de su objeto.
+
+Que atento la urgencia en resolver la situación expuesta resulta imperioso adoptar la medida proyectada, configurando una circunstancia excepcional que hace imposible seguir los trámites ordinarios previstos por la CONSTITUCION NACIONAL para la sanción de las leyes.
+
+Que ha tomado la intervención que le compete la Dirección General de Asuntos Jurídicos del MINISTERIO DE DEFENSA.
+
+Que el presente se dicta en uso de las atribuciones emergentes del artículo 99, inciso 3 de la CONSTITUCION NACIONAL.
+
+Por ello,
+
+EL PRESIDENTE DE LA NACION ARGENTINA EN ACUERDO GENERAL DE MINISTROS
+
+DECRETA:
+
+## Artículo 1º
+
+Incorpórase a la Planilla Anexa al Artículo 12 de la Ley Nº 26.198 de Presupuesto General de la Administración Nacional para el Ejercicio 2007, los servicios detallados en Planilla Anexa al presente artículo que forman parte integrante del mismo.
+
+## Art. 2º
+
+Dése cuenta a la COMISION BICAMERAL PERMANENTE del HONORABLE CONGRESO DE LA NACION.
+
+## Art. 3º
+
+Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese. — KIRCHNER. — Alberto A. Fernández. — Aníbal D. Fernández. — Alberto J. B. Iribarne. — Alicia M. Kirchner. — Carlos A. Tomada. — Jorge E. Taiana. — Julio M. De Vido. — Miguel G. Peirano. — Ginés M. González García. — Daniel F. Filmus. — Nilda Garré.
+
+Planilla Anexa al Artículo 1º
+
+CONTRATACION DE OBRAS O ADQUISICION DE BIENES Y SERVICIOS
+
+QUE INCIDEN EN EJERCICIOS FUTUROS
+
+[imagen: https://servicios.infoleg.gob.ar/infolegInternet/anexos/135000-139999/135429/dto1855-10-12-2007.jpg]
+
+CONGRESO DE LA NACION
+
+Resolución
+
+Declárase la validez del Decreto Nº 1855/2007.
+
+17-JGM-07
+
+OD 47
+
+Bs. As., 9/4/2008
+
+Señora Presidenta de la Nación.
+
+Tengo el honor de dirigirme a la señora Presidenta, comunicándole que esta H. Cámara ha aprobado, en sesión de la fecha, la siguiente resolución.
+
+LA CAMARA DE DIPUTADOS DE LA NACION
+
+RESUELVE:
+
+## Artículo 1º
+
+Declarar la validez del decreto 1855 de fecha 6 de diciembre de 2007.
+
+## Art. 2º
+
+Comuníquese al Poder Ejecutivo.
+
+Dios guarde a la señora Presidenta.
+
+EDUARDO A. FELLNER. — Marta A. Luchetta.

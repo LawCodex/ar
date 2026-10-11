@@ -1,0 +1,101 @@
+---
+title: "Decreto de Necesidad y Urgencia 885/2021: SECTOR PUBLICO NACIONAL — SUMA FIJA NO REMUNERATIVA - OTORGASE"
+identifier: "Decreto de Necesidad y Urgencia 885/2021"
+infoleg_id: "358640"
+type: decree
+jurisdiction: ar
+language: es
+date: 2021-12-23
+published: 2021-12-24
+boletin_oficial: "34821"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-necesidad-urgencia-885-nacional-decreto-necesidad-urgencia-otorga-una-suma-fija-remunerativa-bonificable-extraordinaria-percepcion-unica-para-personal-sector-publico-nacional-dn20210000885-2021-12-23"
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=358640"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/355000-359999/358640/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Decreto de Necesidad y Urgencia 885/2021: SECTOR PUBLICO NACIONAL — SUMA FIJA NO REMUNERATIVA - OTORGASE
+
+SECTOR PÚBLICO NACIONAL
+
+Decreto 885/2021
+
+DECNU-2021-885-APN-PTE - Otórgase una suma fija no remunerativa no bonificable extraordinaria.
+
+Ciudad de Buenos Aires, 23/12/2021
+
+VISTO el Expediente N° EX-2021-123540524-APN-SGYEP#JGM, la Ley N° 27.541 y su modificatoria, los Decretos Nros. 56 del 13 de enero de 2020, 260 del 12 de marzo de 2020, sus modificatorios y complementarios y 167 del 11 de marzo de 2021, y
+
+CONSIDERANDO:
+
+Que con fecha 21 de diciembre de 2019 se sancionó la Ley de Solidaridad Social y Reactivación Productiva en el Marco de la Emergencia Pública N° 27.541 y se declaró la emergencia pública en materia económica, financiera, fiscal, administrativa, previsional, tarifaria, energética, sanitaria y social, hasta el 31 de diciembre de 2020.
+
+Que, en ese sentido, se dictó el Decreto N° 56/20 con el objeto de iniciar el camino de recuperación del salario real de las trabajadoras y los trabajadores de la Administración Pública Nacional, y se permitió dinamizar el mercado interno e impulsar el desarrollo de un círculo virtuoso de producción y empleo.
+
+Que mediante el Decreto N° 260/20 y su prórroga dictada por Decreto N° 167/21 se amplió en nuestro país la emergencia pública en materia sanitaria establecida por la citada Ley N° 27.541, hasta el 31 de diciembre de 2021, en virtud de la pandemia declarada con fecha 11 de marzo de 2020 por la ORGANIZACIÓN MUNDIAL DE LA SALUD (OMS), a raíz del brote de la COVID-19.
+
+Que, desde entonces, los esfuerzos llevados a cabo para contener y sobrellevar los efectos adversos de dicha pandemia provocaron durante el año 2020 que se retrasara el cumplimiento de los objetivos fijados al inicio de dicho año, relacionados con la recuperación del salario real de las trabajadoras y los trabajadores de la Administración Pública Nacional.
+
+Que, no obstante, es dable destacar que el referido personal, a lo largo de la emergencia sanitaria antes declarada, ha demostrado un compromiso destacado en pos del cumplimiento de los objetivos centrales del Estado.
+
+Que, posteriormente, se impulsó nuevamente la recuperación salarial de las trabajadoras y los trabajadores de la Administración Pública Nacional.
+
+Que en ese orden, y con el fin de reforzar el sendero transitado, resulta necesario disponer el otorgamiento de UNA (1) suma fija no remunerativa no bonificable que permita mejorar los estándares adquisitivos de las remuneraciones del personal de la Administración Pública Nacional.
+
+Que la Ley N° 26.122 regula el trámite y los alcances de la intervención del HONORABLE CONGRESO DE LA NACIÓN respecto de los Decretos de Necesidad y Urgencia dictados por el PODER EJECUTIVO NACIONAL, en virtud de lo dispuesto por el artículo 99, inciso 3 de la CONSTITUCIÓN NACIONAL.
+
+Que la citada Ley determina que la COMISIÓN BICAMERAL PERMANENTE tiene competencia para pronunciarse respecto de la validez o invalidez de los Decretos de Necesidad y Urgencia, así como para elevar el dictamen al plenario de cada Cámara para su expreso tratamiento, en el plazo de DIEZ (10) días hábiles.
+
+Que el artículo 22 de la Ley N° 26.122 dispone que las Cámaras se pronuncien mediante sendas resoluciones, y que el rechazo o aprobación de los decretos deberá ser expreso conforme lo establecido en el artículo 82 de la Carta Magna.
+
+Que la COMISIÓN TÉCNICA ASESORA DE POLÍTICA SALARIAL DEL SECTOR PÚBLICO ha tomado la intervención de su competencia.
+
+Que la DIRECCIÓN GENERAL DE ASUNTOS JURÍDICOS de la JEFATURA DE GABINETE DE MINISTROS ha tomado la intervención que le compete.
+
+Que la presente medida se dicta de acuerdo a las facultades emergentes del artículo 99, incisos 1 y 3 de la CONSTITUCIÓN NACIONAL.
+
+Por ello,
+
+EL PRESIDENTE DE LA NACIÓN ARGENTINA EN ACUERDO GENERAL DE MINISTROS
+
+DECRETA:
+
+## ARTÍCULO 1°
+
+Otórgase una suma fija no remunerativa no bonificable extraordinaria de percepción única por persona de PESOS VEINTE MIL ($20.000) a abonarse con los salarios del mes de diciembre de 2021, para el personal en actividad dependiente de las Jurisdicciones y Organismos pertenecientes al PODER EJECUTIVO NACIONAL, comprendidos en el inciso a) del artículo 8° de la Ley N° 24.156 de Administración Financiera y de los Sistemas de Control del Sector Público Nacional, en las condiciones que se establecen en el presente decreto.
+
+## ARTÍCULO 2°
+
+A los efectos de la liquidación de la suma fija no remunerativa no bonificable a la que refiere el artículo precedente deberán considerarse incluidos en su monto todos aquellos conceptos otorgados o a otorgarse, cuyo devengamiento opere en el mes de diciembre de 2021, que fueran establecidos o acordados por única vez con carácter excepcional, ya sea que los mismos estuvieran previstos como sumas dinerarias o beneficios especiales que pudieran ser destinados para solventar gastos.
+
+## ARTÍCULO 3°
+
+Establécese que el personal incluido en las previsiones del artículo 1° del presente decreto, que al mes de noviembre de 2021 realizara una jornada laboral inferior a la prevista para su cargo, percibirá la suma fija no remunerativa no bonificable extraordinaria que se otorga por el presente en forma proporcional a la prestación de servicios efectivamente realizada.
+
+## ARTÍCULO 4°
+
+Establécese que la suma fija no remunerativa no bonificable extraordinaria a la que refiere el presente decreto se extenderá al personal no incluido en las previsiones del artículo 1° del mismo, que estuviera comprendido en el Convenio Colectivo de Trabajo General para la Administración Pública Nacional, homologado por Decreto N° 214/06 y sus modificatorios y complementarios.
+
+## ARTÍCULO 5°
+
+Establécese que la suma fija no remunerativa no bonificable a la que refiere el presente decreto no será de aplicación para las Autoridades Superiores de las Jurisdicciones, Entidades y Organismos del PODER EJECUTIVO NACIONAL, incluidas las comprendidas en el Decreto Nº 838/94 y sus modificatorios, en el régimen del Decreto N° 1716/92 y su normativa complementaria y en el Decreto N° 140/07.
+
+## ARTÍCULO 6°
+
+Facúltase a la COMISIÓN TÉCNICA ASESORA DE POLÍTICA SALARIAL DEL SECTOR PÚBLICO para dictar las normas aclaratorias y complementarias que resultaren pertinentes para la aplicación de la presente medida.
+
+## ARTÍCULO 7°
+
+Dese cuenta a la COMISIÓN BICAMERAL PERMANENTE del HONORABLE CONGRESO DE LA NACIÓN.
+
+## ARTÍCULO 8°
+
+Comuníquese, publíquese, dese a la DIRECCIÓN NACIONAL DEL REGISTRO OFICIAL y archívese.
+
+FERNÁNDEZ - Juan Luis Manzur - Eduardo Enrique de Pedro - Santiago Andrés Cafiero - Jorge Enrique Taiana - Martín Guzmán - Matías Sebastián Kulfas - Julian Andres Dominguez - Alexis Raúl Guerrera - Gabriel Nicolás Katopodis - Martín Ignacio Soria - Aníbal Domingo Fernández - Carla Vizzotti - Juan Zabaleta - Elizabeth Gómez Alcorta - Jaime Perczyk - Tristán Bauer - Daniel Fernando Filmus - Claudio Omar Moroni - Juan Cabandie - Matías Lammens - Jorge Horacio Ferraresi
+
+e. 24/12/2021 N° 100802/21 v. 24/12/2021

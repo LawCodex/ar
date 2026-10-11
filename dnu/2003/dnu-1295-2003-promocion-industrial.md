@@ -1,0 +1,83 @@
+---
+title: "Decreto de Necesidad y Urgencia 1295/2003: PROMOCION INDUSTRIAL — REF.:DECRETO NRO. 2054/92 Y RESOLUCION NRO 1280/92"
+identifier: "Decreto de Necesidad y Urgencia 1295/2003"
+infoleg_id: "91282"
+type: decree
+jurisdiction: ar
+language: es
+date: 2003-12-18
+published: 2003-12-23
+boletin_oficial: "30303"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-necesidad-urgencia-1295-nacional-decreto-necesidad-urgencia-sobre-evaluacion-grado-cumplimiento-compromisos-promocionales-dn20031001295-2003-12-18"
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=91282"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/90000-94999/91282/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Decreto de Necesidad y Urgencia 1295/2003: PROMOCION INDUSTRIAL — REF.:DECRETO NRO. 2054/92 Y RESOLUCION NRO 1280/92
+
+PROMOCION INDUSTRIAL
+
+Decreto 1295/2003
+
+Establécese que la evaluación del grado de cumplimiento de los compromisos promocionales instaurada por el Artículo 7º del Decreto Nº 2054/92 y por la Resolución Nº 1280/92 del ex Ministerio de Economía y Obras y Servicios Públicos, para aquellos proyectos industriales contemplados en las disposiciones de los Decretos Nº 804/96 y 1553/98, se efectuará a partir de la efectiva acreditación de los bonos de crédito fiscal en las respectivas cuentas corrientes computarizadas.
+
+Bs. As., 18/12/2003
+
+VISTO el Expediente Nº S01:0129167/2003 del Registro del MINISTERIO DE ECONOMIA Y PRODUCCION y su agregado sin acumular Nº 8340/2002 del Registro de la JEFATURA DE GABINETE DE MINISTROS, la Ley Nº 22.021 y sus modificatorias Leyes Nros. 22.702 y 22.973, los Decretos Nros. 2054 del 10 de noviembre de 1992, 804 del 16 de julio de 1996 y sus complementarios Nros. 1125 del 4 de octubre de 1996, 69 del 23 de enero de 1997 y 1553 del 29 de diciembre de 1998, la Resolución Nº 1280 del 11 de noviembre de 1992 del ex MINISTERIO DE ECONOMIA Y OBRAS Y SERVICIOS PUBLICOS, y
+
+CONSIDERANDO:
+
+Que a través de los Artículos 6º, 7º y 8º del Decreto Nº 2054 del 10 de noviembre de 1992 y de la Resolución Nº 1280 del 11 de noviembre de 1992 del ex MINISTERIO DE ECONOMIA Y OBRAS Y SERVICIOS PUBLICOS se fijan las normas y procedimientos que determinan el criterio de evaluación del grado de cumplimiento de las obligaciones promocionales para aquellos casos de proyectos industriales que hayan acreditado su permanencia en el régimen de sustitución de beneficios promocionales.
+
+Que ante dificultades de instrumentación de las efectivas acreditaciones de beneficios promocionales en las cuentas corrientes computarizadas respectivas, correspondientes a proyectos encuadrados en los Decretos Nros. 804 del 16 de julio de 1996 y 1553 del 29 de diciembre de 1998, surge la necesidad de reformular los criterios de aplicación para la evaluación del grado de cumplimiento y la determinación del demérito correspondiente.
+
+Que, a fin de evitar situaciones de inequidad, los nuevos criterios deben ser aplicados tanto a aquellos proyectos a los que no se les hubiere practicado el demérito como a los que, aun con el demérito practicado, éste no hubiere sido notificado o se encuentre en curso de discusión administrativa.
+
+Que asimismo, teniendo en cuenta las especiales condiciones económicas actuales y a fin de propender a la reactivación y continuidad de las iniciativas de inversión radicadas al amparo de la Ley Nº 22.021 y sus modificatorias Leyes Nros. 22.702 y 22.973, así como a la preservación de los puestos de trabajo generados, es menester facultar a las Autoridades de Aplicación provinciales para aprobar modificaciones de objeto de proyectos industriales en la medida que éstas no alteren los montos de los beneficios oportunamente otorgados ni produzcan reducción en las obligaciones promocionales comprometidas.
+
+Que la naturaleza excepcional de la situación planteada hace imposible seguir los trámites ordinarios previstos por la CONSTITUCION NACIONAL para la sanción de las leyes.
+
+Que la Dirección General de Asuntos Jurídicos del MINISTERIO DE ECONOMIA Y PRODUCCION ha tomado la intervención que le compete.
+
+Que por lo expuesto, el presente decreto se dicta en uso de las facultades conferidas por el Artículo 99, inciso 3 de la CONSTITUCION NACIONAL.
+
+Por ello,
+
+EL PRESIDENTE DE LA NACION ARGENTINA EN ACUERDO GENERAL DE MINISTROS
+
+DECRETA:
+
+## Artículo 1º
+
+La evaluación del grado de cumplimiento de los compromisos promocionales instaurada por el Artículo 7º del Decreto Nº 2054 del 10 de noviembre de 1992 y por la Resolución Nº 1280 del 11 de noviembre de 1992 del ex MINISTERIO DE ECONOMIA Y OBRAS Y SERVICIOS PUBLICOS, para aquellos proyectos industriales contemplados en las disposiciones de los Decretos Nº 804 del 16 de julio de 1996 y Nº 1553 del 29 de diciembre de 1998, se efectuará a partir de la efectiva acreditación de los bonos de crédito fiscal en las respectivas cuentas corrientes computarizadas. Esta disposición resultará aplicable cuando, a la fecha de entrada en vigencia del presente decreto, el demérito no se hubiere determinado o, habiéndoselo practicado, no se hubiere notificado o se encuentre en curso de discusión administrativa.
+
+La aplicación de las disposiciones del presente artículo no implicará la prórroga de la puesta en marcha del proyecto promovido ni la extensión o desplazamiento del período de beneficios.
+
+## Art. 2º
+
+Las Autoridades de Aplicación provinciales de la Ley Nº 22.021 y sus modificatorias Leyes Nros. 22.702 y 22.973, podrán aprobar modificaciones de objeto de proyectos industriales promovidos en la medida que el nuevo objeto se encuadre en los TRES (3) primeros dígitos del grupo del Anexo I del Decreto Nº 3319 del 21 de diciembre de 1979 correspondiente al objeto original.
+
+Las modificaciones previstas en el párrafo anterior no deberán producir incrementos en los costos fiscales acreditados en las respectivas cuentas corrientes computarizadas de conformidad con las disposiciones de la Resolución Nº 1280/92 del ex MINISTERIO DE ECONOMIA Y OBRAS Y SERVICIOS PUBLICOS, y no deberán significar reducción alguna de los niveles mínimos originalmente comprometidos en materia de empleo, producción e inversión. Respecto de los niveles de producción, las Autoridades de Aplicación provinciales determinarán las unidades equivalentes.
+
+(Nota Infoleg: Por art. 1° de la Resolución N° 158/2004 del Ministerio de Economía y Producción B.O. 12/3/2004 se establece que las modificaciones de objeto de proyectos industriales promovidos con los alcances y limitaciones previstos en el presente artículo, serán válidas en la medida que las respectivas aprobaciones se efectúen a partir del 23 de diciembre de 2003. En el caso que dichas aprobaciones se hubiesen producido con anterioridad al dictado del citado decreto las mismas surtirán efectos a partir del 23 de diciembre de 2003. En ambos casos, deberán contemplarse los recaudos contenidos en los Artículos 2º y 5º de la resolución de referencia.)
+
+## Art. 3º
+
+Facúltase al MINISTERIO DE ECONOMIA Y PRODUCCION y a la ADMINISTRACION FEDERAL DE INGRESOS PUBLICOS entidad autárquica en el ámbito de este Ministerio para dictar, en el ámbito de sus respectivas competencias, las normas reglamentarias y/o complementarias a los fines de la aplicación del presente decreto. En todos aquellos aspectos no contemplados en el mismo y en las normas que se dicten en su consecuencia resultarán de aplicación las disposiciones de la Ley Nº 22.021 y sus modificatorias Leyes Nros. 22.702 y 22.973 y del Decreto Nº 2054/92 y sus normas reglamentarias y complementarias.
+
+## Art. 4º
+
+Las disposiciones del presente decreto entrarán en vigencia a partir de la fecha de su publicación en el Boletín Oficial.
+
+## Art. 5º
+
+Dése cuenta al HONORABLE CONGRESO DE LA NACION.
+
+## Art. 6º
+
+Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese. — KIRCHNER. — Alberto A. Fernández. — Aníbal D. Fernández. — José J. B. Pampuro. — Gustavo O. Beliz. — Roberto Lavagna. — Ginés González García. — Rafael A. Bielsa. — Alicia M. Kirchner. — Carlos A. Tomada. — Daniel F. Filmus.

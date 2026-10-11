@@ -1,0 +1,79 @@
+---
+title: "Decreto de Necesidad y Urgencia 1062/2002: PRESUPUESTO DE LA ADMINISTRACION NACIONAL — DISTRIBUCION - MODIFICACION"
+identifier: "Decreto de Necesidad y Urgencia 1062/2002"
+infoleg_id: "75250"
+type: decree
+jurisdiction: ar
+language: es
+date: 2002-06-19
+published: 2002-06-21
+boletin_oficial: "29925"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-necesidad-urgencia-1062-nacional-decreto-necesidad-urgencia-sobre-modificacion-distribucion-presupuesto-administracion-nacional-para-ejercicio-2002-dn20022001062-2002-06-19"
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=75250"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/75000-79999/75250/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Decreto de Necesidad y Urgencia 1062/2002: PRESUPUESTO DE LA ADMINISTRACION NACIONAL — DISTRIBUCION - MODIFICACION
+
+PRESUPUESTO
+
+Decreto 1062/2002
+
+Modificación de la distribución del Presupuesto de la Administración Nacional para el ejercicio 2002.
+
+Bs. As., 19/6/2002
+
+VISTO el PRESUPUESTO DE LA ADMINISTRACION NACIONAL para el ejercicio 2002, aprobado por la Ley Nº 25.565 y distribuido por la Decisión Administrativa Nº 19 del 27 de marzo de 2002, y
+
+CONSIDERANDO:
+
+Que el trámite excepcional que demandó la aprobación del PRESUPUESTO DE LA ADMINISTRACION NACIONAL para el ejercicio 2002 no permitió incluir los créditos necesarios para la atención de gastos necesarios para una adecuada protección de las personas y bienes, el control efectivo de fronteras, la identificación de la población y la difusión de actos de Gobierno que ejercen la POLICIA FEDERAL ARGENTINA, la PREFECTURA NAVAL ARGENTINA, la GENDARMERIA NACIONAL, el REGISTRO NACIONAL DE LAS PERSONAS y la SECRETARIA DE MEDIOS DE COMUNICACION.
+
+Que una importante y variada cantidad de elementos y servicios que deben utilizar las FUERZAS DE SEGURIDAD, como los repuestos y el mantenimiento de aeronaves, embarcaciones y otros equipos, la adquisición de equipos de comunicaciones, la compra de insumos para laboratorios científicos para la realización de pericias, entre otros, deben adquirirse en el exterior.
+
+Que la variación operada en el tipo de cambio tiene en estos casos una incidencia determinante que obliga a consumir el crédito presupuestario con una menor cantidad de bienes y servicios adquiridos.
+
+Que también otros insumos, particularmente los combustibles, han experimentado un incremento en los precios que afecta significativamente los créditos provocando un pronto agotamiento de los mismos lo que afectará, en breve plazo, la operatividad de las flotas terrestre, aérea y de navegación de dichas Fuerzas.
+
+Que no debe resentirse la atención de los prestadores de servicios básicos de las Instituciones.
+
+Que la caída en las recaudaciones de los recursos propios del REGISTRO NACIONAL DE LAS PERSONAS no permite la atención de sus funciones fundamentales cual es la identificación del potencial humano nacional.
+
+Que ello podría afectar el PROGRAMA JEFES DE HOGAR en cuanto a que uno de los requisitos que deben presentar los futuros beneficiarios es el Documento Nacional de Identidad.
+
+Que para ello, deben adquirirse los elementos necesarios que son provistos por el INSTITUTO GEOGRAFICO MILITAR.
+
+Que resulta necesario efectuar una reasignación de los créditos vigentes entre programas del MINISTERIO DE TRABAJO, EMPLEO Y SEGURIDAD SOCIAL y de la SECRETARIA DE MEDIOS DE COMUNICACIÓN DE LA PRESIDENCIA DE LA NACION a efectos de atender gastos de difusión del PROGRAMA JEFES DE HOGAR.
+
+Que, por lo tanto, resulta urgente implementar las medidas pertinentes para que las Instituciones mencionadas puedan cumplir con la misión fijada para cada una de ellas, reforzando sus respectivos presupuestos.
+
+Que el artículo 17 de la Ley Nº 25.565 excluye al JEFE DE GABINETE DE MINISTROS de la facultad de efectuar modificaciones presupuestarias cuando de ellas se deriva un cambio en los créditos aprobados por Finalidad por el artículo 1º de dicha ley o se disminuyan los gastos de capital o aplicaciones financieras para aumentar los gastos corrientes.
+
+Que atento a la urgencia en resolver las situaciones descriptas resulta imperioso adoptar las medidas proyectadas, configurando una circunstancia excepcional que hace imposible seguir los trámites ordinarios previstos por la CONSTITUCION NACIONAL para la sanción de las Leyes.
+
+Que el presente se dicta en uso de las atribuciones emergentes del artículo 99, inciso 3, de la CONSTITUCION NACIONAL.
+
+Por ello,
+
+EL PRESIDENTE DE LA NACION ARGENTINA EN ACUERDO GENERAL DE MINISTROS
+
+DECRETA:
+
+## Artículo 1º
+
+Modifícase la distribución del PRESUPUESTO DE LA ADMINISTRACION NACIONAL para el ejercicio 2002 de acuerdo al detalle obrante en planillas anexas al presente artículo.
+
+## Art. 2º
+
+Dése cuenta al HONORABLE CONGRESO DE LA NACION en virtud de lo dispuesto en el artículo 99, inciso 3 de la CONSTITUCION NACIONAL.
+
+## Art. 3º
+
+Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese. — DUHALDE. — Alfredo N. Atanasof. — Roberto Lavagna. — Jorge R. Matzkin. — Graciela Camaño. — Ginés M. González García. — José H. Jaunarena. — Jorge R. Vanossi. — Graciela Giannettasio. — María N. Doga.
+
+NOTA: Este decreto se publica sin planillas anexas. La documentación no publicada puede ser consultada en la Sede Central de esta Dirección Nacional (Suipacha 767 - Capital Federal).

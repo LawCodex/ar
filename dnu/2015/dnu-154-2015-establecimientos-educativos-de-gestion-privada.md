@@ -1,0 +1,99 @@
+---
+title: "Decreto de Necesidad y Urgencia 154/2015: ESTABLECIMIENTOS EDUCATIVOS DE GESTION PRIVADA — DECRETO Nº 814/2001 - SUSPENSION"
+identifier: "Decreto de Necesidad y Urgencia 154/2015"
+infoleg_id: "242727"
+type: decree
+jurisdiction: ar
+language: es
+date: 2015-01-29
+published: 2015-02-24
+boletin_oficial: "33076"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-necesidad-urgencia-154-nacional-decreto-necesidad-urgencia-suspende-aplicacion-disposiciones-contenidas-decreto-814-20-junio-2001-respecto-empleadores-titulares-establecimientos-educativos-gestion-privada-se-encontraren-incorporados-ensenanza-oficial-dn20150000154-2015-01-29"
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=242727"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/240000-244999/242727/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Decreto de Necesidad y Urgencia 154/2015: ESTABLECIMIENTOS EDUCATIVOS DE GESTION PRIVADA — DECRETO Nº 814/2001 - SUSPENSION
+
+CONTRIBUCIONES PATRONALES
+
+Decreto 154/2015
+
+Establecimientos Educativos de Gestión Privada. Decreto Nº 814/2001. Suspensión.
+
+Bs. As., 29/1/2015
+
+VISTO el Expediente N° 6.392/02 en TRES (3) cuerpos del Registro del entonces MINISTERIO DE EDUCACIÓN, CIENCIA Y TECNOLOGÍA, la Ley N° 24.241, los Decretos Nros. 814 de fecha 20 de junio de 2001, modificado por el Artículo 9° de la Ley N° 25.453, 1.034 de fecha 14 de agosto de 2001, 284 del 8 de febrero de 2002, 539 de fecha 10 de marzo de 2003, 1.806 del 10 de diciembre de 2004, 986 del 19 de agosto de 2005, 151 del 22 de febrero de 2007, 108 del 16 de febrero de 2009, 160 del 16 de febrero de 2011, 201 del 7 de febrero de 2012, 249 del 4 de marzo de 2013 y 351 del 21 de marzo de 2014, y
+
+CONSIDERANDO:
+
+Que por la Ley N° 24.241 se dispuso que todos los empleadores privados contribuyeran, para la jubilación del personal con relación de dependencia, con un aporte equivalente al DIECISÉIS POR CIENTO (16%) del haber remuneratorio de la nómina del establecimiento.
+
+Que las instituciones privadas de enseñanza comprendidas en la Ley N° 13.047 y las transferidas a las jurisdicciones según la Ley N° 24.049, están alcanzadas por los términos de la legislación previsional citada.
+
+Que el Decreto N° 814 de fecha 20 de junio de 2001, modificado por el Artículo 9º de la Ley N° 25.453, con el objeto de ordenar las sucesivas modificaciones que en materia de reducción de las contribuciones patronales se habían establecido en años anteriores y a efectos de simplificar el encuadramiento, liquidación y tareas de control y fiscalización de las mismas y como instancia superadora, adoptó una modalidad de alícuota única para la casi totalidad de las mencionadas contribuciones, fijándola en el VEINTE POR CIENTO (20%) para los empleadores que resultaran comprendidos en el inciso a) de su Artículo 2° y en el DIECISÉIS POR CIENTO (16%), para los indicados en el inciso b) del mismo artículo, dejándose, asimismo, sin efecto toda norma que hubiera contemplado exenciones o reducciones de alícuotas aplicables a las contribuciones patronales.
+
+Que, posteriormente, dichos porcentajes fueron incrementados en UN (1) punto por el Artículo 80 de la Ley N° 25.565.
+
+Que por los Decretos Nros. 1.034 de fecha 14 de agosto de 2001, 284 de fecha 8 de febrero de 2002, 539 de fecha 10 de marzo de 2003, 1.806 de fecha 10 de diciembre de 2004, 986 de fecha 19 de agosto de 2005, 151 del 22 de febrero de 2007, 108 del 16 de febrero de 2009, 160 del 16 de febrero de 2011, 201 del 7 de febrero de 2012, 249 del 4 de marzo de 2013 y 351 del 21 de marzo de 2014 se suspendió la aplicación de los referidos porcentajes para los empleadores titulares de establecimientos educacionales privados, cuyas actividades estuvieran comprendidas en las Leyes Nros. 24.521, sus modificaciones y 26.206.
+
+Que por el Artículo 4° del Decreto N° 814/01, según texto modificado por la Ley N° 25.723, los empleadores pueden computar, como crédito fiscal del Impuesto al Valor Agregado, los puntos porcentuales establecidos en el Anexo I de dicha norma.
+
+Que los establecimientos educativos privados incorporados a la enseñanza oficial comprendidos en la Ley N° 13.047 están exceptuados del Impuesto al Valor Agregado, por lo que se encuentran en una situación de inequidad tributaria con relación al resto de las actividades privadas, al no poder compensar valor alguno por este concepto.
+
+Que la situación descripta colisiona, para este sector, con los objetivos planteados al momento de dictarse el Decreto N° 814/01, de establecer el crecimiento sostenido, la competitividad y el aumento del empleo, mediante la reducción de los costos disminuyendo la presión sobre la nómina salarial.
+
+Que conforme la Ley N° 24.049 la administración y supervisión de las instituciones privadas de enseñanza comprendidas en la Ley N° 13.047 fue transferida a las Provincias y a la CIUDAD AUTÓNOMA DE BUENOS AIRES, contando la mayoría de ellas con el aporte estatal para el financiamiento previsto en la Ley N° 26.206, el cual surge de los respectivos presupuestos provinciales y de la CIUDAD AUTÓNOMA DE BUENOS AIRES.
+
+Que la aplicación del Decreto N° 814/01 generaría, por lo tanto, un incremento en las partidas presupuestarias provinciales afectadas a los aportes estatales en momentos que las mismas están efectuando ingentes esfuerzos por incrementar los recursos asignados a educación, según las demandas de la Ley de Financiamiento Educativo N° 26.075 y por mantener el equilibrio fiscal, situación que se ha evitado sucesivamente mediante el dictado de los Decretos Nros. 1.034/01, 284/02, 539/03, 1.806/04, 986/05, 151/07, 108/09, 160/11, 201/12, 249/13 y 351/14.
+
+Que la aplicación del Decreto N° 814/01 en los establecimientos de gestión privada provocará un incremento en el valor de los aranceles que abonan las familias por los servicios educativos brindados en instituciones cuyo personal no está totalmente alcanzado por el aporte estatal, impacto que es mayor en aquellas regiones menos favorecidas del país como consecuencia de la situación descripta anteriormente.
+
+Que tal situación puede ocasionar no sólo un detrimento en la calidad educativa, sino que al mismo tiempo puede impactar en el nivel de empleo en este sector, lo que agravaría la situación económica y social actual producida por la crisis financiera mundial y de la que el Gobierno Nacional procura evitar sus mayores riesgos.
+
+Que los Institutos de Educación Pública de Gestión Privada incorporados a la enseñanza oficial comprendidos en las Leyes Nros. 13.047 y 24.049 son regulados y supervisados en cuanto a sus aranceles por las autoridades jurisdiccionales.
+
+Que es prioridad del Gobierno Nacional favorecer a los sectores de las regiones menos favorecidas del país a través de políticas que promuevan un desarrollo más equitativo e igualitario.
+
+Que la aplicación del Decreto N° 814/01 en las instituciones educativas privadas produciría un efecto contrario a este objetivo de la política nacional, gravando a quienes brindan el servicio educativo, a diferencia del resto de las actividades que no ven incrementados sus costos, lo que hace necesario dictar la presente norma para corregir el efecto no deseado de aplicar a este sector ese decreto.
+
+Que la aplicación del Decreto N° 814/01 tendría un efecto regresivo en todas las jurisdicciones, pero principalmente en las más necesitadas.
+
+Que la naturaleza excepcional de la situación planteada hace imposible seguir los trámites ordinarios previstos por la CONSTITUCIÓN NACIONAL para la sanción de las leyes.
+
+Que la Ley N° 26.122 regula el trámite y los alcances de la intervención del HONORABLE CONGRESO DE LA NACIÓN, respecto de los decretos de necesidad y urgencia dictados por el PODER EJECUTIVO NACIONAL, en virtud de lo dispuesto por el Artículo 99, inciso 3, de la CONSTITUCIÓN NACIONAL.
+
+Que el Artículo 2° de la ley mencionada precedentemente determina que la COMISIÓN BICAMERAL PERMANENTE del HONORABLE CONGRESO DE LA NACIÓN tiene competencia para pronunciarse respecto de los decretos de necesidad y urgencia.
+
+Que el Artículo 10 de la citada ley dispone que la COMISIÓN BICAMERAL PERMANENTE debe expedirse acerca de la validez o invalidez del decreto y elevar el dictamen al plenario de cada Cámara para su expreso tratamiento, en el plazo de DIEZ (10) días hábiles, conforme lo establecido en el Artículo 19 de dicha norma.
+
+Que el Artículo 20 de la ley referida, prevé incluso que, en el supuesto que la citada COMISIÓN BICAMERAL PERMANENTE no eleve el correspondiente despacho, las Cámaras se abocarán al expreso e inmediato tratamiento del decreto, de conformidad con lo establecido en los Artículos 99, inciso 3, y 82 de la CONSTITUCIÓN NACIONAL.
+
+Que por su parte el Artículo 22 dispone que las Cámaras se pronuncien mediante sendas resoluciones y el rechazo o aprobación de los decretos deberá ser expreso conforme lo establecido en el Artículo 82 de nuestra Carta Magna.
+
+Que las DIRECCIONES GENERALES DE ASUNTOS JURÍDICOS de los MINISTERIOS DE EDUCACIÓN y DE ECONOMÍA Y FINANZAS PÚBLICAS han tomado la intervención que les compete.
+
+Que la presente medida se dicta en uso de las facultades conferidas por los Artículos 99, inciso 3, de la CONSTITUCIÓN NACIONAL y 2º, 19 y 20 de la Ley N° 26.122.
+
+Por ello,
+
+LA PRESIDENTA DE LA NACIÓN ARGENTINA EN ACUERDO GENERAL DE MINISTROS
+
+DECRETA:
+
+## Artículo 1°
+
+Suspéndese desde el 1° de enero de 2015 hasta el 31 de diciembre de 2015 inclusive, la aplicación de las disposiciones contenidas en el Decreto N° 814 del 20 de junio de 2001 y sus modificatorios, respecto de los empleadores titulares de establecimientos educativos de gestión privada que se encontraren incorporados a la enseñanza oficial conforme las disposiciones de las Leyes Nros. 13.047 y 24.049.
+
+## Art. 2°
+
+Dése cuenta a la COMISIÓN BICAMERAL PERMANENTE del HONORABLE CONGRESO DE LA NACIÓN.
+
+## Art. 3°
+
+Comuníquese, publíquese, dése a la DIRECCIÓN NACIONAL DEL REGISTRO OFICIAL y archívese. — FERNANDEZ DE KIRCHNER. — Jorge M. Capitanich. — Aníbal F. Randazzo. — Axel Kicillof. — Débora A. Giorgi. — Carlos H. Casamiquela. — Julio C. Alak. — Carlos A. Tomada. — Alicia M. Kirchner. — Juan L. Manzur. — Alberto E. Sileoni. — José L. S. Barañao. — Agustín O. Rossi. — María C. Rodriguez. — Teresa A. Sellarés.

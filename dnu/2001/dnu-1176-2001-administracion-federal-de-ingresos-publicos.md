@@ -1,0 +1,85 @@
+---
+title: "Decreto de Necesidad y Urgencia 1176/2001: ADMINISTRACION FEDERAL DE INGRESOS PUBLICOS — CANCELACION DE DEUDA - ENTREGA DE BONOS"
+identifier: "Decreto de Necesidad y Urgencia 1176/2001"
+infoleg_id: "68937"
+type: decree
+jurisdiction: ar
+language: es
+date: 2001-09-14
+published: 2001-09-19
+boletin_oficial: "29735"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-necesidad-urgencia-1176-nacional-decreto-necesidad-urgencia-sobre-cancelacion-deudas-administracion-federal-ingresos-publicos-dn20010001176-2001-09-14"
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=68937"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/65000-69999/68937/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Decreto de Necesidad y Urgencia 1176/2001: ADMINISTRACION FEDERAL DE INGRESOS PUBLICOS — CANCELACION DE DEUDA - ENTREGA DE BONOS
+
+ADMINISTRACION FEDERAL DE INGRESOS PUBLICOS
+
+Decreto 1176/2001
+
+Dispónese la cancelación de deudas de la mencionada entidad autárquica, originadas en facturas impagas al 31 de diciembre de 2000 por la prestación de servicios básicos, mediante la utilización de Bonos de Consolidación - Tercera Serie, hasta un determinado monto.
+
+Bs. As., 14/9/2001
+
+VISTO la Ley N° 25.401 de Presupuesto de la Administración Nacional para el Ejercicio 2001 y,
+
+CONSIDERANDO:
+
+Que la ADMINISTRACION FEDERAL DE INGRESOS PUBLICOS, entidad autárquica dependiente del MINISTERIO DE ECONOMIA, mantiene deudas originadas en facturas impagas al 31 de diciembre de 2000 por la prestación de servicios básicos.
+
+Que es decisión del GOBIERNO NACIONAL dotar al mencionado Organismo de los mecanismos pertinentes para hacer más eficiente el cumplimiento de sus funciones, principalmente las referidas a la administración y recaudación de los tributos impositivos y aduaneros, resultando necesario adoptar entre otras medidas, aquéllas que permitan regularizar con las empresas prestadoras las deudas pendientes, preservando al mismo tiempo las disponibilidades del TESORO NACIONAL.
+
+Que por ello se considera conveniente cancelar las citadas deudas, hasta la suma de VEINTINUEVE MILLONES CINCUENTA Y SIETE MIL QUINIENTOS PESOS ($ 29.057.500) mediante la utilización de BONOS DE CONSOLIDACION - TERCERA SERIE, dentro del límite establecido en la Planilla N° 15 Anexa al artículo 9° de la Ley N° 25.401, y consecuentemente, excluir de las disposiciones del tercer párrafo de dicho artículo el procedimiento de cancelación que se dispone por el presente Decreto.
+
+Que no puede desconocerse la situación de emergencia económica por la que atraviesa el ESTADO NACIONAL, la cual ha sido declarada por el HONORABLE CONGRESO DE LA NACION mediante la sanción de la Ley de Emergencia Económico-Financiera N° 25.344.
+
+Que en dicho contexto normativo, corresponde adoptar sin dilaciones todas aquellas medidas que contribuyan al saneamiento financiero de la ADMINISTRACION FEDERAL DE INGRESOS PUBLICOS, entidad autárquica dependiente del MINISTERIO DE ECONOMIA.
+
+Que en consecuencia resulta necesario recurrir al dictado del presente Decreto, dado que las razones antes señaladas, no permiten seguir los trámites ordinarios previstos por la CONSTITUCION NACIONAL para la sanción de las leyes, atento el lapso que ello demanda.
+
+Que ha tomado la intervención que le compete la DIRECCION GENERAL DE ASUNTOS JURIDICOS del MINISTERIO DE ECONOMIA.
+
+Que el presente Decreto se dicta en uso de las atribuciones emergentes del artículo 99, incisos 1 y 3 de la CONSTITUCION NACIONAL.
+
+Por ello,
+
+EL PRESIDENTE DE LA NACION ARGENTINA EN ACUERDO GENERAL DE MINISTROS
+
+DECRETA:
+
+## Artículo 1°
+
+Considéranse como deudas contraidas por la ADMINISTRACION FEDERAL DE INGRESOS PUBLICOS, entidad autárquica dependiente del MINISTERIO DE ECONOMIA, por servicios básicos prestados a la misma hasta el 31 de diciembre de 2000, las que surjan de las facturas debidamente conformadas por los funcionarios responsables del Organismo involucrado, por hasta el monto máximo previsto en el artículo 3° del presente Decreto.
+
+Las referidas deudas quedan comprendidas dentro de los conceptos del inciso f) del artículo 2° de la Ley N° 25.152.
+
+## Art. 2°
+
+La CONTADURIA GENERAL DE LA NACION de la SECRETARIA DE HACIENDA, la OFICINA NACIONAL DE CREDITO PUBLICO de la SECRETARIA DE FINANZAS y la ADMINISTRACION FEDERAL DE INGRESOS PUBLICOS, todas dependientes del MINISTERIO DE ECONOMIA, procederán a realizar las registraciones pertinentes, siguiendo para ello los procedimientos y normas vigentes en la materia.
+
+## Art. 3°
+
+La deuda reconocida en el artículo 1° del presente Decreto será cancelada por la ADMINISTRACION FEDERAL DE INGRESOS PUBLICOS entidad autárquica del MINISTERIO DE ECONOMIA, hasta la suma de VEINTINUEVE MILLONES CINCUENTA Y SIETE MIL QUINIENTOS PESOS ($ 29.057.500) mediante la entrega de BONOS DE CONSOLIDACION –TERCERA SERIE dentro del total determinado en la Planilla N° 15 Anexa al artículo 9° de la Ley N° 25.401.
+
+## Art. 4°
+
+Exclúyese de las disposiciones del tercer párrafo del artículo 9° de la Ley N° 25.401 la atención de las deudas referidas en el artículo anterior.
+
+## Art. 5°
+
+El MINISTERIO DE ECONOMIA será la Autoridad de Aplicación del presente Decreto, quedando facultado para el dictado de las normas aclaratorias, interpretativas y complementarias que correspondan.
+
+## Art. 6°
+
+Dése cuenta al HONORABLE CONGRESO DE LA NACION en virtud de lo dispuesto en el artículo 99, inciso 3 de la CONSTITUCION NACIONAL.
+
+## Art. 7°
+
+Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese. — DE LA RUA. — Chrystian G. Colombo. — Héctor J. Lombardo. — Andrés G. Delich. — Juan P. Cafiero. — Patricia Bullrich. — Domingo F. Cavallo. — Jorge E. De La Rúa. — Ramón B. Mestre. — José H. Jaunarena. — Adalberto Rodríguez Giavarini.

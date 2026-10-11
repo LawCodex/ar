@@ -1,0 +1,87 @@
+---
+title: "Decreto de Necesidad y Urgencia 23/2001: ADMINISTRACION PUBLICA NACIONAL — FIJACION DE UN HABER MAXIMO"
+identifier: "Decreto de Necesidad y Urgencia 23/2001"
+infoleg_id: "71088"
+type: decree
+jurisdiction: ar
+language: es
+date: 2001-12-23
+published: 2001-12-27
+boletin_oficial: "29804"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/decreto-necesidad-urgencia-23-nacional-decreto-necesidad-urgencia-establece-haber-maximo-para-todos-funcionarios-agentes-organismos-centralizados-descentralizados-autarquicos-dn20013000023-2001-12-23"
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=71088"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/70000-74999/71088/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Decreto de Necesidad y Urgencia 23/2001: ADMINISTRACION PUBLICA NACIONAL — FIJACION DE UN HABER MAXIMO
+
+ADMINISTRACION PUBLICA NACIONAL
+
+Decreto 23/2001
+
+Establécese la fijación de un haber máximo, por todo concepto, para todos los funcionarios y agentes de los organismos centralizados, descentralizados y/o autárquicos en cuya economía participe el Estado Nacional.
+
+Bs. As., 23/12/2001
+
+VISTO la necesidad de implementar medidas y acciones de carácter excepcional ante la grave crisis económica y social que afecta a la Nación Argentina, y
+
+CONSIDERANDO:
+
+Que la situación financiera del sector público hace necesario ejecutar acciones de resultados inmediatos a efectos de la adecuación del déficit fiscal con un criterio de austeridad y razonabilidad.
+
+Que, con sentido de justicia social, resulta, indispensable garantizar a los trabajadores del sector público la percepción de un salario digno que le permita satisfacer sus necesidades básicas indispensables, lo cual constituye un principio rector en la acción de gobierno.
+
+Que atento ello, y en atención a la delicada situación que se constatan en el sector público, procede la fijación de un haber máximo, por todo concepto, para todos los funcionarios y agentes de los organismos centralizados, descentralizados y/o autárquicos en cuya economía participe el Estado Nacional.
+
+Que la política que por el presente se instrumenta, debe aplicarse en todos los sectores de la Administración cualquiera sea su nivel de descentralización con arreglo a los principios de razonabilidad e igualdad.
+
+Que la situación financiera que aqueja tanto a la Administración Pública Nacional como a las Administraciones Provinciales hace necesario la adopción de drásticas medidas de perentoria aplicación y resultado inmediatos.
+
+Que el conjunto de medidas previstas en el presente decreto constituyen un remedio eficaz para afrontar las graves circunstancias que afectan a la economía y a la sociedad argentina y tienen por objeto crear las condiciones necesarias para hacer posible el crecimiento de la inversión, el empleo y el nivel de actividad económica.
+
+Que los principios básicos de equidad y justicia social exigen que los sacrificios implícitos en las medidas que se adoptan por el presente decreto alcancen y sean compartidos adecuadamente por todos los sectores.
+
+Que, la presente medida se dicta de conformidad con lo enunciado por el titular del PODER EJECUTIVO NACIONAL, en la Asamblea Legislativa del día de la fecha.
+
+Que el presente decreto se dicta en uso de las atribuciones emergentes del artículo 99 incisos 1 y 3 de la Constitución Nacional y de conformidad con las previsiones del Decreto N° 977 del 6 de julio de 1995.
+
+Por ello,
+
+EL PRESIDENTE DE LA NACION ARGENTINA EN ACUERDO GENERAL DE MINISTROS
+
+DECRETA:
+
+## Artículo 1°
+
+Fíjase, en la suma de PESOS TRES MIL ($ 3.000) la retribución bruta que, por todo concepto, percibirá el Presidente de la Nación.
+
+(Nota Infoleg: Por art. 1° del Decreto N° 685/2004 B.O. 4/6/2004 se establece que a partir del 1º de junio de 2004 la retribución mensual que por todo concepto percibe el Presidente de la Nación, dispuesta por el presente artículo, es de PESOS SEIS MIL ($ 6.000), en las condiciones previstas por el Decreto Nº 172/2002, modificadas por su similar Nº 344/2002).
+
+## Art. 2°
+
+Establécese que los funcionarios y empleados de planta permanente, contratados, temporarios, y vinculados mediante cualquier otra forma de contratación de servicio u obra, de la Administración Nacional conformada por la Administración Central y los organismos descentralizados, comprendiendo en estos últimos a las instituciones de la Seguridad Social Empresas y Sociedades del Estado, tanto las Empresas del Estado, las Sociedades del Estado, las Sociedades Anónimas con Participación Estatal Mayoritaria, las Sociedades de Economía Mixta y todas aquellas otras organizaciones empresariales donde el Estado Nacional tenga participación mayoritaria en el capital o en la formación de las decisiones societarias, Entes Públicos excluidos expresamente de la Administración Nacional, que abarca a cualquier organización estatal no empresarial con autarquía financiera, personalidad jurídica y patrimonio propio, donde el Estado Nacional tenga control mayoritario del patrimonio o de la formación de las decisiones, incluyendo aquellas entidades públicas no estatales donde el Estado Nacional tenga el control de las decisiones, Fondos Fiduciarios integrados total o mayoritariamente con bienes y/o fondos del Estado Nacional incluyendo Entidades Bancarias Oficiales, Entes Reguladores, Superintendencias, Universidades y demás organismos integrantes de la Administración Pública Nacional, cualquiera fuere su naturaleza jurídica, integren o no el Presupuesto de la Administración Pública Nacional, no podrán percibir por todo concepto, una retribución superior a la asignada al Presidente de la Nación.
+
+(Nota Infoleg: Por art. 1° del Decreto N° 25/2001 B.O. 27/12/2001 se establece: Congelar todas las vacantes existentes en la Administración Pública Nacional y en todos los entes y organismos a que se refiere el artículo 2° del Decreto N° 23 del 23 de diciembre de 2001. Y el art. 4° del mismo Decreto establece: La presente medida tendrá vigencia a partir de la fecha del presente decreto y hasta el 31 de diciembre de 2002.)
+
+## Art. 3°
+
+Invítase a adherir a las disposiciones del presente decreto a los Poderes Legislativo y Judicial Nacionales, Gobiernos Provinciales y de la Ciudad de Buenos Aires, Poderes Legislativos y Judiciales de las Provincias, Municipalidades, Concejos Deliberantes y todos los organismos que le dependan, cualquiera sea su naturaleza jurídica.
+
+## Art. 4°
+
+La presente medida tendrá vigencia a partir del día de su publicación en el Boletín Oficial, y hasta el 31 de diciembre de 2002.
+
+(Nota Infoleg: Por art. 2° del Decreto N° 685/2004 se prorroga a partir del 1° de junio de 2004, la vigencia del presente Decreto, con los alcances del Decreto Nº 172/2002, y las previsiones del art. 1° del Decreto de referencia. Prórrogas anteriores: Decreto N° 389/2004 B.O. 2/4/2004, Decreto N° 1357/2003 B.O. 7/1/2004; Decreto Nº108/2003 B.O. 2/06/2003; Decreto Nº 59/2003 B.O. 10/1/2003).
+
+## Art. 5°
+
+Dése cuenta al HONORABLE CONGRESO DE LA NACION.
+
+## Art. 6°
+
+Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese. — RODRIGUEZ SAA. — Luis B. Lusquiños. — Oraldo N. Britos. — Rodolfo Gabrielli. — José M. Vernet.

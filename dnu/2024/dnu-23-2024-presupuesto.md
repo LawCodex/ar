@@ -1,0 +1,107 @@
+---
+title: "Decreto de Necesidad y Urgencia 23/2024: PRESUPUESTO — LEY N° 27.701 - DISPOSICIONES"
+identifier: "Decreto de Necesidad y Urgencia 23/2024"
+infoleg_id: "395823"
+type: decree
+jurisdiction: ar
+language: es
+date: 2024-01-04
+published: 2024-01-05
+boletin_oficial: "35335"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-necesidad-urgencia-23-nacional-decreto-necesidad-urgencia-sobre-modificacion-presupuesto-general-administracion-nacional-para-ejercicio-2023-dn20240000023-2024-01-04"
+text_version: "texto actualizado"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=395823"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/395000-399999/395823/texact.htm"
+retrieved: 2026-10-12
+---
+
+# Decreto de Necesidad y Urgencia 23/2024: PRESUPUESTO — LEY N° 27.701 - DISPOSICIONES
+
+PRESUPUESTO
+
+Decreto 23/2024
+
+DNU-2024-23-APN-PTE - Ley N° 27.701. Disposiciones.
+
+Ciudad de Buenos Aires, 04/01/2024
+
+VISTO el Expediente N° EX-2024-00360064-APN-DGDA#MEC, la Ley N° 27.701 de Presupuesto General de la Administración Nacional para el Ejercicio 2023, vigente conforme el artículo 27 de la Ley de Administración Financiera y de los Sistemas de Control del Sector Público Nacional N° 24.156 y sus modificatorias, en los términos del Decreto N° 88 del 26 de diciembre de 2023, los Decretos Nros. 436 del 29 de agosto de 2023 y 56 del 16 de diciembre de 2023 y la Resolución Conjunta N° 3 del 21 de diciembre de 2023 de la SECRETARÍA DE FINANZAS y de la SECRETARÍA DE HACIENDA, ambas del MINISTERIO DE ECONOMÍA, y
+
+CONSIDERANDO:
+
+Que mediante el artículo 37 de la Ley N° 27.701 de Presupuesto General de la Administración Nacional para el Ejercicio 2023, con las modificaciones dispuestas por los artículos 5° del Decreto N° 436/23 y 2° del Decreto N° 56/23, vigente conforme el artículo 27 de la Ley de Administración Financiera y de los Sistemas de Control del Sector Público Nacional N° 24.156 y sus modificatorias, en los términos del Decreto N° 88/23, se autoriza al Órgano Responsable de la Coordinación de los Sistemas de Administración Financiera, de conformidad con lo dispuesto por el artículo 60 de la referida Ley N° 24.156, a realizar operaciones de crédito público por los montos, especificaciones y destino del financiamiento indicados en planilla anexa al mencionado artículo 37.
+
+Que, en ese marco, resulta necesario y urgente añadir diversas disposiciones complementarias con el fin de garantizar la continuidad del normal funcionamiento del ESTADO NACIONAL.
+
+Que es preciso incorporar operaciones de crédito público adicionales a las previstas en la Planilla Anexa al artículo 37 de la Ley N° 27.701 de Presupuesto General de la Administración Nacional para el Ejercicio 2023, vigente conforme el artículo 27 de la Ley Nº 24.156 de Administración Financiera y de los Sistemas de Control del Sector Público Nacional y sus modificatorias, en los términos del Decreto N° 88/23, con las modificaciones introducidas por el artículo 5° del Decreto N° 436/23 y por el artículo 2º del Decreto N° 56/23.
+
+Que mediante la Resolución Conjunta N° 3/23 de la SECRETARÍA DE FINANZAS y de la SECRETARÍA DE HACIENDA, ambas del MINISTERIO DE ECONOMÍA, se aprobó la realización de una operación de compra de los “BONOS DE LA REPÚBLICA ARGENTINA CON DESCUENTO EN PESOS 5,83% 2033” (DICP), por un Valor Nominal Original de PESOS SEIS MIL DOSCIENTOS VEINTIOCHO MILLONES SETECIENTOS NOVENTA MIL QUINIENTOS SETENTA Y SIETE (VNO $6.228.790.577) y del “BONO DE LA NACIÓN ARGENTINA EN MONEDA DUAL VENCIMIENTO 28 DE FEBRERO DE 2024” (TDF24), por un Valor Nominal Original de DÓLARES ESTADOUNIDENSES DOS MIL CUATROCIENTOS CUARENTA Y NUEVE MILLONES QUINIENTOS DIEZ MIL NOVECIENTOS SETENTA Y OCHO (VNO USD 2.449.510.978), en cartera del BANCO CENTRAL DE LA REPÚBLICA ARGENTINA (BCRA).
+
+Que la citada operación, realizada a precios de mercado, arrojó un total de valor efectivo de PESOS DOS BILLONES NOVECIENTOS TREINTA MIL OCHENTA Y TRES MILLONES OCHOCIENTOS VEINTIÚN MIL TRESCIENTOS NOVENTA Y NUEVE CON CUARENTA Y OCHO CENTAVOS ($2.930.083.821.399,48) y se llevó a cabo debido al bajo nivel de reservas del BANCO CENTRAL DE LA REPÚBLICA ARGENTINA (BCRA) y la consecuente imposibilidad de venderle DÓLARES ESTADOUNIDENSES al TESORO NACIONAL, contribuyendo así a reducir el balance de dicha Entidad mediante una disminución de la tenencia de títulos públicos en su activo y la cancelación de sus pasivos en igual magnitud mediante la aplicación de los PESOS recibidos en la operación citada.
+
+Que a partir de la implementación de las medidas económicas anunciadas el último mes, se ha producido un aumento en el nivel de reservas del BANCO CENTRAL DE LA REPÚBLICA ARGENTINA (BCRA), razón por la cual este se encuentra actualmente en condiciones de proveerle DÓLARES ESTADOUNIDENSES al TESORO NACIONAL para que haga frente al cumplimiento de sus compromisos en moneda extranjera.
+
+Que, por ello, se entiende conveniente la emisión de una letra intransferible en DÓLARES ESTADOUNIDENSES a ser suscripta por el BANCO CENTRAL DE LA REPÚBLICA ARGENTINA (BCRA) por un monto equivalente al valor efectivo mencionado precedentemente.
+
+Que la proximidad de los vencimientos de los compromisos de deuda anteriormente mencionados determina la urgencia en la adopción de esta medida, haciendo imposible seguir los trámites ordinarios previstos en la CONSTITUCIÓN NACIONAL para la sanción de las leyes.
+
+Que la Ley N° 26.122 regula el trámite y los alcances de la intervención del HONORABLE CONGRESO DE LA NACIÓN respecto de los Decretos de Necesidad y Urgencia dictados por el PODER EJECUTIVO NACIONAL, en virtud de lo dispuesto por el artículo 99, inciso 3 de la CONSTITUCIÓN NACIONAL.
+
+Que la citada ley determina que la COMISIÓN BICAMERAL PERMANENTE tiene competencia para pronunciarse respecto de la validez o invalidez de los Decretos de Necesidad y Urgencia, así como para elevar el dictamen al plenario de cada Cámara para su expreso tratamiento, en el plazo de DIEZ (10) días hábiles.
+
+Que el artículo 22 de la Ley N° 26.122 dispone que las Cámaras se pronuncien mediante sendas resoluciones y que el rechazo o aprobación de los decretos deberá ser expreso conforme lo establecido en el artículo 82 de la CONSTITUCIÓN NACIONAL.
+
+Que los servicios jurídicos permanentes han tomado la intervención que les compete.
+
+Que la presente medida se dicta en uso de las atribuciones conferidas por el artículo 99, incisos 1 y 3 de la CONSTITUCIÓN NACIONAL.
+
+Por ello,
+
+EL PRESIDENTE DE LA NACIÓN ARGENTINA EN ACUERDO GENERAL DE MINISTROS
+
+DECRETA:
+
+## ARTÍCULO 1°
+
+Incorpóranse en la planilla anexa al artículo 37 de la Ley N° 27.701 de Presupuesto General de la Administración Nacional para el Ejercicio 2023, con las modificaciones dispuestas por los artículos 5° del Decreto N° 436/23 y 2° del Decreto N° 56/23, vigente conforme el artículo 27 de la Ley de Administración Financiera y de los Sistemas de Control del Sector Público Nacional N° 24.156 y sus modificatorias, en los términos del Decreto N° 88/23, las autorizaciones que se detallan en el ANEXO (IF-2024-01263086-APN-SF#MEC) al presente artículo, que forma parte integrante de la presente medida.
+
+## ARTÍCULO 2°
+
+Autorízase al Órgano Responsable de la Coordinación de los Sistemas de Administración Financiera a emitir letras denominadas en DÓLARES ESTADOUNIDENSES, a ser suscriptas por el BANCO CENTRAL DE LA REPÚBLICA ARGENTINA (BCRA), por un monto de hasta DÓLARES ESTADOUNIDENSES TRES MIL DOSCIENTOS MILLONES (USD 3.200.000.000), a DIEZ (10) años de plazo, con amortización íntegra al vencimiento, la que devengará una tasa de interés igual a la que devenguen las reservas internacionales del BANCO CENTRAL DE LA REPÚBLICA ARGENTINA (BCRA) para el mismo período y hasta un máximo de la tasa SOFR TERM a UN (1) año más el margen de ajuste de 0,71513 % menos UN (1) punto porcentual, aplicada sobre el monto de capital efectivamente suscrito. Estas letras deberán registrarse en sus estados contables a valor técnico.
+
+## ARTÍCULO 3°
+
+Los DÓLARES ESTADOUNIDENSES autorizados a ser adquiridos mediante la presente medida solo podrán aplicarse al pago de obligaciones de deuda denominadas en moneda extranjera.
+
+## ARTÍCULO 4°
+
+Durante el corriente ejercicio fiscal los pagos de los servicios de amortización de capital y el SESENTA POR CIENTO (60 %) de los servicios de intereses de las letras intransferibles en cartera del BANCO CENTRAL DE LA REPÚBLICA ARGENTINA (BCRA) serán reemplazados, a la fecha de su vencimiento, por nuevos títulos públicos emitidos a la par, a CINCO (5) años de plazo, con amortización íntegra al vencimiento, y que devengarán una tasa de interés igual a la que devenguen las reservas internacionales del BANCO CENTRAL DE LA REPÚBLICA ARGENTINA (BCRA) para el mismo período y hasta un máximo de la tasa SOFR TERM a UN (1) año más el margen de ajuste de 0,71513 % menos UN (1) punto porcentual, aplicada sobre el monto de capital efectivamente suscripto, conforme lo determine el Órgano Responsable de la Coordinación de los Sistemas de Administración Financiera.
+
+El CUARENTA POR CIENTO (40 %) restante de los servicios de intereses de las citadas letras se abonará en efectivo.
+
+Todas las letras intransferibles en cartera del BANCO CENTRAL DE LA REPÚBLICA ARGENTINA (BCRA) serán registradas de acuerdo con las normas contables generalmente aceptadas, en los estados contables que se aprueben a partir de la entrada en vigencia de la presente norma.
+
+(Artículo sustituido por art. 14 del Decreto N° 280/2024 B.O. 27/03/2024. Vigencia: a partir del día de su publicación en el BOLETÍN OFICIAL)
+
+## ARTÍCULO 5°
+
+La presente medida entrará en vigencia a partir de la fecha de su publicación en el BOLETÍN OFICIAL.
+
+## ARTÍCULO 6°
+
+Dese cuenta a la COMISIÓN BICAMERAL PERMANENTE del HONORABLE CONGRESO DE LA NACIÓN.
+
+## ARTÍCULO 7°
+
+Comuníquese, publíquese, dese a la DIRECCIÓN NACIONAL DEL REGISTRO OFICIAL y archívese.
+
+MILEI - Nicolás Posse - Guillermo Francos - Diana Mondino - Luis Petri - Luis Andres Caputo - Patricia Bullrich - Mario Antonio Russo - Mariano Cúneo Libarona - Guillermo José Ferraro - Sandra Pettovello
+
+NOTA: El/los Anexo/s que integra/n este(a) Decreto se publican en la edición web del BORA -www.boletinoficial.gob.ar-
+
+e. 05/01/2024 N° 618/24 v. 05/01/2024
+
+(Nota Infoleg: Los anexos referenciados en la presente norma han sido extraídos de la edición web de Boletín Oficial. Los mismos pueden consultarse en el siguiente link: [Anexos](https://servicios.infoleg.gob.ar/infolegInternet/anexos/395000-399999/395823/dec23.pdf) )

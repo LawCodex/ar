@@ -1,0 +1,77 @@
+---
+title: "Decreto de Necesidad y Urgencia 25/2001: ADMINISTRACION PUBLICA NACIONAL — CONGELAMIENTO DE VACANTES"
+identifier: "Decreto de Necesidad y Urgencia 25/2001"
+infoleg_id: "71089"
+type: decree
+jurisdiction: ar
+language: es
+date: 2001-12-23
+published: 2001-12-27
+boletin_oficial: "29804"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-necesidad-urgencia-25-nacional-decreto-necesidad-urgencia-congela-vacantes-administracion-publica-nacional-dn20013000025-2001-12-23"
+text_version: "texto actualizado"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=71089"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/70000-74999/71089/texact.htm"
+retrieved: 2026-10-12
+---
+
+# Decreto de Necesidad y Urgencia 25/2001: ADMINISTRACION PUBLICA NACIONAL — CONGELAMIENTO DE VACANTES
+
+ADMINISTRACION PUBLICA NACIONAL
+
+Decreto 25/2001
+
+Adóptanse medidas tendientes a lograr la disminución racional del gasto público.
+
+Bs. As., 23/12/2001
+
+VISTO la necesidad de implementar medidas excepcionales concurrentes con la gravedad de la situación socio-económica nacional y
+
+CONSIDERANDO:
+
+Que en tal sentido resulta imprescindible adoptar acciones concretas tendientes a lograr a la disminución racional del gasto público.
+
+Que las mencionadas acciones no afectan el normal desenvolvimiento del Estado.
+
+Que las mismas se corresponden con el espíritu del mensaje del Presidente de la Nación en la Asamblea Legislativa del día de la fecha.
+
+Que la presente normativa se dicta en uso de las atribuciones emergentes del artículo 99, inciso 3, de la Constitución Nacional y de conformidad con las previsiones del Decreto N° 977/95.
+
+Por ello,
+
+EL PRESIDENTE DE LA NACION ARGENTINA EN ACUERDO GENERAL DE MINISTROS
+
+DECRETA:
+
+## Artículo 1°
+
+Congelar todas las vacantes existentes en la Administración Pública Nacional y en todos los entes y organismos a que se refiere el artículo 2° del Decreto N° 23 del 23 de diciembre de 2001.
+
+El PODER EJECUTIVO NACIONAL podrá autorizar excepciones en el caso que resulte imprescindible cubrir vacantes para el mantenimiento de los servicios esenciales para la población.
+
+## Art. 2°
+
+Establécese que el gasto asignado a personal contratado, cualquiera sea su naturaleza jurídica, no podrá superar los créditos presupuestarios ejecutados en el ejercicio fiscal 2001 en las jurisdicciones y entidades a las que se refiere el Artículo 1° del presente decreto con arreglo a lo dispuesto en el Artículo 3° del Decreto N° 1184 del 20 de septiembre de 2001.
+
+(Artículo sustituido por art. 1º del Decreto N° 113/2002 B.O. 18/1/2002)
+
+(Nota Infoleg: por art. 24 de la Ley Nº 25.725 B.O. 10/01/2003 se extienden para el "presente ejercicio fiscal" las disposiciones del presente artículo.)
+
+## Art. 3°
+
+Invitar a adherir a las disposiciones de la presente norma al Poder Legislativo y Judicial de la Nación, los Gobiernos Provinciales, los Poderes Legislativos y Judiciales de las provincias, Municipalidades, Concejos Deliberantes, Gobierno de la Ciudad de Bs. As. y todos los organismos que le dependen, cualquiera sea su naturaleza jurídica.
+
+## Art. 4°
+
+La presente medida tendrá vigencia a partir de la fecha del presente decreto y hasta el 31 de diciembre de 2002.
+
+## Art. 5°
+
+Dar cuenta al Honorable Congreso de la Nación.
+
+## Art. 6°
+
+Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese. — RODRIGUEZ SAA. — Luis B. Lusquiños. — Oraldo N. Britos. — Rodolfo Gabrielli. — José M. Vernet.

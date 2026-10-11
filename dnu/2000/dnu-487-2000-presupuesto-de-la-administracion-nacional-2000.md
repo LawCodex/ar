@@ -1,0 +1,105 @@
+---
+title: "Decreto de Necesidad y Urgencia 487/2000: PRESUPUESTO DE LA ADMINISTRACION NACIONAL 2000 — DISTRIBUCION - MODIFICACION -"
+identifier: "Decreto de Necesidad y Urgencia 487/2000"
+infoleg_id: "63488"
+type: decree
+jurisdiction: ar
+language: es
+date: 2000-06-23
+published: 2000-07-03
+boletin_oficial: "29431"
+issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/decreto-necesidad-urgencia-487-nacional-decreto-necesidad-urgencia-sobre-modificacion-presupuesto-administracion-nacional-dn20000000487-2000-06-23"
+text_version: "texto actualizado"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=63488"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/60000-64999/63488/texact.htm"
+retrieved: 2026-10-12
+---
+
+# Decreto de Necesidad y Urgencia 487/2000: PRESUPUESTO DE LA ADMINISTRACION NACIONAL 2000 — DISTRIBUCION - MODIFICACION -
+
+PRESUPUESTO
+
+Decreto 487/2000
+
+Modifícase la distribución del Presupuesto de la Administración Nacional. Fondo Partidario Permanente. Fondo Unificado Eléctrico. Aporte de Lotería Nacional S. E. al Tesoro Nacional. Deuda correspondiente a Concesionarios Viales y a Concesionarios del Servicio Urbano de Trenes de Pasajeros. Pasantías educativas. Utilización eventual del Fondo de Reestructuración Organizativa.
+
+Bs. As., 23/6/2000
+
+VISTO la Ley Nº 25.237 de Presupuesto de la Administración Nacional para el ejercicio 2000, distribuido por la Decisión Administrativa Nº 1 de fecha 12 de enero de 2000,y
+
+CONSIDERANDO:
+
+Que la Ley citada en el Visto fue sancionada con una modificación parcial, en base al Proyecto de Presupuesto de la Administración Nacional elevado oportunamente por las autoridades que ejercían el PODER EJECUTIVO NACIONAL antes del cambio de Gobierno.
+
+Que el mencionado anteproyecto no incluyó la atención de ciertas necesidades de impostergable cumplimiento que resulta necesario contemplar en la medida que se proyecta.
+
+Que en base a ello resulta procedente disponer una reasignación de los créditos presupuestarios vigentes sin alterar de manera significativa los objetivos básicos tenidos en cuenta en la elaboración del presupuesto.
+
+Que asimismo resulta necesario establecer afectaciones sobre la recaudación de gravámenes originados en leyes especiales con el objeto de que su producido se mantenga en una cuenta indisponible, para su devolución a partir del 1º de abril del año 2001.
+
+Que corresponde establecer un mecanismo que permita el registro de deudas existentes al 31 de diciembre de 1999 originadas por la ejecución de contratos de concesionarios viales y ferroviarios, el Programa de Inspección de Preembarque de Importaciones, la atención de prestaciones médicoasistenciales y sociales a cargo de la COMISION NACIONAL DE PENSIONES ASISTENCIALES, brindadas por el INSTITUTO NACIONAL DE SERVICIOS SOCIALES PARA JUBILADOS Y PENSIONADOS y prestaciones realizadas por el CORREO ARGENTINO S.A. reconocidas a favor de ésta por las Resoluciones de la SECRETARIA DE COMUNICACIONES en la órbita en ese momento de la PRESIDENCIA DE LA NACION, Nros. 1.485 del 8 de julio, 2.172 del 25 de setiembre, 2.471 del 6 de noviembre y 2.619 del 4 de diciembre del año 1998, respectivamente.
+
+Que por otra parte resulta procedente modificar el artículo 11 de la Ley Nº 25.165, en razón que el plazo máximo para las pasantías establecido en dicha norma atenta con el rendimiento de los estudiantes involucrados en el sistema y al mismo tiempo con los objetivos perseguidos por el sistema de pasantías.
+
+Que asimismo es necesario extender el uso del Fondo de Reestructuración Organizativa, creado por el artículo 15 de la Ley Nº 25.237, al financiamiento de los procesos de desvinculación de personal que se produzcan como consecuencia de la reestructuración organizativa establecida por el artículo 14 de la mencionada Ley.
+
+Que ha tomado la intervención que le compete la DIRECCION GENERAL DE ASUNTOS JURIDICOS del MINISTERIO DE ECONOMIA.
+
+Que atento a la urgencia en resolver la actual situación fiscal, resulta imperioso la adopción de las medidas proyectadas, configurando una circunstancia excepcional que hace imposible seguir los trámites ordinarios previstos por la CONSTITUCION NACIONAL para la sanción de las Leyes.
+
+Que el presente se dicta en uso de atribuciones emergentes del artículo 99, inciso 3 de la CONSTITUCION NACIONAL.
+
+Por ello,
+
+EL PRESIDENTE DE LA NACION ARGENTINA
+
+EN ACUERDO GENERAL DE MINISTROS
+
+DECRETA:
+
+## Artículo 1º
+
+Modifícase la distribución del Presupuesto de la Administración Nacional de acuerdo con el detalle obrante en las planillas anexas al presente artículo. Dicha modificación queda exceptuada de lo dispuesto por el artículo 84 del Decreto Nº 689 del 30 de Junio de 1999, texto ordenado de la Ley Nº 11.672 COMPLEMENTARIA PERMANENTE DE PRESUPUESTO
+
+## Art. 2º
+
+Establécese que el CINCUENTA POR CIENTO (50%) del Fondo Partidario Permanente correspondiente al presente ejercicio fiscal y los remanentes existentes al 31 de diciembre de 1999 del Fondo de Aportes del Tesoro Nacional, se transfieren al año 2001.
+
+## Art. 3º
+
+Aféctase en un QUINCE POR CIENTO (15%) la recaudación que se produzca hasta el 31 de diciembre de 2000 correspondiente al FONDO UNIFICADO ELECTRICO. El monto resultante de dicha afectación será acreditado en la cuenta indisponible abierta a tal efecto en el BANCO DE LA NACION ARGENTINA, para su devolución a partir del mes de abril de 2001.
+
+## Art. 4º
+
+Dispónese un aporte al TESORO NACIONAL por la suma de DIECISIETE MILLONES QUINIENTOS MIL PESOS ($ 17.500.000), a cargo de LOTERIA NACIONAL S.E., dependiente del MINISTERIO DE DESARROLLO SOCIAL Y MEDIO AMBIENTE, proveniente de las utilidades que arroje el balance general de la citada Sociedad del Estado correspondiente al cierre del Ejercicio de 1999.
+
+## Art. 5º
+
+Considéranse como deudas contraídas por el TESORO NACIONAL al cierre del ejercicio fiscal de 1999 los conceptos y montos que se consignan en la planilla anexa al presente artículo.
+
+La CONTADURIA GENERAL DE LA NACION de la SECRETARIA DE HACIENDA y la OFICINA NACIONAL DE CREDITO PUBLICO de la SECRETARIA DE FINANZAS, ambas dependientes del MINISTERIO DE ECONOMIA procederán, según corresponda, a su registro siguiendo para ello los procedimientos y normas vigentes en la materia.
+
+## Art. 6º
+
+La deuda incluida en la planilla anexa referida en el artículo anterior correspondiente a Concesionarios Viales y a Concesionarios del Servicio Urbano de Trenes de Pasajeros (Concesionarios de la Ex FEMESA), serán atendidas mediante la entrega de Bonos de Consolidación Tercera Serie, dentro del total determinado en la planilla Nº 15 anexa al artículo 9º de la Ley Nº 25.237.
+
+## Art. 7º
+
+(Artículo derogado por art. 22 de la Ley N° 26.427 B.O. 22/12/2008)
+
+## Art. 8º
+
+Establécese que el Fondo de Reestructuración Organizativa, creado por el artículo 15 de la Ley Nº 25.237, podrá ser utilizado también para financiar el proceso de desvinculación de personal que se produzca como consecuencia de la reestructuración organizativa a que alude el artículo 14 de la Ley Nº 25.237.
+
+## Art. 9º
+
+Dése cuenta al HONORABLE CONGRESO DE LA NACION en virtud de lo dispuesto en el artículo 99 inciso 3 de la CONSTITUCION NACIONAL.
+
+## Art. 10
+
+Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese. — DE LA RUA. — Rodolfo H. Terragno. — José L. Machinea. — Nicolás V. Gallo. — Héctor J. Lombardo. — Federico T. M. Storani. — Ricardo Gil Lavedra. — Rosa G. C. de Fernández Meijide. — Ricardo H. López Murphy. — Alberto Flamarique.
+
+NOTA: Este decreto se publica sin las planillas anexas. La documentaicón no publicada puede ser consultada en la Sede Central de esta Dirección Nacional (Suipacha 767 Capital Federal).
