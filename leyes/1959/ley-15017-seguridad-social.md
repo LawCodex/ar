@@ -9,7 +9,9 @@ date: 1959-11-15
 published: 1959-12-21
 boletin_oficial: "19116"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-15017-nacional-modificacion-haberes-personal-poder-judicial-lns0001575-1959-11-15"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=298254"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/298254/norma.htm"

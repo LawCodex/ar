@@ -9,7 +9,9 @@ date: 1970-05-29
 published: 1970-06-03
 boletin_oficial: "21941"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-18695-nacional-procedimiento-comprobacion-juzgamiento-infracciones-laborales-lns0000937-1970-05-29"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=37919"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/35000-39999/37919/texact.htm"

@@ -10,6 +10,8 @@ published: 1973-11-26
 boletin_oficial: "22797"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-20556-nacional-lnn0020706-1973-10-31"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=164460"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/160000-164999/164460/norma.htm"

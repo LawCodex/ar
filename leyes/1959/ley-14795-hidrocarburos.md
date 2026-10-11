@@ -10,6 +10,8 @@ published: 1959-02-06
 boletin_oficial: "18858"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-14795-nacional-lnn0018401-1959-01-14"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=236501"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/235000-239999/236501/norma.htm"

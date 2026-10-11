@@ -9,7 +9,9 @@ date: 1972-10-23
 published: 1972-10-30
 boletin_oficial: "22536"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19908-nacional-creacion-facultades-ciencias-veterinarias-agronomia-universidad-buenos-aires-lns0000656-1972-10-23"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302436"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302436/norma.htm"

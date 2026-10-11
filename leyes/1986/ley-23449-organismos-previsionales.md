@@ -9,7 +9,9 @@ date: 1986-10-29
 published: 1987-02-16
 boletin_oficial: "26086"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-23449-nacional-informacion-suministrar-empleadores-asociaciones-profesionales-virtud-obligatorias-formales-organismos-previsionales-lns0003334-1986-10-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=22074"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/22074/norma.htm"

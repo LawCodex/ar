@@ -1482,7 +1482,9 @@ d) Oceanía, excepto Australia; y a Rumania
 
 2.- Los Miembros a los que se aplicarán las disposiciones de este Convenio relativas a los Miembros importadores en desarrollo serán determinados por el Consejo a la luz de la lista de importadores de este Convenio.
 
-## ANEXO IV — Países menos adelantados, conforme a la definicion de las Naciones Unidas, al 7 de octubre de 1977.
+## ANEXO IV
+
+Países menos adelantados, conforme a la definicion de las Naciones Unidas, al 7 de octubre de 1977.
 
 | Afganistán |
 |---|

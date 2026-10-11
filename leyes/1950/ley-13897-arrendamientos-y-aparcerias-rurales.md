@@ -9,7 +9,9 @@ date: 1950-05-19
 published: 1950-05-29
 boletin_oficial: "16653"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-13897-nacional-lnn0026160-1950-05-19"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=174633"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/170000-174999/174633/norma.htm"

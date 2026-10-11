@@ -10,6 +10,8 @@ published: 2006-09-11
 boletin_oficial: "30987"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-21996-nacional-ley-modificatoria-ley-n-21920-sobre-remuneracion-funcionarios-poder-judicial-lnn0029568-1979-05-16"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=119640"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/115000-119999/119640/norma.htm"

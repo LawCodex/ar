@@ -10,6 +10,8 @@ published: 1973-05-28
 boletin_oficial: "22674"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-20508-nacional-lnn0020722-1973-05-27"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302816"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302816/norma.htm"

@@ -10,6 +10,8 @@ published: 1984-11-02
 boletin_oficial: "25544"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-23095-nacional-creacion-comision-nacional-tratado-cuenca-plata-comite-hidrico-cuenca-plata-modificacion-lnn0028056-1984-09-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=27283"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/27283/norma.htm"

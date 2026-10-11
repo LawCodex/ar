@@ -9,7 +9,9 @@ date: 1948-05-15
 published: 1948-05-17
 boletin_oficial: "16059"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-13198-nacional-lnn0026190-1948-05-15"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=177958"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/175000-179999/177958/norma.htm"

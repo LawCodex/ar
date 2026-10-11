@@ -10,6 +10,8 @@ published: 1985-10-09
 boletin_oficial: "25779"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-23241-nacional-lnn0003251-1985-09-12"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=24219"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/24219/norma.htm"

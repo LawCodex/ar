@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1958-09-27
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-14503-nacional-derecho-al-sueldo-anual-complementario-indemnizacion-despido-injustificado-falta-preaviso-trabajadores-rurales-lns0001623-1958-09-27"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=297778"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/297778/texact.htm"

@@ -10,6 +10,8 @@ published: 1926-02-06
 boletin_oficial: "9556"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-11330-nacional-lnn0024084-1926-02-03"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=293347"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/293347/norma.htm"

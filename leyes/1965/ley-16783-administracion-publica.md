@@ -9,7 +9,9 @@ date: 1965-10-30
 published: 1965-12-22
 boletin_oficial: "20845"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-16783-nacional-estatuto-personal-secretaria-estado-comunicaciones-lns0001354-1965-10-30"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=300274"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/300274/texact.htm"

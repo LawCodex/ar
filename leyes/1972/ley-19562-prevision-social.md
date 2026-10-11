@@ -9,7 +9,9 @@ date: 1972-04-07
 published: 1972-04-17
 boletin_oficial: "22403"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19562-nacional-beneficio-pension-para-enfermos-afectados-mal-hansen-lns0000741-1972-04-07"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=196866"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/196866/norma.htm"

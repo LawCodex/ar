@@ -9,7 +9,9 @@ date: 1979-12-12
 published: 1979-12-14
 boletin_oficial: "24314"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22119-nacional-cambio-jurisdiccion-direccion-general-fabricaciones-militares-lns0000047-1979-12-12"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=142225"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/140000-144999/142225/norma.htm"

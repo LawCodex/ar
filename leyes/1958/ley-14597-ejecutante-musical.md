@@ -9,7 +9,9 @@ date: 1958-09-30
 published: 1958-10-29
 boletin_oficial: "18777"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-14597-nacional-estatuto-profesional-musico-lns0001611-1958-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=106501"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/105000-109999/106501/norma.htm"

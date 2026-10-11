@@ -9,7 +9,9 @@ date: 1973-05-15
 published: 1973-05-30
 boletin_oficial: "22676"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20378-nacional-inscripcion-caballos-pura-sangre-carrera-registros-genealogicos-lns0000496-1973-05-15"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=95322"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/95000-99999/95322/norma.htm"

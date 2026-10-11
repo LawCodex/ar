@@ -10,6 +10,8 @@ published: 1953-10-20
 boletin_oficial: "17507"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-14250-nacional-lnn0001833-1953-09-29"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=46379"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/45000-49999/46379/texact.htm"
@@ -150,7 +152,9 @@ Dicha Comisión será presidida por un funcionario designado por el MINISTERIO D
 
 La representación de los trabajadores en la negociación del convenio colectivo de empresa, estará a cargo del sindicato cuya personería gremial los comprenda y se integrará también con delegados del personal, en un número que no exceda la representación establecida en el artículo 45 de la Ley Nº 23.551 hasta un máximo de CUATRO (4), cualquiera sea el número de trabajadores comprendidos en el convenio colectivo de trabajo de que se trate.
 
-## CAPITULO IV — ARTICULACION DE LOS CONVENIOS COLECTIVOS
+## CAPITULO IV
+
+ARTICULACION DE LOS CONVENIOS COLECTIVOS
 
 ### ARTICULO 18
 

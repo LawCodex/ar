@@ -9,7 +9,9 @@ date: 1936-12-15
 published: 1936-12-22
 boletin_oficial: "12740"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-12330-nacional-organizacion-camaras-apelaciones-civil-apelaciones-comercial-capital-federal-lns0002223-1936-12-15"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=195904"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/195904/norma.htm"

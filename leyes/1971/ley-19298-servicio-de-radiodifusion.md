@@ -9,7 +9,9 @@ date: 1971-10-11
 published: 1971-10-25
 boletin_oficial: "22286"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19298-nacional-fiscalizacion-servicios-radiodifusion-television-lns0000810-1971-10-11"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=301995"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/301995/norma.htm"

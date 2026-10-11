@@ -9,7 +9,9 @@ date: 1974-09-03
 published: 1974-12-26
 boletin_oficial: "23064"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20946-nacional-fondo-para-estudio-obras-irrigacion-drenaje-lns0000386-1974-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=231290"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/231290/norma.htm"

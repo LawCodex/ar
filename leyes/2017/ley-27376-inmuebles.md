@@ -1,0 +1,57 @@
+---
+title: "Ley 27376: INMUEBLES — TRANSFERENCIA - AUTORIZACION"
+identifier: "Ley 27376"
+infoleg_id: "279675"
+type: act
+jurisdiction: ar
+language: es
+date: 2017-09-18
+published: 2017-09-19
+boletin_oficial: "33712"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-27376-nacional-transferencia-cargo-funcionamiento-complejo-polideportivo-municipal-constituido-sobre-inmueble-ubicado-provincia-entre-rios-lns0006336-2017-08-23"
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=279675"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/275000-279999/279675/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 27376: INMUEBLES — TRANSFERENCIA - AUTORIZACION
+
+INMUEBLES
+
+Ley 27376
+
+Autorízase transferencia.
+
+El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc. sancionan con fuerza de
+
+Ley:
+
+## ARTÍCULO 1°
+
+Autorizar la transferencia del cargo “Funcionamiento de un complejo polideportivo municipal” constituido sobre el inmueble ubicado en la provincia de Entre Ríos, departamento de Gualeguaychú, distrito Pehuajó al Sud, municipio de Larroque, nomenclatura catastral: departamento 07, distrito 07, localidad 10, parcela 1.549, matrícula 114.744, dominio urbano, Registro Público de Gualeguaychú, según consta en la escritura número 104, folio 434, de fecha 15 de julio de 2011, pasada por ante la escribana Norma E. Verna, adscripta en la Escribanía General del Gobierno de la Nación.
+
+## ARTÍCULO 2°
+
+La transferencia del cargo se realizará sobre el inmueble que sea destinado exclusivamente a dichos fines, según lo determine la autoridad municipal, debiendo contar el nuevo predio con la misma o mayor superficie y el mismo o mayor valor, la ubicación debe resultar funcional a los objetivos.
+
+## ARTÍCULO 3°
+
+Comuníquese al Poder Ejecutivo nacional.
+
+DADA EN LA SALA DE SESIONES DEL CONGRESO ARGENTINO, EN BUENOS AIRES, A LOS VEINTITRES DIAS DEL MES DE AGOSTO DEL AÑO DOS MIL DIECISIETE.
+
+— REGISTRADA BAJO EL N° 27376 —
+
+MARTA G. MICHETTI. — EMILIO MONZÓ. — Eugenio Inchausti. — Juan P. Tunessi.
+
+Ciudad de Buenos Aires, 18 de Septiembre de 2017
+
+En virtud de lo prescripto en el artículo 80 de la Constitución Nacional, certifico que la Ley Nº 27.376 (IF-2017-20140381-APN-SST#SLYT) sancionada por el HONORABLE CONGRESO DE LA NACIÓN el 23 de agosto de 2017, ha quedado promulgada de hecho el día 13 de septiembre de 2017.
+
+Dése para su publicación a la Dirección Nacional del Registro Oficial, gírese copia al HONORABLE CONGRESO DE LA NACIÓN y, para su conocimiento y demás efectos, remítase a la JEFATURA DE GABINETE DE MINISTROS. Cumplido, archívese. — Pablo Clusellas.
+
+e. 19/09/2017 N° 70177/17 v. 19/09/2017

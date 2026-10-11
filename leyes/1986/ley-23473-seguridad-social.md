@@ -9,7 +9,9 @@ date: 1986-10-31
 published: 1987-03-25
 boletin_oficial: "26113"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-23473-nacional-creacion-camara-nacional-apelaciones-seguridad-social-lns0003395-1986-10-31"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=21974"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/21974/texact.htm"

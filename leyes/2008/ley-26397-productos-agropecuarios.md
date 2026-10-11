@@ -1,0 +1,90 @@
+---
+title: "Ley 26397: PRODUCTOS AGROPECUARIOS — COMISION BICAMERAL INVESTIGADORA - CREACION"
+identifier: "Ley 26397"
+infoleg_id: "144343"
+type: act
+jurisdiction: ar
+language: es
+date: 2008-08-20
+published: 2008-09-10
+boletin_oficial: "31486"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-26397-nacional-creacion-comision-bicameral-investigadora-presuntas-irregularidades-declaraciones-juradas-venta-al-exterior-productos-agropecuarios-lns0005438-2008-08-20"
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=144343"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/140000-144999/144343/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 26397: PRODUCTOS AGROPECUARIOS — COMISION BICAMERAL INVESTIGADORA - CREACION
+
+PRODUCTOS AGROPECUARIOS
+
+Ley 26.397
+
+Créase una comisión bicameral investigadora de presuntas irregularidades en las declaraciones juradas de venta al exterior (DJVE) de productos agropecuarios.
+
+Sancionada: Agosto 20 de 2008
+
+Promulgada de Hecho: Septiembre 9 de 2008
+
+El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc. sancionan con fuerza de Ley:
+
+## ARTICULO 1º
+
+Creación. Crear una Comisión Bicameral Investigadora de presuntas irregularidades en las Declaraciones Juradas de Venta al Exterior (DJVE) de productos agropecuarios.
+
+## ARTICULO 2º
+
+Objeto. La Comisión creada por medio de la presente tendrá por objeto el conocimiento, la investigación y el esclarecimiento de presuntas maniobras irregulares relacionadas con presentaciones anticipadas de Declaraciones Juradas de Venta al Exterior (DJVE) de productos agropecuarios sin que se haya acreditado la tenencia y/o adquisición de dicha mercadería, lo que generaría un importante perjuicio fiscal.
+
+## ARTICULO 3º
+
+Integración. La Comisión estará integrada por SEIS (6) senadores y SEIS (6) diputados, los que serán designados de acuerdo al Reglamento de cada Cámara.
+
+## ARTICULO 4º
+
+Autoridades. Los miembros de la Comisión elegirán UN (1) Presidente, UN (1) Vicepresidente y UN (1) Secretario. Asimismo, deberán designar UN (1) Secretario Administrativo.
+
+## ARTICULO 5º
+
+Plazo. El plazo de duración de la Comisión será de NOVENTA (90) días, contados a partir de la fecha de la reunión constitutiva. Dicho plazo podrá ser prorrogado por única vez por igual período por decisión de la mayoría de sus miembros.
+
+## ARTICULO 6º
+
+Reuniones. Las reuniones de la Comisión se realizarán de acuerdo a los parámetros establecidos en el artículo 98 del Reglamento de este H. Senado de la Nación.
+
+## ARTICULO 7º
+
+Facultades y atribuciones. Las facultades y atribuciones de la Comisión creada en el artículo 1º de la presente serán las siguientes:
+
+| a) | Solicitar todo tipo de documentación e información, escrita u oral, relacionada con los hechos investigados, tanto del sector público como privado. |
+|---|---|
+| b) | Requerir y recibir testimonios de personas. El testigo prestará juramento o promesa de decir verdad, y antes de declarar se lo apercibirá de las penas en caso de que afirmara una falsedad o atenuare o callare la verdad en todo o en parte, salvo que la respuesta pudiera autoincriminarlo. |
+| c) | Recibir toda clase de elementos probatorios sujeto a su oportuna valoración. |
+| d) | Exigir la exhibición de cualquier clase de prueba instrumental reservada o secreta o no a las personas públicas o privadas, pudiendo revisar y secuestrar libros de comercio, instrumentos financieros, registros informáticos y toda clase de documentación y correspondencia que guarde relación con los fines de la investigación. |
+| e) | Practicar inspecciones en lugares públicos, semipúblicos y privados, allanando por sí el ámbito de que se trate. |
+| f) | Requerir el auxilio de la fuerza pública. |
+| g) | Designar asesores con especialidad en temas tributarios y contables, pudiendo requerir la colaboración a la Federación Argentina de Colegios de Abogados y a la Federación de Consejo de Profesionales de Ciencias Económicas. Los mismos deberán elevar un informe preliminar ante la Comisión. |
+
+La Comisión deberá requerir autorización judicial previa en los casos previstos en los incisos d), e) y f) del presente artículo. Asimismo, podrá solicitar la intervención del juez competente en cualquier otro caso que lo considere pertinente.
+
+## ARTICULO 8º
+
+La Comisión requerirá a las Presidencias de ambas Cámaras la asignación presupuestaria que sea necesaria para el logro del objeto establecido en el artículo 2º de la presente.
+
+## ARTICULO 9º
+
+Informe. Antes de la finalización del plazo establecido en el artículo 5º del presente, la Comisión deberá elevar a las Cámaras un informe que contendrá sus consideraciones finales.
+
+## ARTICULO 10
+
+Comuníquese al Poder Ejecutivo.
+
+DADA EN LA SALA DE SESIONES DEL CONGRESO ARGENTINO, EN BUENOS AIRES, EL VEINTE DE AGOSTO DEL AÑO DOS MIL OCHO.
+
+— REGISTRADO BAJO EL Nº 26.397 —
+
+JULIO C. C. COBOS. — EDUARDO A. FELLNER. — Enrique Hidalgo. — Juan H. Estrada.

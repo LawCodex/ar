@@ -9,7 +9,9 @@ date: 1970-04-03
 published: 2006-09-25
 boletin_oficial: "30997"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-18640-nacional-regimen-jubilatorio-personal-civil-policia-lns0005094-1970-04-03"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=120154"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/120000-124999/120154/norma.htm"

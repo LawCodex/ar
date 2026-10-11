@@ -9,7 +9,9 @@ date: 1983-09-22
 published: 1983-09-27
 boletin_oficial: "25266"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-22924-nacional-derogada-ley-23040-estado-politica-amnistia-ley-pacificacion-nacional-lnn0027915-1983-09-22"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=73271"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/70000-74999/73271/norma.htm"

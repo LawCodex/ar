@@ -9,7 +9,9 @@ date: 1967-05-02
 published: 1967-05-08
 boletin_oficial: "21183"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-17259-nacional-prevencion-endemia-bociosa-lns0001203-1967-05-02"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=197392"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/197392/texact.htm"

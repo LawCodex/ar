@@ -8,6 +8,8 @@ language: es
 date: 1872-08-03
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-525-nacional-lnn0023310-1872-08-03"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=281470"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/280000-284999/281470/norma.htm"

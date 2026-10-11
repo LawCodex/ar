@@ -9,7 +9,9 @@ date: 1967-05-23
 published: 1967-06-08
 boletin_oficial: "21205"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-17296-nacional-regimen-previsional-caja-nacional-prevision-para-empresarios-lns0001194-1967-05-23"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=300467"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/300467/norma.htm"

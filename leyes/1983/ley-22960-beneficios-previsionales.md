@@ -10,6 +10,8 @@ published: 1983-11-01
 boletin_oficial: "25290"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22960-nacional-lnn0027953-1983-10-27"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304407"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304407/norma.htm"

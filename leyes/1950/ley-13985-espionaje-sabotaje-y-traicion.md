@@ -9,7 +9,9 @@ date: 1950-09-27
 published: 1950-10-16
 boletin_oficial: "16757"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-13985-nacional-espionaje-sabotaje-lns0003446-1950-09-27"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=198297"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/198297/norma.htm"

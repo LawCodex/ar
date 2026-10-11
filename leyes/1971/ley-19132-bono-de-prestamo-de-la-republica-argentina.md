@@ -10,6 +10,8 @@ published: 1971-08-19
 boletin_oficial: "22240"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-19132-nacional-lnn0004912-1971-07-21"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=190672"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/190672/norma.htm"

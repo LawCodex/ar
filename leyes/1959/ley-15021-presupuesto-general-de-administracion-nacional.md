@@ -10,6 +10,8 @@ published: 1959-12-19
 boletin_oficial: "19115"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-15021-nacional-lnn0028332-1959-11-15"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=182802"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/182802/norma.htm"

@@ -9,7 +9,9 @@ date: 1980-07-28
 published: 1980-08-01
 boletin_oficial: "24471"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22259-nacional-mineria-gran-escala-lns0001276-1980-07-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=108977"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/105000-109999/108977/norma.htm"

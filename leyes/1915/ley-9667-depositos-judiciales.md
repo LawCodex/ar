@@ -9,7 +9,9 @@ date: 1915-09-18
 published: 1915-10-01
 boletin_oficial: "6513"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-9667-nacional-retiro-fondos-deposito-judicial-mediante-orden-juez-lns0002676-1915-09-18"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=196041"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/196041/norma.htm"

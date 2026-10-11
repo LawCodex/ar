@@ -9,7 +9,9 @@ date: 1983-01-07
 published: 1983-01-12
 boletin_oficial: "25088"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-22708-nacional-estado-administracion-publica-nacional-empresas-estado-seguro-aeronautico-empresas-estado-lnn0002972-1983-01-07"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304338"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304338/norma.htm"

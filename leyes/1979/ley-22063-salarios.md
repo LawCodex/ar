@@ -10,6 +10,8 @@ published: 1979-09-10
 boletin_oficial: "24245"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22063-nacional-lnn0009218-1979-09-03"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=303999"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/303999/norma.htm"

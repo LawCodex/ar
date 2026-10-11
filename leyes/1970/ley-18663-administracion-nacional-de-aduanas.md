@@ -9,7 +9,9 @@ date: 1970-04-24
 published: 1970-05-05
 boletin_oficial: "21922"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-18663-nacional-traspaso-funciones-direccion-nacional-aduanas-administracion-nacional-aduanas-lns0000944-1970-04-24"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=301534"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/301534/norma.htm"

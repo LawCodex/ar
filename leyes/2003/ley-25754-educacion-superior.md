@@ -1,0 +1,55 @@
+---
+title: "Ley 25754: EDUCACION SUPERIOR — LEY NRO. 24521 - MODIFICACION"
+identifier: "Ley 25754"
+infoleg_id: "87488"
+type: act
+jurisdiction: ar
+language: es
+date: 2003-07-16
+published: 2003-08-11
+boletin_oficial: "30210"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-25754-nacional-lnn0029434-2003-07-16"
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=87488"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/85000-89999/87488/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 25754: EDUCACION SUPERIOR — LEY NRO. 24521 - MODIFICACION
+
+EDUCACION SUPERIOR
+
+Ley 25.754
+
+Formación de posgrado. Modificación de la Ley Nº 24.521.
+
+Sancionada: Julio 16 de 2003.
+
+Promulgada: Agosto 7 de 2003.
+
+El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc. sancionan con fuerza de Ley:
+
+## ARTICULO 1º
+
+Sustitúyase el artículo 39 de la Ley Nº 24.521 por el siguiente:
+
+**Artículo 39.** La formación de posgrado se desarrollará exclusivamente en instituciones universitarias, y con las limitaciones previstas en el artículo 40 podrá también desarrollarse en centros de investigación e instituciones de formación profesional superior de reconocido nivel y jerarquía, que hayan suscrito convenios con las universidades a esos efectos. Las carreras de posgrado —sean especialización, maestría o doctorado— deberán ser acreditadas por la Comisión Nacional de Evaluación y Acreditación Universitaria, o por entidades privadas que se constituyan con ese fin y que estén debidamente reconocidas por el Ministerio de Educación, Ciencia y Tecnología.
+
+## ARTICULO 2º
+
+Agrégase el artículo 39 bis a la Ley Nº 24.521, que quedará redactado de la siguiente manera:
+
+**Artículo 39 bis.** Para acceder a la formación de posgrado, el postulante deberá contar con título universitario de grado o de nivel superior no universitario de cuatro (4) años de duración como mínimo y reunir los prerequisitos que determine el Comité Académico o la autoridad equivalente, a fin de comprobar que su formación resulte compatible con las exigencias del posgrado al que aspira. En casos excepcionales de postulantes que se encuentren fuera de los términos precedentes, podrán ser admitidos siempre que demuestren, a través de las evaluaciones y los requisitos que la respectiva universidad establezca, poseer preparación y experiencia laboral acorde con los estudios de posgrado que se proponen iniciar así como aptitudes y conocimientos suficientes para cursarlos satisfactoriamente. En todos los casos la admisión y la obtención del título de posgrado no acredita de manera alguna el título de grado anterior correspondiente al mismo.
+
+## ARTICULO 3º
+
+Comuníquese al Poder Ejecutivo.
+
+DADA EN LA SALA DE SESIONES DEL CONGRESO ARGENTINO, EN BUENOS AIRES, A LOS DIECISEIS DIAS DEL MES DE JULIO DEL AÑO DOS MIL TRES.
+
+— REGISTRADO BAJO EL Nº 25.754 —
+
+EDUARDO O. CAMAÑO. — JOSE L. GIOJA. — Eduardo D. Rollano. — Juan Estrada.

@@ -9,7 +9,9 @@ date: 1972-08-23
 published: 1972-08-31
 boletin_oficial: "22495"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19800-nacional-fondo-especial-tabaco-lns0000691-1972-08-23"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=17440"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/15000-19999/17440/texact.htm"

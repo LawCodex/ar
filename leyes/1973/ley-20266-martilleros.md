@@ -9,7 +9,9 @@ date: 1973-04-10
 published: 1973-04-17
 boletin_oficial: "22649"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20266-nacional-ejercicio-profesion-martillero-lns0000571-1973-04-10"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=56724"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/55000-59999/56724/texact.htm"

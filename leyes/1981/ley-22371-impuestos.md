@@ -9,7 +9,9 @@ date: 1981-01-13
 published: 1981-01-19
 boletin_oficial: "24588"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22371-nacional-beneficios-tributarios-para-contribuyentes-impuesto-ganancias-realicen-inversiones-lns0002752-1981-01-13"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=227879"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/225000-229999/227879/norma.htm"

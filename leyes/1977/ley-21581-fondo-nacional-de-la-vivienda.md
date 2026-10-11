@@ -9,7 +9,9 @@ date: 1977-05-23
 published: 1977-06-02
 boletin_oficial: "23672"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21581-nacional-regimen-financiamiento-fondo-nacional-vivienda-lns0000164-1977-05-26"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=30932"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/30000-34999/30932/norma.htm"

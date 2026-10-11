@@ -9,7 +9,9 @@ date: 1970-12-29
 published: 1971-01-05
 boletin_oficial: "22087"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-18883-nacional-salario-minimo-vital-movil-para-trabajadores-rurales-zona-patagonica-lns0000893-1970-12-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=301694"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/301694/norma.htm"

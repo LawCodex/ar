@@ -1,0 +1,49 @@
+---
+title: "Ley 27689: FUNDACION INTERNACIONAL UE-ALC — CREACION"
+identifier: "Ley 27689"
+infoleg_id: "372424"
+type: act
+jurisdiction: ar
+language: es
+date: 2022-09-15
+published: 2022-10-03
+boletin_oficial: "35017"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=372424"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/370000-374999/372424/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 27689: FUNDACION INTERNACIONAL UE-ALC — CREACION
+
+FUNDACIÓN INTERNACIONAL UE-ALC
+
+Ley 27689
+
+Creación.
+
+El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc. sancionan con fuerza de
+
+Ley:
+
+## Artículo 1°
+
+Apruébase el ACUERDO POR EL QUE SE CREA LA FUNDACIÓN INTERNACIONAL UE-ALC, celebrado en la Ciudad de Santo Domingo -República Dominicana- el 25 de octubre de 2016, que consta de TREINTA (30) artículos, el que como ANEXO, en los idiomas español e inglés, forma parte de la presente ley.
+
+## Artículo 2°
+
+Comuníquese al Poder Ejecutivo nacional.
+
+DADA EN LA SALA DE SESIONES DEL CONGRESO ARGENTINO, EN BUENOS AIRES, A LOS QUINCE DÍAS DEL MES DE SEPTIEMBRE DEL AÑO DOS MIL VEINTIDÓS.
+
+REGISTRADO BAJO EL N° 27689
+
+CLAUDIA LEDESMA ABDALA DE ZAMORA - CECILIA MOREAU - Marcelo Jorge Fuentes - Eduardo Cergnul
+
+NOTA: El/los Anexo/s que integra/n este(a) Ley se publican en la edición web del BORA -www.boletinoficial.gob.ar-
+
+e. 03/10/2022 N° 79384/22 v. 03/10/2022
+
+(Nota Infoleg: Los anexos referenciados en la presente norma han sido extraídos de la edición web de Boletín Oficial. Los mismos pueden consultarse en el siguiente link: [Anexos](https://servicios.infoleg.gob.ar/infolegInternet/anexos/370000-374999/372424/ley27689.pdf) )

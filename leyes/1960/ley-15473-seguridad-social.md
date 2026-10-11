@@ -10,6 +10,8 @@ published: 1960-11-04
 boletin_oficial: "19374"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-15473-nacional-lnn0028334-1960-09-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=298680"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/298680/norma.htm"

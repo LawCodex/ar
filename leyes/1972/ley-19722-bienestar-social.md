@@ -9,7 +9,9 @@ date: 1972-07-06
 published: 1972-07-12
 boletin_oficial: "22461"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19722-nacional-pago-directo-asignaciones-familiares-cajas-asignaciones-subsidios-familiares-comprendidas-decretos-leyes-7913-57-7914-57-lns0000707-1972-07-06"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=22686"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/22686/norma.htm"

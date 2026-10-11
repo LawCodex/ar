@@ -9,7 +9,9 @@ date: 1960-09-29
 published: 1960-10-28
 boletin_oficial: "19369"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-15465-nacional-regimen-legal-enfermedades-notificacion-obligatoria-lns0001453-1960-09-29"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=195093"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/195093/texact.htm"

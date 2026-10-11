@@ -9,7 +9,9 @@ date: 1986-12-23
 published: 1986-12-29
 boletin_oficial: "26058"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-23492-nacional-ley-punto-final-lns0003318-1986-12-23"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=21864"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/21864/norma.htm"

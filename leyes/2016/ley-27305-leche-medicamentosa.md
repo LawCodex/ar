@@ -1,0 +1,67 @@
+---
+title: "Ley 27305: LECHE MEDICAMENTOSA — COBERTURA INTEGRAL - OBLIGATORIEDAD"
+identifier: "Ley 27305"
+infoleg_id: "267397"
+type: act
+jurisdiction: ar
+language: es
+date: 2016-10-19
+published: 2016-11-09
+boletin_oficial: "33500"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-27305-nacional-obligacion-otorgar-leche-medicamentosa-determinados-beneficiarios-lns0006259-2016-10-19"
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=267397"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/265000-269999/267397/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 27305: LECHE MEDICAMENTOSA — COBERTURA INTEGRAL - OBLIGATORIEDAD
+
+LECHE MEDICAMENTOSA
+
+Ley 27305
+
+Obligatoriedad.
+
+El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc. sancionan con fuerza de
+
+Ley:
+
+## ARTÍCULO 1°
+
+Las obras sociales enmarcadas en las leyes 23.660 y 23.661, la Obra Social del Poder Judicial de la Nación, la Dirección de Ayuda Social para el Personal del Congreso de la Nación, las entidades de medicina prepaga y las entidades que brinden atención al personal de las universidades, así como también todos aquellos agentes que brinden servicios médico-asistenciales a sus afiliados independientemente de la figura jurídica que posean, incorporarán como prestaciones obligatorias y a brindar a sus afiliados o beneficiarios, la cobertura integral de leche medicamentosa para consumo de quienes padecen alergia a la proteína de la leche vacuna (APLV), así como también de aquellos que padecen desórdenes, enfermedades o trastornos gastrointestinales y enfermedades metabólicas, las que quedan incluidas en el Programa Médico Obligatorio (PMO).
+
+## ARTÍCULO 2°
+
+Será beneficiario de esta prestación cualquier paciente, sin límite de edad, que presente la correspondiente prescripción del médico especialista que así lo indique.
+
+## ARTÍCULO 3°
+
+Será autoridad de aplicación de la presente ley la que determine el Poder Ejecutivo.
+
+## ARTÍCULO 4°
+
+La presente ley entrará en vigencia a partir de los noventa (90) días de su publicación.
+
+## ARTÍCULO 5°
+
+Invítase a las provincias y a la Ciudad de Buenos Aires a dictar, para el ámbito de sus exclusivas competencias, normas de similar naturaleza o a adherir a la presente ley.
+
+## ARTÍCULO 6°
+
+Comuníquese al Poder Ejecutivo nacional.
+
+DADA EN LA SALA DE SESIONES DEL CONGRESO ARGENTINO, EN BUENOS AIRES, A LOS DIECINUEVE DÍAS DEL MES DE OCTUBRE DEL AÑO DOS MIL DIECISÉIS.
+
+— REGISTRADO BAJO EL N° 27305 —
+
+EMILIO MONZÓ. — JUAN C. MARINO. — Eugenio Inchausti. — Juan P. Tunessi.
+
+Buenos Aires, 8 de Noviembre de 2016
+
+En virtud de lo prescripto en el artículo 80 de la Constitución Nacional, certifico que la Ley Nº 27.305 (IF-2016-2996384-APN-SST#SLYT) sancionada por el HONORABLE CONGRESO DE LA NACION el 19 de octubre de 2016, ha quedado promulgada de hecho el día 4 de noviembre de 2016.
+
+Dése para su publicación a la Dirección Nacional del Registro Oficial, gírese copia al HONORABLE CONGRESO DE LA NACION y, para su conocimiento y demás efectos, remítase al MINISTERIO DE SALUD. Cumplido, archívese. — Pablo Clusellas.

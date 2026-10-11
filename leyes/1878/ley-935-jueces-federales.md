@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1878-09-19
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-935-nacional-suplencia-jueces-federales-seccion-fiscales-ad-hoc-lns0002476-1878-09-19"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=235474"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/235000-239999/235474/norma.htm"

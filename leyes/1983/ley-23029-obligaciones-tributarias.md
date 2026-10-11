@@ -10,6 +10,8 @@ published: 1983-12-14
 boletin_oficial: "25320"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-23029-nacional-lnn0003134-1983-12-09"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=250323"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/250000-254999/250323/norma.htm"

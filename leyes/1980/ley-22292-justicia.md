@@ -9,7 +9,9 @@ date: 1980-09-24
 published: 1980-10-02
 boletin_oficial: "24515"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22292-nacional-organizacion-justicia-federal-santa-fe-buenos-aires-mendoza-lns0002292-1980-09-24"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=196666"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/196666/norma.htm"

@@ -10,6 +10,8 @@ published: 1982-09-16
 boletin_oficial: "25006"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22643-nacional-lnn0027759-1982-09-14"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=260461"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/260000-264999/260461/norma.htm"

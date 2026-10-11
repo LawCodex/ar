@@ -10,6 +10,8 @@ published: 1981-09-23
 boletin_oficial: "24759"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22497-nacional-lnn0002848-1981-09-18"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=77263"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/75000-79999/77263/norma.htm"

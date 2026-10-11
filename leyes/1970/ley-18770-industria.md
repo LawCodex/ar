@@ -9,7 +9,9 @@ date: 1970-09-08
 published: 1970-09-11
 boletin_oficial: "22011"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-18770-nacional-cuotas-entrega-azucar-al-mercado-interno-lns0000921-1970-09-08"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=192070"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/192070/norma.htm"

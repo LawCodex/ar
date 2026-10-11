@@ -9,7 +9,9 @@ date: 1967-08-22
 published: 1967-08-29
 boletin_oficial: "21260"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-17401-nacional-lnn0025670-1967-08-22"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=260802"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/260000-264999/260802/texact.htm"

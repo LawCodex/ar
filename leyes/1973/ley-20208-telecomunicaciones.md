@@ -9,7 +9,9 @@ date: 1973-03-12
 published: 1973-03-16
 boletin_oficial: "22627"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20208-nacional-servicio-telecomunicaciones-prestados-red-radioelectrica-presidencia-nacion-gobernaciones-provincias-lns0000583-1973-03-12"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=191836"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/191836/norma.htm"

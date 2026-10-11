@@ -9,7 +9,9 @@ date: 1958-09-27
 published: 1958-10-17
 boletin_oficial: "18767"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-14499-nacional-otorgamiento-constancia-aportes-previsionales-empleadores-lns0001620-1958-09-27"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=232870"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/232870/texact.htm"

@@ -9,7 +9,9 @@ date: 1975-09-30
 published: 1975-11-06
 boletin_oficial: "23278"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21188-nacional-organizacion-justicia-federal-presidente-roque-saenz-pena-provincia-chaco-lns0000309-1975-09-30"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=124573"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/120000-124999/124573/texact.htm"

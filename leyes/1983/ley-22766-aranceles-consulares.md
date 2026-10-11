@@ -9,7 +9,9 @@ date: 1983-03-28
 published: 1983-03-30
 boletin_oficial: "25143"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22766-nacional-aranceles-consulares-respecto-derechos-importacion-lns0002998-1983-03-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=259062"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/255000-259999/259062/norma.htm"

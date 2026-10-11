@@ -412,7 +412,9 @@ La presente Convención entrará en vigor treinta días después de la fecha del
 
 La presente Convención llevará la fecha en la que será abierta a la firma y quedará después abierta a la firma durante un período de ciento veinte días.
 
-## ANEXO I — Estados representados en la Conferencia de Directores de la Organización Meteorológica Internacional reunida Washington D. C., el 22 de setiembre de 1947.
+## ANEXO I
+
+Estados representados en la Conferencia de Directores de la Organización Meteorológica Internacional reunida Washington D. C., el 22 de setiembre de 1947.
 
 Argentina
 

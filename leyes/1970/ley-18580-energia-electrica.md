@@ -10,6 +10,8 @@ published: 1970-03-11
 boletin_oficial: "21886"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-18580-nacional-lnn0005910-1970-02-04"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=230480"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/230480/norma.htm"

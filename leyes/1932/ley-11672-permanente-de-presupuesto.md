@@ -10,6 +10,8 @@ published: 1933-01-11
 boletin_oficial: "11585"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-11672-nacional-lnn0002744-1932-12-29"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=24541"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/24541/texact.htm"
@@ -1688,7 +1690,9 @@ En estos casos no será de aplicación el Artículo 26 de la Ley Nacional de Pro
 
 (Fuente: Ley Nº 24.447, Artículos 27 y 61).
 
-### CAPITULO IV — ARTICULOS NO CLASIFICADOS EN LOS CAPITULOS PRECEDENTES
+### CAPITULO IV
+
+ARTICULOS NO CLASIFICADOS EN LOS CAPITULOS PRECEDENTES
 
 #### ARTICULO 174
 

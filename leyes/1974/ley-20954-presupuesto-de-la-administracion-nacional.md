@@ -9,7 +9,9 @@ date: 1974-12-20
 published: 1975-01-13
 boletin_oficial: "23074"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-20954-nacional-lnn0028250-1974-12-20"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=179239"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/175000-179999/179239/norma.htm"

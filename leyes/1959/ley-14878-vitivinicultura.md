@@ -9,7 +9,9 @@ date: 1959-10-23
 published: 1959-11-25
 boletin_oficial: "19095"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-14878-nacional-ley-vinos-instituto-nacional-vitivinicultura-lns0001579-1959-10-23"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=15764"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/15000-19999/15764/texact.htm"

@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1969-02-28
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-18134-nacional-ley-complementaria-decreto-ley-21680-1956-lns0001036-1969-02-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=301138"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/301138/norma.htm"

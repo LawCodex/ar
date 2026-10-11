@@ -9,7 +9,9 @@ date: 1980-09-30
 published: 1980-10-06
 boletin_oficial: "24517"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22293-nacional-fuentes-financiacion-regimen-jubilaciones-pensiones-para-trabajadores-relacion-dependencia-lns0002293-1980-09-30"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=180328"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/180328/texact.htm"

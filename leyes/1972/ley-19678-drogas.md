@@ -10,6 +10,8 @@ published: 1972-06-21
 boletin_oficial: "22446"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-19678-nacional-lnn0026826-1972-06-12"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=145280"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/145000-149999/145280/norma.htm"

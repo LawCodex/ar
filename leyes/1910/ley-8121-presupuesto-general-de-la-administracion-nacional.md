@@ -10,6 +10,8 @@ published: 1911-02-09
 boletin_oficial: "5145"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-8121-nacional-lnn0011424-1910-12-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=185770"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/185000-189999/185770/norma.htm"

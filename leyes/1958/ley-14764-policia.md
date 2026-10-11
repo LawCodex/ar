@@ -9,7 +9,9 @@ date: 1958-09-30
 published: 1958-10-18
 boletin_oficial: "18768"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-14764-nacional-remuneraciones-personal-policia-territorio-nacional-tierra-fuego-antartida-islas-atlantico-sur-lns0001603-1958-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=298025"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/298025/norma.htm"

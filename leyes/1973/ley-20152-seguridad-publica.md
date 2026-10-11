@@ -10,6 +10,8 @@ published: 1973-02-20
 boletin_oficial: "22611"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-20152-nacional-lnn0022060-1973-02-09"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302596"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302596/norma.htm"

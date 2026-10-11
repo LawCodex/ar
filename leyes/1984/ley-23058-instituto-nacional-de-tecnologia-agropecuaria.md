@@ -9,7 +9,9 @@ date: 1984-03-15
 published: 1984-04-09
 boletin_oficial: "25403"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-23058-nacional-instituto-nacional-tecnologia-agropecuaria-lns0003153-1984-03-15"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=28148"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/28148/texact.htm"

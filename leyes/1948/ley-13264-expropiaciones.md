@@ -9,7 +9,9 @@ date: 1948-09-17
 published: 1948-09-23
 boletin_oficial: "16163"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-13264-nacional-lnn0026182-1948-09-17"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=260320"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/260000-264999/260320/norma.htm"

@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1900-10-05
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-3959-nacional-control-policia-sanitaria-enfermedades-contagiosas-exoticas-animales-lns0002421-1900-10-05"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=49274"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/45000-49999/49274/texact.htm"

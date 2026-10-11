@@ -9,7 +9,9 @@ date: 1972-05-17
 published: 1972-05-24
 boletin_oficial: "22429"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19645-nacional-asignacion-competencia-electoral-al-juez-federal-territorio-nacional-tierra-fuego-antartida-islas-atlantico-sud-lns0000721-1972-05-17"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=129752"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/125000-129999/129752/norma.htm"

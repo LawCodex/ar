@@ -9,7 +9,9 @@ date: 1983-07-20
 published: 1983-07-25
 boletin_oficial: "25221"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22854-nacional-computo-anos-servicios-para-pase-retiro-personal-militar-lns0003046-1983-07-20"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=86479"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/85000-89999/86479/norma.htm"

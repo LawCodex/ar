@@ -10,6 +10,8 @@ published: 1983-07-15
 boletin_oficial: "25215"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22848-nacional-lnn0027887-1983-06-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=253045"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/250000-254999/253045/norma.htm"

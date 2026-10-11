@@ -9,7 +9,9 @@ date: 1976-12-10
 published: 2006-09-12
 boletin_oficial: "30988"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21475-nacional-excepcion-promocion-personal-producirse-durante-ano-1976-policia-federal-lns0005055-1976-12-10"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=119671"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/115000-119999/119671/norma.htm"

@@ -9,7 +9,9 @@ date: 1977-07-23
 published: 1977-07-27
 boletin_oficial: "23710"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-21608-nacional-sistema-promocion-industrial-lns0000153-1977-07-23"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=28196"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/28196/norma.htm"

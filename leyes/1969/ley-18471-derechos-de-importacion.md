@@ -9,7 +9,9 @@ date: 1969-12-02
 published: 1969-12-09
 boletin_oficial: "21825"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-18471-nacional-facultad-al-poder-ejecutivo-fijar-derechos-importacion-lns0000982-1969-12-02"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=301398"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/301398/norma.htm"

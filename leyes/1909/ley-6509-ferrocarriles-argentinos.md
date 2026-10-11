@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1909-09-28
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-6509-nacional-enganches-automaticos-para-ferrocarriles-argentinos-lns0002387-1909-09-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=288328"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/285000-289999/288328/norma.htm"

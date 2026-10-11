@@ -10,6 +10,8 @@ published: 1983-06-22
 boletin_oficial: "25198"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22836-nacional-lnn0027883-1983-06-15"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=254924"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/250000-254999/254924/norma.htm"

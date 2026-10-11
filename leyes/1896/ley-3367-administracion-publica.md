@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1896-07-01
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-3367-nacional-representacion-judicial-estado-lns0002449-1896-07-01"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=124628"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/120000-124999/124628/texact.htm"

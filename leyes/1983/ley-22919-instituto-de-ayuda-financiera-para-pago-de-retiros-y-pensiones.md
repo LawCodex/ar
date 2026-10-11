@@ -9,7 +9,9 @@ date: 1983-09-19
 published: 1983-09-26
 boletin_oficial: "25265"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22919-nacional-instituto-ayuda-financiera-para-pago-retiros-pensiones-militares-lns0003079-1983-09-19"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=32031"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/30000-34999/32031/texact.htm"

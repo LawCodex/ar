@@ -10,6 +10,8 @@ published: 1976-04-13
 boletin_oficial: "23384"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-21291-nacional-lnn0000370-1976-04-07"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=92720"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/90000-94999/92720/norma.htm"

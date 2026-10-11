@@ -9,7 +9,9 @@ date: 1973-02-22
 published: 1973-02-26
 boletin_oficial: "22615"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20173-nacional-creacion-instituto-nacional-administracion-publica-lns0000340-1973-02-22"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=32615"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/30000-34999/32615/texact.htm"

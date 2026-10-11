@@ -9,7 +9,9 @@ date: 1958-09-12
 published: 1958-09-27
 boletin_oficial: "18750"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-14473-nacional-estatuto-docente-lns0001625-1958-09-12"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=126783"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/125000-129999/126783/texact.htm"

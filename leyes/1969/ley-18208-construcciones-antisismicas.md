@@ -10,6 +10,8 @@ published: 1969-05-19
 boletin_oficial: "21685"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-18208-nacional-lnn0016126-1969-05-12"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=301198"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/301198/texact.htm"

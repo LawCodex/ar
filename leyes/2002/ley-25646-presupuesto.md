@@ -1,0 +1,53 @@
+---
+title: "Ley 25646: PRESUPUESTO — LEY 25565 - MODIFICACION"
+identifier: "Ley 25646"
+infoleg_id: "77764"
+type: act
+jurisdiction: ar
+language: es
+date: 2002-08-21
+published: 2002-09-13
+boletin_oficial: "29983"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-25646-nacional-lnn0029400-2002-08-21"
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=77764"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/75000-79999/77764/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 25646: PRESUPUESTO — LEY 25565 - MODIFICACION
+
+PRESUPUESTO
+
+Ley 25.646
+
+Modificación del artículo 83 de la Ley N° 25.565.
+
+Sancionada: Agosto 21 de 2002.
+
+Promulgada de Hecho: Septiembre 12 de 2002.
+
+El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc. sancionan con fuerza de Ley:
+
+## ARTICULO 1°
+
+Modifícase desde su sanción el artículo 83 de la Ley 25.565, que quedará redactado de la siguiente forma:
+
+## Artículo 83
+
+"Las pensiones graciables prorrogadas por las Leyes números 24.307, 24.447, 24.624, 24.764, 24.938, 25.064 y 25.237 de Presupuesto para la Administración Nacional y 25.500, mantienen su vigencia, siempre que el monto de los beneficios no exceda el importe mensual de TRES CON SETENTA Y CINCO MODULO PREVISIONAL (3,75 MOPRE) y serán incompatibles con los incisos b) y c) del tercer párrafo del artículo 55 de la Ley N° 25.401.
+
+Establécese que el monto individual o acumulativo de las pensiones otorgadas en virtud de las Leyes 24.191, 24.307, 24.447, 24.624, 24.764, 24.938, 25.064 y 25.237 no podrá superar el importe mensual de TRES COMA SETENTA Y CINCO MODULO PREVISIONAL (3,75 MOPRE), siendo compatible con cualquier otro ingreso que no supere la suma de UNO COMA OCHENTA Y OCHO MODULO PREVISIONAL (1,88 MOPRE).
+
+## ARTICULO 2°
+
+Comuníquese al Poder Ejecutivo nacional.
+
+DADA EN LA SALA DE SESIONES DEL CONGRESO ARGENTINO, EN BUENOS AIRES, EL 21 AGO 2002.
+
+— REGISTRADO BAJO EL N° 25.646 —
+
+EDUARDO O. CAMAÑO. — MARCELO E. LOPEZ ARIAS. — Eduardo D. Rollano. — Juan C. Oyarzún.

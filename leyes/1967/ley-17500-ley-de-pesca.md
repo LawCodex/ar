@@ -9,7 +9,9 @@ date: 1967-10-25
 published: 1967-10-31
 boletin_oficial: "21304"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-17500-nacional-promocion-pesquera-lns0001153-1967-10-25"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=23742"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/23742/norma.htm"

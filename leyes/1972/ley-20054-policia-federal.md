@@ -9,7 +9,9 @@ date: 1972-12-28
 published: 2006-09-13
 boletin_oficial: "30989"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20054-nacional-incremento-extraordinario-al-personal-policia-federal-lns0005063-1972-12-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=119717"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/115000-119999/119717/norma.htm"

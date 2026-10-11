@@ -9,7 +9,9 @@ date: 1968-12-16
 published: 1968-12-24
 boletin_oficial: "21589"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-18003-nacional-fijacion-limites-entre-provincias-pampa-san-luis-lns0001048-1968-12-16"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=197954"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/197954/norma.htm"

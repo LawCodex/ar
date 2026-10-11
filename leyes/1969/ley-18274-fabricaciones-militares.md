@@ -9,7 +9,9 @@ date: 1969-07-07
 published: 1969-07-18
 boletin_oficial: "21726"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-18274-nacional-facultades-direccion-general-fabricaciones-militares-exploracion-minerales-lns0001398-1969-07-07"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=220644"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/220000-224999/220644/norma.htm"

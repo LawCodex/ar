@@ -9,7 +9,9 @@ date: 1972-07-07
 published: 1972-08-14
 boletin_oficial: "22484"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19767-nacional-adicionales-remuneraciones-agentes-loteria-beneficencia-nacional-casinos-lns0000698-1972-08-07"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=273620"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/270000-274999/273620/norma.htm"

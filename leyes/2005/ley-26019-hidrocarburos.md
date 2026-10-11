@@ -1,0 +1,55 @@
+---
+title: "Ley 26019: HIDROCARBUROS — ABASTECIMIENTO GAS PROPANO"
+identifier: "Ley 26019"
+infoleg_id: "104837"
+type: act
+jurisdiction: ar
+language: es
+date: 2005-03-02
+published: 2005-03-28
+boletin_oficial: "30619"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-26019-nacional-autorizacion-al-poder-ejecutivo-nacional-mantener-diez-anos-objetivos-finalidad-acuerdo-abastecimiento-gas-propano-indiluido-lns0004940-2005-03-02"
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=104837"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/100000-104999/104837/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 26019: HIDROCARBUROS — ABASTECIMIENTO GAS PROPANO
+
+HIDROCARBUROS
+
+Ley 26.019
+
+Autorízase al Poder Ejecutivo nacional a mantener por el plazo de diez años los objetivos y finalidad perseguidos por el Acuerdo de abastecimiento de gas propano para redes de distribución de gas propano indiluido, ratificado por el Decreto Nº 934/2003 y renovado por la Resolución Nº 419/2003 de la Secretaría de Energía.
+
+Sancionada: Marzo 2 de 2005
+
+Promulgada de Hecho: Marzo 22 de 2005
+
+El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc. sancionan con fuerza de Ley:
+
+## ARTICULO 1º
+
+Autorízase al Poder Ejecutivo nacional a mantener por el plazo de DIEZ (10) años los objetivos y finalidad perseguidos por el Acuerdo de abastecimiento de gas propano para redes de distribución de gas propano indiluido, ratificado por el decreto Nº 934 de fecha 22 de abril de 2003, y renovado por la resolución Nº 419 de la Secretaría de Energía de fecha 30 de mayo de 2003.
+
+(Nota Infoleg: por art. 70 de la Ley Nº 26.546 B.O. 27/11/2009 se prorroga por NUEVE (9) años, el plazo dispuesto por la presente Ley)
+
+## ARTICULO 2º
+
+Facúltase a la Secretaría de Energía dependiente del Ministerio de Planificación Federal, Inversión Pública y Servicios, para promover ante el Ente Nacional Regulador del Gas (ENARGAS), organismo autárquico en el ámbito de la Secretaría de Energía dependiente del Ministerio de Planificación Federal, Inversión Pública y Servicios, la autorización de ejecución de obras de suministro de gas natural a usuarios actualmente abastecidos con gas propano indiluido por redes. A tal fin resultará de aplicación para todos aquellos usuarios R y P (primer y segundo escalón) abastecidos actualmente por redes, el mecanismo de promoción de obras de suministro de gas natural.
+
+Para el volumen y las calorías distribuidas con gas natural que sustituye al gas propano indiluido por redes y por el plazo que resulte necesario para que el mismo resulte compatible con la programación financiera del o los Fondos Fiduciarios creado en el marco del Decreto 180/04, se afectará al pago del capital invertido en las obras que posiblitaron tal sustitución, el monto anual total que surge para ese volumen y cantidad de calorías por la diferencia entre el precio de mercado del GLP y los $ 300/tonelada métrica fijado en el acuerdo referido en el artículo 1º de la presente ley, o entre aquel precio y el que determine la autoridad de aplicación en el futuro.
+
+## ARTICULO 3º
+
+Comuníquese al Poder Ejecutivo nacional.
+
+DADA EN LA SALA DE SESIONES DEL CONGRESO ARGENTINO, EN BUENOS AIRES, A LOS DOS DIAS DEL MES DE MARZO DEL AÑO DOS MIL CINCO.
+
+—REGISTRADA BAJO EL Nº 26.019—
+
+EDUARDO O. CAMAÑO. — MARCELO A. GUINLE. — Eduardo D. Rollano. — Juan Estrada.

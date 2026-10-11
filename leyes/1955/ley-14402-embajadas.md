@@ -9,7 +9,9 @@ date: 1955-05-18
 published: 1955-06-10
 boletin_oficial: "17916"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-14402-nacional-embajada-argentina-libano-lns0001813-1955-05-18"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=231839"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/231839/norma.htm"

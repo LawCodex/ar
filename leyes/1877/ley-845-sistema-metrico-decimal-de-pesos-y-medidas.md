@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1877-07-11
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-845-nacional-lnn0026400-1877-07-11"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=48863"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/45000-49999/48863/norma.htm"

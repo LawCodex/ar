@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1964-10-01
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-16490-nacional-depositos-judiciales-justicia-nacional-paz-letrada-lns0001402-1964-10-01"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=300019"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/300019/norma.htm"

@@ -9,7 +9,9 @@ date: 1970-01-30
 published: 1970-02-03
 boletin_oficial: "21862"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-18575-nacional-promocion-para-desarrollo-zonas-fronteras-lns0000961-1970-01-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=37912"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/35000-39999/37912/norma.htm"

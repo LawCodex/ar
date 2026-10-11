@@ -9,7 +9,9 @@ date: 1960-09-29
 published: 1960-10-25
 boletin_oficial: "19366"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-15464-nacional-creacion-dos-cargos-procuradores-fiscales-corte-suprema-justicia-nacion-lns0001454-1960-09-29"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=298673"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/298673/texact.htm"

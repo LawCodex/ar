@@ -9,7 +9,9 @@ date: 1983-05-26
 published: 1983-05-30
 boletin_oficial: "25182"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22818-nacional-creacion-camara-nacional-electoral-provincia-buenos-aires-capital-federal-territorio-nacional-tierra-fuego-antartida-islas-atlantico-sud-lns0003032-1983-05-26"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304376"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304376/norma.htm"

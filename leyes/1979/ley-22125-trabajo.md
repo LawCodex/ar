@@ -9,7 +9,9 @@ date: 1979-12-24
 published: 1979-12-31
 boletin_oficial: "24324"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22125-nacional-asociaciones-gremiales-trabajadores-lns0000027-1979-12-24"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=285984"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/285000-289999/285984/texact.htm"

@@ -9,7 +9,9 @@ date: 1959-11-15
 published: 1959-12-23
 boletin_oficial: "19118"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-15010-nacional-salud-publica-enfermedades-poliomielitis-vacunacion-higiene-sanidad-lns0001576-1959-11-15"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=298247"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/298247/norma.htm"

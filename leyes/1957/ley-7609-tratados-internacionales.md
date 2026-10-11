@@ -10,6 +10,8 @@ published: 1957-07-16
 boletin_oficial: "18439"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-7609-nacional-lnn0010704-1910-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=297254"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/297254/norma.htm"

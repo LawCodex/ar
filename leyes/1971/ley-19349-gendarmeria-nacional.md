@@ -9,7 +9,9 @@ date: 1971-11-25
 published: 1972-01-10
 boletin_oficial: "22337"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-19349-nacional-ley-gendarmeria-nacional-lns0000794-1971-11-25"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=38871"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/35000-39999/38871/texact.htm"

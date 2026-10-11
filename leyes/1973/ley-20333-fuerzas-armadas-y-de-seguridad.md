@@ -9,7 +9,9 @@ date: 1973-04-30
 published: 1973-05-15
 boletin_oficial: "22666"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20333-nacional-tasas-derechos-aranceles-servicios-policia-federal-lns0000529-1973-04-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=231859"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/231859/norma.htm"

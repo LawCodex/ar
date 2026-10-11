@@ -9,7 +9,9 @@ date: 1974-04-25
 published: 1974-05-16
 boletin_oficial: "22913"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20663-nacional-recepcion-deposito-plazo-fijo-parte-entidades-financieras-lns0000452-1974-04-25"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=109340"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/105000-109999/109340/texact.htm"

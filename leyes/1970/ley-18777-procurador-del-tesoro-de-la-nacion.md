@@ -9,7 +9,9 @@ date: 1970-09-09
 published: 1970-09-25
 boletin_oficial: "22013"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-18777-nacional-funcionamiento-procuracion-tesoro-nacion-lns0000919-1970-09-09"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=38155"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/35000-39999/38155/texact.htm"

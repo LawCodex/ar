@@ -9,7 +9,9 @@ date: 1947-06-19
 published: 1947-07-25
 boletin_oficial: "15825"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-12990-nacional-ejercicio-profesional-escribanos-lns0002051-1947-06-19"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=45260"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/45000-49999/45260/texact.htm"

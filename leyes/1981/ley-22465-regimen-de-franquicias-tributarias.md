@@ -9,7 +9,9 @@ date: 1981-06-15
 published: 1981-06-19
 boletin_oficial: "24693"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22465-nacional-regimen-beneficios-tributarios-para-rio-negro-neuquen-chubut-santa-cruz-partido-patagones-provincia-buenos-aires-lns0002837-1981-06-15"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=257345"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/255000-259999/257345/norma.htm"

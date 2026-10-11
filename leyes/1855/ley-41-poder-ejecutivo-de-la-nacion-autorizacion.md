@@ -8,6 +8,8 @@ language: es
 date: 1855-09-01
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-41-nacional-lnn0024822-1863-08-12"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=280748"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/280000-284999/280748/norma.htm"

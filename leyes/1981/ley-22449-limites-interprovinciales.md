@@ -9,7 +9,9 @@ date: 1981-03-23
 published: 1981-04-09
 boletin_oficial: "24646"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22449-nacional-fijacion-limites-entre-provincias-catamarca-tucuman-lns0002819-1981-03-25"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=199432"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/199432/norma.htm"

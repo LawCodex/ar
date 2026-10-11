@@ -10,6 +10,8 @@ published: 1966-09-19
 boletin_oficial: "21028"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-16945-nacional-lnn0017364-1966-09-15"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=46812"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/45000-49999/46812/norma.htm"

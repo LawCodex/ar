@@ -9,7 +9,9 @@ date: 1981-03-16
 published: 1981-03-20
 boletin_oficial: "24632"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22430-nacional-jubilaciones-pensiones-sacerdotes-seculares-culto-catolico-lns0002802-1981-03-16"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=64612"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/60000-64999/64612/norma.htm"

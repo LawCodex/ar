@@ -10,6 +10,8 @@ published: 1929-10-11
 boletin_oficial: "10635"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-11563-nacional-lnn0027287-1929-09-18"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=293555"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/293555/norma.htm"

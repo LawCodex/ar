@@ -9,7 +9,9 @@ date: 1967-11-13
 published: 1967-11-16
 boletin_oficial: "21315"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-17531-nacional-ley-servicio-militar-lns0001145-1967-11-13"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=16537"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/15000-19999/16537/norma.htm"

@@ -10,6 +10,8 @@ published: 1952-11-05
 boletin_oficial: "17269"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-14160-nacional-lnn0027214-1952-09-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=296494"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/296494/norma.htm"

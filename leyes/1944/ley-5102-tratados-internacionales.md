@@ -10,6 +10,8 @@ published: 1944-03-23
 boletin_oficial: "14858"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-5102-nacional-lnn0012969-1907-08-08"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=294880"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/294880/norma.htm"

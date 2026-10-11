@@ -9,7 +9,9 @@ date: 1933-09-08
 published: 1933-09-23
 boletin_oficial: "11793"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-11709-nacional-obligacion-instalacion-cuidado-escalas-peces-diques-rios-jurisdiccion-nacional-lns0002510-1933-09-08"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=197556"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/197556/norma.htm"

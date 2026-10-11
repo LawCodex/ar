@@ -9,7 +9,9 @@ date: 1980-10-29
 published: 1980-11-04
 boletin_oficial: "24537"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22310-nacional-remuneraciones-personal-gastronomico-lns0002338-1980-10-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304124"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304124/norma.htm"

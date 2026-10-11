@@ -9,7 +9,9 @@ date: 1979-10-17
 published: 1979-10-25
 boletin_oficial: "24278"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22091-nacional-creacion-administracion-nacional-aduanas-lns0000277-1979-10-17"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=33482"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/30000-34999/33482/texact.htm"

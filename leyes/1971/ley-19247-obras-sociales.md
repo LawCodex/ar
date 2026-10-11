@@ -9,7 +9,9 @@ date: 1971-09-21
 published: 1971-09-28
 boletin_oficial: "22268"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19247-nacional-autorizacion-periodistas-casa-gobierno-afiliarse-al-instituto-servicios-sociales-bancarios-lns0000824-1971-09-21"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=301960"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/301960/norma.htm"

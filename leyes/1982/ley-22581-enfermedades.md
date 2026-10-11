@@ -9,7 +9,9 @@ date: 1982-05-07
 published: 1982-05-11
 boletin_oficial: "24918"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22581-nacional-convenios-transferncia-actividad-operativa-programa-nacional-lucha-contra-enfermedad-chagas-mazza-entre-ministerio-bienestar-social-provincias-lns0002909-1982-05-07"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304273"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304273/norma.htm"

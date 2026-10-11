@@ -10,6 +10,8 @@ published: 1983-11-11
 boletin_oficial: "25298"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22968-nacional-lnn0027955-1983-11-07"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=251437"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/250000-254999/251437/norma.htm"

@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1902-01-08
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-4055-nacional-organizacion-justicia-federal-todo-territorio-nacional-lns0002570-1902-01-08"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=116116"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/115000-119999/116116/texact.htm"

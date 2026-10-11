@@ -9,7 +9,9 @@ date: 1971-03-31
 published: 1971-04-07
 boletin_oficial: "22150"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-18966-nacional-lnn0025556-1971-03-31"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=171678"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/170000-174999/171678/norma.htm"

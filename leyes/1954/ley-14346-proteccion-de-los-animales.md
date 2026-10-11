@@ -9,7 +9,9 @@ date: 1954-09-27
 published: 1954-11-05
 boletin_oficial: "17767"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-14346-nacional-malos-tratos-actos-crueldad-contra-animales-lns0001818-1954-09-27"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=153011"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/150000-154999/153011/norma.htm"

@@ -9,7 +9,9 @@ date: 1975-09-30
 published: 1975-11-07
 boletin_oficial: "23279"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21161-nacional-organizacion-justicia-federal-bs-as-rosario-santa-fe-mendoza-cordoba-tucuman-chubut-capital-federal-lns0000313-1975-09-30"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=119329"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/115000-119999/119329/texact.htm"

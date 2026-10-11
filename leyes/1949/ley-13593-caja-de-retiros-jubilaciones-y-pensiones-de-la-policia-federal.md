@@ -10,6 +10,8 @@ published: 1949-11-23
 boletin_oficial: "16502"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-13593-nacional-lnn0024062-1949-09-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=167396"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/165000-169999/167396/norma.htm"

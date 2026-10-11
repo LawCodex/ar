@@ -9,7 +9,9 @@ date: 1983-12-22
 published: 1983-12-29
 boletin_oficial: "25331"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-23040-nacional-derogacion-inconstitucionalidad-declaracion-nulidad-ley-22924-lns0003122-1983-12-22"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=28166"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/28166/norma.htm"

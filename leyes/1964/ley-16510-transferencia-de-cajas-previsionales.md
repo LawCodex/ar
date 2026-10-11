@@ -10,6 +10,8 @@ published: 1964-11-14
 boletin_oficial: "20568"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-16510-nacional-lnn0028336-1964-10-22"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=300036"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/300036/norma.htm"

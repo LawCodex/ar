@@ -10,6 +10,8 @@ published: 1969-01-10
 boletin_oficial: "21599"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-18038-nacional-lnn0001049-1968-12-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=31924"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/30000-34999/31924/norma.htm"

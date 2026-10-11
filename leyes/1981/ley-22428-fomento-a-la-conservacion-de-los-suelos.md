@@ -9,7 +9,9 @@ date: 1981-03-16
 published: 1981-03-20
 boletin_oficial: "24632"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22428-nacional-conservacion-recuperacion-capacidad-productiva-suelos-lns0002800-1981-03-16"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=40021"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/40000-44999/40021/norma.htm"

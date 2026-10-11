@@ -9,7 +9,9 @@ date: 1972-05-15
 published: 1972-05-19
 boletin_oficial: "22426"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19637-nacional-franquicias-aduaneras-para-importaciones-empresas-nacionales-aeronavegacion-lns0000724-1972-05-15"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302241"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302241/norma.htm"

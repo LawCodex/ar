@@ -10,6 +10,8 @@ published: 1979-04-25
 boletin_oficial: "24152"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-21984-nacional-lnn0004084-1979-04-20"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=225833"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/225000-229999/225833/norma.htm"

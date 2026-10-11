@@ -10,6 +10,8 @@ published: 1968-08-05
 boletin_oficial: "21491"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-17819-nacional-lnn0026957-1968-07-29"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=196616"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/196616/texact.htm"

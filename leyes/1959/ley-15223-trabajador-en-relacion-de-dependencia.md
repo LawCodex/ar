@@ -9,7 +9,9 @@ date: 1959-11-15
 published: 1959-12-31
 boletin_oficial: "19124"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-15223-nacional-extension-regimen-decretos-leyes-7913-57-8879-57-16811-57-lns0001574-1959-11-15"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=298456"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/298456/texact.htm"

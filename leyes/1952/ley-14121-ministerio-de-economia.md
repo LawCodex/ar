@@ -9,7 +9,9 @@ date: 1952-06-02
 published: 1952-06-06
 boletin_oficial: "17165"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-14121-nacional-lnn0026131-1952-06-02"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=166175"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/165000-169999/166175/norma.htm"

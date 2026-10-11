@@ -1,0 +1,51 @@
+---
+title: "Ley 23739: PASOS FRONTERIZOS — CATAMARCA"
+identifier: "Ley 23739"
+infoleg_id: "140"
+type: act
+jurisdiction: ar
+language: es
+date: 1989-09-28
+published: 1989-10-24
+boletin_oficial: "26745"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-23739-nacional-habilitacion-paso-fronterizo-catamarca-lns0003549-1989-09-28"
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=140"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/0-4999/140/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 23739: PASOS FRONTERIZOS — CATAMARCA
+
+PASOS FRONTERIZOS
+
+LEY Nº 23.739
+
+Declárase de interés nacional la habilitación y puesta en funcionamiento de un paso fronterizo carretero en la Provincia de Catamarca.
+
+Sancionada: Septiembre 28 de 1989.
+
+Promulgada de Hecho: Octubre 18 de 1989.
+
+El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc. sancionan con fuerza de Ley:
+
+## ARTICULO 1º
+
+Declárase de interés nacional la habilitación y puesta en funcionamiento de un paso fronterizo carretero en el denominado Paso San Francisco, Provincia de Catamarca.
+
+## ARTICULO 2º
+
+El Poder Ejecutivo Nacional instruirá al Ministerio de Relaciones Exteriores y Culto a fin de que, en el marco de las reuniones que efectúa la Comisión Binacional Argentino-Chilena de Cooperación Económica e Integración Física (Comisión de Integración Física) por mandato del artículo 12 de la Ley 23.172, de Tratado de Paz y Amistad celebrado entre los Gobiernos de Argentina y Chile, defina el Paso de San Francisco, Provincia de Catamarca, como uno de los lugares de interconexión caminera entre ambos países, conforme lo dispuesto en la presente ley.
+
+## ARTICULO 3º
+
+El Poder Ejecutivo Nacional dispondrá, por intermedio de los Ministerios que pudieren corresponder, las medidas necesarias para el cumplimiento de lo dispuesto en la presente ley.
+
+## ARTICULO 4º
+
+Comuníquese al Poder Ejecutivo.-ALBERTO R. PIERRI.-EDUARDO DUHALDE.-Alberto E. Balestrini.-Alberto J. B. Iribarne.
+
+DADA EN LA SALA DE SESIONES DEL CONGRESO ARGENTINO, EN BUENOS AIRES, A LOS VEINTIOCHO DIAS DEL MES DE SETIEMBRE DEL AÑO MIL NOVECIENTOS OCHENTA Y NUEVE.

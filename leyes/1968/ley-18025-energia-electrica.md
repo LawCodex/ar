@@ -10,6 +10,8 @@ published: 1969-01-09
 boletin_oficial: "21598"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-18025-nacional-lnn0005610-1968-12-27"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=220560"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/220000-224999/220560/norma.htm"

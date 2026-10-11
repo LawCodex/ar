@@ -9,7 +9,9 @@ date: 1960-09-30
 published: 1960-11-05
 boletin_oficial: "19375"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-15767-nacional-interes-nacional-educacion-sanitaria-lns0001821-1960-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=194935"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/194935/norma.htm"

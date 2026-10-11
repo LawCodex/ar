@@ -9,7 +9,9 @@ date: 1979-08-03
 published: 1979-08-15
 boletin_oficial: "24228"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-22047-nacional-creacion-consejo-federal-cultura-educacion-lns0000294-1979-08-03"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=123770"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/120000-124999/123770/norma.htm"

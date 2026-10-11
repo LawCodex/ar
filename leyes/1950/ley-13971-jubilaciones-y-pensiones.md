@@ -10,6 +10,8 @@ published: 1950-10-03
 boletin_oficial: "16748"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-13971-nacional-lnn0019648-1950-09-21"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=233447"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/233447/norma.htm"

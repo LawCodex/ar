@@ -9,7 +9,9 @@ date: 1973-10-06
 published: 1973-11-22
 boletin_oficial: "22795"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20545-nacional-derogacion-franquicias-aduaneras-para-importaciones-lns0000472-1973-10-24"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=23970"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/23970/texact.htm"

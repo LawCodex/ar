@@ -9,7 +9,9 @@ date: 1980-12-02
 published: 1980-12-09
 boletin_oficial: "24561"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22347-nacional-fijacion-limites-entre-salta-santiago-estero-lns0002707-1980-12-02"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=199431"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/199431/norma.htm"

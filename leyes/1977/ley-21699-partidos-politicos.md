@@ -9,7 +9,9 @@ date: 1977-12-07
 published: 1977-12-13
 boletin_oficial: "23807"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-21699-nacional-autoridades-partidos-politicos-lnn0000109-1977-12-07"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=303801"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/303801/norma.htm"

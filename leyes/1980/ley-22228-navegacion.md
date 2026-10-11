@@ -10,6 +10,8 @@ published: 1980-06-02
 boletin_oficial: "24430"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22228-nacional-lnn0001843-1980-05-16"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=139181"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/135000-139999/139181/norma.htm"

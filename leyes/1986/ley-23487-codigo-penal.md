@@ -10,6 +10,8 @@ published: 1987-01-26
 boletin_oficial: "26071"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-23487-nacional-lnn0028162-1986-10-31"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=21874"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/21874/norma.htm"

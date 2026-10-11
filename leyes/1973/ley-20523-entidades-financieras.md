@@ -9,7 +9,9 @@ date: 1973-08-09
 published: 1973-08-22
 boletin_oficial: "22731"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20523-nacional-prohibicion-participacion-una-entidad-financiera-otra-lns0000478-1973-08-09"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=183170"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/183170/norma.htm"

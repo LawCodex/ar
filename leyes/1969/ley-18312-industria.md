@@ -9,7 +9,9 @@ date: 1969-08-11
 published: 1969-08-13
 boletin_oficial: "21744"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-18312-nacional-creacion-fondo-para-desarrollo-produccion-papel-prensa-celulosa-lns0001386-1969-08-11"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=191360"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/191360/norma.htm"

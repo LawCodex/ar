@@ -8,6 +8,8 @@ language: es
 date: 1968-11-07
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-17961-nacional-lnn0018135-1968-11-07"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=300993"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/300993/norma.htm"

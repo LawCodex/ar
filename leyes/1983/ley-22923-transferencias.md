@@ -10,6 +10,8 @@ published: 1983-09-26
 boletin_oficial: "25265"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22923-nacional-lnn0027920-1983-09-22"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=250512"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/250000-254999/250512/norma.htm"

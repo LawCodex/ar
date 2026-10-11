@@ -9,7 +9,9 @@ date: 1967-06-08
 published: 1967-06-15
 boletin_oficial: "21210"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-17307-nacional-facultad-policia-federeal-para-percibir-administrar-tasas-derechos-aranceles-lns0001191-1967-06-08"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=231582"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/231582/norma.htm"

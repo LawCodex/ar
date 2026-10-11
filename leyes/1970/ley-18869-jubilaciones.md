@@ -9,7 +9,9 @@ date: 1970-12-14
 published: 2006-09-22
 boletin_oficial: "30996"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-18869-nacional-jubilaciones-pensiones-para-personal-ministerio-interior-ex-secretaria-estado-gobierno-lns0005084-1970-12-14"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=120098"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/120000-124999/120098/norma.htm"

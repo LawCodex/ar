@@ -9,7 +9,9 @@ date: 1977-10-21
 published: 1977-12-07
 boletin_oficial: "23804"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21673-nacional-instituto-nacional-investigacion-desarrollo-pesquero-lns0000120-1977-10-21"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=48475"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/45000-49999/48475/texact.htm"

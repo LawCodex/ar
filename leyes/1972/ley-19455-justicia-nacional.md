@@ -9,7 +9,9 @@ date: 1972-01-24
 published: 1972-02-03
 boletin_oficial: "22355"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19455-nacional-reorganizacion-justicia-nacional-comercial-capital-federal-lns0000777-1972-01-24"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=196007"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/196007/norma.htm"

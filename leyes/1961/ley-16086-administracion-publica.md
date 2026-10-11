@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1961-11-16
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-16086-nacional-estatuto-personal-secretaria-estado-comunicaciones-lns0001414-1961-11-16"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=299248"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/299248/texact.htm"

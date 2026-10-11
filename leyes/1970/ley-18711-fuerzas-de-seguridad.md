@@ -9,7 +9,9 @@ date: 1970-06-17
 published: 1970-06-23
 boletin_oficial: "21955"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-18711-nacional-funciones-jurisdicciones-fuerzas-seguridad-lns0000934-1970-06-17"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=47243"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/45000-49999/47243/texact.htm"

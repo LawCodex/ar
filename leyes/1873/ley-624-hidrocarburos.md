@@ -8,6 +8,8 @@ language: es
 date: 1873-09-19
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-624-nacional-lnn0019354-1873-09-19"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=214376"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/210000-214999/214376/norma.htm"

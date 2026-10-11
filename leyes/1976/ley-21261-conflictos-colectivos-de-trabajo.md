@@ -9,7 +9,9 @@ date: 1976-03-24
 published: 1976-03-26
 boletin_oficial: "23372"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-21261-nacional-suspension-derecho-huelga-lns0000411-1976-03-24"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=303522"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/303522/texact.htm"

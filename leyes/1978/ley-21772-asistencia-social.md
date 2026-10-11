@@ -10,6 +10,8 @@ published: 1978-04-07
 boletin_oficial: "23888"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-21772-nacional-financiacion-banco-hipotecario-nacional-para-adquisicion-construccion-reparacion-refaccion-ampliacion-vivienda-damnificados-mismos-ocurridos-provincia-san-juan-partir-mes-noviembre-1977-lnn0000083-1978-03-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=285982"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/285000-289999/285982/norma.htm"

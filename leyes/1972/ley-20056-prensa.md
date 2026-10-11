@@ -9,7 +9,9 @@ date: 1972-12-28
 published: 1973-04-05
 boletin_oficial: "22641"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20056-nacional-publicidad-hechos-referidos-menores-edad-lns0000633-1972-12-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=191832"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/191832/norma.htm"

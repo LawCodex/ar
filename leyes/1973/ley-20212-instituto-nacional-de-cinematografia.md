@@ -9,7 +9,9 @@ date: 1973-03-14
 published: 1973-03-20
 boletin_oficial: "22629"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20212-nacional-autorizacion-al-instituto-nacional-cinematografia-para-microreproducir-sus-archivos-lns0000588-1973-03-14"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=191877"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/191877/norma.htm"

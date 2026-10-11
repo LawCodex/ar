@@ -10,6 +10,8 @@ published: 1969-12-19
 boletin_oficial: "21833"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-18445-nacional-lnn0015675-1969-11-14"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=159310"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/155000-159999/159310/norma.htm"

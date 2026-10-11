@@ -10,6 +10,8 @@ published: 1983-09-13
 boletin_oficial: "25256"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22901-nacional-lnn0027925-1983-09-08"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304397"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304397/norma.htm"

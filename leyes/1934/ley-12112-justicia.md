@@ -9,7 +9,9 @@ date: 1934-09-30
 published: 1934-10-19
 boletin_oficial: "12105"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-12112-nacional-creacion-juzgado-federal-san-rafael-pcia-mendoza-lns0002359-1934-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=195552"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/195552/norma.htm"

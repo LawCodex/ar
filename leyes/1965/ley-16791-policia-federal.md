@@ -10,6 +10,8 @@ published: 1965-12-09
 boletin_oficial: "20836"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-16791-nacional-lnn0024507-1965-10-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=182923"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/182923/norma.htm"

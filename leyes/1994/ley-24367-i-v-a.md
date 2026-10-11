@@ -1,0 +1,51 @@
+---
+title: "Ley 24367: I.V.A. — MODIFICACION"
+identifier: "Ley 24367"
+infoleg_id: "25630"
+type: act
+jurisdiction: ar
+language: es
+date: 1994-09-01
+published: 1994-09-29
+boletin_oficial: "27986"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-24367-nacional-lnn0028662-1994-09-01"
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=25630"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/25630/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 24367: I.V.A. — MODIFICACION
+
+IMPUESTO AL VALOR AGREGADO
+
+Ley Nº 24.367
+
+Modifícase el punto 12, del inciso j) del artículo 6º de la Ley de Impuesto al Valor Agregado, texto sustituido por la Ley Nº 23.349 y sus modificaciones.
+
+Sancionada: Setiembre 1 de 1994.
+
+Promulgada de Hecho: Setiembre 26 de 1994.
+
+El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc. sancionan con Fuerza de Ley:
+
+## ARTICULO 1º
+
+Sustitúyese el punto 12, del inciso j), del artículo 6º, de la Ley de Impuesto al Valor Agregado, texto sustituido por la Ley Nº 23.349 y sus modificaciones, por el siguiente:
+
+Punto 12: Los servicios de taxímetros, remises con chofer y todos los demás servicios de transporte de pasajeros. Terrestres, acuáticos o aéreos realizados en el país.
+
+La exención dispuesta en este punto también comprende a los servicios de carga del equipaje conducido por el propio viajero y cuyo transporte se encuentre incluido en el precio del pasaje.
+
+## ARTICULO 2º
+
+Las disposiciones de la presente ley entrarán en vigencia el primer días del mes siguiente al de la fecha de su publicación.
+
+## ARTICULO 3º
+
+Comuníquese al Poder Ejecutivo. — ALBERTO R. PIERRI. — EDUARDO MENEM. — Esther H. Pereyra Arandía de Pérez Pardo. — Edgardo Piuzzi.
+
+DADA EN LA SALA DE SESIONES DEL CONGRESO ARGENTINO, EN BUENOS AIRES, A UN DIA DEL MES DE SETIEMBRE DEL AÑO MIL NOVECIENTOS NOVENTA Y CUATRO.

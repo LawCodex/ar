@@ -9,7 +9,9 @@ date: 1971-07-15
 published: 1971-07-21
 boletin_oficial: "22220"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19117-nacional-creacion-universidad-nacional-comahue-lns0000850-1971-07-15"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=195151"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/195151/norma.htm"

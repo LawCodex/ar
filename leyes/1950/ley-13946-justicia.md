@@ -9,7 +9,9 @@ date: 1950-09-15
 published: 1950-10-09
 boletin_oficial: "16752"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-13946-nacional-creacion-juzgado-federal-san-isidro-buenos-aires-lns0001940-1950-09-15"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=195975"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/195975/norma.htm"

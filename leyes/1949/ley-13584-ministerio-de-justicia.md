@@ -9,7 +9,9 @@ date: 1949-09-29
 published: 1949-10-20
 boletin_oficial: "16475"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-13584-nacional-organizacion-justicia-federal-ciudad-paso-libres-corrientes-lns0001974-1949-09-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=195431"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/195431/norma.htm"

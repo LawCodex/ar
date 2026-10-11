@@ -10,6 +10,8 @@ published: 1980-01-14
 boletin_oficial: "24333"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22133-nacional-lnn0027487-1979-12-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304028"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304028/norma.htm"

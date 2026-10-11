@@ -10,6 +10,8 @@ published: 1967-11-08
 boletin_oficial: "21309"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-17506-nacional-lnn0026974-1967-10-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=142367"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/140000-144999/142367/norma.htm"

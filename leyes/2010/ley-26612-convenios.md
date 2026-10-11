@@ -1,0 +1,61 @@
+---
+title: "Ley 26612: CONVENIOS — CONVENIO CONSTITUTIVO DE LA CORPORACION ANDINA DE FOMENTO - ADHESION DE ARGENTINA"
+identifier: "Ley 26612"
+infoleg_id: "169886"
+type: act
+jurisdiction: ar
+language: es
+date: 2010-06-30
+published: 2010-07-28
+boletin_oficial: "31953"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=169886"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/165000-169999/169886/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 26612: CONVENIOS — CONVENIO CONSTITUTIVO DE LA CORPORACION ANDINA DE FOMENTO - ADHESION DE ARGENTINA
+
+CONVENIOS
+
+Ley 26.612
+
+Apruébase la adhesión de la República Argentina al Convenio Constitutivo de la Corporación Andina de Fomento (CAF) celebrado en la ciudad de Bogotá, República de Colombia.
+
+Sancionada: Junio 30 de 2010
+
+Promulgada de Hecho: Julio 27 de 2010
+
+El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc. sancionan con fuerza de Ley:
+
+## ARTICULO 1º
+
+Apruébase la adhesión de la REPUBLICA ARGENTINA al Convenio Constitutivo de la CORPORACION ANDINA DE FOMENTO (CAF) que consta de DIEZ (10) capítulos, SESENTA (60) artículos y UN (1) anexo, en idioma español, celebrado en la ciudad de Bogotá —REPUBLICA DE COLOMBIA— el día 7 de febrero de 1968 y sus modificaciones, cuya copia autenticada forma parte integrante de la presente medida como Anexo I.
+
+## ARTICULO 2º
+
+Apruébase la suscripción de acciones de la Serie ‘C’ al Capital de Garantía de la CORPORACION ANDINA DE FOMENTO (CAF) por un monto de DOLARES ESTADOUNIDENSES CIENTO VEINTISEIS MILLONES (U$S 126.000.000), en cumplimiento de lo dispuesto en el Anexo I del ‘Acuerdo de Suscripción de Acciones de Capital Ordinario’ de fecha 5 de octubre de 2007 suscripto entre la CORPORACION ANDINA DE FOMENTO (CAF) y la REPUBLICA ARGENTINA y que fuera aprobado por la Ley Nº 26.423.
+
+## ARTICULO 3º
+
+Apruébase la suscripción de UNA (1) acción de la Serie ‘A’ con un valor de DOLARES ESTADOUNIDENSES UN MILLON DOSCIENTOS MIL (U$S 1.200.000), de conformidad con lo dispuesto en el Anexo I del ‘Acuerdo de Suscripción de Acciones de Capital Ordinario’ de fecha 5 de octubre de 2007 suscripto entre la CORPORACION ANDINA DE FOMENTO (CAF) y la REPUBLICA ARGENTINA y que fuera aprobado por la Ley Nº 26.423.
+
+## ARTICULO 4º
+
+Autorízase al MINISTERIO DE ECONOMIA Y FINANZAS PUBLICAS a instrumentar el pago de las suscripciones mencionadas en los artículos precedentes a través del BANCO CENTRAL DE LA REPUBLICA ARGENTINA.
+
+## ARTICULO 5º
+
+Comuníquese al Poder Ejecutivo nacional.
+
+— REGISTRADO BAJO EL Nº 26.612 —
+
+DADA EN LA SALA DE SESIONES DEL CONGRESO ARGENTINO, EN BUENOS AIRES, EL DIA TREINTA DE JUNIO DEL AÑO DOS MIL DIEZ.
+
+JULIO C. C. COBOS. — EDUARDO A. FELLNER. — Enrique Hidalgo. — Juan H. Estrada.
+
+———
+
+NOTA: El Anexo no se publica. La documentación no publicada puede ser consultada en la Sede Central de esta Dirección Nacional (Suipacha 767 - Ciudad Autónoma de Buenos Aires) y en www.boletinoficial.gov.ar

@@ -10,6 +10,8 @@ published: 1986-05-23
 boletin_oficial: "25936"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-23317-nacional-ley-ministerios-modificacion-lnn0028132-1986-05-07"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=23774"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/23774/norma.htm"

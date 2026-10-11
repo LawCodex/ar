@@ -9,7 +9,9 @@ date: 1969-05-12
 published: 1969-05-15
 boletin_oficial: "21683"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-18204-nacional-descanso-semanal-lns0001025-1969-05-12"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=114766"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/110000-114999/114766/norma.htm"

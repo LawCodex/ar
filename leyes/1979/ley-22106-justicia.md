@@ -9,7 +9,9 @@ date: 1979-11-15
 published: 1979-11-21
 boletin_oficial: "24297"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22106-nacional-organizacion-justicia-criminal-capital-federal-lns0000200-1979-11-15"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=196704"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/196704/norma.htm"

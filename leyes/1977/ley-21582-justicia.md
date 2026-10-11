@@ -9,7 +9,9 @@ date: 1977-06-03
 published: 1977-06-09
 boletin_oficial: "23677"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21582-nacional-organizacion-juzgados-nacionales-primera-instancia-criminal-comercio-nacional-federal-capital-federal-lns0000163-1977-06-03"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=196520"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/196520/norma.htm"

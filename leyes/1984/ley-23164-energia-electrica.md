@@ -10,6 +10,8 @@ published: 1984-11-06
 boletin_oficial: "25546"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-23164-nacional-ley-energia-electrica-modificacion-lnn0028064-1984-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=26360"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/26360/norma.htm"

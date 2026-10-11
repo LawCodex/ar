@@ -9,7 +9,9 @@ date: 1985-11-06
 published: 1985-11-15
 boletin_oficial: "25806"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-23277-nacional-regimen-legal-ejercicio-psicologia-lns0003281-1985-09-27"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=20059"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/20059/texact.htm"

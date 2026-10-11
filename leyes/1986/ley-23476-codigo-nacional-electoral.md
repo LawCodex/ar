@@ -10,6 +10,8 @@ published: 1987-03-03
 boletin_oficial: "26097"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-23476-nacional-lnn0028176-1986-10-31"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=21969"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/21969/norma.htm"

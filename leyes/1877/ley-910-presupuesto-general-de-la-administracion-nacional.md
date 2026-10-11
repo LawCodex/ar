@@ -8,6 +8,8 @@ language: es
 date: 1877-10-15
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-910-nacional-lnn0016964-1877-10-15"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=196544"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/196544/norma.htm"

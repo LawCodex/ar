@@ -9,7 +9,9 @@ date: 1950-09-29
 published: 1950-10-11
 boletin_oficial: "16754"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-13998-nacional-competencia-juzgados-integran-justicia-nacional-capital-federal-lns0001921-1950-09-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=116108"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/115000-119999/116108/norma.htm"

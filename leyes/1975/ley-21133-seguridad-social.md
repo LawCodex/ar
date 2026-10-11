@@ -9,7 +9,9 @@ date: 1975-09-30
 published: 1975-11-06
 boletin_oficial: "23278"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-21133-nacional-seguridad-social-juegos-azar-pronosticos-deportivos-deportes-futbol-lns0000317-1975-09-30"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=303422"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/303422/texact.htm"

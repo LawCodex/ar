@@ -9,7 +9,9 @@ date: 1955-06-16
 published: 1955-06-30
 boletin_oficial: "17930"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-14408-nacional-provincializacion-territorios-nacionales-lns0001812-1955-06-15"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=197786"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/197786/norma.htm"

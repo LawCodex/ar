@@ -9,7 +9,9 @@ date: 1972-09-26
 published: 1972-10-06
 boletin_oficial: "22521"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-19852-nacional-ganaderia-sanidad-animal-servicio-nacional-sanidad-animal-estado-administracion-publica-nacional-organismos-estado-fondo-nacional-estado-fondo-nacional-sanidad-animal-lns0000681-1972-09-26"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302400"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302400/norma.htm"

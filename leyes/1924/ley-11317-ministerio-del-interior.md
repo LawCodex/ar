@@ -9,7 +9,9 @@ date: 1924-09-30
 published: 1924-11-19
 boletin_oficial: "9200"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-11317-nacional-infracciones-sanciones-trabajo-mujeres-trabajo-menores-lns0002282-1924-09-30"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=194070"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/194070/texact.htm"

@@ -10,6 +10,8 @@ published: 1974-10-30
 boletin_oficial: "23026"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-20796-nacional-lnn0000442-1974-09-27"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=77260"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/75000-79999/77260/norma.htm"

@@ -9,7 +9,9 @@ date: 1974-06-20
 published: 1974-06-25
 boletin_oficial: "22939"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-20680-nacional-ley-abastecimiento-lns0000404-1974-06-20"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=58603"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/55000-59999/58603/texact.htm"

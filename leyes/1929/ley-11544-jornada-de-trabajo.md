@@ -9,7 +9,9 @@ date: 1929-08-29
 published: 1929-09-17
 boletin_oficial: "10614"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-11544-nacional-jornada-trabajo-lns0002994-1929-08-29"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=63368"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/60000-64999/63368/texact.htm"

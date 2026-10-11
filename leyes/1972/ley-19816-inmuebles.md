@@ -10,6 +10,8 @@ published: 2006-09-15
 boletin_oficial: "30991"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-19816-nacional-transferencia-dominio-inmueble-fiscal-al-sindicato-obreros-empleados-educacion-minoridad-lnn0028952-1972-09-01"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=119813"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/115000-119999/119813/norma.htm"

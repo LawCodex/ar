@@ -9,7 +9,9 @@ date: 1973-11-07
 published: 1973-12-06
 boletin_oficial: "22805"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-20558-nacional-lnn0025429-1973-11-07"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=166319"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/165000-169999/166319/norma.htm"

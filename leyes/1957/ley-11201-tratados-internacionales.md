@@ -10,6 +10,8 @@ published: 1957-10-01
 boletin_oficial: "18492"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-11201-nacional-lnn0021338-1923-03-22"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=297347"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/297347/norma.htm"

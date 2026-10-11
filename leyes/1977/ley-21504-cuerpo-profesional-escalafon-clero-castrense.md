@@ -10,6 +10,8 @@ published: 2006-09-12
 boletin_oficial: "30988"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-21504-nacional-promocion-personal-militar-lnn0029569-1977-01-19"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=119672"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/115000-119999/119672/norma.htm"

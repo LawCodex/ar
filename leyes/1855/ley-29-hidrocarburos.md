@@ -8,6 +8,8 @@ language: es
 date: 1855-08-01
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-29-nacional-lnn0023919-1862-10-16"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=215140"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/215000-219999/215140/norma.htm"

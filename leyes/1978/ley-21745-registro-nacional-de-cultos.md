@@ -9,7 +9,9 @@ date: 1978-02-10
 published: 1978-02-15
 boletin_oficial: "23853"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21745-nacional-registro-nacional-cultos-lns0000097-1978-02-10"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=65159"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/65000-69999/65159/norma.htm"

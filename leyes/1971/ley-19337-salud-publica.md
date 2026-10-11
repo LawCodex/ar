@@ -9,7 +9,9 @@ date: 1971-11-10
 published: 1971-11-18
 boletin_oficial: "22302"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19337-nacional-transformacion-establecimientos-hospitalarios-psiquiatricos-organismos-caracter-descentralizado-lns0000799-1971-11-10"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=180929"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/180929/texact.htm"

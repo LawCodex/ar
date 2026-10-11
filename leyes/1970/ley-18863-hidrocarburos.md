@@ -10,6 +10,8 @@ published: 1970-12-16
 boletin_oficial: "22075"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-18863-nacional-lnn0000900-1970-12-10"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=225952"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/225000-229999/225952/norma.htm"

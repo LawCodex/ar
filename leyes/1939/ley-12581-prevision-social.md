@@ -9,7 +9,9 @@ date: 1939-06-27
 published: 1939-07-06
 boletin_oficial: "13478"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-12581-nacional-creacion-caja-jubilaciones-pensiones-periodistas-determinacion-regimen-jubilaciones-pensiones-mismos-lns0002269-1939-06-27"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=294554"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/294554/texact.htm"

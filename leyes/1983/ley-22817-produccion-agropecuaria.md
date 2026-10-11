@@ -9,7 +9,9 @@ date: 1983-05-26
 published: 1983-05-30
 boletin_oficial: "25182"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22817-nacional-regimen-pago-cuenta-para-contribuyentes-impuesto-ganancias-impuesto-sobre-capitales-lns0003030-1983-05-26"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=256340"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/255000-259999/256340/norma.htm"

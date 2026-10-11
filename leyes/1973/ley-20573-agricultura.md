@@ -9,7 +9,9 @@ date: 1973-11-28
 published: 1973-12-24
 boletin_oficial: "22817"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-20573-nacional-lnn0025425-1973-11-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=151447"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/150000-154999/151447/norma.htm"

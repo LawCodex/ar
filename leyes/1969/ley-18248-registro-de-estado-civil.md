@@ -9,7 +9,9 @@ date: 1969-06-10
 published: 1969-06-24
 boletin_oficial: "21709"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-18248-nacional-ley-nombre-lns0001020-1969-06-10"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=120325"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/120000-124999/120325/texact.htm"

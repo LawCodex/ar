@@ -9,7 +9,9 @@ date: 1981-02-06
 published: 1981-02-13
 boletin_oficial: "24607"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22392-nacional-sistema-formacion-capacitacion-tripulaciones-buques-artefactos-navales-matricula-nacional-lns0002784-1981-02-06"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=193701"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/193701/norma.htm"

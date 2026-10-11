@@ -9,7 +9,9 @@ date: 1946-12-18
 published: 1947-07-11
 boletin_oficial: "15813"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-12908-nacional-ratificacion-decreto-ley-7618-44-aprueba-estatuto-periodista-profesional-lns0002434-1946-12-18"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=43608"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/40000-44999/43608/texact.htm"

@@ -10,6 +10,8 @@ published: 1976-11-04
 boletin_oficial: "23526"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-21445-nacional-traslado-personal-secretaria-estado-seguridad-social-lnn0000257-1976-10-27"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=257127"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/255000-259999/257127/norma.htm"

@@ -9,7 +9,9 @@ date: 1971-10-05
 published: 1971-10-14
 boletin_oficial: "22279"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-19287-nacional-obras-publicas-economia-energia-energia-mineria-energia-electrica-fondo-nacional-grandes-obras-electricas-lns0000814-1971-10-05"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=46129"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/45000-49999/46129/norma.htm"

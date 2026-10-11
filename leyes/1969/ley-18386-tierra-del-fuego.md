@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1969-10-01
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-18386-nacional-otorgamiento-cedulas-identidad-policia-tierra-fuego-lns0000997-1969-10-01"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=301325"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/301325/norma.htm"

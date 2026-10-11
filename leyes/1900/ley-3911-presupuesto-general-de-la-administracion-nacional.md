@@ -8,6 +8,8 @@ language: es
 date: 1900-01-09
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-3911-nacional-lnn0014110-1900-01-09"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=49256"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/45000-49999/49256/norma.htm"

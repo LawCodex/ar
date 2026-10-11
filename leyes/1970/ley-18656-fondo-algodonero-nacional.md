@@ -9,7 +9,9 @@ date: 1970-04-14
 published: 1970-04-22
 boletin_oficial: "21914"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-18656-nacional-lnn0001836-1970-04-14"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=171681"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/170000-174999/171681/norma.htm"

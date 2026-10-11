@@ -8,6 +8,8 @@ language: es
 date: 1875-10-12
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-760-nacional-lnn0016780-1875-10-12"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=196541"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/196541/norma.htm"

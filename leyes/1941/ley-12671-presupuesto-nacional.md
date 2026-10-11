@@ -10,6 +10,8 @@ published: 1941-05-07
 boletin_oficial: "14014"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-12671-nacional-lnn0020153-1941-03-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=245437"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/245000-249999/245437/norma.htm"

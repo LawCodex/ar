@@ -9,7 +9,9 @@ date: 1977-06-24
 published: 1977-06-30
 boletin_oficial: "23691"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-21593-nacional-economia-energia-mineria-codigo-mineria-minas-canon-minero-lns0000161-1977-06-24"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=217190"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/215000-219999/217190/norma.htm"

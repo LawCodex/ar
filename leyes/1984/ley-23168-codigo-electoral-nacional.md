@@ -10,6 +10,8 @@ published: 1985-01-17
 boletin_oficial: "25596"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-23168-nacional-modifica-ley-19945-to-18-8-83-codigo-electoral-nacional-lnn0028071-1984-12-20"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=26347"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/26347/norma.htm"

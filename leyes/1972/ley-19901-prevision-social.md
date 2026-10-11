@@ -9,7 +9,9 @@ date: 1972-10-20
 published: 1972-10-27
 boletin_oficial: "22535"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19901-nacional-haber-anual-complementario-personal-militar-retiro-lns0000657-1972-10-20"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302431"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302431/norma.htm"

@@ -9,7 +9,9 @@ date: 1972-05-08
 published: 1972-05-15
 boletin_oficial: "22422"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19616-nacional-instituto-nacional-prevencion-sismica-lns0000730-1972-05-08"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=195224"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/195224/texact.htm"

@@ -10,6 +10,8 @@ published: 1984-06-01
 boletin_oficial: "25438"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-23061-nacional-produccion-vitivinicola-cupos-lnn0027994-1984-05-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=28081"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/28081/norma.htm"

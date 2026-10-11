@@ -9,7 +9,9 @@ date: 1967-06-23
 published: 1967-06-30
 boletin_oficial: "21220"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-17319-nacional-ley-hidrocarburos-lns0001188-1967-06-23"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=16078"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/15000-19999/16078/texact.htm"
@@ -352,7 +354,9 @@ Para las sustancias de tercera categoría es de aplicación el artículo 252 del
 
 Cuando el propietario de una mina, cualesquiera sea la categoría de las sustancias, hallare hidrocarburos, sin perjuicio de disponer de los mismos únicamente en la medida requerida por el proceso de extracción y beneficio de los minerales, lo comunicará a la autoridad de aplicación dentro de los quince (15) días del hallazgo, a fin de que decida sobre el particular conforme a la presente ley.
 
-### SECCION 4ª — Autorizaciones de transporte y habilitaciones de procesamiento y de almacenamiento subterráneo.
+### SECCION 4ª.
+
+Autorizaciones de transporte y habilitaciones de procesamiento y de almacenamiento subterráneo.
 
 (Denominación de la Sección 4ª sustituida por art. 116 de la Ley N° 27.742 B.O. 8/7/2024. Vigencia: a partir del día siguiente al de su publicación en el Boletín Oficial de la República Argentina.)
 

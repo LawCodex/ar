@@ -9,7 +9,9 @@ date: 1913-09-30
 published: 1914-01-09
 boletin_oficial: "6005"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-9339-nacional-creacion-institucion-argentina-ciegos-lns0002495-1913-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=291115"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/291115/norma.htm"

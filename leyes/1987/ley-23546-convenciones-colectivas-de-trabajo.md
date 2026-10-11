@@ -1,0 +1,185 @@
+---
+title: "Ley 23546: CONVENCIONES COLECTIVAS DE TRABAJO — NORMAS DE PROCEDIMIENTO PARA LAS NEGOCIACIONES COLECTIVAS"
+identifier: "Ley 23546"
+infoleg_id: "21112"
+type: act
+jurisdiction: ar
+language: es
+date: 1987-12-22
+published: 1988-01-15
+boletin_oficial: "26306"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-23546-nacional-procedimiento-para-negociaciones-colectivas-trabajo-para-resolver-conflictos-laborales-lns0003453-1987-12-22"
+text_version: "texto actualizado"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=21112"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/21112/texact.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 23546: CONVENCIONES COLECTIVAS DE TRABAJO — NORMAS DE PROCEDIMIENTO PARA LAS NEGOCIACIONES COLECTIVAS
+
+CONVENCIONES COLECTIVAS DE TRABAJO
+
+Decreto 1135/2004
+
+Textos ordenados de las Leyes Nros. 14.250 y 23.546 y sus respectivas modificatorias. Convenciones Colectivas. Comisiones Paritarias. Ambitos de Negociación Colectiva. Articulación de los Convenios Colectivos. Convenios de Empresas en Crisis. Fomento de la Negociación Colectiva. Procedimiento para la Negociación Colectiva.
+
+Bs. As., 31/8/2004
+
+(Nota Infoleg: a continuación se transcribe sólo el Anexo II que contiene el texto ordenado de la Ley N° 23.546. )
+
+## ANEXO II — LEY Nº 23.546 (t.o. 2004)
+
+## ARTICULO 1º
+
+El procedimiento para la negociación colectiva se ajustará a lo previsto en la presente Ley.
+
+## ARTICULO 2º
+
+La representación de los empleadores o de los trabajadores que promueva la negociación lo notificará por escrito a la otra parte, con copia a la autoridad administrativa del trabajo, indicando:
+
+a) Representación que inviste;
+
+b) Alcance personal y territorial de la convención colectiva pretendida;
+
+c) Materia a negociar.
+
+## ARTICULO 3º
+
+Quienes reciban la comunicación del artículo anterior estarán obligados a responderla y a designar sus representantes en la comisión que se integre al efecto.
+
+## ARTICULO 4º
+
+En el plazo de quince (15) días a contar desde la recepción de la notificación del artículo 2º de esta ley, se constituirá la comisión negociadora con representantes de los trabajadores de acuerdo al nivel de negociación que se proponga.
+
+Si se trata de una negociación por empresa o por región, la representación sindical será la del o de los sindicatos de primer grado o de empresa con personería gremial en el ámbito territorial y personal que se pretenda negociar. Esta disposición es de orden público por cuanto toda disposición establecida por estatuto de la Organización Sindical de Segundo o Primer Grado que se oponga a la misma, no será válida.
+
+En el supuesto de una negociación por actividad, la representación será de la Federación u Organización Gremial de Primer Grado con alcance nacional de acuerdo a la personería gremial otorgada.
+
+En cualquiera de los casos, la representación sindical deberá integrarse respetando lo establecido en la ley 25.674.
+
+La representación de los empleadores -cualquiera sea su nivel- se acreditará conforme lo disponga la Secretaría de Trabajo, Empleo y Seguridad Social del Ministerio de Capital Humano en cada caso. Las partes podrán concurrir a las negociaciones con asesores técnicos con voz pero sin voto.
+
+a) Las partes están obligadas a negociar de buena fe. Ello implica:
+
+I. Concurrir a las reuniones acordadas o fijadas por la Autoridad de Aplicación.
+
+II. Designar negociadores con mandato suficiente.
+
+III. Intercambiar la información necesaria a los fines del examen de las cuestiones en debate, para entablar una discusión fundada y obtener un acuerdo. Dicho intercambio deberá obligatoriamente incluir la información relativa a la distribución de los beneficios de la productividad, la situación actual del empleo y las previsiones sobre su futura evolución.
+
+IV. Realizar esfuerzos conducentes a lograr acuerdos.
+
+b) En la negociación colectiva entablada al nivel de la empresa el intercambio de información alcanzará, además, a las informaciones relativas a los siguientes temas:
+
+I. Situación económica de la empresa, del sector y del entorno en el que aquella se desenvuelve.
+
+II. Costo laboral unitario.
+
+III. Causales e indicadores de ausentismo.
+
+IV. Innovaciones tecnológicas y organizacionales previstas.
+
+V. Organización, duración y distribución del tiempo de trabajo.
+
+VI. Siniestralidad laboral y medidas de prevención.
+
+VII. Planes y acciones en materia de formación profesional.
+
+c) La obligación de negociar de buena fe en los procedimientos preventivos de crisis y respecto de las empresas concursadas, impone al empleador el deber de informar a los trabajadores a través de la representación sindical sobre las causas y circunstancias que motivaron la iniciación del procedimiento de crisis o la presentación en concurso.
+
+En el caso del procedimiento de crisis, la empresa deberá informar sobre las siguientes materias:
+
+I. Mantenimiento del empleo.
+
+II. Movilidad funcional, horaria o salarial.
+
+III. Innovación tecnológica y cambio organizacional.
+
+IV. Recalificación y formación profesional de los trabajadores.
+
+V. Reubicación interna o externa de trabajadores y programas de reinserción laboral.
+
+VI. Aportes convenidos al Sistema Integrado de Jubilaciones y Pensiones.
+
+VII. Programas de apoyo a la generación de microemprendimientos para los trabajadores afectados.
+
+En el supuesto de empresas concursadas, se deberá informar especialmente sobre las siguientes materias:
+
+I. Causas de la crisis y sus repercusiones sobre el empleo.
+
+II. Situación económico financiera de la empresa y del entorno en que se desenvuelve.
+
+III. Propuesta de acuerdo con los acreedores.
+
+IV. Rehabilitación de la actividad productiva.
+
+V. Situación de los créditos laborales.
+
+d) Quienes reciban información calificada de confidencial por la empresa, como consecuencia del cumplimiento por parte de ésta de los deberes de información, están obligados a guardar secreto acerca de la misma.
+
+e) Cuando alguna de las representaciones, se rehusare injustificadamente a negociar colectivamente vulnerando el principio de buena fe, en los términos del inciso a), la parte afectada por el incumplimiento podrá solicitar a la Secretaría de Trabajo, Empleo y Seguridad Social del Ministerio de Capital Humano que adopte las medidas conducentes para la concreción de la mesa de negociación pudiendo entre otras facultades delimitar el alcance de la prórroga en la vigencia de las cláusulas obligacionales del Convenio Colectivo de Trabajo que se intenta renegociar si a ese momento aún se encontrasen vigentes, como también la de promover una acción judicial ante el tribunal laboral competente, mediante el proceso sumarísimo establecido en el artículo 498 del Código Procesal Civil y Comercial de la Nación, o equivalente de los Códigos Procesales Civiles provinciales.
+
+El tribunal dispondrá el cese inmediato del comportamiento violatorio del deber de negociar de buena fe y sancionará a la parte incumplidora con una multa de hasta un máximo equivalente al veinte por ciento (20%) del total de la masa salarial del mes en que se produzca el hecho, correspondiente a los trabajadores comprendidos en el ámbito personal de la negociación. Si la parte infractora mantuviera su actitud, el importe de la sanción se incrementará en un diez por ciento (10%) por cada cinco (5) días de mora en acatar la decisión judicial. En el supuesto de reincidencia el máximo previsto en el presente inciso podrá elevarse hasta el equivalente al cien por ciento (100%) de esos montos.
+
+Sin perjuicio de ello, el juez, a petición de parte, podrá también aplicar lo dispuesto por el artículo 804 del Código Civil y Comercial de la Nación.
+
+Cuando cesaren los actos que dieron origen a la acción entablada, dentro del plazo de diez (10) días que al efecto debe establecer la decisión judicial, el monto de la sanción podrá ser eliminada por el juez.
+
+Todos los importes que así se devenguen tendrán como exclusivo destino programas de inspección de la Secretaría de Trabajo, Empleo y Seguridad Social del Ministerio de Capital Humano.
+
+(Artículo sustituido por art. 149 de la Ley Nº 27.802 B.O. 6/3/2026. Vigencia: a partir de su publicación en el Boletín Oficial.)
+
+## ARTICULO 5º
+
+De lo ocurrido en el transcurso de las negociaciones se labrará un acta resumida. Los acuerdos se adoptarán con el consentimiento de los sectores representados.
+
+Cuando en el seno de la representación de una de las partes no hubiere unanimidad, prevalecerá la posición de la mayoría de sus integrantes.
+
+## ARTICULO 6º
+
+Las convenciones colectivas de trabajo son homologadas y/o registradas por la Secretaría de Trabajo, Empleo y Seguridad Social del Ministerio de Capital Humano, en su carácter de Autoridad de Aplicación.
+
+La homologación o registración deberá producirse dentro de un plazo no mayor de treinta (30) días de recibida la solicitud, siempre que la convención reúna todos los requisitos establecidos a tal efecto. Transcurrido dicho plazo, sin que existan observaciones a cumplir por las partes, se la considerará tácitamente homologada.
+
+(Artículo sustituido por art. 150 de la Ley Nº 27.802 B.O. 6/3/2026. Vigencia: a partir de su publicación en el Boletín Oficial.)
+
+## ARTICULO 7º
+
+En los diferendos que se susciten en el curso de las negociaciones se aplicará la ley 14.786.
+
+Sin perjuicio de ello las partes podrán, de común acuerdo, someterse a la intervención de un servicio de mediación, conciliación y arbitraje que funcionará en el ámbito de la Secretaría de Trabajo, Empleo y Seguridad Social del Ministerio de Capital Humano.
+
+La reglamentación determinará sus funciones así como su organización y normas de procedimiento, preservando su autonomía.
+
+(Artículo sustituido por art. 151 de la Ley Nº 27.802 B.O. 6/3/2026. Vigencia: a partir de su publicación en el Boletín Oficial.)
+
+## ARTICULO 8º
+
+Los plazos a que se refiere esta Ley se computarán en días hábiles administrativos.
+
+## ARTICULO 9º
+
+Derógase la Ley de facto 21.307.
+
+## ARTICULO 10
+
+Comuníquese al PODER EJECUTIVO NACIONAL.
+
+[imagen: https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/21112/dto1135-3-9-2004.jpg]
+
+INDICE DEL ORDENAMIENTO DE LA LEY Nº 23.546
+
+| ARTICULO Nº | FUENTE |
+|---|---|
+| ARTICULO 1º | artículo 1º de la Ley Nº 23.546 |
+| ARTICULO 2º | artículo 2º de la Ley Nº 23.546 |
+| ARTICULO 3º | artículo 19 de la Ley Nº 25.877 |
+| ARTICULO 4º | artículo 20 de la Ley Nº 25.877 |
+| ARTICULO 5º | artículo 21 de la Ley Nº 25.877 |
+| ARTICULO 6º | artículo 22 de la Ley Nº 25.877 |
+| ARTICULO 7º | artículo 23 de la Ley Nº 25.877 |
+| ARTICULO 8º | artículo 8º de la Ley Nº 23.546 |
+| ARTICULO 9º | artículo 9º de la Ley Nº 23.546 |

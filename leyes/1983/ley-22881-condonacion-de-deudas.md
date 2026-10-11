@@ -9,7 +9,9 @@ date: 1983-08-26
 published: 1983-08-30
 boletin_oficial: "25246"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22881-nacional-convenio-argentino-uruguayo-cooperacion-economica-cauce-lns0003057-1983-08-26"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=253215"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/250000-254999/253215/norma.htm"

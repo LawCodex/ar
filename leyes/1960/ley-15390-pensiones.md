@@ -10,6 +10,8 @@ published: 1960-10-29
 boletin_oficial: "19370"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-15390-nacional-lnn0018840-1960-09-27"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=130046"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/130000-134999/130046/norma.htm"

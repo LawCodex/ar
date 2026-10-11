@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1881-12-20
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-1149-nacional-fijacion-limites-entre-provincias-corrientes-misiones-lns0002528-1881-12-20"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=234919"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/234919/norma.htm"

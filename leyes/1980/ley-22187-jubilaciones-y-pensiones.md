@@ -9,7 +9,9 @@ date: 1980-03-06
 published: 1980-03-12
 boletin_oficial: "24375"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-22187-nacional-lnn0027342-1980-03-06"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=182393"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/182393/norma.htm"

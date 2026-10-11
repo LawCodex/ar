@@ -9,7 +9,9 @@ date: 1973-05-15
 published: 1973-05-22
 boletin_oficial: "22671"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20379-nacional-zonas-reservas-mineras-lns0000495-1973-05-15"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=217178"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/215000-219999/217178/norma.htm"

@@ -9,7 +9,9 @@ date: 1964-10-22
 published: 1964-12-12
 boletin_oficial: "20591"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-16516-nacional-pension-para-ganadores-premio-nacional-ciencias-letras-lns0001378-1964-10-22"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=231273"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/231273/norma.htm"

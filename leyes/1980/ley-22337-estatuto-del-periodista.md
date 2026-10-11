@@ -9,7 +9,9 @@ date: 1980-11-28
 published: 1980-12-05
 boletin_oficial: "24560"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-22337-nacional-lns0002712-1980-11-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=109705"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/105000-109999/109705/norma.htm"

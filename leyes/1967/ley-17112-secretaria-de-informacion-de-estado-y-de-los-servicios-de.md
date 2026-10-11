@@ -9,7 +9,9 @@ date: 1967-01-11
 published: 2006-10-03
 boletin_oficial: "31003"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-17112-nacional-ley-secreta-aprueba-estatuto-para-personal-civil-secretaria-informaciones-estado-servicios-inteligencia-fuerzas-armadas-lns0005109-1967-01-11"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=120461"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/120000-124999/120461/norma.htm"
@@ -238,7 +240,9 @@ La presente Ley es clasificada de "SECRETA", regístrese y archívese en la Secr
 
 ## ANEXO I — [imagen: https://servicios.infoleg.gob.ar/infolegInternet/anexos/120000-124999/120461/ley17112-03-10-2006.jpg]
 
-## ANEXO 2 — LEY ORGANICA PARA EL PERSONAL CIVIL DE LA SECRETARIA DE INFORMACIONES DE ESTADO Y DE LOS SERVICIOS DE INTELIGENCIA DE LAS FUERZAS ARMADAS.
+## ANEXO 2
+
+LEY ORGANICA PARA EL PERSONAL CIVIL DE LA SECRETARIA DE INFORMACIONES DE ESTADO Y DE LOS SERVICIOS DE INTELIGENCIA DE LAS FUERZAS ARMADAS.
 
 ## ARTICULO 9º
 

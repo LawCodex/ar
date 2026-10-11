@@ -9,7 +9,9 @@ date: 1986-10-31
 published: 1987-03-25
 boletin_oficial: "26113"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-23472-nacional-fondo-garantia-creditos-laborales-lns0003397-1986-10-31"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=21976"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/21976/norma.htm"

@@ -9,7 +9,9 @@ date: 1972-03-16
 published: 1972-03-23
 boletin_oficial: "22388"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19526-nacional-creacion-comision-edificios-judiciales-para-justicia-nacional-lns0000750-1972-03-16"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302156"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302156/texact.htm"

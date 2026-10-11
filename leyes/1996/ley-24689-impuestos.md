@@ -1,0 +1,71 @@
+---
+title: "Ley 24689: IMPUESTOS — IMPUESTO AL VALOR AGREGADO / IMPORTACIONES"
+identifier: "Ley 24689"
+infoleg_id: "39247"
+type: act
+jurisdiction: ar
+language: es
+date: 1996-08-21
+published: 1996-09-16
+boletin_oficial: "28479"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-24689-nacional-exenciones-aduaneras-impositivas-mercaderias-programa-nacional-atencion-medica-lns0004127-1996-08-21"
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=39247"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/35000-39999/39247/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 24689: IMPUESTOS — IMPUESTO AL VALOR AGREGADO / IMPORTACIONES
+
+IMPUESTOS
+
+LEY 24.689
+
+Modifícase el artículo 6º de la Ley de Impuesto al Valor Agregado , texto sustituido por la Ley N° 21.349 y sus modificaciones. Franquicias para operaciones de importación que se efectúen en el marco del Decreto Nº454/95, destinadas el Programa Nacional de Atención Médica de la República Argentina.
+
+Sancionada: Agosto 21 de 1996.
+
+Promulgada: Septiembre 12 de 1996
+
+El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc. sancionan con fuerza de Ley:
+
+## ARTICULO 1
+
+Modifícase el artículo 6º de la Ley de Impuesto al Valor Agregado, texto sustituido por la Ley Nº 23.349 y sus modificaciones , de la siguiente forma:
+
+a) Sustitúyese el inciso h), por el siguiente:
+
+h) Aeronaves concebidas para el transporte de pasajeros y/o cargas destinadas a esas actividades y las embarcaciones siempre que sean destinadas al uso exclusivo de actividades comerciales, como así también las utilizadas en la defensa y seguridad.
+
+También estarán exentas las partes y componentes de las aeronaves utilizadas en la defensa y seguridad.
+
+b) Sustitúyese el apartado 27 del inciso j), por el siguiente:
+
+27) Los trabajos de transformación, modificación, reparación, mantenimiento y conservación de aeronaves, sus partes y componentes y de embarcaciones contempladas en el inciso h), como así también de las demás aeronaves destinadas a otras actividades siempre que se encuentren matriculadas en el exterior, los que tendrán, en todos los casos, el tratamiento del artículo 41.
+
+## ARTICULO 2
+
+Exímese del pago del derecho de importación, de las tasas de estadística y de comprobación de destino y del impuesto al valor agregado, a las mercaderías que se importen para consumo en el marco de las operaciones aprobadas por el decreto N° 454/95, destinadas al Programa Nacional de Atención Médica de la República Argentina.
+
+## ARTICULO 3
+
+Las franquicias acordadas en el artículo anterior sólo alcanzarán a las mercaderías cuyo valor en aduana no supere la suma de dólares estadounidenses ciento noventa y dos millones setecientos trece mil ochocientos dieciocho (U$S 192.713.818).
+
+## ARTICULO 4
+
+Esta ley entrará en vigencia el día de su publicación en el Boletín Oficial.
+
+## ARTICULO 5
+
+Comuníquese al Poder Ejecutivo. -MARCELO LOPEZ ARIAS. - EDUARDO MENEM. - Esther H. Pereyra Arandía de Pérez Pardo. - Edgardo Piuzzi.
+
+DADA EN LA SALA DE SESIONES DEL CONGRESO ARGENTINO, EN BUENOS AIRES, A LOS VEINTIUN DIAS DEL MES DE AGOSTO DEL AÑO MIL NOVECIENTOS NOVENTA Y SEIS.
+
+Decreto 1042/96
+
+Bs. As., 12/09/96
+
+Téngase por Ley de la Nación Nº 24.689 cúmplase, comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívase. -MENEM. -Jorge A. Rodríguez. -Roque B: Fernández.

@@ -10,6 +10,8 @@ published: 1983-10-13
 boletin_oficial: "25277"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22943-nacional-lnn0027936-1983-10-10"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=251611"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/250000-254999/251611/norma.htm"

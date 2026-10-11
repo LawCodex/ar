@@ -9,7 +9,9 @@ date: 1976-07-28
 published: 1976-08-03
 boletin_oficial: "23460"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21366-nacional-aumento-capital-banco-nacional-desarrollo-lns0000345-1976-07-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=303600"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/303600/norma.htm"

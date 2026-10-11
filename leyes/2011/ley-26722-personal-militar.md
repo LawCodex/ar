@@ -1,0 +1,51 @@
+---
+title: "Ley 26722: PERSONAL MILITAR — ENTRADA TROPAS EXTRANJERAS AL TERRITORIO NACIONAL Y SALIDA DE FUERZAS NACIONALES"
+identifier: "Ley 26722"
+infoleg_id: "192054"
+type: act
+jurisdiction: ar
+language: es
+date: 2011-11-30
+published: 2011-12-27
+boletin_oficial: "32304"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-26722-nacional-autorizacion-entrada-tropas-extranjeras-al-territorio-nacional-salida-fuerzas-nacionales-para-participar-programa-ejercitaciones-combinadas-lns0005709-2011-11-30"
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=192054"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/192054/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 26722: PERSONAL MILITAR — ENTRADA TROPAS EXTRANJERAS AL TERRITORIO NACIONAL Y SALIDA DE FUERZAS NACIONALES
+
+PERSONAL MILITAR
+
+Ley 26.722
+
+Autorízase la entrada de tropas extranjeras al territorio nacional y la salida de fuerzas nacionales.
+
+Sancionada: Noviembre 30 de 2011
+
+Promulgada de Hecho: Diciembre 27 de 2011
+
+El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc. sancionan con fuerza de Ley:
+
+## ARTICULO 1º
+
+Autorízase la entrada de tropas extranjeras al territorio nacional y la salida fuera de él de fuerzas nacionales, según corresponda, para que participen del programa de ejercitaciones combinadas desde el 1º de setiembre de 2011 hasta el 31 de agosto de 2012, de acuerdo a la información detallada en los Anexos I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXII y XXIII que forman parte integrante de la presente ley.
+
+## ARTICULO 2º
+
+Comuníquese al Poder Ejecutivo Nacional.
+
+DADA EN LA SALA DE SESIONES DEL CONGRESO ARGENTINO, EN BUENOS AIRES, EL DIA TREINTA DE NOVIEMBRE DEL AÑO DOS MIL ONCE.
+
+— REGISTRADO BAJO EL Nº 26.722 —
+
+EDUARDO A. FELLNER. — JUAN C. MARINO. — Enrique Hidalgo. — Juan H. Estrada.
+
+-------------
+
+NOTA: Los Anexos no se publican. La documentación no publicada puede ser consultada en la Sede Central de esta Dirección Nacional (Suipacha 767 - Ciudad Autónoma de Buenos Aires) y en www.boletinoficial.gob.ar

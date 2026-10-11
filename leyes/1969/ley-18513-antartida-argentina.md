@@ -9,7 +9,9 @@ date: 1969-12-31
 published: 1970-03-09
 boletin_oficial: "21884"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-18513-nacional-orientacion-superior-para-actividad-antarquica-argentina-lns0000971-1969-12-31"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=63921"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/60000-64999/63921/norma.htm"

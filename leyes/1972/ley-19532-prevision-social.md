@@ -10,6 +10,8 @@ published: 1972-03-29
 boletin_oficial: "22392"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-19532-nacional-lnn0021886-1972-03-23"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=129948"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/125000-129999/129948/norma.htm"

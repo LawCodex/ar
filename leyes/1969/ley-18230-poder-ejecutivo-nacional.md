@@ -9,7 +9,9 @@ date: 1969-05-28
 published: 2006-09-27
 boletin_oficial: "30999"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-18230-nacional-donacion-tres-aviones-al-gobierno-paraguayo-lns0005102-1969-05-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=120256"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/120000-124999/120256/norma.htm"

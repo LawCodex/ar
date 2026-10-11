@@ -8,6 +8,8 @@ language: es
 date: 1870-10-03
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-441-nacional-lnn0016887-1870-10-03"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=246629"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/245000-249999/246629/norma.htm"

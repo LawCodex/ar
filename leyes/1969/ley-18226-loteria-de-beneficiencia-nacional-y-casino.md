@@ -9,7 +9,9 @@ date: 1969-05-27
 published: 1969-06-25
 boletin_oficial: "21710"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-18226-nacional-explotacion-manejo-administracion-juegos-azar-parte-loteria-beneficiencia-nacional-casinos-lns0001023-1969-05-27"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=58038"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/55000-59999/58038/texact.htm"

@@ -9,7 +9,9 @@ date: 1969-09-25
 published: 2006-09-26
 boletin_oficial: "30998"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-18378-nacional-ley-secreta-sobre-transferencia-definitiva-bolivia-destino-su-fuerza-naval-materiales-elementos-condicion-rezago-lns0005097-1969-09-22"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=120189"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/120000-124999/120189/norma.htm"

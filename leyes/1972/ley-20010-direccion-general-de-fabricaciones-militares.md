@@ -10,6 +10,8 @@ published: 1972-12-19
 boletin_oficial: "22568"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-20010-nacional-lnn0026808-1972-12-11"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=142433"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/140000-144999/142433/norma.htm"

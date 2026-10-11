@@ -10,6 +10,8 @@ published: 1973-02-15
 boletin_oficial: "22608"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-20150-nacional-lnn0026793-1973-02-09"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=181272"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/181272/norma.htm"

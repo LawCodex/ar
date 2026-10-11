@@ -9,7 +9,9 @@ date: 1977-10-31
 published: 1977-11-03
 boletin_oficial: "23780"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21678-nacional-instituto-nacional-reaseguros-sociedad-estado-lns0000118-1977-10-31"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=32013"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/30000-34999/32013/norma.htm"

@@ -9,7 +9,9 @@ date: 1976-11-05
 published: 1976-11-11
 boletin_oficial: "23531"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21453-nacional-regimen-exportacion-productos-agricolas-lns0000252-1976-11-05"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=25381"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/25381/texact.htm"

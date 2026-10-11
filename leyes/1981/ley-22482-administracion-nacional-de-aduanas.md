@@ -10,6 +10,8 @@ published: 1981-08-20
 boletin_oficial: "24735"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22482-nacional-lnn0027540-1981-08-12"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304211"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304211/norma.htm"

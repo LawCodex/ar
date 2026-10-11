@@ -9,7 +9,9 @@ date: 1971-12-17
 published: 2006-09-19
 boletin_oficial: "30993"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-19373-nacional-ley-secreta-aprueba-estatuto-para-personal-civil-inteligencia-secretaria-informaciones-estado-fuerzas-armadas-lns0005072-1971-12-17"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=119932"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/115000-119999/119932/norma.htm"

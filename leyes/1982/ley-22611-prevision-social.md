@@ -9,7 +9,9 @@ date: 1982-06-18
 published: 1982-06-24
 boletin_oficial: "24948"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22611-nacional-rehabilitacion-derecho-pension-conyuge-superstite-lns0002935-1982-06-18"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=117149"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/115000-119999/117149/texact.htm"

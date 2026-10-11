@@ -9,7 +9,9 @@ date: 1977-11-30
 published: 1977-12-05
 boletin_oficial: "23802"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21695-nacional-plan-nacional-forestacion-lns0000112-1977-11-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=172150"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/170000-174999/172150/norma.htm"

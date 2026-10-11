@@ -10,6 +10,8 @@ published: 1927-01-31
 boletin_oficial: "9842"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-11389-nacional-lnn0023593-1927-01-27"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=185293"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/185000-189999/185293/norma.htm"

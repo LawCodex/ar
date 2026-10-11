@@ -10,6 +10,8 @@ published: 2006-09-21
 boletin_oficial: "30995"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-19193-nacional-ley-secreta-sobre-donacion-efectos-republica-bolivia-lnn0029579-1971-08-27"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=120043"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/120000-124999/120043/norma.htm"

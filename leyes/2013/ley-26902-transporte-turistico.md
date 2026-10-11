@@ -1,0 +1,75 @@
+---
+title: "Ley 26902: TRANSPORTE TURISTICO — LEY 26.654 - MODIFICACION"
+identifier: "Ley 26902"
+infoleg_id: "223455"
+type: act
+jurisdiction: ar
+language: es
+date: 2013-11-13
+published: 2013-12-09
+boletin_oficial: "32781"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-26902-nacional-transporte-turistico-lnn0029866-2013-11-13"
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=223455"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/220000-224999/223455/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 26902: TRANSPORTE TURISTICO — LEY 26.654 - MODIFICACION
+
+TRANSPORTE TURISTICO
+
+Ley 26.902
+
+Ley Nº 26.654. Modificación.
+
+Sancionada: Noviembre 13 de 2013
+
+Promulgada: Diciembre 5 de 2013
+
+El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc. sancionan con fuerza de
+
+Ley:
+
+## ARTICULO 1º
+
+Sustitúyase el artículo 1º de la ley 26.654 por el siguiente:
+
+**Artículo 1°.** Créase un régimen especial para los servicios de transporte turístico terrestre con el objeto de otorgar los permisos correspondientes para operar en el denominado Corredor de los Lagos Andino Patagónicos, ubicados en las provincias del Neuquén, Río Negro, Chubut, Santa Cruz y Tierra del Fuego, Antártida e Islas del Atlántico Sur.
+
+## ARTICULO 2°
+
+Sustitúyase el artículo 4º de la ley 26.654 por el siguiente:
+
+**Artículo 4°.** Los permisos para los servicios de transporte terrestre que podrán otorgar las autoridades competentes en materia de transporte de las provincias del Neuquén, Río Negro, Chubut, Santa Cruz y Tierra del Fuego, Antártida e Islas del Atlántico Sur, serán exclusivamente para operar en la zona turística denominada Corredor de los Lagos Andino Patagónicos, delimitado al Norte por la ruta nacional 22, al Este por la ruta nacional 40, al Oeste y al Sur por el límite internacional; comprendiendo los municipios de Villa Pehuenia, Aluminé, San Martín de los Andes, Junín de los Andes, Villa La Angostura y Villa Traful en la provincia del Neuquén; los municipios de El Bolsón, San Carlos de Bariloche y Dina Huapi en la provincia de Río Negro; los municipios de Corcovado, Trevelín, Esquel, Cholila, El Maitén, El Hoyo, Epuyén y Lago Puelo en la provincia del Chubut; los municipios de Perito Moreno, Los Antiguos, Hipólito Yrigoyen, Bajo Caracoles, Tres Lagos, Gobernador Gregores, El Calafate, Río Turbio, 28 de Noviembre y Río Gallegos en la provincia de Santa Cruz y los de Río Grande y Ushuaia en la provincia de Tierra del Fuego, Antártida e Islas del Atlántico Sur.
+
+## ARTICULO 3°
+
+Sustitúyase el artículo 6º de la ley 26.654 por el siguiente:
+
+**Artículo 6°.** Las provincias de Río Negro, Neuquén, Chubut, Santa Cruz y Tierra del Fuego, Antártida e Islas del Atlántico Sur deberán, en los acuerdos señalados en el artículo anterior, implementar en forma conjunta un Registro Electrónico Unico, debidamente actualizado, que incorpore los datos de las personas físicas o jurídicas que operen en el marco del presente régimen y de los vehículos habilitados por las autoridades competentes citadas en el artículo 4°.
+
+## ARTICULO 4°
+
+Incorpórese como artículo 7° bis de la ley 26.654 el siguiente texto:
+
+**Artículo 7° bis.** El control y fiscalización del funcionamiento del sistema implementado por la presente ley quedará en poder de la autoridad de aplicación de cada provincia.
+
+## ARTICULO 5°
+
+Incorpórese como artículo 7° ter de la ley 26.654, el siguiente texto:
+
+**Artículo 7° ter.** Las infracciones cometidas por transportistas serán constatadas por las autoridades de cada jurisdicción, quienes tramitarán la correspondiente actuación administrativa. La autoridad de aplicación que emita sanción deberá comunicarla a la autoridad emisora de la habilitación del prestador sancionado y al Registro Electrónico Unico creado en el artículo 6° de la presente ley. El infractor deberá acreditar el cumplimiento de la sanción dentro del perentorio plazo de treinta (30) días corridos, bajo pena de no poder requerir altas o renovaciones de cédulas de habilitación hasta que regularice su situación. Asimismo el prestador sancionado no podrá circular dentro de la jurisdicción de la autoridad de aplicación donde fuera sancionado hasta que hubiere acreditado el cumplimiento de la sanción impuesta.
+
+## ARTICULO 6°
+
+Comuníquese al Poder Ejecutivo nacional.
+
+DADA EN LA SALA DE SESIONES DEL CONGRESO ARGENTINO, EN BUENOS AIRES, A LOS TRECE DIAS DEL MES DE NOVIEMBRE DEL AÑO DOS MIL TRECE.
+
+— REGISTRADA BAJO EL Nº 26.902 —
+
+JULIAN A. DOMINGUEZ. — BEATRIZ ROJKES DE ALPEROVICH. — Gervasio Bozzano. — Juan H. Estrada.

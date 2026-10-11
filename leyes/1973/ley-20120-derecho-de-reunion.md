@@ -9,7 +9,9 @@ date: 1973-01-25
 published: 1973-01-30
 boletin_oficial: "22596"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20120-nacional-regulacion-derecho-reunion-lns0000605-1973-01-25"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=235218"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/235000-239999/235218/norma.htm"

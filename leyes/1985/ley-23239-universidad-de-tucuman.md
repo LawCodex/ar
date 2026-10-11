@@ -9,7 +9,9 @@ date: 1985-09-10
 published: 1985-10-15
 boletin_oficial: "25783"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-23239-nacional-creacion-instituto-universitario-multidisciplinario-aguilares-dependiente-universidad-nacional-tucuman-lns0003259-1985-09-10"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=24606"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/24606/norma.htm"

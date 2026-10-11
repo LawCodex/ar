@@ -10,6 +10,8 @@ published: 1942-10-28
 boletin_oficial: "14448"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-12816-nacional-lnn0020264-1942-10-15"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=185112"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/185000-189999/185112/norma.htm"

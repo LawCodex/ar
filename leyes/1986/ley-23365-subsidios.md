@@ -10,6 +10,8 @@ published: 1986-12-09
 boletin_oficial: "26045"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-23365-nacional-subsidios-lnn0028156-1986-09-03"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=22799"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/22799/norma.htm"

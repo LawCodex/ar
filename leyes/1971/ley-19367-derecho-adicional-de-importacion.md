@@ -9,7 +9,9 @@ date: 1971-12-15
 published: 1971-12-16
 boletin_oficial: "22321"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19367-nacional-derechos-adicionales-importacion-aplicacion-ciertos-casos-lns0002941-1971-12-15"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302038"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302038/norma.htm"

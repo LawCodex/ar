@@ -10,6 +10,8 @@ published: 1967-02-24
 boletin_oficial: "21135"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-17168-nacional-lnn0016810-1967-02-14"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=181384"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/181384/norma.htm"

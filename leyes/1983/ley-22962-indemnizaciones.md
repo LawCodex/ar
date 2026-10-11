@@ -10,6 +10,8 @@ published: 1983-11-04
 boletin_oficial: "25293"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22962-nacional-lnn0027931-1983-11-02"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=233265"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/233265/norma.htm"

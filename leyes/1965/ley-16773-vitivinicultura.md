@@ -10,6 +10,8 @@ published: 1965-12-23
 boletin_oficial: "20846"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-16773-nacional-lnn0024511-1965-10-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=131642"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/130000-134999/131642/norma.htm"

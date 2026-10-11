@@ -10,6 +10,8 @@ published: 1972-12-14
 boletin_oficial: "22565"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-19887-nacional-lnn0026819-1972-10-11"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=181375"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/181375/norma.htm"

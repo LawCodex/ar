@@ -10,6 +10,8 @@ published: 1966-11-08
 boletin_oficial: "21062"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-17004-nacional-lnn0001308-1966-10-31"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=47009"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/45000-49999/47009/norma.htm"

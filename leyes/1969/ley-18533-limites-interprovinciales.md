@@ -9,7 +9,9 @@ date: 1969-12-31
 published: 1970-01-22
 boletin_oficial: "21854"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-18533-nacional-fijacion-limites-entre-provincias-catamarca-rioja-lns0000967-1969-12-31"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=199352"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/199352/norma.htm"

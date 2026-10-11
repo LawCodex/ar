@@ -10,6 +10,8 @@ published: 1942-11-13
 boletin_oficial: "14461"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-12814-nacional-lnn0022325-1942-09-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=294748"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/294748/norma.htm"

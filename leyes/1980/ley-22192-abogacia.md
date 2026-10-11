@@ -9,7 +9,9 @@ date: 1980-03-14
 published: 1980-03-24
 boletin_oficial: "24383"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22192-nacional-ejercicio-abogacia-lns0001863-1980-03-14"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=123152"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/120000-124999/123152/texact.htm"

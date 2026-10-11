@@ -10,6 +10,8 @@ published: 1981-07-31
 boletin_oficial: "24722"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22476-nacional-lnn0027549-1981-07-24"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304207"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304207/norma.htm"

@@ -10,6 +10,8 @@ published: 1972-11-29
 boletin_oficial: "22555"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-19965-nacional-lnn0020681-1972-11-23"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=182952"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/182952/norma.htm"

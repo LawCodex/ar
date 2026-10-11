@@ -10,6 +10,8 @@ published: 1974-11-06
 boletin_oficial: "23030"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-20772-nacional-lnn0022118-1974-09-26"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=190317"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/190317/norma.htm"

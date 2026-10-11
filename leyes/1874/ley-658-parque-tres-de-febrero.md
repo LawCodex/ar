@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1874-06-25
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-658-nacional-parque-tres-febrero-ciudad-buenos-aires-lns0005790-1874-06-25"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=281651"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/280000-284999/281651/norma.htm"

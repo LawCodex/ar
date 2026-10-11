@@ -10,6 +10,8 @@ published: 1922-02-14
 boletin_oficial: "8384"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-11180-nacional-lnn0024877-1922-02-10"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=293209"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/293209/norma.htm"

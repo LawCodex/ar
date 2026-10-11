@@ -9,7 +9,9 @@ date: 1932-09-30
 published: 1932-10-08
 boletin_oficial: "11509"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-11658-nacional-lnn0026251-1932-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=219303"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/215000-219999/219303/norma.htm"

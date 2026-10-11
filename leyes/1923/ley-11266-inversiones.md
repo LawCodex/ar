@@ -9,7 +9,9 @@ date: 1923-10-25
 published: 2006-10-09
 boletin_oficial: "31007"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-11266-nacional-autorizacion-al-poder-ejecutivo-realizar-gastos-lns0005122-1923-10-25"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=120710"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/120000-124999/120710/norma.htm"

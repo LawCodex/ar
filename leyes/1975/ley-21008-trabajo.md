@@ -9,7 +9,9 @@ date: 1975-08-20
 published: 1975-09-24
 boletin_oficial: "23247"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21008-nacional-prohibicion-quitas-zonales-lns0000378-1975-08-20"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=194463"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/194463/norma.htm"

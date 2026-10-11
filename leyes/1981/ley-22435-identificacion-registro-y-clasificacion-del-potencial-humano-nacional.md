@@ -10,6 +10,8 @@ published: 1981-03-25
 boletin_oficial: "24635"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22435-nacional-lnn0028400-1981-03-17"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=62866"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/60000-64999/62866/norma.htm"

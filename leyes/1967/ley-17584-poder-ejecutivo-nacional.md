@@ -9,7 +9,9 @@ date: 1967-12-28
 published: 1968-02-08
 boletin_oficial: "21372"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-17584-nacional-creacion-fondo-nacional-permanente-para-estudios-preinversion-lns0001139-1967-12-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=189793"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/185000-189999/189793/norma.htm"

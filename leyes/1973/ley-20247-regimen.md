@@ -9,7 +9,9 @@ date: 1973-03-30
 published: 1973-04-16
 boletin_oficial: "22648"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20247-nacional-ley-semillas-creaciones-fitogeneticas-lns0000574-1973-03-30"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=34822"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/30000-34999/34822/texact.htm"

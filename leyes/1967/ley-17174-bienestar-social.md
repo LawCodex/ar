@@ -9,7 +9,9 @@ date: 1967-02-17
 published: 1967-02-24
 boletin_oficial: "21135"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-17174-nacional-creacion-comision-municipal-vivienda-lns0001220-1967-02-17"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=300378"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/300378/texact.htm"

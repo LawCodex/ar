@@ -10,6 +10,8 @@ published: 1979-10-23
 boletin_oficial: "24276"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22087-nacional-lnn0004042-1979-10-16"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=216293"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/215000-219999/216293/norma.htm"

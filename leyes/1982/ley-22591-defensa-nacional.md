@@ -9,7 +9,9 @@ date: 1982-05-19
 published: 1982-05-21
 boletin_oficial: "24926"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22591-nacional-indisponibilidad-bienes-britanicos-guerra-malvinas-lns0002916-1982-05-19"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=221637"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/220000-224999/221637/texact.htm"

@@ -9,7 +9,9 @@ date: 1981-11-03
 published: 1981-11-06
 boletin_oficial: "24791"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22510-nacional-emision-titulos-deuda-publica-denominado-bono-nacional-consolidacion-economico-financiera-lns0002853-1981-11-03"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304229"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304229/norma.htm"

@@ -9,7 +9,9 @@ date: 1976-07-27
 published: 1976-08-02
 boletin_oficial: "23459"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21362-nacional-autorizacion-banco-hipotecario-nacional-para-recibir-fondos-mediante-emision-cedulas-bonos-otros-valores-mobiliarios-lns0000347-1976-07-27"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=303597"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/303597/norma.htm"

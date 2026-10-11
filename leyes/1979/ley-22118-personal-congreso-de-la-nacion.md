@@ -9,7 +9,9 @@ date: 1979-12-10
 published: 2006-09-11
 boletin_oficial: "30987"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22118-nacional-regimen-jubilatorio-personal-congreso-nacion-lns0003081-1979-12-10"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=119643"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/115000-119999/119643/texact.htm"

@@ -10,6 +10,8 @@ published: 1934-11-30
 boletin_oficial: "12140"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-12111-nacional-lnn0027706-1934-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=294138"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/294138/norma.htm"

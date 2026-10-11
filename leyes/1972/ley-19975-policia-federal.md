@@ -10,6 +10,8 @@ published: 1972-12-04
 boletin_oficial: "22558"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-19975-nacional-lnn0020679-1972-11-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=183294"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/183294/norma.htm"

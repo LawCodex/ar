@@ -9,7 +9,9 @@ date: 1968-07-16
 published: 1968-07-22
 boletin_oficial: "21481"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-17811-nacional-comision-nacional-valores-lns0001080-1968-07-16"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=16539"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/15000-19999/16539/texact.htm"

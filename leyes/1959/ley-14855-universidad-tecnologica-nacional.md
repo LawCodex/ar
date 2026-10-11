@@ -9,7 +9,9 @@ date: 1959-10-14
 published: 1959-12-02
 boletin_oficial: "19101"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-14855-nacional-universidad-tecnologica-nacional-lns0001586-1959-10-14"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=195013"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/195013/norma.htm"

@@ -10,6 +10,8 @@ published: 1973-02-16
 boletin_oficial: "22609"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-20142-nacional-lnn0004741-1973-02-07"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=222137"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/220000-224999/222137/norma.htm"

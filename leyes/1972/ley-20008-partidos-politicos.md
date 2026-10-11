@@ -10,6 +10,8 @@ published: 1972-12-12
 boletin_oficial: "22563"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-20008-nacional-lnn0020675-1972-12-11"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302501"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302501/norma.htm"

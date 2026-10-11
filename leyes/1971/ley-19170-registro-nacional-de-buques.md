@@ -9,7 +9,9 @@ date: 1971-07-02
 published: 1971-09-03
 boletin_oficial: "22251"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19170-nacional-reglamento-organico-registro-nacional-buques-lns0000837-1971-08-12"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=63207"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/60000-64999/63207/norma.htm"

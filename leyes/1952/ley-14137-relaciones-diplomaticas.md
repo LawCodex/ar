@@ -9,7 +9,9 @@ date: 1952-08-27
 published: 1952-09-12
 boletin_oficial: "17232"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-14137-nacional-embajada-argentina-japon-lns0001899-1952-08-27"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=193321"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/193321/norma.htm"

@@ -9,7 +9,9 @@ date: 1971-05-07
 published: 1971-05-27
 boletin_oficial: "22183"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-19030-nacional-politica-aeronautica-nacional-lns0000871-1971-05-07"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=130065"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/130000-134999/130065/texact.htm"

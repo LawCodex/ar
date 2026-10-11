@@ -9,7 +9,9 @@ date: 1985-09-30
 published: 1985-11-05
 boletin_oficial: "25798"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-23290-nacional-modificacion-limites-parque-nacional-nahuel-huapi-deportes-invernales-lns0003275-1985-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=23903"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/23903/norma.htm"

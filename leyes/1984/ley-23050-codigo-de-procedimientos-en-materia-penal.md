@@ -10,6 +10,8 @@ published: 1984-02-16
 boletin_oficial: "25366"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-23050-nacional-codigo-procedimientos-materia-penal-excarcelacion-modificacion-decreto-642-76-derogacion-ley-21312-habeas-corpus-lnn0027988-1984-02-09"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=28156"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/28156/norma.htm"

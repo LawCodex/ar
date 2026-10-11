@@ -9,7 +9,9 @@ date: 1967-11-21
 published: 1967-11-23
 boletin_oficial: "21320"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-17543-nacional-lnn0025595-1967-11-21"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=195283"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/195283/norma.htm"

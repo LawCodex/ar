@@ -9,7 +9,9 @@ date: 1948-10-13
 published: 1948-10-18
 boletin_oficial: "16183"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-13512-nacional-regimen-propiedad-horizontal-lns0001993-1948-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=46362"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/45000-49999/46362/norma.htm"

@@ -9,7 +9,9 @@ date: 1980-10-31
 published: 1980-11-07
 boletin_oficial: "24540"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22315-nacional-ley-organica-inspeccion-general-justicia-lns0002342-1980-10-31"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=21159"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/21159/texact.htm"

@@ -9,7 +9,9 @@ date: 1972-03-14
 published: 1972-03-22
 boletin_oficial: "22387"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19524-nacional-regimen-escuelas-zonas-areas-frontera-lns0000751-1972-03-14"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=60457"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/60000-64999/60457/texact.htm"

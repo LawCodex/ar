@@ -9,7 +9,9 @@ date: 1970-03-24
 published: 2006-09-25
 boletin_oficial: "30997"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-18632-nacional-facultad-poder-ejecutivo-desafectar-patrimonio-ferrocarriles-argentinos-inmueble-ubicado-ciudad-rosario-lns0005093-1970-03-24"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=120153"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/120000-124999/120153/norma.htm"

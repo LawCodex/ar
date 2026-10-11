@@ -10,6 +10,8 @@ published: 1968-04-04
 boletin_oficial: "21410"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-17694-nacional-lnn0027492-1968-03-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=300781"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/300781/norma.htm"

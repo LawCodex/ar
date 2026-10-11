@@ -9,7 +9,9 @@ date: 1969-08-27
 published: 1969-09-03
 boletin_oficial: "21758"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-18330-nacional-lucha-contra-plagas-agricultura-lns0001014-1969-08-27"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=301285"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/301285/norma.htm"

@@ -10,6 +10,8 @@ published: 1984-09-19
 boletin_oficial: "25513"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-23086-nacional-lnn0028965-1984-09-13"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=28014"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/28014/norma.htm"

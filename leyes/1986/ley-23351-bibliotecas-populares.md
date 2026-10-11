@@ -9,7 +9,9 @@ date: 1986-08-07
 published: 1986-10-08
 boletin_oficial: "26010"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-23351-nacional-bibliotecas-populares-lns0003305-1986-08-07"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=23024"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/23024/texact.htm"

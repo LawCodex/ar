@@ -10,6 +10,8 @@ published: 1973-04-16
 boletin_oficial: "22648"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-20267-nacional-lnn0026779-1973-04-10"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302674"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302674/norma.htm"

@@ -10,6 +10,8 @@ published: 1981-09-11
 boletin_oficial: "24751"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22492-nacional-lnn0027400-1981-09-08"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304218"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304218/norma.htm"

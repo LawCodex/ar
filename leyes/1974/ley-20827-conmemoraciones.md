@@ -9,7 +9,9 @@ date: 1974-08-27
 published: 1974-11-26
 boletin_oficial: "23043"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20827-nacional-dia-antartida-lns0000441-1974-09-27"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=231346"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/231346/norma.htm"

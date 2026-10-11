@@ -9,7 +9,9 @@ date: 1961-10-26
 published: 1962-01-24
 boletin_oficial: "19738"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-15968-nacional-declaracion-zona-militar-playa-mar-correspondiente-al-destacamento-naval-golfo-nuevo-lns0001427-1961-10-26"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=193216"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/193216/norma.htm"

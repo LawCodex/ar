@@ -10,6 +10,8 @@ published: 1972-04-07
 boletin_oficial: "22397"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-19545-nacional-lnn0021884-1972-03-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302172"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302172/norma.htm"

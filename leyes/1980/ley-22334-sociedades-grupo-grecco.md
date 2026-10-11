@@ -10,6 +10,8 @@ published: 1980-11-26
 boletin_oficial: "24553"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22334-nacional-lnn0023726-1980-11-20"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=56982"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/55000-59999/56982/norma.htm"

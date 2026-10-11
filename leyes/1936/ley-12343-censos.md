@@ -10,6 +10,8 @@ published: 1937-01-15
 boletin_oficial: "12758"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-12343-nacional-lnn0024410-1936-12-22"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=294335"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/294335/norma.htm"

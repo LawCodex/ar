@@ -10,6 +10,8 @@ published: 1968-01-15
 boletin_oficial: "21354"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-17602-nacional-lnn0002940-1967-12-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=166824"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/165000-169999/166824/norma.htm"

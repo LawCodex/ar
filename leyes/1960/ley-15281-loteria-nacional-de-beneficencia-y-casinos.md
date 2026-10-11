@@ -9,7 +9,9 @@ date: 1960-06-09
 published: 1960-07-02
 boletin_oficial: "19273"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-15281-nacional-delegacion-facultades-loteria-beneficencia-nacional-casinos-lns0001564-1960-06-09"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=298504"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/298504/norma.htm"

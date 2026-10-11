@@ -9,7 +9,9 @@ date: 1958-09-30
 published: 1958-11-03
 boletin_oficial: "18780"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-14586-nacional-regimen-registro-estado-civil-personas-ciudad-buenos-aires-lns0001612-1958-09-30"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=233678"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/233678/texact.htm"

@@ -9,7 +9,9 @@ date: 1975-09-23
 published: 1975-10-15
 boletin_oficial: "23262"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-21073-nacional-lnn0025385-1975-09-23"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=179843"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/175000-179999/179843/norma.htm"

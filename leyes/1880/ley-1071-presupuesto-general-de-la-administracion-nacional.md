@@ -8,6 +8,8 @@ language: es
 date: 1880-10-18
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-1071-nacional-lnn0016201-1880-10-18"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=188699"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/185000-189999/188699/norma.htm"

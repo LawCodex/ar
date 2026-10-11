@@ -9,7 +9,9 @@ date: 1984-10-18
 published: 1984-10-30
 boletin_oficial: "25541"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-23107-nacional-cobertura-social-trabajadores-algodoneros-lns0003442-1984-09-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=22245"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/22245/norma.htm"

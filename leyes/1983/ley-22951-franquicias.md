@@ -10,6 +10,8 @@ published: 1983-10-19
 boletin_oficial: "25281"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22951-nacional-lnn0003101-1983-10-17"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=250388"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/250000-254999/250388/norma.htm"

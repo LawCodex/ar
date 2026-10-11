@@ -9,7 +9,9 @@ date: 1980-03-04
 published: 1980-03-07
 boletin_oficial: "24372"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22177-nacional-privatizacion-empresas-sociedades-establecimientos-propiedad-total-parcial-estado-nacional-lns0001869-1980-03-04"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304054"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304054/norma.htm"

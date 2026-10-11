@@ -10,6 +10,8 @@ published: 1944-04-17
 boletin_oficial: "14875"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-6048-nacional-lnn0012290-1908-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=294889"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/294889/norma.htm"

@@ -10,6 +10,8 @@ published: 1947-08-28
 boletin_oficial: "15852"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-13003-nacional-lnn0002048-1947-08-23"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=22685"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/22685/norma.htm"

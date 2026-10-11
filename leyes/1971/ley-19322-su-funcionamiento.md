@@ -9,7 +9,9 @@ date: 1971-10-26
 published: 1971-11-05
 boletin_oficial: "22294"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19322-nacional-regimen-instituto-servicios-sociales-bancarios-lns0000806-1971-10-26"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=28128"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/28128/norma.htm"

@@ -10,6 +10,8 @@ published: 2013-07-08
 boletin_oficial: "32675"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-21811-nacional-lnn0004237-1978-06-05"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=217193"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/215000-219999/217193/norma.htm"

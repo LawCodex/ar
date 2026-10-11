@@ -10,6 +10,8 @@ published: 1974-10-09
 boletin_oficial: "23011"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-20730-nacional-lnn0026722-1974-08-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=233528"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/233528/norma.htm"

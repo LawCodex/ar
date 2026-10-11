@@ -9,7 +9,9 @@ date: 1934-08-07
 published: 1934-08-16
 boletin_oficial: "12053"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-11866-nacional-fundacion-memoria-general-don-jose-san-martin-lns0002367-1934-08-07"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=194779"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/194779/norma.htm"

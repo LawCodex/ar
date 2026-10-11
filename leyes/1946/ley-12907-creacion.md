@@ -9,7 +9,9 @@ date: 1946-12-13
 published: 1947-06-14
 boletin_oficial: "15792"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-12907-nacional-cracion-circulo-aeronautica-lns0002441-1946-12-13"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=43607"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/40000-44999/43607/norma.htm"

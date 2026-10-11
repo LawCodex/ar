@@ -10,6 +10,8 @@ published: 1981-06-26
 boletin_oficial: "24698"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22467-nacional-lnn0027553-1981-06-23"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304203"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304203/norma.htm"

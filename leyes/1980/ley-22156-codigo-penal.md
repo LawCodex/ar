@@ -9,7 +9,9 @@ date: 1980-02-05
 published: 1980-02-11
 boletin_oficial: "24353"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-22156-nacional-lnn0028264-1980-02-05"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=257343"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/255000-259999/257343/norma.htm"

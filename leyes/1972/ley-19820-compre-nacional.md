@@ -9,7 +9,9 @@ date: 1972-09-04
 published: 1972-09-11
 boletin_oficial: "22502"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19820-nacional-adquisiciones-bienes-servicios-para-embajadas-consulados-exterior-lns0000687-1972-09-04"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=73134"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/70000-74999/73134/norma.htm"

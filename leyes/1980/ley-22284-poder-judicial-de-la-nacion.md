@@ -10,6 +10,8 @@ published: 1980-09-19
 boletin_oficial: "24506"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22284-nacional-lnn0028384-1980-09-12"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304114"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304114/norma.htm"

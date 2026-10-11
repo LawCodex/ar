@@ -9,7 +9,9 @@ date: 1984-05-23
 published: 1984-07-19
 boletin_oficial: "25470"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-23062-nacional-control-constitucionalidad-lns0003164-1984-05-23"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=28080"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/28080/norma.htm"

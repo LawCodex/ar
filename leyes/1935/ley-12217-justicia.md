@@ -9,7 +9,9 @@ date: 1935-09-26
 published: 1935-10-11
 boletin_oficial: "12390"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-12217-nacional-creacion-camara-federal-apelaciones-ciudad-mendoza-provincia-mendoza-lns0002238-1935-09-26"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=195563"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/195563/norma.htm"

@@ -10,6 +10,8 @@ published: 1978-04-18
 boletin_oficial: "23895"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-21777-nacional-lnn0026603-1978-04-13"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=129753"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/125000-129999/129753/norma.htm"

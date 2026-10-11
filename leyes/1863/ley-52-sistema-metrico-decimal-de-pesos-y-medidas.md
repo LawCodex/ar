@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1863-09-04
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-52-nacional-lnn0026418-1863-09-04"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=48811"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/45000-49999/48811/norma.htm"

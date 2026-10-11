@@ -9,7 +9,9 @@ date: 1969-09-24
 published: 1969-10-02
 boletin_oficial: "21779"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-18372-nacional-fijacion-limites-entre-provincias-formosa-salta-lns0001000-1969-09-24"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=198355"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/198355/norma.htm"

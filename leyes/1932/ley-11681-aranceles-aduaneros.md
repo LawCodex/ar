@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1932-12-30
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-11681-nacional-aranceles-aduaneros-exenciones-diversas-mercaderias-lns0002874-1932-12-30"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=293689"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/293689/texact.htm"

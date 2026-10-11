@@ -832,7 +832,9 @@ Suscripciones en Unidades de Cuenta
 
 2\. Cuando se produzca una vacante en el cargo de uno de los directores designados por el Banco, el Presidente le notificará al Fondo el nombre de la persona que el Banco designe como su sucesor.
 
-## Parte II — Elección de los Directores por parte de los Gobernadores que representan a los Estados participantes.
+## Parte II
+
+Elección de los Directores por parte de los Gobernadores que representan a los Estados participantes.
 
 1\. Al votar en la selección de directores, cada gobernador que representa a un Estado participante emitirá a nombre de una persona todos los votos a los cuales tiene derecho el Estado que lo designara. Serán directores las seis personas que reciban la mayor cantidad de votos, salvo que no se considerará elegida ninguna persona que reciba menos del 12 % del total de votos de dichos gobernadores.
 

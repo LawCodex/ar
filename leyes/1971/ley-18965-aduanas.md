@@ -9,7 +9,9 @@ date: 1971-03-31
 published: 1971-04-07
 boletin_oficial: "22150"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-18965-nacional-facultad-al-poder-ejecutivo-para-destruir-cigarrillos-extranjeros-lns0000888-1971-03-31"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=102660"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/100000-104999/102660/texact.htm"

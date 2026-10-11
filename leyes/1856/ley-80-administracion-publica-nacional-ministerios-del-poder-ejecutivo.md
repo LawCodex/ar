@@ -8,6 +8,8 @@ language: es
 date: 1856-08-11
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-80-nacional-lnn0017285-1863-11-12"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=168960"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/165000-169999/168960/norma.htm"

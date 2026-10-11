@@ -9,7 +9,9 @@ date: 1977-02-25
 published: 1977-03-03
 boletin_oficial: "23610"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21540-nacional-jubilaciones-obispos-arzobispos-furzas-armadas-vicariato-castrense-lns0000182-1977-02-25"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=79745"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/75000-79999/79745/norma.htm"

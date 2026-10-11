@@ -9,7 +9,9 @@ date: 1983-07-28
 published: 1983-08-02
 boletin_oficial: "25227"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22863-nacional-amnistia-contravenciones-relativas-identificacion-personas-lns0003059-1983-07-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=94010"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/90000-94999/94010/norma.htm"

@@ -9,7 +9,9 @@ date: 1980-02-28
 published: 2006-09-11
 boletin_oficial: "30987"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22174-nacional-remuneracion-gastos-representacion-para-ministros-secretarios-estado-subsecretarios-poder-ejecutivo-lns0005045-1980-02-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=119645"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/115000-119999/119645/norma.htm"

@@ -9,7 +9,9 @@ date: 1968-06-25
 published: 1968-07-03
 boletin_oficial: "21469"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-17791-nacional-creacion-instituto-nacional-credito-educativo-para-igualdad-oportunidades-lns0001089-1968-06-25"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=300858"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/300858/texact.htm"

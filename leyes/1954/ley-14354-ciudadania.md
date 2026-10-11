@@ -9,7 +9,9 @@ date: 1954-09-28
 published: 1954-10-28
 boletin_oficial: "17762"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-14354-nacional-lnn0026101-1954-09-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=196124"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/196124/norma.htm"

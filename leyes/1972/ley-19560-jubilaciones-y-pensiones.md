@@ -10,6 +10,8 @@ published: 1972-04-11
 boletin_oficial: "22399"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-19560-nacional-lnn0000742-1972-04-07"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302183"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302183/norma.htm"

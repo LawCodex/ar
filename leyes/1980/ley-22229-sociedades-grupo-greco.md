@@ -10,6 +10,8 @@ published: 1980-06-06
 boletin_oficial: "24434"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22229-nacional-lnn0027395-1980-05-27"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=56981"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/55000-59999/56981/norma.htm"
@@ -108,7 +110,9 @@ Albano E. Harguindeguy.
 
 Alberto Rodriguez Varela.
 
-## ANEXO I — Greco Hnos. S. A. I. C. A.: Punta Arenas 1612 - Capital Federal.
+## ANEXO I
+
+Greco Hnos. S. A. I. C. A.: Punta Arenas 1612 - Capital Federal.
 
 Vinícola Argentina S. A. I. C. A.: Darwin 1550 - Capital Federal.
 

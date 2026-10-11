@@ -9,7 +9,9 @@ date: 1977-02-14
 published: 1977-02-21
 boletin_oficial: "23602"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21526-nacional-ley-entidades-financieras-lns0000186-1977-02-14"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=16071"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/15000-19999/16071/texact.htm"
@@ -404,7 +406,9 @@ El Banco Central de la República Argentina, a fin de facilitar el cumplimiento 
 
 Por las deficiencias en la constitución de reservas de efectivo en que incurran, las entidades abonarán al Banco Central de la República Argentina un cargo de hasta cinco veces la tasa máxima de redescuento. Asimismo, el Banco Central de la República Argentina podrá establecer otros cargos por el incumplimiento de las demás normas establecidas en este Título.
 
-### CAPITULO IV — Reestructuración de la entidad en resguardo del crédito y los depósitos bancarios.
+### CAPITULO IV
+
+Reestructuración de la entidad en resguardo del crédito y los depósitos bancarios.
 
 #### ARTICULO 35 bis
 

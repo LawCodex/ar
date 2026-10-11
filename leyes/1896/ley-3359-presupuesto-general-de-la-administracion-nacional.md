@@ -8,6 +8,8 @@ language: es
 date: 1896-01-15
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-3359-nacional-lnn0014784-1896-01-15"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=189825"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/185000-189999/189825/norma.htm"

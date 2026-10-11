@@ -9,7 +9,9 @@ date: 1982-09-21
 published: 1982-09-23
 boletin_oficial: "25011"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22646-nacional-importe-haber-mensual-pensiones-otorgadas-ganadores-premios-nacionales-lns0002943-1982-09-21"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=198319"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/198319/norma.htm"

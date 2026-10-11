@@ -9,7 +9,9 @@ date: 1969-08-06
 published: 1969-08-13
 boletin_oficial: "21744"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-18305-nacional-honorarios-notariales-para-escrituras-publicas-adquisicion-viviendas-intervenga-banco-hipotecario-nacional-lns0001390-1969-08-06"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=301265"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/301265/texact.htm"

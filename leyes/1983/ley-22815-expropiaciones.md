@@ -10,6 +10,8 @@ published: 1983-05-27
 boletin_oficial: "25181"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22815-nacional-lnn0027855-1983-05-24"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304375"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304375/norma.htm"

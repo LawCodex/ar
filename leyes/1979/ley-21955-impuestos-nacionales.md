@@ -10,6 +10,8 @@ published: 1979-03-14
 boletin_oficial: "24124"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-21955-nacional-lnn0005553-1979-03-12"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=92788"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/90000-94999/92788/norma.htm"

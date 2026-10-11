@@ -9,7 +9,9 @@ date: 1973-02-12
 published: 1973-02-20
 boletin_oficial: "22611"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-20155-nacional-convenios-corresponsabilidad-gremial-materia-seguridad-social-celbrados-entre-asociaciones-profesionales-trabajadores-personalidad-gremial-empresarios-lns0000592-1973-02-12"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=28126"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/28126/texact.htm"

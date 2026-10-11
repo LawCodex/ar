@@ -10,6 +10,8 @@ published: 1975-10-16
 boletin_oficial: "23263"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-21121-nacional-lnn0028224-1975-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=123779"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/120000-124999/123779/norma.htm"

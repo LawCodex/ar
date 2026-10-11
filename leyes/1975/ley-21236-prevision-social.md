@@ -10,6 +10,8 @@ published: 1975-11-10
 boletin_oficial: "23280"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-21236-nacional-lnn0004602-1975-09-30"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=198254"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/198254/texact.htm"

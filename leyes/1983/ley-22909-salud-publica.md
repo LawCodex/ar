@@ -9,7 +9,9 @@ date: 1983-09-13
 published: 1983-09-15
 boletin_oficial: "25258"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-22909-nacional-ley-vacunacion-obligatoria-lns0003069-1983-09-13"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=48717"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/45000-49999/48717/norma.htm"

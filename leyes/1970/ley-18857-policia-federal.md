@@ -10,6 +10,8 @@ published: 1970-12-14
 boletin_oficial: "22073"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-18857-nacional-lnn0014164-1970-12-07"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=182766"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/182766/norma.htm"

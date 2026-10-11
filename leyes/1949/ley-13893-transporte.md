@@ -9,7 +9,9 @@ date: 1949-09-30
 published: 1949-12-05
 boletin_oficial: "16512"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-13893-nacional-economia-transporte-transito-reglamento-general-transito-lns0001960-1949-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=296295"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/296295/norma.htm"
@@ -594,7 +596,9 @@ Maquinaria agrícola.
 
 La maquinaria agrícola que no pueda ajustarse a las condiciones establecidas en este capítulo podrá transitar por los caminos a marcha precaucional, y sin utilizar la zona pavimentada o mejorada. Para su tránsito por las zonas urbanas se deberá previamente obtener permiso de la autoridad competente.
 
-## TÍTULO III — De la propiedad. Permiso de tránsito e identificación de vehículos.
+## TÍTULO III
+
+De la propiedad. Permiso de tránsito e identificación de vehículos.
 
 Art. — 35.
 

@@ -9,7 +9,9 @@ date: 1977-06-14
 published: 1977-06-29
 boletin_oficial: "23690"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-21591-nacional-lnn0004147-1977-06-14"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=258587"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/255000-259999/258587/norma.htm"

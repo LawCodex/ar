@@ -9,7 +9,9 @@ date: 1953-06-25
 published: 1953-07-24
 boletin_oficial: "17445"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-14192-nacional-embajada-argentina-austria-lns0001886-1953-06-25"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=193341"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/193341/norma.htm"

@@ -9,7 +9,9 @@ date: 1938-09-30
 published: 1938-10-17
 boletin_oficial: "13268"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-12566-nacional-lucha-contra-garrapata-lns0002214-1938-09-30"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=36455"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/35000-39999/36455/texact.htm"

@@ -9,7 +9,9 @@ date: 1971-05-14
 published: 1971-05-20
 boletin_oficial: "22179"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19035-nacional-plan-mediano-plazo-ferrocarriles-argentinos-lns0000869-1971-05-14"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=301807"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/301807/texact.htm"

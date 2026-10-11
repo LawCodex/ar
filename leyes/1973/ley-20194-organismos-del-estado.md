@@ -9,7 +9,9 @@ date: 1973-02-28
 published: 1973-03-09
 boletin_oficial: "22622"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-20194-nacional-lnn0026787-1973-02-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=181249"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/181249/norma.htm"

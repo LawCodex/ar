@@ -9,7 +9,9 @@ date: 1972-04-27
 published: 1972-04-28
 boletin_oficial: "22412"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19597-nacional-regulacion-produccion-azucarera-lns0000733-1972-04-27"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302211"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302211/texact.htm"

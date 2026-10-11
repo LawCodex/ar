@@ -9,7 +9,9 @@ date: 1941-09-29
 published: 1941-11-15
 boletin_oficial: "14171"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-12713-nacional-regimen-trabajo-domicilio-cuenta-ajena-lns0002591-1941-09-29"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=48991"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/45000-49999/48991/texact.htm"

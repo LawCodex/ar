@@ -9,7 +9,9 @@ date: 1983-11-28
 published: 1983-12-01
 boletin_oficial: "25312"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-22991-nacional-estado-poder-judicial-organizacion-judicial-funcionarios-judiciales-trabajo-remuneraciones-lnn0003119-1983-11-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304410"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304410/norma.htm"

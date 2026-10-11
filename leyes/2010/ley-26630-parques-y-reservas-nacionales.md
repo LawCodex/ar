@@ -1,0 +1,55 @@
+---
+title: "Ley 26630: PARQUES Y RESERVAS NACIONALES — CESION DE TERRENOS"
+identifier: "Ley 26630"
+infoleg_id: "171304"
+type: act
+jurisdiction: ar
+language: es
+date: 2010-08-11
+published: 2010-09-01
+boletin_oficial: "31977"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-26630-nacional-cesion-terrenos-efectuada-provincia-tucuman-al-estado-nacional-lns0005623-2010-08-11"
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=171304"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/170000-174999/171304/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 26630: PARQUES Y RESERVAS NACIONALES — CESION DE TERRENOS
+
+PARQUES Y RESERVAS NACIONALES
+
+Ley 26.630
+
+Acéptase la cesión de terrenos efectuada por la Provincia de Tucumán al Estado Nacional, del área conformada por la finca rural "Estancia Las Pavas", Departamento Chicligasta.
+
+Sancionada: Agosto 11 de 2010
+
+Promulgada: Agosto 30 de 2010
+
+El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc. sancionan con fuerza de Ley:
+
+## ARTICULO 1º
+
+Acéptase la cesión de la jurisdicción efectuada por la provincia de Tucumán al Estado nacional mediante el artículo 1º de la Ley Provincial 7646, sancionada el 14 de septiembre de 2005, sobre un área de aproximadamente siete mil seiscientas cuarenta y cinco hectáreas (7.645 ha.), ubicadas en la localidad de Alpachiri, Departamento Chicligasta, Estancia Las Pavas, identificada con la siguiente nomenclatura catastral: Circunscripción I; Sección D; Lámina 88; Parcela 7; Padrón 54639; Matrícula 27479; Orden 1; e inscripto en el Registro Inmobiliario en la Matrícula Registral Nº Z 4360.
+
+## ARTICULO 2º
+
+Acéptanse las condiciones y plazo previstos en la Ley Provincial 7646, bajo las cuales la provincia de Tucumán realiza la cesión de jurisdicción del predio cuyos datos catastrales se describen en el artículo precedente, dejándose constancia que el Estado nacional —Administración de Parques Nacionales— ya ha finalizado el proceso de adquisición del predio de la Ex Estancia Las Pavas.
+
+## ARTICULO 3º
+
+En cumplimiento de la condición institucional aceptada mediante el artículo 2º de la presente y por encontrarse cabalmente reunidos los requisitos previstos por los artículos 1º, 3º, 4º y concordantes de la Ley Nacional Nº 22.351, declárase al área cedida y aceptada mediante el presente acto legislativo, como integrante del "PARQUE NACIONAL CAMPO DE LOS ALISOS", bajo la denominación "SECCION LAS PAVAS", la cual, a partir de la promulgación de la presente, quedará sometida al régimen de la citada Ley de Parques Nacionales, Monumentos Naturales y Reservas Nacionales, con una superficie unificada total de aproximadamente dieciséis mil ciento ochenta hectáreas (16.180 ha.).
+
+## ARTICULO 4º
+
+Comuníquese al Poder Ejecutivo nacional.
+
+DADA EN LA SALA DE SESIONES DEL CONGRESO ARGENTINO, EN BUENOS AIRES, EL DIA ONCE DE AGOSTO DE DOS MIL DIEZ.
+
+— REGISTRADO BAJO EL Nº 26.630 —
+
+JULIO C. C. COBOS. — EDUARDO A. FELLNER. — Enrique Hidalgo. — Juan H. Estrada.

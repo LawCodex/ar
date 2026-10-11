@@ -10,6 +10,8 @@ published: 1933-01-10
 boletin_oficial: "11584"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-11671-nacional-lnn0024725-1932-12-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=187838"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/185000-189999/187838/norma.htm"

@@ -9,7 +9,9 @@ date: 1970-03-09
 published: 1970-03-18
 boletin_oficial: "21891"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-18620-nacional-fijacion-limites-entre-provincias-cordoba-santa-fe-lns0000948-1970-03-09"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=199366"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/199366/norma.htm"

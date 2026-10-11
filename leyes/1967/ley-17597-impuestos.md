@@ -9,7 +9,9 @@ date: 1967-12-28
 published: 1968-03-04
 boletin_oficial: "21387"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-17597-nacional-tributos-impuestos-impuesto-transferencia-combustibles-lns0001134-1967-12-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=195534"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/195534/norma.htm"

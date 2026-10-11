@@ -10,6 +10,8 @@ published: 1973-01-03
 boletin_oficial: "22577"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-20037-nacional-lnn0020672-1972-12-22"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302521"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302521/norma.htm"

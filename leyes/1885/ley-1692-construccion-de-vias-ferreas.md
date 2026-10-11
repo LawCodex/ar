@@ -8,6 +8,8 @@ language: es
 date: 1885-09-26
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-1692-nacional-lnn0023696-1885-09-26"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=283670"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/280000-284999/283670/norma.htm"

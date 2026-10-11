@@ -9,7 +9,9 @@ date: 1973-02-09
 published: 1973-02-15
 boletin_oficial: "22608"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-20149-nacional-lnn0025458-1973-02-09"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=175176"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/175000-179999/175176/norma.htm"

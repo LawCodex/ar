@@ -9,7 +9,9 @@ date: 1976-08-20
 published: 1976-08-26
 boletin_oficial: "23476"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21391-nacional-actualizacion-monetaria-contratos-administrativos-para-provision-servicios-suministros-lns0000270-1976-08-20"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=303615"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/303615/norma.htm"

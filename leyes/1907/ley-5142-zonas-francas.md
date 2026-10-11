@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1907-09-22
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-5142-nacional-autorizacion-crear-zonas-francas-plata-santa-fe-lns0003837-1907-09-22"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=39736"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/35000-39999/39736/norma.htm"

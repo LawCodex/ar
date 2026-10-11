@@ -8,6 +8,8 @@ language: es
 date: 1882-10-22
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-1257-nacional-lnn0016361-1882-10-22"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=283009"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/280000-284999/283009/norma.htm"

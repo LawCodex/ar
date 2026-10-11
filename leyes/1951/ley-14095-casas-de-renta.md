@@ -10,6 +10,8 @@ published: 1951-10-29
 boletin_oficial: "17014"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-14095-nacional-lnn0027217-1951-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=199010"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/199010/norma.htm"

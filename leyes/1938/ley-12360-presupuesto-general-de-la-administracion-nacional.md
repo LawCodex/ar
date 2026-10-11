@@ -10,6 +10,8 @@ published: 1938-03-14
 boletin_oficial: "13097"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-12360-nacional-lnn0024406-1938-01-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=184738"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/184738/norma.htm"

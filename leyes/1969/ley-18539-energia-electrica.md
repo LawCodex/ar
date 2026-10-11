@@ -10,6 +10,8 @@ published: 1970-01-26
 boletin_oficial: "21856"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-18539-nacional-lnn0005183-1969-12-31"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=229959"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/225000-229999/229959/norma.htm"

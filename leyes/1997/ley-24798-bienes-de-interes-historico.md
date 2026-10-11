@@ -1,0 +1,53 @@
+---
+title: "Ley 24798: BIENES DE INTERES HISTORICO — FERROCARRIL Y USINA ( COMODORO RIVADAVIA )"
+identifier: "Ley 24798"
+infoleg_id: "42592"
+type: act
+jurisdiction: ar
+language: es
+date: 1997-03-12
+published: 1997-04-09
+boletin_oficial: "28622"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-24798-nacional-lnn0028824-1997-03-12"
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=42592"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/40000-44999/42592/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 24798: BIENES DE INTERES HISTORICO — FERROCARRIL Y USINA ( COMODORO RIVADAVIA )
+
+BIENES DE INTERES HISTORICO
+
+Ley 24.798
+
+Decláranse, a la ex estación de ferrocarril y a la ex usina del puerto, de la Ciudad de Comodoro Rivadavia.
+
+Sancionada: Marzo 12 de 1997.
+
+Promulgada: Abril 4 de 1997.
+
+El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc. sancionan con fuerza de Ley:
+
+## ARTICULO 1º
+
+Decláranse bienes de interés histórico, con arreglo a lo dispuesto por las Leyes 12.665 y 24.252, los siguientes edificios:
+
+a) La ex estación de ferrocarril ubicada en la calle 9 de Julio —Plaza Scalabrini Ortiz— de la Ciudad de Comodoro Rivadavia.
+
+b) La ex usina del puerto, ubicada en la avenida Hipólito Yrigoyen sobre tierras ganadas al mar, de la Ciudad de Comodoro Rivadavia.
+
+## ARTICULO 2º
+
+El Poder Ejecutivo Nacional, a través de sus organismos específicos en forma conjunta con el municipio de Comodoro Rivadavia efectuarán los estudios técnicos tendientes a la preservación de los edificios mencionados en el artículo precedente de esta ley.
+
+## ARTICULO 3º
+
+Comuníquese al Poder Ejecutivo.
+
+DADA EN LA SALA DE SESIONES DEL CONGRESO ARGENTINO, EN BUENOS AIRES A LOS DOCE DIAS DEL MES DE MARZO DEL AÑO MIL NOVECIENTOS NOVENTA Y SIETE.
+
+ALBERTO R. PIERRI. — CARLOS F. RUCKAUF. — Esther H. Pereyra Arandía de Pérez Pardo. — Edgardo Piuzzi.

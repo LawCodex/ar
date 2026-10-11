@@ -9,7 +9,9 @@ date: 1968-07-29
 published: 1968-08-02
 boletin_oficial: "21490"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-17817-nacional-gravamen-aplicable-titulares-licencia-estaciones-television-lns0001078-1968-07-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=300875"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/300875/norma.htm"

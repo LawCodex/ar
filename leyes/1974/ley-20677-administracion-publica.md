@@ -9,7 +9,9 @@ date: 1974-06-05
 published: 1974-06-21
 boletin_oficial: "22937"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20677-nacional-supresion-requisito-acuerdo-senado-para-designacion-funcionarios-publicos-lns0000448-1974-06-05"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=181074"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/181074/norma.htm"

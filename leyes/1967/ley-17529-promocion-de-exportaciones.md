@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1967-11-08
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-17529-nacional-promocion-exportacion-productos-manufacturados-lns0001146-1967-11-08"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=300653"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/300653/texact.htm"

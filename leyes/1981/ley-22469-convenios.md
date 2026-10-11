@@ -10,6 +10,8 @@ published: 1981-07-01
 boletin_oficial: "24701"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22469-nacional-lnn0027542-1981-06-22"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304202"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304202/norma.htm"

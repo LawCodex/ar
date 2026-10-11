@@ -9,7 +9,9 @@ date: 1970-09-18
 published: 1970-09-24
 boletin_oficial: "22020"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-18789-nacional-creacion-fondo-especial-zarate-brazo-largo-lns0000931-1970-09-18"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=301630"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/301630/texact.htm"

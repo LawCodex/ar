@@ -10,6 +10,8 @@ published: 1975-10-15
 boletin_oficial: "23262"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-21066-nacional-lnn0026702-1975-09-23"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=303367"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/303367/norma.htm"

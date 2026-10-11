@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1880-10-07
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-1055-nacional-explotacion-extraccion-guano-patagonia-lns0002535-1880-10-07"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=283846"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/280000-284999/283846/norma.htm"

@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1938-09-30
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-12558-nacional-creacion-comision-nacional-ayuda-escolar-lns0002221-1938-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=233063"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/233063/norma.htm"

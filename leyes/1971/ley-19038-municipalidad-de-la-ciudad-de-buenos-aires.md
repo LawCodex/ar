@@ -9,7 +9,9 @@ date: 1971-05-14
 published: 1971-05-20
 boletin_oficial: "22179"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-19038-nacional-estado-municipalidad-ciudad-buenos-aires-derecho-procesal-lns0000868-1971-05-14"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=301809"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/301809/norma.htm"

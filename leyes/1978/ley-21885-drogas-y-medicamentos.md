@@ -9,7 +9,9 @@ date: 1978-10-06
 published: 1978-10-11
 boletin_oficial: "24017"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21885-nacional-aprobacion-texto-6-edicion-farmacopea-nacional-argentina-lns0000060-1978-10-06"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=303900"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/303900/norma.htm"

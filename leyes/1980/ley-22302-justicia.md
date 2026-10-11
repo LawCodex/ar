@@ -9,7 +9,9 @@ date: 1980-10-10
 published: 1980-10-17
 boletin_oficial: "24526"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22302-nacional-creacion-cargos-camara-nacional-apelaciones-criminal-correccional-federal-capital-federal-lns0002301-1980-10-10"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=232555"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/232555/norma.htm"

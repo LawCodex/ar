@@ -9,7 +9,9 @@ date: 1971-12-10
 published: 1971-12-13
 boletin_oficial: "22318"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19362-nacional-categorias-denominacion-remuneracion-personal-administrativo-tecnico-obrero-maestranza-poder-judicial-lns0000791-1971-12-10"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=215226"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/215000-219999/215226/texact.htm"

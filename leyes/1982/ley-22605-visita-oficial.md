@@ -10,6 +10,8 @@ published: 1982-06-14
 boletin_oficial: "24940"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22605-nacional-lnn0027748-1982-06-10"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304285"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304285/norma.htm"

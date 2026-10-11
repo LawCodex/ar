@@ -9,7 +9,9 @@ date: 1975-09-30
 published: 1975-11-04
 boletin_oficial: "23276"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21217-nacional-prestamos-hipotecarios-empresas-promocionadas-para-construccion-viviendas-para-obreros-empleados-lns0000302-1975-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=303487"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/303487/norma.htm"

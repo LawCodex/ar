@@ -8,6 +8,8 @@ language: es
 date: 1866-09-06
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-188-nacional-lnn0016992-1866-09-06"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=246118"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/245000-249999/246118/norma.htm"

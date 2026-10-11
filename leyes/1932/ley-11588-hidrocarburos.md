@@ -10,6 +10,8 @@ published: 1932-07-04
 boletin_oficial: "11429"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-11588-nacional-lnn0027703-1932-06-24"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=214538"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/210000-214999/214538/norma.htm"

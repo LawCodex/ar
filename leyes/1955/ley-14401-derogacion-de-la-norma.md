@@ -10,6 +10,8 @@ published: 1955-06-01
 boletin_oficial: "17909"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-14401-nacional-lnn0018534-1955-05-13"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=296690"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/296690/norma.htm"

@@ -9,7 +9,9 @@ date: 1971-10-11
 published: 1971-10-28
 boletin_oficial: "22289"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19303-nacional-ley-psicotropicos-lns0000809-1971-10-11"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=20966"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/20966/texact.htm"

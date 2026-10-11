@@ -9,7 +9,9 @@ date: 1973-12-10
 published: 1973-12-12
 boletin_oficial: "22809"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-20560-nacional-lnn0025428-1973-11-14"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=37924"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/35000-39999/37924/norma.htm"

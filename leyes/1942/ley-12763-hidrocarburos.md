@@ -10,6 +10,8 @@ published: 1942-09-18
 boletin_oficial: "14415"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-12763-nacional-lnn0019774-1942-09-08"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=215914"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/215000-219999/215914/norma.htm"

@@ -9,7 +9,9 @@ date: 1973-05-18
 published: 1973-05-30
 boletin_oficial: "22676"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20404-nacional-reglamento-contravenciones-policiales-prefectura-naval-lns0000486-1973-05-18"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=198169"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/198169/texact.htm"

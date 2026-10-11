@@ -9,7 +9,9 @@ date: 1973-02-08
 published: 1973-02-15
 boletin_oficial: "22608"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20147-nacional-creacion-fondo-reserva-regimen-nacional-jubilaciones-pensiones-lns0000593-1973-02-08"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302593"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302593/texact.htm"

@@ -9,7 +9,9 @@ date: 1973-03-08
 published: 1973-03-14
 boletin_oficial: "22625"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20203-nacional-creacion-instituto-argentino-siderurgia-lns0003028-1973-03-08"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=227951"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/225000-229999/227951/norma.htm"

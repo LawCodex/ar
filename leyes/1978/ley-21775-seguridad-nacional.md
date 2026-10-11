@@ -9,7 +9,9 @@ date: 1978-04-05
 published: 1978-04-10
 boletin_oficial: "23889"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21775-nacional-facultad-poder-ejecutivo-restringir-exportaciones-materiales-criticos-lns0000082-1978-04-05"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=189798"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/185000-189999/189798/norma.htm"

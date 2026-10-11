@@ -10,6 +10,8 @@ published: 1948-05-24
 boletin_oficial: "16065"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-13196-nacional-lnn0027701-1948-05-12"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=295678"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/295678/norma.htm"
@@ -66,7 +68,9 @@ c) Por "empleado u obrero" la persona que presta servicios retribuídos en las c
 
 d) Por "sueldo o jornal" el promedio mensual o diario de todas las remuneraciones que, con cualquier denominación, perciba durante el año el empleado u obrero.
 
-## Capítulo II — Administración de la sección seguros, reaseguros, capitalización y ahorro.
+## Capítulo II
+
+Administración de la sección seguros, reaseguros, capitalización y ahorro.
 
 ### Artículo 4º
 

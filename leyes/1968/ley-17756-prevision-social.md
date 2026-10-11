@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1968-05-30
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-17756-nacional-derogacion-disposiciones-legales-autorizan-computo-jubilatorio-periodos-inactividad-causas-politicas-gremiales-lns0001094-1968-05-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=300828"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/300828/norma.htm"

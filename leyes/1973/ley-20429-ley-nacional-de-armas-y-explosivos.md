@@ -9,7 +9,9 @@ date: 1973-05-21
 published: 1973-07-05
 boletin_oficial: "22700"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20429-nacional-ley-armas-lns0000550-1973-05-21"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=19953"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/15000-19999/19953/texact.htm"

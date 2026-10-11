@@ -9,7 +9,9 @@ date: 1977-07-18
 published: 1977-07-21
 boletin_oficial: "23706"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21603-nacional-computo-servicios-prestados-jurisdiccion-provincial-personal-policial-lns0000155-1977-07-18"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=197178"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/197178/norma.htm"

@@ -9,7 +9,9 @@ date: 1983-09-22
 published: 1983-09-29
 boletin_oficial: "25268"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22927-nacional-exenciones-impositivas-para-banco-hipotecario-nacional-lns0003087-1983-09-22"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=251965"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/250000-254999/251965/norma.htm"

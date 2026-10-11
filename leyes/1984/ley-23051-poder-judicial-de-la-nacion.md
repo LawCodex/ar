@@ -10,6 +10,8 @@ published: 1984-02-20
 boletin_oficial: "25368"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-23051-nacional-lnn0003132-1984-02-09"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=28155"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/28155/norma.htm"

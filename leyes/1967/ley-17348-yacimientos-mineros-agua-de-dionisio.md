@@ -10,6 +10,8 @@ published: 1967-07-25
 boletin_oficial: "21237"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-17348-nacional-lnn0026989-1967-07-18"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=32087"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/30000-34999/32087/norma.htm"

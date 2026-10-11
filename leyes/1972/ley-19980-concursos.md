@@ -9,7 +9,9 @@ date: 1972-11-29
 published: 1972-12-05
 boletin_oficial: "22559"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19980-nacional-privilegios-comerciales-lns0000614-1972-11-29"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302486"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302486/texact.htm"

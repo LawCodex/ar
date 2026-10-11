@@ -10,6 +10,8 @@ published: 1971-09-24
 boletin_oficial: "22266"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-19240-nacional-lnn0026863-1971-09-16"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=108971"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/105000-109999/108971/norma.htm"

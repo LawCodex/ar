@@ -10,6 +10,8 @@ published: 1967-08-08
 boletin_oficial: "21247"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-17375-nacional-lnn0026985-1967-08-01"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=233512"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/233512/norma.htm"

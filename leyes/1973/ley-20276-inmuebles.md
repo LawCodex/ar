@@ -9,7 +9,9 @@ date: 1973-04-12
 published: 1973-04-18
 boletin_oficial: "22650"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-20276-nacional-modificaciones-al-regimen-prehorizontalidad-lns0000568-1973-04-12"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=189952"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/185000-189999/189952/norma.htm"

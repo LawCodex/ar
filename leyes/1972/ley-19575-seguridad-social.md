@@ -10,6 +10,8 @@ published: 1972-04-24
 boletin_oficial: "22408"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-19575-nacional-lnn0021875-1972-04-18"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302192"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302192/norma.htm"

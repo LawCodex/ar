@@ -9,7 +9,9 @@ date: 1982-04-08
 published: 1982-04-13
 boletin_oficial: "24898"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-22560-nacional-seguros-economia-transporte-transporte-aereo-navegacion-aerea-estado-administracion-publica-nacional-lns0002903-1982-04-08"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304264"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304264/norma.htm"

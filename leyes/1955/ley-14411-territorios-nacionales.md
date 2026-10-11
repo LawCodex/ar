@@ -9,7 +9,9 @@ date: 1955-06-19
 published: 1955-06-30
 boletin_oficial: "17930"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-14411-nacional-incorporacion-isla-martin-garcia-provincia-buenos-aires-lns0001820-1955-06-19"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=197845"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/197845/norma.htm"

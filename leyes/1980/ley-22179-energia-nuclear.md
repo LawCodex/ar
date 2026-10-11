@@ -10,6 +10,8 @@ published: 1980-03-07
 boletin_oficial: "24372"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22179-nacional-lnn0027179-1980-03-04"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=227370"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/225000-229999/227370/norma.htm"

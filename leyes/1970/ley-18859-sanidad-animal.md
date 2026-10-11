@@ -9,7 +9,9 @@ date: 1970-12-07
 published: 1970-12-14
 boletin_oficial: "22073"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-18859-nacional-envases-nuevos-unico-uso-para-productos-destinados-alimentacion-ganado-lns0000901-1970-12-07"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=196853"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/196853/norma.htm"

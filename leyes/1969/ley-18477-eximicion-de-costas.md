@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1969-12-05
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-18477-nacional-seguridad-social-jubilaciones-pensiones-consejo-nacional-prevision-social-lns0000981-1969-12-05"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=301404"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/301404/norma.htm"

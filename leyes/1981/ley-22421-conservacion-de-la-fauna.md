@@ -9,7 +9,9 @@ date: 1981-03-05
 published: 1981-03-12
 boletin_oficial: "24626"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22421-nacional-proteccion-conservacion-fauna-silvestre-lns0002794-1981-03-05"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=38116"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/35000-39999/38116/texact.htm"

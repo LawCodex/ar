@@ -10,6 +10,8 @@ published: 1972-05-02
 boletin_oficial: "22413"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-19600-nacional-lnn0021871-1972-04-27"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=222136"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/220000-224999/222136/norma.htm"

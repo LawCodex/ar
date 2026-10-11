@@ -9,7 +9,9 @@ date: 1951-06-07
 published: 1951-06-19
 boletin_oficial: "16925"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-14026-nacional-reconocimiento-soberana-orden-militar-malta-lns0001914-1951-06-07"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=193318"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/193318/norma.htm"

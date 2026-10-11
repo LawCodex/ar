@@ -10,6 +10,8 @@ published: 1952-10-23
 boletin_oficial: "17260"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-14172-nacional-lnn0001893-1952-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=129895"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/125000-129999/129895/norma.htm"

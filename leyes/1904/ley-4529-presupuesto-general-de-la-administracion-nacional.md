@@ -8,6 +8,8 @@ language: es
 date: 1904-09-30
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-4529-nacional-lnn0015265-1904-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=209376"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/205000-209999/209376/norma.htm"

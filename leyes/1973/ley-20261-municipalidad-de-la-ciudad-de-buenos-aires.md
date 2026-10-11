@@ -9,7 +9,9 @@ date: 1973-04-09
 published: 1973-04-16
 boletin_oficial: "22648"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20261-nacional-aplicacion-ley-19549-procedimientos-administrativos-al-ambito-municipalidad-ciudad-buenos-aires-lns0000573-1973-04-09"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302670"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302670/norma.htm"

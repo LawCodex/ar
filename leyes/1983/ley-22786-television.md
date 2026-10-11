@@ -10,6 +10,8 @@ published: 1983-04-19
 boletin_oficial: "25154"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22786-nacional-lnn0027849-1983-04-15"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=256686"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/255000-259999/256686/norma.htm"

@@ -9,7 +9,9 @@ date: 1980-01-14
 published: 1980-01-25
 boletin_oficial: "24342"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-22140-nacional-aprobacion-regimen-juridico-basico-funcion-publica-lns0001256-1980-01-18"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=16169"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/15000-19999/16169/texact.htm"

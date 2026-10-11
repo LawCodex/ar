@@ -9,7 +9,9 @@ date: 1959-12-10
 published: 1961-04-20
 boletin_oficial: "19511"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-15262-nacional-simultaneidad-elecciones-nacionales-provinciales-municipales-lns0001570-1959-12-10"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=23966"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/23966/texact.htm"

@@ -9,7 +9,9 @@ date: 1968-02-29
 published: 1968-03-08
 boletin_oficial: "21391"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-17664-nacional-titularizacion-docentes-establecimientos-universidad-cuyo-transferidos-secretaria-cultura-educacion-lns0001122-1968-02-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=300757"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/300757/norma.htm"

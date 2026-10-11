@@ -9,7 +9,9 @@ date: 1951-07-16
 published: 1951-08-06
 boletin_oficial: "16958"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/codigo-justicia-militar-14029-nacional-codigo-justicia-militar-lns0001912-1951-07-04"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=105438"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/105000-109999/105438/texact.htm"

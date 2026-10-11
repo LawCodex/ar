@@ -9,7 +9,9 @@ date: 1983-09-14
 published: 1983-09-19
 boletin_oficial: "25260"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22910-nacional-facultades-banco-central-republica-argentina-lns0003072-1983-09-14"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=189848"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/185000-189999/189848/texact.htm"

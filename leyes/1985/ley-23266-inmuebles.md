@@ -10,6 +10,8 @@ published: 1985-10-18
 boletin_oficial: "25786"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-23266-nacional-ley-14005-normas-para-venta-inmuebles-fraccionados-lotes-plazos-modificacion-lnn0028116-1985-09-25"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=24097"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/24097/norma.htm"

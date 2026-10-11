@@ -9,7 +9,9 @@ date: 1947-08-04
 published: 1947-08-13
 boletin_oficial: "15840"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-12995-nacional-lnn0026202-1947-07-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=45293"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/45000-49999/45293/norma.htm"

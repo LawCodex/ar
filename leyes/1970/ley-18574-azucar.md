@@ -9,7 +9,9 @@ date: 1970-01-30
 published: 1970-02-16
 boletin_oficial: "21869"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-18574-nacional-fijacion-precios-cana-azucar-regulacion-produccion-ingenios-lns0000962-1970-01-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=301468"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/301468/norma.htm"

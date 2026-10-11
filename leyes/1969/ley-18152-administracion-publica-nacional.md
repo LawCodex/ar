@@ -9,7 +9,9 @@ date: 1969-03-14
 published: 1969-03-21
 boletin_oficial: "21647"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-18152-nacional-facultades-poder-ejecutivo-para-modificar-regimen-personal-sus-sistemas-remuneraciones-lns0001032-1969-03-14"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=181381"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/181381/norma.htm"

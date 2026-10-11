@@ -9,7 +9,9 @@ date: 1968-08-05
 published: 1968-08-09
 boletin_oficial: "21495"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-17827-nacional-beneficios-tributarios-para-educacion-privada-lns0001075-1968-08-05"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=233910"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/233910/norma.htm"

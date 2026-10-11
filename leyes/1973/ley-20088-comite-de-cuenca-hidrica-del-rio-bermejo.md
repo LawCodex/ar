@@ -9,7 +9,9 @@ date: 1973-01-09
 published: 1973-01-17
 boletin_oficial: "22587"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20088-nacional-comite-cuenca-hidrica-rio-bermejo-lns0000598-1973-01-09"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=231406"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/231406/norma.htm"

@@ -10,6 +10,8 @@ published: 1935-09-14
 boletin_oficial: "12367"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-12194-nacional-lnn0024223-1935-09-03"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=294210"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/294210/norma.htm"

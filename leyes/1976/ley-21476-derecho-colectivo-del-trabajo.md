@@ -9,7 +9,9 @@ date: 1976-12-10
 published: 1976-12-16
 boletin_oficial: "23555"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-21476-nacional-trabajo-convenciones-colectivas-trabajo-laudos-lns0000239-1976-12-10"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=303666"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/303666/norma.htm"

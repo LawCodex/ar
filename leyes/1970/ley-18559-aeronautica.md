@@ -9,7 +9,9 @@ date: 1970-01-21
 published: 1970-04-06
 boletin_oficial: "21902"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-18559-nacional-instituye-titulo-precursor-aeronautica-argentina-otorgase-mismo-personal-civil-militar-lns0005032-1970-01-21"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=271862"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/270000-274999/271862/texact.htm"

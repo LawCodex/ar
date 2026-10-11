@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1968-09-16
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-17888-nacional-exencion-sanciones-infracciones-relacionadas-leyes-previsionales-lns0001069-1968-09-16"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=300932"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/300932/texact.htm"

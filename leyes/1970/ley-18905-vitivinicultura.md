@@ -9,7 +9,9 @@ date: 1970-12-31
 published: 1971-01-19
 boletin_oficial: "22096"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-18905-nacional-politica-vitivinicola-nacional-lns0000892-1970-12-31"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=192118"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/192118/norma.htm"

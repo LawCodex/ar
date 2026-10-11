@@ -10,6 +10,8 @@ published: 1968-09-12
 boletin_oficial: "21518"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-17877-nacional-lnn0005671-1968-09-04"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=231883"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/231883/norma.htm"

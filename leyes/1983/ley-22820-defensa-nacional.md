@@ -10,6 +10,8 @@ published: 1983-06-06
 boletin_oficial: "25187"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22820-nacional-lnn0027869-1983-05-27"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=221638"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/220000-224999/221638/norma.htm"

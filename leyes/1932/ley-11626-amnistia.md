@@ -10,6 +10,8 @@ published: 1932-10-11
 boletin_oficial: "11511"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-11626-nacional-lnn0023571-1932-09-27"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=293647"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/293647/norma.htm"

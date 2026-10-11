@@ -8,6 +8,8 @@ language: es
 date: 1856-06-06
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-84-nacional-lnn0017282-1864-06-10"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=330421"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/330000-334999/330421/norma.htm"

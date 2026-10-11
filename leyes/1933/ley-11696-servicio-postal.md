@@ -10,6 +10,8 @@ published: 1933-08-16
 boletin_oficial: "11761"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-11696-nacional-lnn0024715-1933-08-08"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=293700"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/293700/norma.htm"

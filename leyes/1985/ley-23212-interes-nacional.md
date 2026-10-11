@@ -9,7 +9,9 @@ date: 1985-07-25
 published: 1985-08-26
 boletin_oficial: "25747"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-23212-nacional-interes-nacional-ejecucion-obras-vinculen-fisicamente-al-territorio-nacional-tierra-fuego-santa-cruz-lns0003237-1985-07-25"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=24849"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/24849/norma.htm"

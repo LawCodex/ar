@@ -9,7 +9,9 @@ date: 1973-04-26
 published: 1973-05-09
 boletin_oficial: "22662"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20309-nacional-reemplazo-componentes-naturales-leche-lns0000559-1973-04-26"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=192192"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/192192/norma.htm"

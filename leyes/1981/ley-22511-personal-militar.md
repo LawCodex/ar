@@ -9,7 +9,9 @@ date: 1981-10-22
 published: 1981-11-06
 boletin_oficial: "24791"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22511-nacional-pase-personal-militar-situacion-retiro-lns0002854-1981-11-03"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=86478"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/85000-89999/86478/norma.htm"

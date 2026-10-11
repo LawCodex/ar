@@ -10,6 +10,8 @@ published: 1970-11-16
 boletin_oficial: "22054"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-18832-nacional-lnn0014167-1970-11-12"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=254338"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/250000-254999/254338/norma.htm"

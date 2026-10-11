@@ -10,6 +10,8 @@ published: 1983-12-01
 boletin_oficial: "25312"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22992-nacional-limites-interprovinciales-modificacion-lnn0027961-1983-11-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=248962"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/245000-249999/248962/norma.htm"

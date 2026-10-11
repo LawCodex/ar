@@ -9,7 +9,9 @@ date: 1981-02-16
 published: 1981-02-20
 boletin_oficial: "24612"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22403-nacional-organizacion-justicia-federal-san-martin-san-isidro-moron-provincia-buenos-aires-lns0002775-1981-02-16"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=196437"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/196437/norma.htm"

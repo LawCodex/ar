@@ -9,7 +9,9 @@ date: 1948-09-15
 published: 1948-09-23
 boletin_oficial: "16163"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-13254-nacional-centro-nacional-investigaciones-agropecuarias-lns0002012-1948-09-15"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=295721"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/295721/norma.htm"

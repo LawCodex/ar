@@ -9,7 +9,9 @@ date: 1974-03-27
 published: 1974-04-29
 boletin_oficial: "22901"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20656-nacional-creacion-parque-nacional-baritu-lns0002900-1974-03-27"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=200629"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/200000-204999/200629/norma.htm"

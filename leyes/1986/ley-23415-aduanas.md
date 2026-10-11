@@ -9,7 +9,9 @@ date: 1986-10-15
 published: 1987-02-06
 boletin_oficial: "26080"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-23415-nacional-creacion-una-aduana-bernardo-irigoyen-lns0003326-1986-10-15"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=22291"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/22291/norma.htm"

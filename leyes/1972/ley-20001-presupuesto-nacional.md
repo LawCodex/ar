@@ -10,6 +10,8 @@ published: 1972-12-11
 boletin_oficial: "22562"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-20001-nacional-lnn0020676-1972-12-04"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302496"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302496/norma.htm"

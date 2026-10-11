@@ -9,7 +9,9 @@ date: 1973-11-29
 published: 1974-02-19
 boletin_oficial: "22856"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20582-nacional-creacion-instituto-nacional-jardines-maternales-zonales-lns0000507-1973-11-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302860"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302860/norma.htm"

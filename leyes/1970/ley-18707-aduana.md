@@ -9,7 +9,9 @@ date: 1970-06-13
 published: 1970-06-15
 boletin_oficial: "21949"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-18707-nacional-excepcion-derogacion-regimenes-franquicias-aduaneras-lns0000935-1970-06-13"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=137551"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/135000-139999/137551/norma.htm"

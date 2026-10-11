@@ -9,7 +9,9 @@ date: 1973-02-15
 published: 1973-02-23
 boletin_oficial: "22614"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20160-nacional-estatuto-jugador-futbol-profesional-lns0000590-1973-02-15"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=32637"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/30000-34999/32637/norma.htm"

@@ -9,7 +9,9 @@ date: 1976-12-03
 published: 1976-12-09
 boletin_oficial: "23550"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-21470-nacional-lnn0025365-1976-12-03"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=77029"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/75000-79999/77029/norma.htm"

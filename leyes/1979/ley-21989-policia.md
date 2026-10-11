@@ -9,7 +9,9 @@ date: 1979-04-26
 published: 2006-09-11
 boletin_oficial: "30987"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21989-nacional-autorizacion-al-poder-ejecutivo-nacional-transferir-equipos-comodato-bolivia-ecuador-lns0005054-1979-04-26"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=119639"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/115000-119999/119639/norma.htm"

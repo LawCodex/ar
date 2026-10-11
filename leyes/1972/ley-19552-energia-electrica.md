@@ -9,7 +9,9 @@ date: 1972-04-04
 published: 1972-04-13
 boletin_oficial: "22401"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19552-nacional-se-regula-regimen-servidumbres-administrativas-electroducto-lns0000743-1972-04-04"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=113154"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/110000-114999/113154/texact.htm"

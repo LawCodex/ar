@@ -9,7 +9,9 @@ date: 1973-05-23
 published: 1973-07-23
 boletin_oficial: "22711"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20488-nacional-estatuto-profesional-licenciados-economia-contador-publico-licenciado-administracion-actuacion-equivalentes-lns0000466-1973-05-23"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=38590"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/35000-39999/38590/norma.htm"

@@ -10,6 +10,8 @@ published: 1972-12-29
 boletin_oficial: "22575"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-20041-nacional-lnn0020669-1972-12-27"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=182909"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/182909/norma.htm"

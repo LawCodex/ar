@@ -9,7 +9,9 @@ date: 1960-02-05
 published: 1960-02-27
 boletin_oficial: "19172"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-15275-nacional-autorizacion-direccion-nacional-vialidad-contratar-construccion-financiacion-obras-publicas-lns0001567-1960-02-05"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=298498"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/298498/norma.htm"

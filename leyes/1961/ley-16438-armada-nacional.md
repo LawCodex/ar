@@ -9,7 +9,9 @@ date: 1961-12-20
 published: 2006-10-03
 boletin_oficial: "31003"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-16438-nacional-autorizacion-al-poder-ejecutivo-hacer-inversiones-para-armada-argentina-lns0005108-1961-12-20"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=120459"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/120000-124999/120459/norma.htm"

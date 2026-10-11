@@ -9,7 +9,9 @@ date: 1955-05-20
 published: 1955-05-27
 boletin_oficial: "17906"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-14405-nacional-lnn0026087-1955-05-20"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=296693"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/296693/norma.htm"

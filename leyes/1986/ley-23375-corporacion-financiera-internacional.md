@@ -9,7 +9,9 @@ date: 1986-09-18
 published: 1986-12-16
 boletin_oficial: "26050"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-23375-nacional-aumento-aporte-argentina-al-capital-corporacion-financiera-internacional-lns0003317-1986-09-18"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=22750"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/22750/norma.htm"

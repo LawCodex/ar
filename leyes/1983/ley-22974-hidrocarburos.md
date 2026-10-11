@@ -9,7 +9,9 @@ date: 1983-11-11
 published: 1983-11-17
 boletin_oficial: "25302"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22974-nacional-aporte-capital-ypf-lns0003110-1983-11-11"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=228255"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/225000-229999/228255/norma.htm"

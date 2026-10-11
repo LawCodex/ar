@@ -10,6 +10,8 @@ published: 1981-12-04
 boletin_oficial: "24811"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22516-nacional-lnn0017034-1981-12-01"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304233"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304233/norma.htm"

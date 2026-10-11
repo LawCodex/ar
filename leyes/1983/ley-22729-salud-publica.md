@@ -9,7 +9,9 @@ date: 1983-02-01
 published: 1983-02-10
 boletin_oficial: "25109"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22729-nacional-aprobacion-suplemento-farmacopea-nacional-argentina-lns0002981-1983-02-01"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304347"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304347/norma.htm"

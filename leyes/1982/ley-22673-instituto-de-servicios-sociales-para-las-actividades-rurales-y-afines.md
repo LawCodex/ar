@@ -10,6 +10,8 @@ published: 1982-11-11
 boletin_oficial: "25045"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22673-nacional-lnn0002953-1982-11-09"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=260278"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/260000-264999/260278/norma.htm"

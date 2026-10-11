@@ -10,6 +10,8 @@ published: 1960-11-14
 boletin_oficial: "19389"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-15474-nacional-regimen-previsional-personal-aeronautico-lns0001451-1960-09-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=298681"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/298681/norma.htm"

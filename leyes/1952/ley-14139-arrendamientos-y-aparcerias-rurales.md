@@ -10,6 +10,8 @@ published: 1952-09-04
 boletin_oficial: "17226"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-14139-nacional-lnn0019676-1952-08-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=178599"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/175000-179999/178599/norma.htm"

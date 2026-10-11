@@ -10,6 +10,8 @@ published: 1971-07-07
 boletin_oficial: "22211"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-19103-nacional-lnn0014196-1971-06-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=166370"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/165000-169999/166370/norma.htm"

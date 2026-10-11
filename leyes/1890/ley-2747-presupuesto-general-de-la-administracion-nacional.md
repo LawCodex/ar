@@ -8,6 +8,8 @@ language: es
 date: 1890-10-09
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-2747-nacional-lnn0024331-1890-10-09"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=189051"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/185000-189999/189051/norma.htm"

@@ -10,6 +10,8 @@ published: 1950-10-25
 boletin_oficial: "16763"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-13948-nacional-lnn0019654-1950-09-18"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=296327"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/296327/norma.htm"

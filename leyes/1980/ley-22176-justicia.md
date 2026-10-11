@@ -9,7 +9,9 @@ date: 1980-02-23
 published: 1980-03-06
 boletin_oficial: "24371"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22176-nacional-creacion-camara-federal-apelaciones-comodoro-rivadavia-pcia-chubut-lns0001232-1980-02-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=196363"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/196363/norma.htm"

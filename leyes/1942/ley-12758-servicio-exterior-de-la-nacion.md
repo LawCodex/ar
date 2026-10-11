@@ -9,7 +9,9 @@ date: 1942-08-27
 published: 1942-09-08
 boletin_oficial: "14406"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-12758-nacional-embajada-argentina-paraguay-lns0002589-1942-08-27"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=294696"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/294696/norma.htm"

@@ -9,7 +9,9 @@ date: 1981-03-05
 published: 1981-03-11
 boletin_oficial: "24625"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22420-nacional-transferencia-empresa-nacional-telecomunicaciones-determinados-servicios-radioelectronicos-telecomunicaciones-lns0002793-1981-03-05"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304181"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304181/texact.htm"

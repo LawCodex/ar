@@ -9,7 +9,9 @@ date: 1971-10-29
 published: 1971-10-29
 boletin_oficial: "22290"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-19326-nacional-lnn0000804-1971-10-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302012"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302012/norma.htm"

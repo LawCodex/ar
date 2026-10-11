@@ -9,7 +9,9 @@ date: 1981-05-11
 published: 1981-05-14
 boletin_oficial: "24668"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22462-nacional-haber-pension-para-ganadores-premio-nacional-ciencias-letras-lns0002836-1981-05-11"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304197"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304197/texact.htm"

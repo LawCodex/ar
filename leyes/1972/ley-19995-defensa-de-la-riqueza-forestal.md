@@ -10,6 +10,8 @@ published: 1972-12-11
 boletin_oficial: "22562"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-19995-nacional-lnn0026810-1972-12-04"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=183661"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/183661/norma.htm"

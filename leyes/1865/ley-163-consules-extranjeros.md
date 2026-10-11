@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1865-09-29
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-163-nacional-sucesion-ab-intestato-extranjeros-lns0002522-1865-09-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=182959"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/182959/norma.htm"

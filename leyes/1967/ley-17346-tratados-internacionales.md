@@ -10,6 +10,8 @@ published: 1967-07-25
 boletin_oficial: "21237"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-17346-nacional-lnn0006083-1967-07-18"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=202135"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/200000-204999/202135/norma.htm"

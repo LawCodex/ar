@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1870-09-26
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-428-nacional-lnn0026412-1870-09-26"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=48857"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/45000-49999/48857/norma.htm"

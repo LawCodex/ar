@@ -10,6 +10,8 @@ published: 1981-12-23
 boletin_oficial: "24823"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22520-nacional-ley-ministerios-lnn0003130-1981-12-21"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=48853"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/45000-49999/48853/texact.htm"

@@ -9,7 +9,9 @@ date: 1964-11-29
 published: 1964-12-03
 boletin_oficial: "20584"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-16569-nacional-nacionalidad-hijos-exiliados-argentinos-nacidos-extranjero-lns0001373-1964-10-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=64902"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/60000-64999/64902/norma.htm"

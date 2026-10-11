@@ -10,6 +10,8 @@ published: 1978-03-22
 boletin_oficial: "23878"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-21764-nacional-lnn0026607-1978-03-17"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=131894"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/130000-134999/131894/norma.htm"

@@ -10,6 +10,8 @@ published: 1976-08-09
 boletin_oficial: "23464"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-21374-nacional-lnn0000341-1976-08-03"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=303606"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/303606/norma.htm"

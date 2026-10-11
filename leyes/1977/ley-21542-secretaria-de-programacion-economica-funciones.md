@@ -9,7 +9,9 @@ date: 1977-03-02
 published: 1977-03-08
 boletin_oficial: "23613"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21542-nacional-fomento-pequena-mediana-empresa-lns0000180-1977-03-02"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=303712"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/303712/norma.htm"

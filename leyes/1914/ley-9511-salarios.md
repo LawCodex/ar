@@ -9,7 +9,9 @@ date: 1914-10-02
 published: 1914-10-15
 boletin_oficial: "6230"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-9511-nacional-inembargabilidad-salario-lns0002491-1914-09-29"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=101680"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/100000-104999/101680/texact.htm"

@@ -1,0 +1,57 @@
+---
+title: "Ley 25337: CONVENCIONES — ESPECIES AMENAZADAS DE FAUNA Y FLORA - ENMIENDA -"
+identifier: "Ley 25337"
+infoleg_id: "64981"
+type: act
+jurisdiction: ar
+language: es
+date: 2000-10-05
+published: 2000-11-16
+boletin_oficial: "29527"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=64981"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/60000-64999/64981/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 25337: CONVENCIONES — ESPECIES AMENAZADAS DE FAUNA Y FLORA - ENMIENDA -
+
+CONVENCIONES
+
+Ley 25.337
+
+Apruébase una enmienda a la Convención sobre el Comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestres, adoptada en Bonn, República Federal de Alemania.
+
+Sancionada: Octubre 5 de 2000.
+
+Promulgada de Hecho: Noviembre 9 de 2000.
+
+El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc. sancionan con fuerza de Ley:
+
+## ARTICULO 1º
+
+Apruébase la ENMIENDA AL ARTICULO XI, PARRAFO 3, SUBPARRAFO a) DE LA CONVENCION SOBRE EL COMERCIO INTERNACIONAL DE ESPECIES AMENAZADAS DE FAUNA Y FLORA SILVESTRES, adoptada en Bonn - REPUBLICA FEDERAL DE ALEMANIA –el 22 de junio de 1979, cuya fotocopia autenticada forma parte de la presente ley.
+
+## ARTICULO 2º
+
+Comuníquese al Poder Ejecutivo Nacional.
+
+DADA EN LA SALA DE SESIONES DEL CONGRESO ARGENTINO, EN BUENOS AIRES, A LOS CINCO DIAS DEL MES DE OCTUBRE DEL AÑO DOS MIL.
+
+—REGISTRADO BAJO EL Nº 25.337—
+
+RAFAEL PASCUAL. — JOSE GENOUD. — Guillermo Aramburu. — Mario L. Pontaquarto.
+
+ENMIENDA
+
+Conforme al Artículo XVII de la Convención sobre el Comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestres, firmada en Washington, D.C., el 3 de marzo de 1973, se convocó a una reunión extraordinaria de la Conferencia de las Partes en Bonn (República Federal de Alemania) el 22 de junio de 1979.
+
+Las siguientes Partes estuvieron representadas: Alemania (República Federal de), Botswana, Canadá, Chile, Costa Rica, Dinamarca, Ecuador, Egipto, Estados Unidos de América, Finlandia, Francia, India, Kenya, Nigeria, Noruega, Panamá, Reino Unido de Gran Bretaña e Irlanda del Norte, Senegal, Sudáfrica, Suecia, Suiza, Unión de Repúblicas Socialistas Soviéticas y Zaire.
+
+Con la mayoría de los dos tercios de las Partes presentes y votantes, la Conferencia de las Partes adoptó la siguiente enmienda de la Convención:
+
+se deben agregar al final del subpárrafo a) del párrafo 3 del Artículo XI de la Convención las palabras "y adoptar disposiciones financieras".
+
+Bonn, 22 de junio de 1979.

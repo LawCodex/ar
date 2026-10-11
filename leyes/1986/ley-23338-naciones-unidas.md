@@ -76,7 +76,9 @@ Deseando hacer más eficaz la lucha contra la tortura y otros tratos o penas cru
 
 Han convenido en lo siguiente:
 
-## PARTE I — Artículo I
+## PARTE I
+
+Artículo I
 
 1\. A los efectos de la presente convención, se entenderá por el término "tortura" todo acto por el cual se inflijan intencionadamente a una persona dolores o sufrimientos graves, ya sean físicos o mentales, con el fin de obtener de ella o de un tercero información o una confesión, de castigarla por un acto que haya cometido, o se sospeche que ha cometido, o de intimidar o coaccionar a esa persona o a otras, o por cualquier razón basada en cualquier tipo de discriminación, cuando dichos dolores o sufrimientos sean infligidos por un funcionario público u otra persona en el ejercicio de funciones públicas, a instigación suya, o con su consentimiento o aquiescencia. No se considerarán torturas los dolores o sufrimientos que sean consecuencia únicamente de sanciones legítimas, o que sean inherentes o incidentales a éstas.
 

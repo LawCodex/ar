@@ -10,6 +10,8 @@ published: 1922-10-03
 boletin_oficial: "8572"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-11188-nacional-lnn0024873-1922-09-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=210140"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/210000-214999/210140/norma.htm"

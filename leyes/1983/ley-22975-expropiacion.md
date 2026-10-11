@@ -10,6 +10,8 @@ published: 1983-11-17
 boletin_oficial: "25302"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22975-nacional-lnn0027956-1983-11-11"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304408"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304408/norma.htm"

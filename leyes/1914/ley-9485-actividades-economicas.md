@@ -10,6 +10,8 @@ published: 1914-08-24
 boletin_oficial: "6186"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-9485-nacional-lnn0024110-1914-08-14"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=291256"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/291256/norma.htm"

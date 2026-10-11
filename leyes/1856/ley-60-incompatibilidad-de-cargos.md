@@ -8,6 +8,8 @@ language: es
 date: 1856-05-28
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-60-nacional-lnn0017299-1863-10-10"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=195296"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/195296/norma.htm"

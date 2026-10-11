@@ -9,7 +9,9 @@ date: 1983-09-26
 published: 1983-09-28
 boletin_oficial: "25267"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-22928-nacional-ley-enjuiciamiento-actividades-terroristas-subversivas-lnn0003088-1983-09-26"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=105387"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/105000-109999/105387/norma.htm"

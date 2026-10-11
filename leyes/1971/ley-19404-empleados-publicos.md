@@ -9,7 +9,9 @@ date: 1971-12-30
 published: 1972-01-12
 boletin_oficial: "22339"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19404-nacional-remuneraciones-personal-bancos-oficiales-caja-nacional-ahorro-seguro-lns0000784-1971-12-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302069"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302069/norma.htm"

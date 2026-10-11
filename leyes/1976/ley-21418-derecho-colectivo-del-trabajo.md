@@ -9,7 +9,9 @@ date: 1976-09-17
 published: 1976-09-23
 boletin_oficial: "23496"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-21418-nacional-trabajo-convenciones-colectivas-trabajo-lns0000264-1976-09-17"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=303633"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/303633/norma.htm"

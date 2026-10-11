@@ -9,7 +9,9 @@ date: 1926-08-06
 published: 1926-09-07
 boletin_oficial: "9724"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-11332-nacional-cambio-categoria-representacion-diplomatica-permanente-italia-lns0002281-1926-08-06"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=293349"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/293349/norma.htm"

@@ -10,6 +10,8 @@ published: 1971-09-14
 boletin_oficial: "22258"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-19210-nacional-lnn0005092-1971-09-06"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=104273"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/100000-104999/104273/norma.htm"

@@ -8,6 +8,8 @@ language: es
 date: 1893-09-27
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-2979-nacional-lnn0023170-1893-09-27"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=284176"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/280000-284999/284176/norma.htm"

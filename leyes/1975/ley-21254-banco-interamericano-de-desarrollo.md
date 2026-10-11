@@ -9,7 +9,9 @@ date: 1975-12-31
 published: 1976-01-30
 boletin_oficial: "23334"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21254-nacional-aumento-aporte-dinero-republica-argentina-al-capital-autorizado-banco-interamericano-desarrollo-lns0000415-1975-12-31"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=303515"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/303515/norma.htm"

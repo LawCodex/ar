@@ -9,7 +9,9 @@ date: 1973-11-29
 published: 1974-03-05
 boletin_oficial: "22864"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20596-nacional-licencia-especial-deportiva-lns0000503-1973-11-29"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=194416"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/194416/texact.htm"

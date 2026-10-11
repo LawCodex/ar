@@ -10,6 +10,8 @@ published: 1961-11-17
 boletin_oficial: "19684"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-15945-nacional-lnn0027056-1961-10-19"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=82878"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/80000-84999/82878/norma.htm"

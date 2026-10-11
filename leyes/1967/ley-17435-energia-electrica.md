@@ -10,6 +10,8 @@ published: 1967-09-20
 boletin_oficial: "21276"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-17435-nacional-lnn0006020-1967-09-11"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=228859"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/225000-229999/228859/norma.htm"

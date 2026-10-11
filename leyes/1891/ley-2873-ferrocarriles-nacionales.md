@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1891-11-18
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-2873-nacional-prescripciones-para-construccion-explotacion-ferrocarriles-argentinos-lns0002606-1891-11-18"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=38934"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/35000-39999/38934/norma.htm"

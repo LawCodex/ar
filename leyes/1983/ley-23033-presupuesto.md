@@ -10,6 +10,8 @@ published: 1983-12-15
 boletin_oficial: "25321"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-23033-nacional-lnn0003143-1983-12-09"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=191344"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/191344/norma.htm"

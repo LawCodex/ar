@@ -9,7 +9,9 @@ date: 1985-09-30
 published: 1985-11-12
 boletin_oficial: "25803"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-23302-nacional-proteccion-comunidades-aborigenes-lns0003270-1985-09-30"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=23790"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/23790/texact.htm"

@@ -9,7 +9,9 @@ date: 1978-03-30
 published: 1978-04-04
 boletin_oficial: "23885"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-21773-nacional-lnn0026605-1978-03-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=216865"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/215000-219999/216865/norma.htm"

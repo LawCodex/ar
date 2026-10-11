@@ -9,7 +9,9 @@ date: 1970-03-04
 published: 1970-03-10
 boletin_oficial: "21885"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-18619-nacional-inclusion-personal-docente-direccion-nacional-educacion-agropecuaria-beneficios-estatuto-docente-lns0000949-1970-03-04"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=301499"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/301499/texact.htm"

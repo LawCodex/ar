@@ -9,7 +9,9 @@ date: 1973-05-22
 published: 1973-06-05
 boletin_oficial: "22680"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-20440-nacional-regimen-catastros-territoriales-lns0000548-1973-05-22"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302769"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302769/texact.htm"

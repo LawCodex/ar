@@ -10,6 +10,8 @@ published: 1980-12-11
 boletin_oficial: "24563"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22349-nacional-lnn0023718-1980-12-05"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304142"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304142/norma.htm"

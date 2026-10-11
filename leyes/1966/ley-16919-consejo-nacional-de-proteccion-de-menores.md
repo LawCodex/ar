@@ -10,6 +10,8 @@ published: 1966-08-18
 boletin_oficial: "21006"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-16919-nacional-lnn0017369-1966-08-11"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=46592"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/45000-49999/46592/norma.htm"

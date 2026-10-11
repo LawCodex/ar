@@ -9,7 +9,9 @@ date: 1947-09-09
 published: 1947-09-27
 boletin_oficial: "15877"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-13010-nacional-derechos-politicos-mujer-lns0002044-1947-09-09"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=47353"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/45000-49999/47353/norma.htm"

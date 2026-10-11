@@ -10,6 +10,8 @@ published: 1973-02-23
 boletin_oficial: "22614"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-20164-nacional-lnn0026792-1973-02-16"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=194181"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/194181/norma.htm"

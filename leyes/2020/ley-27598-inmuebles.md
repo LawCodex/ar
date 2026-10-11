@@ -1,0 +1,63 @@
+---
+title: "Ley 27598: INMUEBLES — TRANSFERENCIA"
+identifier: "Ley 27598"
+infoleg_id: "345370"
+type: act
+jurisdiction: ar
+language: es
+date: 2020-11-30
+published: 2020-12-18
+boletin_oficial: "34544"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-27598-nacional-transferencia-titulo-gratuito-provincia-santa-fe-dominio-inmueble-estado-nacional-ex-ferrocarril-belgrano-lns0006937-2020-11-30"
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=345370"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/345000-349999/345370/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 27598: INMUEBLES — TRANSFERENCIA
+
+INMUEBLES
+
+Ley 27598
+
+Transferencia.
+
+El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc. sancionan con fuerza de
+
+Ley:
+
+## Artículo 1°
+
+Transfiérase a título gratuito, al municipio de la ciudad de Laguna Paiva, departamento La Capital, provincia de Santa Fe, el dominio del inmueble del Estado nacional - ex Ferrocarril Belgrano, según la siguiente nomenclatura catastral: 10 05 01 0236 0002, lote RTE departamento 10, distrito 05, sección 01, manzana 0236, parcela 00002, partida inmobiliaria provincial 10-05-00137325/0006, plano 149351-2008, superficie del terreno 2.527.826,00 m2, superficie del edificio 13.387 m2, inscripto al tomo 0047, folio 00140, número 001830 del 10/5/1921.
+
+## Artículo 2°
+
+Transfiérase a título gratuito, al municipio de la ciudad de Santo Tomé, departamento La Capital, provincia de Santa Fe, el dominio del inmueble propiedad del Estado nacional - Consejo Nacional de Investigaciones Científicas y Técnicas, según la siguiente nomenclatura catastral: 10 12 01 0067 00043, departamento 10, distrito 12, sección 01, manzana 0067, parcela 00043, partida inmobiliaria provincial 10-12-00141711/0000, superficie del terreno 1.036,50 m2, superficie del edificio 228 m2, domicilio Maciá 1933 de la ciudad de Santo Tomé, departamento La Capital, provincia de Santa Fe, inscripto al tomo 254P, folio 1.061, número 008828 del 21/9/1964.
+
+## Artículo 3°
+
+La transferencia se hará a condición de que los municipios de Laguna Paiva y Santo Tomé desarrollen, en los respectivos inmuebles, programas de infraestructura de servicios, habilitación de parques o plazas públicas, unidades educacionales, culturales, sanitarias, de desarrollo de actividades deportivas, planes de vivienda única, emprendimientos productivos generados o administrados por el municipio, o instalen oficinas de prestación de servicios municipales. Se establece un plazo de diez (10) años para el cumplimiento de lo previsto en este artículo; vencido el cual, sin que mediare observancia, procederá la retrocesión de dominio de esta transferencia de pleno derecho.
+
+## Artículo 4°
+
+Todas las erogaciones que demande la transferencia efectiva en cumplimiento de la presente norma estarán a cargo de los beneficiarios, los municipios de Laguna Paiva y Santo Tomé.
+
+## Artículo 5°
+
+El Poder Ejecutivo arbitrará las medidas necesarias a los efectos de concluir la transferencia de los dominios en el término de ciento veinte (120) días contados a partir de la entrada en vigencia de la presente norma.
+
+## Artículo 6°
+
+Comuníquese al Poder Ejecutivo nacional.
+
+DADA EN LA SALA DE SESIONES DEL CONGRESO ARGENTINO, EN BUENOS AIRES, A LOS TREINTA DÍAS DEL MES DE NOVIEMBRE DEL AÑO DOS MIL VEINTE.
+
+REGISTRADA BAJO EL N° 27598
+
+CLAUDIA LEDESMA ABDALA DE ZAMORA - SERGIO MASSA - Marcelo Jorge Fuentes - Eduardo Cergnul
+
+e. 18/12/2020 N° 65231/20 v. 18/12/2020

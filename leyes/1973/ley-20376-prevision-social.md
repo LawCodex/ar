@@ -9,7 +9,9 @@ date: 1973-05-15
 published: 1973-05-22
 boletin_oficial: "22671"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20376-nacional-representacion-afiliados-ante-caja-retiros-jubilaciones-pensiones-policia-federal-lns0000497-1973-05-15"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302741"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302741/texact.htm"

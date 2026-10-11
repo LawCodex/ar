@@ -9,7 +9,9 @@ date: 1968-07-29
 published: 1968-08-06
 boletin_oficial: "21492"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-17823-nacional-regimen-trabajo-para-personal-embarcado-lns0001076-1968-07-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=197997"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/197997/norma.htm"

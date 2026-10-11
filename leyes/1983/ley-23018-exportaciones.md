@@ -9,7 +9,9 @@ date: 1983-11-28
 published: 1983-12-13
 boletin_oficial: "25319"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-23018-nacional-reembolso-exportaciones-puertos-aduanas-al-sur-rio-colorado-lns0003139-1983-12-07"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=32386"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/30000-34999/32386/texact.htm"

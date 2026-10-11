@@ -9,7 +9,9 @@ date: 1935-09-30
 published: 1935-10-23
 boletin_oficial: "12399"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-12286-nacional-lucha-contra-langosta-lns0002228-1935-09-30"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=294287"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/294287/texact.htm"

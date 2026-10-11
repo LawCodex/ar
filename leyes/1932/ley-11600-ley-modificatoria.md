@@ -10,6 +10,8 @@ published: 1932-08-27
 boletin_oficial: "11474"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-11600-nacional-lnn0023576-1932-08-09"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=293623"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/293623/norma.htm"

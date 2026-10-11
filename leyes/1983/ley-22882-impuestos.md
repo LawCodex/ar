@@ -9,7 +9,9 @@ date: 1983-08-26
 published: 1983-08-31
 boletin_oficial: "25247"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22882-nacional-exenciones-impositivas-para-comite-interjurisdiccional-rio-colorado-ente-ejecutivo-presa-embalse-casa-piedra-lns0003058-1983-08-26"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=191377"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/191377/norma.htm"

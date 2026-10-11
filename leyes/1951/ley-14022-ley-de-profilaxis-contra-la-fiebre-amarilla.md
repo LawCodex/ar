@@ -9,7 +9,9 @@ date: 1951-05-17
 published: 1951-05-30
 boletin_oficial: "16911"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-14022-nacional-ley-profilaxis-contra-fiebre-amarilla-lns0001916-1951-05-17"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=296392"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/296392/texact.htm"

@@ -10,6 +10,8 @@ published: 1914-01-17
 boletin_oficial: "6012"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-9471-nacional-lnn0008318-1914-01-03"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=189573"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/185000-189999/189573/norma.htm"

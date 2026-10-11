@@ -9,7 +9,9 @@ date: 1980-07-10
 published: 1980-07-18
 boletin_oficial: "24461"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22248-nacional-aprobacion-regimen-nacional-trabajo-agrario-lns0001104-1980-07-10"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=29273"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/29273/texact.htm"

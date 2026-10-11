@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1869-09-25
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/codigo-civil-340-nacional-codigo-civil-lns0002653-1869-09-25"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=109481"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/105000-109999/109481/texact.htm"

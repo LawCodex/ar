@@ -8,6 +8,8 @@ language: es
 date: 1855-09-12
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-43-nacional-organiza-juzgados-nacionales-lnn0024820-1863-08-12"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=280747"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/280000-284999/280747/norma.htm"

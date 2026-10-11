@@ -9,7 +9,9 @@ date: 1983-02-04
 published: 1983-02-08
 boletin_oficial: "25107"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-22734-nacional-lnn0027821-1983-02-04"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304349"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304349/norma.htm"

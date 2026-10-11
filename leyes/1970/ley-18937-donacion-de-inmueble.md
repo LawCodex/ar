@@ -10,6 +10,8 @@ published: 1971-03-01
 boletin_oficial: "22123"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-18937-nacional-lnn0004987-1971-02-15"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=18215"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/15000-19999/18215/texact.htm"

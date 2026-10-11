@@ -10,6 +10,8 @@ published: 1975-10-06
 boletin_oficial: "23255"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-21041-nacional-lnn0026704-1975-09-11"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=195237"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/195237/norma.htm"

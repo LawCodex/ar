@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1866-09-07
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-189-nacional-lnn0026416-1866-09-07"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=260700"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/260000-264999/260700/norma.htm"

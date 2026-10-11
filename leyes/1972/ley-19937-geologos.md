@@ -9,7 +9,9 @@ date: 1972-11-08
 published: 1972-11-20
 boletin_oficial: "22548"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19937-nacional-estatuto-profesional-geologos-lns0000649-1972-11-08"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=120843"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/120000-124999/120843/norma.htm"

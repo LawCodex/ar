@@ -10,6 +10,8 @@ published: 1964-10-03
 boletin_oficial: "20534"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-16472-nacional-lnn0001406-1964-09-03"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=300006"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/300006/norma.htm"

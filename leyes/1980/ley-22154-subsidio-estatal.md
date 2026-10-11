@@ -10,6 +10,8 @@ published: 1980-02-07
 boletin_oficial: "24351"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22154-nacional-lnn0001247-1980-01-31"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304043"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304043/norma.htm"

@@ -9,7 +9,9 @@ date: 1980-06-16
 published: 1980-06-24
 boletin_oficial: "24444"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22241-nacional-normas-procesales-causas-laborales-justicia-federal-lns0001839-1980-06-16"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=194469"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/194469/norma.htm"

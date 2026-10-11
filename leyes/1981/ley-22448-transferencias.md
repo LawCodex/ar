@@ -10,6 +10,8 @@ published: 1981-03-30
 boletin_oficial: "24638"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22448-nacional-lnn0027305-1981-03-24"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304192"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304192/norma.htm"

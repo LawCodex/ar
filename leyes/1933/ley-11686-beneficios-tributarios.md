@@ -9,7 +9,9 @@ date: 1933-05-12
 published: 1933-05-24
 boletin_oficial: "11693"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-11686-nacional-exenciones-impositivas-para-importaciones-destinadas-servicio-bomberos-voluntarios-lns0002519-1933-05-12"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=293691"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/293691/norma.htm"

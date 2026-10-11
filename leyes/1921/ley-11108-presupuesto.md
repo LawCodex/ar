@@ -10,6 +10,8 @@ published: 1921-01-29
 boletin_oficial: "8080"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-11108-nacional-lnn0024629-1921-01-27"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=293146"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/293146/norma.htm"

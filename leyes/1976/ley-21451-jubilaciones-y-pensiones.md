@@ -9,7 +9,9 @@ date: 1976-11-03
 published: 1976-11-10
 boletin_oficial: "23530"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21451-nacional-denuncia-jubilados-vuelta-actividad-lns0000253-1976-11-03"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=179787"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/175000-179999/179787/norma.htm"

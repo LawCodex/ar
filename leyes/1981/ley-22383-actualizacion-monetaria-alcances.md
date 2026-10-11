@@ -9,7 +9,9 @@ date: 1981-01-19
 published: 1981-01-28
 boletin_oficial: "24595"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22383-nacional-actualizacion-montos-establecidos-codigo-procedimientos-materia-penal-lns0002745-1981-01-19"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304158"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304158/norma.htm"

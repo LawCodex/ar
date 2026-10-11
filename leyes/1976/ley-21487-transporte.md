@@ -10,6 +10,8 @@ published: 1977-01-10
 boletin_oficial: "23572"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-21487-nacional-lnn0004171-1976-12-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=303675"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/303675/norma.htm"

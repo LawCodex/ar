@@ -9,7 +9,9 @@ date: 1974-03-08
 published: 1974-04-04
 boletin_oficial: "22886"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20652-nacional-declaracion-interes-nacional-carbon-residual-petroleo-lns0000455-1974-03-08"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=216812"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/215000-219999/216812/norma.htm"

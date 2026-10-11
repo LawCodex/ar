@@ -9,7 +9,9 @@ date: 1968-06-17
 published: 1968-06-24
 boletin_oficial: "21462"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-17779-nacional-transferencia-archivo-actuaciones-judiciales-notariales-al-poder-judicial-nacion-lns0001090-1968-06-17"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=190032"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/190032/norma.htm"

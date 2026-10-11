@@ -9,7 +9,9 @@ date: 1967-12-05
 published: 1967-12-11
 boletin_oficial: "21331"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-17562-nacional-causas-extincion-derecho-pension-lns0001142-1967-12-05"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=137791"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/135000-139999/137791/texact.htm"

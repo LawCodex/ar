@@ -9,7 +9,9 @@ date: 1983-02-14
 published: 1983-02-16
 boletin_oficial: "25113"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22742-nacional-fijacion-limites-entre-provincias-catamarca-santiago-estero-lns0002985-1983-02-14"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=199433"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/199433/norma.htm"

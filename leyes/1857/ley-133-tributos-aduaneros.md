@@ -8,6 +8,8 @@ language: es
 date: 1857-09-11
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-133-nacional-lnn0016851-1865-05-03"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=280856"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/280000-284999/280856/norma.htm"

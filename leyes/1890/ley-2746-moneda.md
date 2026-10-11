@@ -8,6 +8,8 @@ language: es
 date: 1890-10-09
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-2746-nacional-lnn0024332-1890-10-09"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=283957"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/280000-284999/283957/norma.htm"

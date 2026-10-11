@@ -10,6 +10,8 @@ published: 1928-10-17
 boletin_oficial: "10345"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-11539-nacional-lnn0002398-1928-09-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=185031"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/185000-189999/185031/norma.htm"

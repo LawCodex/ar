@@ -9,7 +9,9 @@ date: 1972-11-20
 published: 1972-11-27
 boletin_oficial: "22553"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-19955-nacional-lnn0026813-1972-11-20"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=218584"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/215000-219999/218584/norma.htm"

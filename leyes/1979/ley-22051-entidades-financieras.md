@@ -10,6 +10,8 @@ published: 1979-08-20
 boletin_oficial: "24230"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22051-nacional-lnn0005539-1979-08-14"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=183024"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/183024/norma.htm"

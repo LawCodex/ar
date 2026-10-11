@@ -9,7 +9,9 @@ date: 1946-12-20
 published: 1947-01-20
 boletin_oficial: "15677"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-12916-nacional-creacion-corporacion-nacional-olivicultura-lns0002428-1946-12-20"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=44859"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/40000-44999/44859/norma.htm"

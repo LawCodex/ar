@@ -9,7 +9,9 @@ date: 1967-06-15
 published: 1967-06-21
 boletin_oficial: "21213"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-17310-nacional-lnn0025679-1967-06-15"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=126965"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/125000-129999/126965/norma.htm"

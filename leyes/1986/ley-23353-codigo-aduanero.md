@@ -10,6 +10,8 @@ published: 1986-09-10
 boletin_oficial: "25990"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-23353-nacional-lnn0028143-1986-08-14"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=23021"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/23021/norma.htm"

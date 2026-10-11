@@ -10,6 +10,8 @@ published: 1910-05-17
 boletin_oficial: "4932"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-7025-nacional-lnn0024744-1910-05-14"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=288821"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/285000-289999/288821/norma.htm"

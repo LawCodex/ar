@@ -10,6 +10,8 @@ published: 1974-01-04
 boletin_oficial: "22824"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-20574-nacional-lnn0020703-1973-11-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=182936"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/182936/norma.htm"

@@ -9,7 +9,9 @@ date: 1978-12-01
 published: 1978-12-11
 boletin_oficial: "24059"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21908-nacional-derechos-importacion-equipos-uso-medico-lns0000046-1978-12-01"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=303909"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/303909/norma.htm"

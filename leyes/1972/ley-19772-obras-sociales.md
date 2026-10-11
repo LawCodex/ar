@@ -9,7 +9,9 @@ date: 1972-08-09
 published: 1972-08-21
 boletin_oficial: "22487"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19772-nacional-creacion-obra-social-para-empleados-comercio-actividades-civiles-lns0000697-1972-08-09"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=28323"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/28323/norma.htm"

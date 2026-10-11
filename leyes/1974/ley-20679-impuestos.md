@@ -10,6 +10,8 @@ published: 1974-06-28
 boletin_oficial: "22942"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-20679-nacional-lnn0026726-1974-06-07"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=131729"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/130000-134999/131729/norma.htm"

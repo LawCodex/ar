@@ -9,7 +9,9 @@ date: 1976-05-18
 published: 1976-05-24
 boletin_oficial: "23411"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21313-nacional-jurisdiccion-jueces-nacionales-respecto-procesados-disposicion-poder-ejecutivo-lns0000364-1976-05-18"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=231909"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/231909/norma.htm"

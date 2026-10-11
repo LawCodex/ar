@@ -9,7 +9,9 @@ date: 1969-07-21
 published: 1969-07-29
 boletin_oficial: "21733"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-18288-nacional-fijacion-limites-entre-provincias-pampa-cordoba-lns0001394-1969-07-21"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=198005"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/198005/norma.htm"

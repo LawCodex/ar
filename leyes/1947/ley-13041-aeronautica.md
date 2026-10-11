@@ -9,7 +9,9 @@ date: 1947-09-27
 published: 1947-10-10
 boletin_oficial: "15887"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-13041-nacional-cobro-tasas-comando-jefe-fuerza-aerea-lns0001284-1947-09-27"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=48315"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/45000-49999/48315/norma.htm"

@@ -9,7 +9,9 @@ date: 1967-06-15
 published: 1967-06-28
 boletin_oficial: "21218"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-17313-nacional-lnn0025678-1967-06-15"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=300480"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/300480/norma.htm"

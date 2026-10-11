@@ -10,6 +10,8 @@ published: 1975-11-10
 boletin_oficial: "23280"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-21134-nacional-fondo-nacional-para-construccion-viviendas-servicio-para-personal-militar-gendarmeria-nacional-prefectura-naval-argentina-lnn0029833-1975-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=193496"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/193496/norma.htm"

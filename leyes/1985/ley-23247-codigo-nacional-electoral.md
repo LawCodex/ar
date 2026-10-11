@@ -10,6 +10,8 @@ published: 1985-09-25
 boletin_oficial: "25769"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-23247-nacional-modifica-ley-19945-to-18-08-83-codigo-electoral-nacional-lnn0028097-1985-09-18"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=24213"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/24213/norma.htm"

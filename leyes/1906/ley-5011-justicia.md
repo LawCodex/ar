@@ -9,7 +9,9 @@ date: 1906-09-27
 published: 1906-10-06
 boletin_oficial: "3875"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-5011-nacional-creacion-juzgado-federal-concepcion-uruguay-provincia-entre-rios-lns0002397-1906-09-27"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=195520"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/195520/norma.htm"

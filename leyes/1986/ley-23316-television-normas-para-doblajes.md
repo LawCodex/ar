@@ -9,7 +9,9 @@ date: 1986-05-07
 published: 1986-06-03
 boletin_oficial: "25943"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-23316-nacional-utilizacion-idioma-castellano-doblaje-peliculas-para-television-lns0003289-1986-05-07"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=23775"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/23775/norma.htm"

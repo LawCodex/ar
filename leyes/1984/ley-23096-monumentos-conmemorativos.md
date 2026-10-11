@@ -10,6 +10,8 @@ published: 1984-11-01
 boletin_oficial: "25543"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-23096-nacional-monumentos-lnn0028052-1984-09-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=27282"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/27282/norma.htm"

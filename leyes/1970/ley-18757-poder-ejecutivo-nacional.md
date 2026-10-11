@@ -10,6 +10,8 @@ published: 2006-09-22
 boletin_oficial: "30996"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-18757-nacional-donacion-gobierno-argentino-republica-paraguay-lnn0029581-1970-08-20"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=120096"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/120000-124999/120096/norma.htm"

@@ -9,7 +9,9 @@ date: 1969-05-28
 published: 1969-06-09
 boletin_oficial: "21699"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-18229-nacional-fijacion-limites-entre-provincias-chaco-salta-lns0003232-1969-05-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=197989"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/197989/norma.htm"

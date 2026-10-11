@@ -9,7 +9,9 @@ date: 1970-02-23
 published: 1970-02-25
 boletin_oficial: "21876"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-18609-nacional-productos-prohibidos-trabajos-pintura-lns0000951-1970-02-23"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=197996"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/197996/norma.htm"

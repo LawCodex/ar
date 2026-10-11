@@ -9,7 +9,9 @@ date: 1980-12-23
 published: 1980-12-31
 boletin_oficial: "24576"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22359-nacional-creacion-fondo-nacional-menor-familia-lns0002700-1980-12-23"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=231354"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/231354/texact.htm"

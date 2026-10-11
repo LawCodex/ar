@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1973-04-18
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-20355-nacional-seguridad-social-jubilaciones-pensiones-retiros-pensiones-militares-instituto-ayuda-financiera-para-pagos-retiros-pensiones-militares-lns0000537-1973-04-18"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302691"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302691/texact.htm"

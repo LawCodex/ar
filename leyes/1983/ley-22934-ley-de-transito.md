@@ -9,7 +9,9 @@ date: 1983-09-29
 published: 1983-10-10
 boletin_oficial: "25275"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-22934-nacional-economia-transporte-transito-ley-transito-lnn0003082-1983-09-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=274549"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/270000-274999/274549/norma.htm"

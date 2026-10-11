@@ -9,7 +9,9 @@ date: 1958-09-11
 published: 1958-09-29
 boletin_oficial: "18751"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-14470-nacional-funciones-consejo-nacional-educacion-cuanto-proteccion-minoridad-lns0001626-1958-09-11"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=233104"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/233104/norma.htm"

@@ -9,7 +9,9 @@ date: 1913-09-25
 published: 1913-10-11
 boletin_oficial: "5934"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-9148-nacional-creacion-agencias-colocaciones-publicas-gratuitas-lns0002496-1913-09-25"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=290945"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/290945/texact.htm"

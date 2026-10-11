@@ -10,6 +10,8 @@ published: 1954-01-19
 boletin_oficial: "17568"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-14293-nacional-lnn0020248-1953-12-09"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=194802"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/194802/norma.htm"

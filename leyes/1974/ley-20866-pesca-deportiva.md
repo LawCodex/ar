@@ -9,7 +9,9 @@ date: 1974-09-30
 published: 1974-10-29
 boletin_oficial: "23025"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20866-nacional-permisos-pesca-deportiva-sin-cargo-para-jubilados-pensionados-lns0000434-1974-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=196896"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/196896/norma.htm"

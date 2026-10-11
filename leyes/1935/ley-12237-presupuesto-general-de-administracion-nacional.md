@@ -10,6 +10,8 @@ published: 1935-10-18
 boletin_oficial: "12395"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-12237-nacional-lnn0024426-1935-09-27"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=188528"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/185000-189999/188528/norma.htm"

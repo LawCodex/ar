@@ -9,7 +9,9 @@ date: 1968-08-22
 published: 1968-08-27
 boletin_oficial: "21506"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-17866-nacional-lnn0005560-1968-08-22"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=223909"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/220000-224999/223909/norma.htm"

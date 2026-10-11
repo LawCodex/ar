@@ -10,6 +10,8 @@ published: 1984-10-29
 boletin_oficial: "25540"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-23097-nacional-codigo-penal-modificacion-lnn0028050-1984-09-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=27281"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/27281/norma.htm"

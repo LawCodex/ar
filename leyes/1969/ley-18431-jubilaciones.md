@@ -9,7 +9,9 @@ date: 1969-11-03
 published: 2006-09-26
 boletin_oficial: "30998"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-18431-nacional-regimen-jubilatorio-para-personal-incluido-ley-secreta-17112-lns0005099-1969-11-03"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=120191"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/120000-124999/120191/norma.htm"

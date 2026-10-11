@@ -9,7 +9,9 @@ date: 1973-08-01
 published: 1973-08-22
 boletin_oficial: "22731"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-20520-nacional-lnn0025435-1973-08-01"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=183493"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/183493/norma.htm"

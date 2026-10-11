@@ -10,6 +10,8 @@ published: 1979-06-18
 boletin_oficial: "24188"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22011-nacional-lnn0009223-1979-06-11"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=226516"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/225000-229999/226516/norma.htm"

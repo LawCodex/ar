@@ -9,7 +9,9 @@ date: 1972-05-16
 published: 1972-06-02
 boletin_oficial: "22434"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19640-nacional-promocion-al-terrritorio-nacional-tierra-fuego-lns0000723-1972-05-16"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=28185"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/28185/norma.htm"

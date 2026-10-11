@@ -10,6 +10,8 @@ published: 1974-08-20
 boletin_oficial: "22975"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-20686-nacional-lnn0026724-1974-06-27"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=303057"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/303057/norma.htm"

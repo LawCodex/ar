@@ -10,6 +10,8 @@ published: 1983-08-30
 boletin_oficial: "25246"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22880-nacional-lnn0027906-1983-08-25"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=253214"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/250000-254999/253214/norma.htm"

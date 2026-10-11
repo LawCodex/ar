@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1887-11-19
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-2240-nacional-regimen-sanciones-para-infracciones-convencion-internacional-para-proteccion-cables-submarinos-lns0002683-1887-11-19"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=283851"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/280000-284999/283851/norma.htm"

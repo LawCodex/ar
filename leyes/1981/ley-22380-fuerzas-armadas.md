@@ -10,6 +10,8 @@ published: 1981-01-27
 boletin_oficial: "24594"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22380-nacional-lnn0025105-1981-01-19"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304155"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304155/norma.htm"

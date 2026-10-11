@@ -9,7 +9,9 @@ date: 1984-05-23
 published: 1984-06-11
 boletin_oficial: "25444"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-23064-nacional-ley-transito-lnn0027995-1984-05-24"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=28078"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/28078/norma.htm"

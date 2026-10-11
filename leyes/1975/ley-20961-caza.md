@@ -9,7 +9,9 @@ date: 1975-06-05
 published: 1975-07-03
 boletin_oficial: "23190"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20961-nacional-prohibicion-caza-nandu-guanaco-lns0000383-1975-06-05"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=233714"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/233714/norma.htm"

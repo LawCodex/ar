@@ -1,0 +1,61 @@
+---
+title: "Ley 24289: JUSTICIA — DECRETO LEY 1285/58 - MODIFICACION"
+identifier: "Ley 24289"
+infoleg_id: "686"
+type: act
+jurisdiction: ar
+language: es
+date: 1993-12-01
+published: 1993-12-29
+boletin_oficial: "27796"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-24289-nacional-lnn0028635-1993-12-01"
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=686"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/0-4999/686/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 24289: JUSTICIA — DECRETO LEY 1285/58 - MODIFICACION
+
+JUSTICIA
+
+Ley N° 24.289
+
+Modificación de los artículos 16 y 18 del decreto ley 1285/58, ratificado por la Ley N° 14.467.
+
+Sancionada: Diciembre 1 de 1993.
+
+Promulgada: Diciembre 22 de 1993.
+
+El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc. sancionan con fuerza de Ley:
+
+## ARTICULO 1º
+
+Modifícase el artículo 16 del decreto-ley 1285/58, ratificado por ley 14.467, el que quedará redactado de la siguiente forma:
+
+## ARTICULO 16
+
+Los magistrados, funcionarios, empleados y auxiliares de la Justicia de la Nación, excepto los agentes dependientes de otros poderes, podrán ser sancionados con prevención, apercibimiento, multa, suspensión no mayor de treinta (30) días, cesantía y exoneración, conforme lo establecido en este decreto ley y los reglamentos.
+
+La multa será determinada en un porcentaje de la remuneración que por todo concepto perciba efectivamente el sancionado, hasta un máximo del 33 % de la misma.
+
+La cesantía y exoneración serán decretadas por las autoridades judiciales respectivas que tengan la facultad de designación. Los jueces serán punibles con las tres (3) primeras sanciones mencionadas en el primer párrafo, sin perjuicio de lo dispuesto sobre enjuiciamiento y remoción.
+
+## ARTICULO 2º
+
+Modifícase el artículo 18 del decreto-ley 1285/58, ratificado por ley 14.467, el que quedará redactado de la siguiente forma:
+
+## ARTICULO 18
+
+Los tribunales colegiados y jueces podrán sancionar con prevención, apercibimiento, multa y arresto de hasta cinco (5) días, a los abogados, procuradores, litigantes y otras personas que obstruyeren el curso de la justicia o que cometieren faltas en las audiencias, escritos o comunicaciones de cualquier índole, contra su autoridad, dignidad o decoro.
+
+La multa será determinada en un porcentaje de la remuneración que por todo concepto perciba efectivamente el juez de primera instancia, hasta un máximo del 33 % de la misma. El arresto será cumplido en una dependencia del propio tribunal o juzgado o en el domicilio del afectado.
+
+## ARTICULO 3º
+
+Comuníquese al Poder Ejecutivo Nacional. — ALBERTO R. PIERRI. — ORALDO BRITOS. — Esther H. Pereyra Arandía de Pérez Pardo. — Edgardo Piuzzi.
+
+DADA EN LA SALA DE SESIONES DEL CONGRESO ARGENTINO, EN BUENOS AIRES, A UN DIA DEL MES DE DICIEMBRE DEL AÑO MIL NOVECIENTOS NOVENTA Y TRES.

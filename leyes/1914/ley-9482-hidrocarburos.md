@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1914-08-12
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-9482-nacional-prohibicion-exportacion-carbon-piedra-lns0002494-1914-08-12"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=215965"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/215000-219999/215965/norma.htm"

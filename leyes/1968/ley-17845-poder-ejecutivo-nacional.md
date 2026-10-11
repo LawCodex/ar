@@ -9,7 +9,9 @@ date: 1968-08-09
 published: 2006-09-29
 boletin_oficial: "31001"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-17845-nacional-desafectacion-inmueble-uso-naval-capital-federal-para-su-venta-lns0005106-1968-08-09"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=120350"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/120000-124999/120350/norma.htm"

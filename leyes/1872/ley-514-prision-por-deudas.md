@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1872-06-22
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-514-nacional-supresion-prision-deudas-causas-civiles-mercantiles-lns0002544-1872-06-22"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=281462"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/280000-284999/281462/norma.htm"

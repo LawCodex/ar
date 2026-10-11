@@ -9,7 +9,9 @@ date: 1972-03-03
 published: 1972-03-15
 boletin_oficial: "22382"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19514-nacional-regimen-laboral-profesores-designados-cargos-docentes-lns0000758-1972-03-03"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302148"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302148/texact.htm"

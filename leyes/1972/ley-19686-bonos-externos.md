@@ -9,7 +9,9 @@ date: 1972-06-15
 published: 1972-06-23
 boletin_oficial: "22448"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19686-nacional-emision-titulos-deuda-publica-denominados-bonos-externos-lns0000713-1972-06-15"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=174174"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/170000-174999/174174/texact.htm"

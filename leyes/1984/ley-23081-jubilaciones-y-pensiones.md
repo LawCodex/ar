@@ -9,7 +9,9 @@ date: 1984-08-29
 published: 1984-09-17
 boletin_oficial: "25511"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-23081-nacional-restablecimiento-contribuciones-cargo-empleadores-instituidas-regimen-jubilaciones-pensiones-para-trabajadores-relacion-dependencia-lns0003170-1984-08-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=28020"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/28020/norma.htm"

@@ -9,7 +9,9 @@ date: 1948-05-19
 published: 1948-06-03
 boletin_oficial: "16072"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-13200-nacional-creacion-direccion-general-lucha-contra-enfermedades-cardiovasculares-lns0002029-1948-05-19"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=295681"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/295681/norma.htm"

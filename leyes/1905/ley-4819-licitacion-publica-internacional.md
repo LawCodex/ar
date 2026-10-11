@@ -10,6 +10,8 @@ published: 1905-10-13
 boletin_oficial: "3592"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-4819-nacional-lnn0023967-1905-09-27"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=286253"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/285000-289999/286253/norma.htm"

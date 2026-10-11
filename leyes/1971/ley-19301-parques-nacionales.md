@@ -9,7 +9,9 @@ date: 1971-10-11
 published: 1971-11-02
 boletin_oficial: "22291"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19301-nacional-transferencia-jurisdiccion-provincia-neuquen-una-area-parque-nacional-lanin-lns0002897-1971-10-11"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=232487"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/232487/norma.htm"

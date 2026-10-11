@@ -9,7 +9,9 @@ date: 1971-09-07
 published: 1971-09-09
 boletin_oficial: "22255"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-19218-nacional-salud-publica-enfermedades-vacunacion-antipoliomielitica-interes-nacional-lns0000830-1971-09-07"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=301939"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/301939/norma.htm"

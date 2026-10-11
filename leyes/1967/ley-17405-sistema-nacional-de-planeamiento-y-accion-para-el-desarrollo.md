@@ -9,7 +9,9 @@ date: 1967-08-22
 published: 1967-09-05
 boletin_oficial: "21265"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-17405-nacional-lnn0025669-1967-08-22"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=179731"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/175000-179999/179731/norma.htm"

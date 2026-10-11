@@ -9,7 +9,9 @@ date: 1971-12-15
 published: 1971-12-16
 boletin_oficial: "22321"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19365-nacional-excepciones-obligacion-dispuesta-ley-18909-creacion-fondo-ahorro-para-participacion-desarrollo-nacional-lns0000789-1971-12-15"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302036"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302036/norma.htm"

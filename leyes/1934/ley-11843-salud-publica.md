@@ -9,7 +9,9 @@ date: 1934-06-20
 published: 1934-06-27
 boletin_oficial: "12013"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-11843-nacional-profilaxis-peste-desratizacion-obligatoria-todo-territorio-nacion-lns0002370-1934-06-20"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=195173"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/195173/norma.htm"

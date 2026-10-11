@@ -8,6 +8,8 @@ language: es
 date: 1973-08-23
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-20526-nacional-lnn0020714-1973-08-23"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302828"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302828/norma.htm"

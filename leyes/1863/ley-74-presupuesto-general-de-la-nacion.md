@@ -8,6 +8,8 @@ language: es
 date: 1863-11-07
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-74-nacional-lnn0017287-1863-11-07"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=48852"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/45000-49999/48852/norma.htm"

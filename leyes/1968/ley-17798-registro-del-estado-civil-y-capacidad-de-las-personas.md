@@ -10,6 +10,8 @@ published: 1968-07-05
 boletin_oficial: "21471"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-17798-nacional-lnn0018146-1968-06-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=300863"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/300863/norma.htm"

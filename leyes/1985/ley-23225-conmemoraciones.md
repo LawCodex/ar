@@ -9,7 +9,9 @@ date: 1985-08-21
 published: 1985-09-11
 boletin_oficial: "25759"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-23225-nacional-dia-confraternidad-latinoamericana-lns0003240-1985-08-21"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=24834"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/24834/texact.htm"

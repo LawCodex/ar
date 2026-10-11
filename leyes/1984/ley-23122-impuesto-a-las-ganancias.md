@@ -9,7 +9,9 @@ date: 1984-09-30
 published: 1984-10-30
 boletin_oficial: "25541"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-23122-nacional-plan-almacenamiento-granos-lns0003443-1984-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=26520"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/26520/norma.htm"

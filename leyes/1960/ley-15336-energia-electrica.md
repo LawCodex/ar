@@ -9,7 +9,9 @@ date: 1960-09-15
 published: 1960-09-22
 boletin_oficial: "19340"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-15336-nacional-regimen-energia-electrica-lns0001461-1960-09-15"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=28195"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/28195/texact.htm"

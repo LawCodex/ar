@@ -9,7 +9,9 @@ date: 1965-10-30
 published: 1965-12-10
 boletin_oficial: "20837"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-16789-nacional-adquisicion-automotores-nacionales-administracion-publica-lns0001353-1965-10-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=231560"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/231560/norma.htm"

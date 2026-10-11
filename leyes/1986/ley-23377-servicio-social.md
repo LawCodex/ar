@@ -9,7 +9,9 @@ date: 1986-09-18
 published: 1987-02-13
 boletin_oficial: "26085"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-23377-nacional-ejercicio-profesional-servicio-social-trabajo-social-lns0003331-1986-09-18"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=22748"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/22748/norma.htm"

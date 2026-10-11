@@ -9,7 +9,9 @@ date: 1980-09-19
 published: 1980-09-25
 boletin_oficial: "24510"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-22287-nacional-lnn0001384-1980-09-19"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=45880"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/45000-49999/45880/norma.htm"

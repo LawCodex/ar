@@ -9,7 +9,9 @@ date: 1949-05-19
 published: 1949-06-03
 boletin_oficial: "16366"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-13514-nacional-exenciones-impositivas-para-tramites-registro-nacional-personas-lns0001992-1949-05-19"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=295954"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/295954/norma.htm"

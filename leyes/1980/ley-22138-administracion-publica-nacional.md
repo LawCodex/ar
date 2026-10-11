@@ -10,6 +10,8 @@ published: 1980-01-17
 boletin_oficial: "24336"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22138-nacional-lnn0027486-1980-01-11"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=180594"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/180594/norma.htm"

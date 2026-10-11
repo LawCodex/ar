@@ -9,7 +9,9 @@ date: 1980-03-04
 published: 1980-03-07
 boletin_oficial: "24372"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-22180-nacional-lnn0028374-1980-03-04"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=174338"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/170000-174999/174338/norma.htm"

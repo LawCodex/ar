@@ -9,7 +9,9 @@ date: 1976-05-07
 published: 1976-05-10
 boletin_oficial: "23401"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21311-nacional-recepcion-deposito-plazo-fijo-nominativo-transferible-ajustable-cuenta-entidades-financieras-lns0000365-1976-05-07"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=303558"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/303558/norma.htm"

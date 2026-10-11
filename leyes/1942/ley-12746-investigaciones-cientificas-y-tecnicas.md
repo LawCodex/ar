@@ -9,7 +9,9 @@ date: 1942-07-28
 published: 1942-09-16
 boletin_oficial: "14413"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-12746-nacional-creacion-comision-nacional-altura-lns0002590-1942-07-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=294688"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/294688/norma.htm"

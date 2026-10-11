@@ -9,7 +9,9 @@ date: 1946-12-12
 published: 1947-01-21
 boletin_oficial: "15678"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-12905-nacional-organizacion-fuero-civil-capital-federal-lns0002439-1946-12-12"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=43601"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/40000-44999/43601/norma.htm"

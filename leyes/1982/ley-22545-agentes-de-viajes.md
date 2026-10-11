@@ -9,7 +9,9 @@ date: 1982-02-26
 published: 1982-03-03
 boletin_oficial: "24871"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22545-nacional-agentes-turismo-lns0002868-1982-02-26"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=132540"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/130000-134999/132540/norma.htm"

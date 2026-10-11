@@ -9,7 +9,9 @@ date: 1978-03-21
 published: 1978-03-28
 boletin_oficial: "23880"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21768-nacional-registro-contratos-constitucion-sociedades-comerciales-lns0000086-1978-03-21"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=231984"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/231984/norma.htm"

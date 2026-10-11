@@ -9,7 +9,9 @@ date: 1965-08-06
 published: 1965-08-26
 boletin_oficial: "20765"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-16687-nacional-nomina-organismos-pasan-depender-secretaria-estado-mineria-lns0001362-1965-08-06"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=166573"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/165000-169999/166573/norma.htm"

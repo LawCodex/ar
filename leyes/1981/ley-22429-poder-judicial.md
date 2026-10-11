@@ -9,7 +9,9 @@ date: 1981-03-16
 published: 1981-03-20
 boletin_oficial: "24632"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-22429-nacional-estado-poder-judicial-organizacion-judicial-territorios-nacionales-antartida-argentina-tierra-fuego-islas-atlantico-sur-justicia-paz-letrada-para-territorio-nacional-tierra-fuego-antartida-islas-atlantico-sur-lns0002801-1981-03-16"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304184"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304184/norma.htm"

@@ -9,7 +9,9 @@ date: 1970-10-29
 published: 1970-11-04
 boletin_oficial: "22047"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-18820-nacional-creacion-direccion-nacional-prevision-social-lns0000917-1970-10-29"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=48990"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/45000-49999/48990/texact.htm"

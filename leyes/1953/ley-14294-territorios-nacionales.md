@@ -9,7 +9,9 @@ date: 1953-12-10
 published: 1954-01-04
 boletin_oficial: "17558"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-14294-nacional-provincializacion-territorio-nacional-misiones-lns0001829-1953-12-10"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=195561"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/195561/norma.htm"

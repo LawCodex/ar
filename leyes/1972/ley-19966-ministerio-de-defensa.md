@@ -10,6 +10,8 @@ published: 2006-09-15
 boletin_oficial: "30991"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-19966-nacional-ratificacion-decretos-4191-71-6598-72-8235-72-lnn0029577-1972-11-24"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=119820"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/115000-119999/119820/norma.htm"

@@ -9,7 +9,9 @@ date: 1968-05-24
 published: 1968-05-30
 boletin_oficial: "21447"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-17749-nacional-creacion-cuartel-ezeiza-bomberos-policia-federal-lns0001097-1968-05-24"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=300824"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/300824/norma.htm"

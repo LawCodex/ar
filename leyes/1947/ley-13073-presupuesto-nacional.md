@@ -10,6 +10,8 @@ published: 1948-04-12
 boletin_oficial: "16031"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-13073-nacional-lnn0028240-1947-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=295567"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/295567/norma.htm"

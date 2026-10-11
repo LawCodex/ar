@@ -8,6 +8,8 @@ language: es
 date: 1869-10-06
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-352-nacional-lnn0016929-1869-10-06"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=246649"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/245000-249999/246649/norma.htm"

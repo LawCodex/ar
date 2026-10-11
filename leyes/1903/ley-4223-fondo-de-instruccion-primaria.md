@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1903-09-23
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-4223-nacional-fondo-instruccion-primaria-lns0002558-1903-09-23"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=285345"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/285000-289999/285345/norma.htm"

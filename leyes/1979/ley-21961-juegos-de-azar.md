@@ -10,6 +10,8 @@ published: 1979-03-27
 boletin_oficial: "24133"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-21961-nacional-lnn0000026-1979-03-15"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=195263"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/195263/norma.htm"

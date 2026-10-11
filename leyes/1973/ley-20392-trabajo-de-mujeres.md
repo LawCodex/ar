@@ -9,7 +9,9 @@ date: 1973-05-16
 published: 1973-05-29
 boletin_oficial: "22675"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20392-nacional-prohibicion-establecer-diferencias-remuneraciones-entre-trabajo-femenino-masculino-lns0000492-1973-05-16"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302749"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302749/norma.htm"

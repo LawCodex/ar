@@ -9,7 +9,9 @@ date: 1947-09-29
 published: 1947-10-24
 boletin_oficial: "15897"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-13065-nacional-jubilaciones-pensiones-periodistas-profesionales-lns0002031-1947-09-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=295560"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/295560/norma.htm"

@@ -10,6 +10,8 @@ published: 1976-04-07
 boletin_oficial: "23380"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-21288-nacional-lnn0000371-1976-04-05"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=151445"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/150000-154999/151445/norma.htm"

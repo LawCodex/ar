@@ -9,7 +9,9 @@ date: 1978-05-12
 published: 1978-06-16
 boletin_oficial: "23936"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21799-nacional-banco-nacion-argentina-lns0000215-1978-05-18"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=15927"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/15000-19999/15927/texact.htm"

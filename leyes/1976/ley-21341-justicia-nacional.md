@@ -9,7 +9,9 @@ date: 1976-06-25
 published: 1976-06-30
 boletin_oficial: "23437"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21341-nacional-incompatibilidades-funcionarios-ejercen-ministerio-publico-lns0000355-1976-06-25"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=114498"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/110000-114999/114498/norma.htm"

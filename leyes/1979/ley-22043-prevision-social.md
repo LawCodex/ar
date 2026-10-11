@@ -10,6 +10,8 @@ published: 1979-08-02
 boletin_oficial: "24219"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22043-nacional-lnn0000296-1979-07-27"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=77262"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/75000-79999/77262/norma.htm"

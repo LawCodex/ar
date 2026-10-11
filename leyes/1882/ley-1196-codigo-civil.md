@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1882-08-29
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-1196-nacional-correcciones-edicion-oficial-codigo-civil-lns0002597-1882-08-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=283848"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/280000-284999/283848/norma.htm"

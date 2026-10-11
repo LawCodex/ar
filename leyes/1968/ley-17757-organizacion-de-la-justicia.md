@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1968-06-03
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-17757-nacional-supresion-procuradurias-fiscales-creacion-juzgados-nacionales-paz-lns0001093-1968-06-03"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=300829"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/300829/norma.htm"

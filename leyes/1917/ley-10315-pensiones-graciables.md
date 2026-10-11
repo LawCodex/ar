@@ -9,7 +9,9 @@ date: 1917-09-29
 published: 1917-10-30
 boletin_oficial: "7127"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-10315-nacional-pension-viudas-expedicionarios-al-desierto-lns0002408-1917-09-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=292376"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/292376/norma.htm"

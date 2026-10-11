@@ -10,6 +10,8 @@ published: 1893-07-16
 boletin_oficial: "14"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-2838-nacional-lnn0024999-1891-10-09"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=284043"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/280000-284999/284043/norma.htm"

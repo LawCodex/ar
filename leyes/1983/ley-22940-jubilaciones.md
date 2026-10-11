@@ -10,6 +10,8 @@ published: 1983-10-10
 boletin_oficial: "25275"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22940-nacional-lnn0027960-1983-10-06"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=250349"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/250000-254999/250349/norma.htm"

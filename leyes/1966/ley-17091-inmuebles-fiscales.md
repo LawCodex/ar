@@ -9,7 +9,9 @@ date: 1966-12-29
 published: 1967-01-09
 boletin_oficial: "21103"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-17091-nacional-restitucion-inmuebles-estado-cedidos-concesion-lns0001280-1966-12-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=194855"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/194855/norma.htm"

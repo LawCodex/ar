@@ -9,7 +9,9 @@ date: 1968-09-09
 published: 1968-09-11
 boletin_oficial: "21517"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-17881-nacional-facultad-poder-ejecutivo-para-asignar-transferir-modificar-suprimir-funciones-facultades-atribuciones-organismos-administracion-publica-lns0001071-1968-09-09"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=300927"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/300927/norma.htm"

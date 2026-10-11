@@ -10,6 +10,8 @@ published: 1954-10-12
 boletin_oficial: "17750"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-14380-nacional-lnn0020229-1954-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=125307"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/125000-129999/125307/norma.htm"

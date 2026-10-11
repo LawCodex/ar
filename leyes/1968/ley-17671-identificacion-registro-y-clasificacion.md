@@ -9,7 +9,9 @@ date: 1968-02-29
 published: 1968-03-12
 boletin_oficial: "21393"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-17671-nacional-registro-nacional-personas-lns0001121-1968-02-29"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=28130"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/28130/texact.htm"

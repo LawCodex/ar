@@ -9,7 +9,9 @@ date: 1978-10-10
 published: 1978-10-13
 boletin_oficial: "24019"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-21886-nacional-lnn0026593-1978-10-10"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=73270"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/70000-74999/73270/norma.htm"

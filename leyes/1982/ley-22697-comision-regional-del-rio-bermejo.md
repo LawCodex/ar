@@ -9,7 +9,9 @@ date: 1982-12-17
 published: 1982-12-21
 boletin_oficial: "25072"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22697-nacional-convenio-creacion-comision-regional-rio-bermejo-lns0002968-1982-12-17"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=39516"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/35000-39999/39516/norma.htm"

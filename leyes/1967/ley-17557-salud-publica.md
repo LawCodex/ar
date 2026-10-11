@@ -9,7 +9,9 @@ date: 1967-11-27
 published: 1967-12-05
 boletin_oficial: "21328"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-17557-nacional-equipos-rayos-lns0001144-1967-11-27"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=67000"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/65000-69999/67000/norma.htm"

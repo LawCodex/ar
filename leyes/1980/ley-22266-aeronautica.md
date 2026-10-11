@@ -10,6 +10,8 @@ published: 1980-08-18
 boletin_oficial: "24482"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22266-nacional-lnn0027378-1980-08-12"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=272736"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/270000-274999/272736/norma.htm"

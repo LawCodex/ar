@@ -9,7 +9,9 @@ date: 1972-09-26
 published: 1972-10-02
 boletin_oficial: "22517"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19849-nacional-reorganizacion-justicia-nacional-especial-civil-comercial-lns0000682-1972-09-26"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=196106"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/196106/norma.htm"

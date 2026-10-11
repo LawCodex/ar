@@ -9,7 +9,9 @@ date: 1983-06-01
 published: 1983-06-03
 boletin_oficial: "25186"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22821-nacional-ley-redondeo-lns0003033-1983-06-01"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304377"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304377/norma.htm"

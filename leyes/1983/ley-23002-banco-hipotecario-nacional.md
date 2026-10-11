@@ -9,7 +9,9 @@ date: 1983-12-05
 published: 1983-12-12
 boletin_oficial: "25318"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-23002-nacional-aumento-capital-banco-hipotecario-nacional-lns0003120-1983-12-05"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=249011"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/245000-249999/249011/norma.htm"

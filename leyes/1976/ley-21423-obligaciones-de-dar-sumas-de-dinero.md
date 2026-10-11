@@ -9,7 +9,9 @@ date: 1976-09-27
 published: 1976-10-01
 boletin_oficial: "23502"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21423-nacional-forma-abonar-obligaciones-dar-sumas-dinero-lns0000262-1976-09-27"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=303638"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/303638/norma.htm"

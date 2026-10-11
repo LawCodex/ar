@@ -9,7 +9,9 @@ date: 1962-11-23
 published: 1962-12-05
 boletin_oficial: "19992"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-12821-nacional-lnn0026218-1942-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=299625"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/299625/norma.htm"

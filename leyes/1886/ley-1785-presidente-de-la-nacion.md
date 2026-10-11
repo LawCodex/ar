@@ -8,6 +8,8 @@ language: es
 date: 1886-08-12
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-1785-nacional-lnn0024571-1886-08-12"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=283814"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/280000-284999/283814/norma.htm"

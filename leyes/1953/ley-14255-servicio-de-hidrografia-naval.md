@@ -9,7 +9,9 @@ date: 1953-09-30
 published: 1954-02-17
 boletin_oficial: "17589"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-14255-nacional-lnn0026110-1953-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=296577"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/296577/norma.htm"

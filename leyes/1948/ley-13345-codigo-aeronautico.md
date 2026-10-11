@@ -9,7 +9,9 @@ date: 1948-09-28
 published: 1948-10-22
 boletin_oficial: "16187"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-13345-nacional-lnn0026180-1948-09-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=116847"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/115000-119999/116847/norma.htm"

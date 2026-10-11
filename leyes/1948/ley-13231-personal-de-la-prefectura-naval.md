@@ -10,6 +10,8 @@ published: 1948-09-08
 boletin_oficial: "16150"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-13231-nacional-lnn0021525-1948-08-20"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=295703"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/295703/norma.htm"

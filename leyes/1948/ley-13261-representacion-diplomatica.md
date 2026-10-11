@@ -9,7 +9,9 @@ date: 1948-09-16
 published: 1948-09-29
 boletin_oficial: "16168"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-13261-nacional-embajadas-argentina-paises-centroamericanos-lns0002008-1948-09-16"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=193366"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/193366/norma.htm"

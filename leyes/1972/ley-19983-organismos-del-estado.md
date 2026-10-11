@@ -9,7 +9,9 @@ date: 1972-11-29
 published: 1972-12-05
 boletin_oficial: "22559"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19983-nacional-procedimiento-reclamos-pecuniarios-entre-entes-estatales-lns0000604-1972-11-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=20472"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/20472/norma.htm"

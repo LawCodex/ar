@@ -10,6 +10,8 @@ published: 1971-06-17
 boletin_oficial: "22197"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-19075-nacional-lnn0026877-1971-06-07"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=182875"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/182875/norma.htm"

@@ -9,7 +9,9 @@ date: 1973-01-29
 published: 1973-02-06
 boletin_oficial: "22601"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20126-nacional-creacion-instituto-nacional-ciencia-tecnica-hidricas-incyth-lns0000589-1973-01-29"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=195172"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/195172/texact.htm"

@@ -10,6 +10,8 @@ published: 1902-08-16
 boletin_oficial: "2669"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-4097-nacional-lnn0024012-1902-08-06"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=273118"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/270000-274999/273118/norma.htm"

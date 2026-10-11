@@ -9,7 +9,9 @@ date: 1946-12-31
 published: 1947-06-03
 boletin_oficial: "15783"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-12913-nacional-lnn0028406-1946-12-19"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=32073"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/30000-34999/32073/norma.htm"
@@ -1470,7 +1472,9 @@ a) Se imputarán al anexo F del presupuesto (Guerra) los gastos originados por e
 
 b) Los sueldos del personal civil de la administración de la zona militar de Comodoro Rivadavia, como así también los demás gastos que origine el servicio público, serán costeados e imputados según corresponda, en la misma forma que el de los territorios nacionales.
 
-## CAPITULO II — Atribuciones y obligaciones de los funcionarios encargados del gobierno, seguridad y administración.
+## CAPITULO II
+
+Atribuciones y obligaciones de los funcionarios encargados del gobierno, seguridad y administración.
 
 Del gobernador
 

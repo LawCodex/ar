@@ -9,7 +9,9 @@ date: 1986-08-27
 published: 1986-12-05
 boletin_oficial: "26044"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-23358-nacional-campana-prevencion-drogadiccion-lns0003309-1986-08-27"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=23004"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/23004/texact.htm"

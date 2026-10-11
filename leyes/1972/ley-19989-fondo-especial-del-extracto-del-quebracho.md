@@ -9,7 +9,9 @@ date: 1972-11-20
 published: 1972-12-07
 boletin_oficial: "22561"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19989-nacional-fondo-especial-extracto-quebracho-lns0000612-1972-11-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=49429"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/45000-49999/49429/norma.htm"

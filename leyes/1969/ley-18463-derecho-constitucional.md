@@ -10,6 +10,8 @@ published: 1970-01-16
 boletin_oficial: "21850"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-18463-nacional-lnn0015671-1969-11-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=301390"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/301390/norma.htm"

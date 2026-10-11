@@ -9,7 +9,9 @@ date: 1981-09-08
 published: 1981-09-11
 boletin_oficial: "24751"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22491-nacional-tratamiento-contable-para-ciertas-diferencias-cambio-lns0002845-1981-09-08"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304217"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304217/norma.htm"

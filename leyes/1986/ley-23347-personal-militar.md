@@ -10,6 +10,8 @@ published: 1986-10-08
 boletin_oficial: "26010"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-23347-nacional-lnn0028152-1986-08-06"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=23217"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/23217/norma.htm"

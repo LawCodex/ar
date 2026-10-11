@@ -10,6 +10,8 @@ published: 1979-11-14
 boletin_oficial: "24292"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22103-nacional-lnn0004038-1979-11-08"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=191919"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/191919/norma.htm"

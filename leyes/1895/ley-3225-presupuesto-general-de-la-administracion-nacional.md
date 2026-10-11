@@ -8,6 +8,8 @@ language: es
 date: 1895-01-24
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-3225-nacional-lnn0029661-1895-01-01"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=209341"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/205000-209999/209341/norma.htm"

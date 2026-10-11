@@ -9,7 +9,9 @@ date: 1967-01-21
 published: 1967-12-26
 boletin_oficial: "21341"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-17574-nacional-lnn0005764-1967-12-21"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=226116"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/225000-229999/226116/norma.htm"

@@ -10,6 +10,8 @@ published: 1967-01-19
 boletin_oficial: "21111"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-17101-nacional-lnn0027007-1966-12-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=166853"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/165000-169999/166853/norma.htm"

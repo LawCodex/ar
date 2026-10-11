@@ -10,6 +10,8 @@ published: 1927-10-10
 boletin_oficial: "10045"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-11399-nacional-lnn0021643-1927-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=185027"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/185000-189999/185027/norma.htm"

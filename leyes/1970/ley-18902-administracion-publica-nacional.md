@@ -9,7 +9,9 @@ date: 1970-12-31
 published: 1971-02-05
 boletin_oficial: "22109"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-18902-nacional-lnn0025564-1970-12-31"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=166435"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/165000-169999/166435/norma.htm"

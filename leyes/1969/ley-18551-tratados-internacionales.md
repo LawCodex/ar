@@ -10,6 +10,8 @@ published: 1970-04-03
 boletin_oficial: "21901"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-18551-nacional-lnn0015379-1969-12-31"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=208699"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/205000-209999/208699/norma.htm"

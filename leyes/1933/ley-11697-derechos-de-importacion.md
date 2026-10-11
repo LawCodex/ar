@@ -9,7 +9,9 @@ date: 1933-08-08
 published: 1933-08-22
 boletin_oficial: "11765"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-11697-nacional-exoneracion-derechos-importacion-materiales-destinados-extinguir-incendios-lns0002517-1933-08-08"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=293701"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/293701/norma.htm"

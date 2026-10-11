@@ -9,7 +9,9 @@ date: 1970-05-29
 published: 1970-06-09
 boletin_oficial: "21945"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-18691-nacional-disposiciones-normativas-aplicables-comercializacion-expendio-drogas-especialidades-farmaceuticas-lns0000941-1970-05-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=301557"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/301557/norma.htm"

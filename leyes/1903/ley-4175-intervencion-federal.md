@@ -10,6 +10,8 @@ published: 1903-06-09
 boletin_oficial: "2905"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-4175-nacional-lnn0024006-1903-06-04"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=285301"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/285000-289999/285301/norma.htm"

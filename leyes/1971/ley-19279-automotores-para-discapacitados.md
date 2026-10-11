@@ -9,7 +9,9 @@ date: 1971-10-04
 published: 1971-10-08
 boletin_oficial: "22276"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19279-nacional-automotores-para-discapacitados-lns0000816-1971-10-04"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=20621"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/20621/texact.htm"

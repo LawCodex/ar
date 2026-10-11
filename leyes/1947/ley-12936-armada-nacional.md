@@ -9,7 +9,9 @@ date: 1947-01-16
 published: 2006-10-06
 boletin_oficial: "31006"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-12936-nacional-ratificacion-decretos-sobre-creditos-inversiones-para-armada-lns0005121-1947-01-16"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=120642"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/120000-124999/120642/norma.htm"

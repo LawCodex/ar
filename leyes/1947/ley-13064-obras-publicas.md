@@ -9,7 +9,9 @@ date: 1947-10-06
 published: 1947-10-28
 boletin_oficial: "15900"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-13064-nacional-ley-obras-publicas-lns0002034-1947-09-29"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=38542"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/35000-39999/38542/texact.htm"

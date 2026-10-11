@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1969-12-10
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-18479-nacional-forma-notificacion-justicia-nacional-trabajo-lns0000980-1969-12-10"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=301406"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/301406/norma.htm"

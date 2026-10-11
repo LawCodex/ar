@@ -9,7 +9,9 @@ date: 1986-12-10
 published: 1987-02-16
 boletin_oficial: "26086"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-23466-nacional-pension-familiares-desaparecidos-lns0003332-1986-10-30"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=63251"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/60000-64999/63251/texact.htm"

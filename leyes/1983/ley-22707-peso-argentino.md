@@ -9,7 +9,9 @@ date: 1983-01-06
 published: 1983-01-11
 boletin_oficial: "25087"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-22707-nacional-lnn0002971-1983-01-06"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=266066"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/265000-269999/266066/norma.htm"

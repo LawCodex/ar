@@ -9,7 +9,9 @@ date: 1971-09-06
 published: 1971-09-15
 boletin_oficial: "22259"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19212-nacional-prohibiciones-comercializacion-tabaco-lns0000831-1971-09-06"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=192236"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/192236/norma.htm"

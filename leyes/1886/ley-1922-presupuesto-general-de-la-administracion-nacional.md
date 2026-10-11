@@ -8,6 +8,8 @@ language: es
 date: 1886-11-26
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-1922-nacional-lnn0019461-1886-11-26"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=188768"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/185000-189999/188768/norma.htm"

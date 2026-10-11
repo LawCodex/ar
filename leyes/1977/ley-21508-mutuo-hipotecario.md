@@ -9,7 +9,9 @@ date: 1977-01-20
 published: 1977-02-21
 boletin_oficial: "23602"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21508-nacional-actualizacion-monetaria-creditos-banco-hipotecario-nacional-lns0000227-1977-01-20"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=303690"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/303690/texact.htm"

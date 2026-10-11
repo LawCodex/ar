@@ -9,7 +9,9 @@ date: 1969-11-12
 published: 1969-11-24
 boletin_oficial: "21815"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-18438-nacional-regimen-jubilatorio-al-quedaran-sometidos-contratistas-vinas-frutales-personal-empleado-dicha-explotacion-lns0000990-1969-11-12"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=301369"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/301369/norma.htm"

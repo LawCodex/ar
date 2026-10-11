@@ -9,7 +9,9 @@ date: 1894-01-04
 published: 2006-10-10
 boletin_oficial: "31008"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-3061-nacional-autorizacion-al-poder-ejecutivo-para-vender-remate-publico-fusiles-municiones-condicion-ser-exportadas-pais-lns0005129-1894-01-04"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=120766"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/120000-124999/120766/norma.htm"

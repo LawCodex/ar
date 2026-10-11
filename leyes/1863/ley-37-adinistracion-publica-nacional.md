@@ -8,6 +8,8 @@ language: es
 date: 1863-06-25
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-37-nacional-lnn0024824-1863-06-25"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=281026"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/280000-284999/281026/norma.htm"

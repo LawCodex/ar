@@ -10,6 +10,8 @@ published: 1986-09-08
 boletin_oficial: "25988"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-23326-nacional-lnn0028139-1986-07-03"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=23603"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/23603/norma.htm"

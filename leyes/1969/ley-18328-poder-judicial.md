@@ -9,7 +9,9 @@ date: 1969-08-25
 published: 1969-09-22
 boletin_oficial: "21771"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-18328-nacional-destruccion-expedientes-judiciales-lns0001015-1969-08-25"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=301283"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/301283/norma.htm"

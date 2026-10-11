@@ -10,6 +10,8 @@ published: 1971-07-20
 boletin_oficial: "22219"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-19059-nacional-lnn0014687-1971-05-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=215545"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/215000-219999/215545/norma.htm"

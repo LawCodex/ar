@@ -9,7 +9,9 @@ date: 1973-11-29
 published: 1974-02-14
 boletin_oficial: "22853"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20589-nacional-estatuto-contratista-vinas-frutales-lns0003738-1973-11-29"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=232514"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/232514/texact.htm"

@@ -9,7 +9,9 @@ date: 1950-08-30
 published: 1950-09-11
 boletin_oficial: "16732"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-13926-nacional-lns0001941-1950-08-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=114912"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/110000-114999/114912/norma.htm"

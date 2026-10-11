@@ -9,7 +9,9 @@ date: 1982-06-18
 published: 1982-06-24
 boletin_oficial: "24948"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22613-nacional-regimen-aportes-previsionales-personales-personal-prefectura-naval-argentina-estado-policial-lns0002927-1982-06-18"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=197740"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/197740/norma.htm"

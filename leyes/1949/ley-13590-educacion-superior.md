@@ -10,6 +10,8 @@ published: 1949-11-14
 boletin_oficial: "16494"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-13590-nacional-lnn0025236-1949-09-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=231843"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/231843/norma.htm"

@@ -10,6 +10,8 @@ published: 1942-11-05
 boletin_oficial: "14455"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-12815-nacional-lnn0002594-1942-09-25"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=270539"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/270000-274999/270539/norma.htm"

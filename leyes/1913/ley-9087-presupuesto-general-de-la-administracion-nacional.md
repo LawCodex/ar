@@ -10,6 +10,8 @@ published: 1913-07-07
 boletin_oficial: "5854"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-9087-nacional-lnn0009071-1913-06-26"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=185365"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/185000-189999/185365/norma.htm"

@@ -10,6 +10,8 @@ published: 1983-11-23
 boletin_oficial: "25306"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22979-nacional-lnn0003108-1983-11-18"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=248954"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/245000-249999/248954/norma.htm"

@@ -9,7 +9,9 @@ date: 1976-08-13
 published: 1976-08-20
 boletin_oficial: "23472"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21388-nacional-excepcion-extincion-derecho-pension-contraer-matrimonio-lns0000271-1976-08-13"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=137879"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/135000-139999/137879/norma.htm"

@@ -9,7 +9,9 @@ date: 1919-09-27
 published: 1919-11-25
 boletin_oficial: "7734"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-10871-nacional-derechos-politicos-ciudadanos-argentinos-prestaron-servicio-ejercitos-beligerantes-durante-primera-guerra-mundial-lns0002403-1919-09-27"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=292919"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/292919/norma.htm"

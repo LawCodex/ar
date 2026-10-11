@@ -9,7 +9,9 @@ date: 1926-10-01
 published: 1926-10-18
 boletin_oficial: "9758"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-11363-nacional-lnn0021207-1926-10-01"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=174402"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/170000-174999/174402/norma.htm"

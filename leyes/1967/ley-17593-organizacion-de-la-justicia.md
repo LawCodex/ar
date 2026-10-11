@@ -9,7 +9,9 @@ date: 1967-12-28
 published: 1968-01-15
 boletin_oficial: "21354"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-17593-nacional-supresion-juzgado-nacional-electoral-provincia-buenos-aires-lns0001137-1967-12-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=300705"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/300705/norma.htm"

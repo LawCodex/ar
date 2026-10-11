@@ -9,7 +9,9 @@ date: 1981-03-16
 published: 1981-03-27
 boletin_oficial: "24637"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-22439-nacional-ley-general-migraciones-fomento-inmigracion-lns0002813-1981-03-23"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=16176"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/15000-19999/16176/texact.htm"

@@ -9,7 +9,9 @@ date: 1968-09-27
 published: 1968-10-10
 boletin_oficial: "21538"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-17913-nacional-fijacion-monto-minimo-pensiones-graciables-lns0001063-1968-09-27"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=129945"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/125000-129999/129945/norma.htm"

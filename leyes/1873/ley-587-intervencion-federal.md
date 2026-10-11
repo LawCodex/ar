@@ -8,6 +8,8 @@ language: es
 date: 1873-05-21
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-587-nacional-lnn0023762-1873-05-21"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=281531"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/280000-284999/281531/norma.htm"

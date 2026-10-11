@@ -10,6 +10,8 @@ published: 1979-05-03
 boletin_oficial: "24157"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-21981-nacional-lnn0028371-1979-04-19"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=171620"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/170000-174999/171620/norma.htm"

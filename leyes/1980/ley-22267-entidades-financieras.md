@@ -9,7 +9,9 @@ date: 1980-08-14
 published: 1980-08-19
 boletin_oficial: "24483"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22267-nacional-ratificacion-resolucion-banco-central-republica-argentina-lns0001270-1980-08-14"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=183395"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/183395/texact.htm"

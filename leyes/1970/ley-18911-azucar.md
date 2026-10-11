@@ -9,7 +9,9 @@ date: 1970-12-31
 published: 1971-02-01
 boletin_oficial: "22105"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-18911-nacional-regimen-garantia-cobro-para-productores-caneros-lns0000890-1970-12-31"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=301713"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/301713/norma.htm"

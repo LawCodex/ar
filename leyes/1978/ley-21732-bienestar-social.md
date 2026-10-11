@@ -9,7 +9,9 @@ date: 1978-01-12
 published: 1978-01-18
 boletin_oficial: "23833"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21732-nacional-actualizacion-deudas-capital-concepto-mutuos-hipotecarios-lns0000101-1978-01-12"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=303824"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/303824/norma.htm"

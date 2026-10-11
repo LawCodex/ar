@@ -9,7 +9,9 @@ date: 1976-09-29
 published: 1976-10-07
 boletin_oficial: "23506"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-21431-nacional-lnn0025367-1976-09-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=166325"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/165000-169999/166325/norma.htm"

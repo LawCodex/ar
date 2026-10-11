@@ -8,6 +8,8 @@ language: es
 date: 1909-08-28
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-6546-nacional-lnn0012641-1909-09-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=216044"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/215000-219999/216044/norma.htm"

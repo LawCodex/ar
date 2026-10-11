@@ -10,6 +10,8 @@ published: 1982-06-01
 boletin_oficial: "24932"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22599-nacional-lnn0027737-1982-05-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304280"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304280/norma.htm"

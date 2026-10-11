@@ -10,6 +10,8 @@ published: 1972-05-17
 boletin_oficial: "22424"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-19629-nacional-lnn0026832-1972-05-10"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=196617"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/196617/texact.htm"

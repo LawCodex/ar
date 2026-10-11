@@ -10,6 +10,8 @@ published: 1981-07-08
 boletin_oficial: "24706"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22471-nacional-lnn0027543-1981-06-24"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304204"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304204/norma.htm"
@@ -80,7 +82,9 @@ Carlos A. Lacoste.
 
 Amadeo R. Frúgoli.
 
-## ANEXO A LA LEY N° 22.471 — BIENES INMUEBLES AFECTADOS A PLANES HABITACIONALES QUE FIGURAN COMO PERTENECIENTES A LA EX-C.G.T.
+## ANEXO A LA LEY N° 22.471
+
+BIENES INMUEBLES AFECTADOS A PLANES HABITACIONALES QUE FIGURAN COMO PERTENECIENTES A LA EX-C.G.T.
 
 1° — Inmuebles en los que se han construido planes habitacionales con fondos del Banco Hipotecarlo Nacional:
 

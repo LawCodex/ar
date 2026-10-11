@@ -9,7 +9,9 @@ date: 1976-06-09
 published: 1976-06-14
 boletin_oficial: "23425"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-21329-nacional-feriados-nacionales-dias-laborables-lns0000356-1976-06-09"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=65453"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/65000-69999/65453/texact.htm"

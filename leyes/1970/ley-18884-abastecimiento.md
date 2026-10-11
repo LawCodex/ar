@@ -9,7 +9,9 @@ date: 1970-12-29
 published: 1971-01-07
 boletin_oficial: "22088"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-18884-nacional-lnn0025570-1970-12-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=179875"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/175000-179999/179875/norma.htm"

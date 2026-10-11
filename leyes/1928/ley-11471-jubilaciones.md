@@ -9,7 +9,9 @@ date: 1928-09-24
 published: 1928-10-31
 boletin_oficial: "10357"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-11471-nacional-jubilacion-obreros-trabajan-domicilio-para-administracion-publica-lns0002278-1928-09-24"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=198397"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/198397/norma.htm"

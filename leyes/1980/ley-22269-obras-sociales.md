@@ -9,7 +9,9 @@ date: 1980-08-15
 published: 1980-08-20
 boletin_oficial: "24484"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-22269-nacional-seguridad-social-obras-sociales-lns0001269-1980-08-15"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=114909"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/110000-114999/114909/texact.htm"

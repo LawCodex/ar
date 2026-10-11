@@ -8,6 +8,8 @@ language: es
 date: 1863-11-05
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-72-nacional-lnn0024893-1856-07-24"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=201144"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/200000-204999/201144/norma.htm"

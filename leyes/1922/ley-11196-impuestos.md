@@ -10,6 +10,8 @@ published: 1923-01-02
 boletin_oficial: "8644"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-11196-nacional-lnn0024872-1922-12-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=293223"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/293223/norma.htm"

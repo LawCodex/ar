@@ -1,0 +1,47 @@
+---
+title: "Ley 26807: CULTURA — BIBLIOTECA NACIONAL 'DOCTOR MARIANO MORENO'"
+identifier: "Ley 26807"
+infoleg_id: "207334"
+type: act
+jurisdiction: ar
+language: es
+date: 2012-11-28
+published: 2013-01-15
+boletin_oficial: "32562"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-26807-nacional-designacion-nombre-doctor-mariano-moreno-biblioteca-nacional-lns0005813-2012-11-28"
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=207334"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/205000-209999/207334/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 26807: CULTURA — BIBLIOTECA NACIONAL 'DOCTOR MARIANO MORENO'
+
+CULTURA
+
+Ley 26.807
+
+Desígnase con el nombre “Doctor Mariano Moreno” a la Biblioteca Nacional.
+
+Sancionada: Noviembre 28 de 2012
+
+Promulgada de Hecho: Enero 8 de 2013
+
+El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc. sancionan con fuerza de Ley:
+
+## ARTICULO 1º
+
+Desígnase con el nombre “Doctor Mariano Moreno” a la Biblioteca Nacional.
+
+## ARTICULO 2º
+
+Comuníquese al Poder Ejecutivo nacional.
+
+DADA EN LA SALA DE SESIONES DEL CONGRESO ARGENTINO, EN BUENOS AIRES, A LOS VEINTIOCHO DIAS DEL MES DE NOVIEMBRE DEL AÑO DOS MIL DOCE.
+
+— REGISTRADO BAJO EL Nº 26.807—
+
+AMADO BOUDOU. — JULIAN A. DOMINGUEZ. — Gervasio Bozzano. — Juan H. Estrada.

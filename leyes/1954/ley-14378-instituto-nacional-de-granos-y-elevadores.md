@@ -9,7 +9,9 @@ date: 1954-09-30
 published: 1954-10-20
 boletin_oficial: "17756"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-14378-nacional-lnn0026097-1954-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=151499"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/150000-154999/151499/norma.htm"

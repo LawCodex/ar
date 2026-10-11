@@ -9,7 +9,9 @@ date: 1974-12-19
 published: 1975-01-24
 boletin_oficial: "23083"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20952-nacional-actuacion-policia-federal-ferrocarriles-lns0000385-1974-12-19"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=182701"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/182701/norma.htm"

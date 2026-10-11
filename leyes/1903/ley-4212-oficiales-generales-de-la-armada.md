@@ -10,6 +10,8 @@ published: 1903-10-02
 boletin_oficial: "2996"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-4212-nacional-lnn0014266-1903-09-14"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=192857"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/192857/norma.htm"

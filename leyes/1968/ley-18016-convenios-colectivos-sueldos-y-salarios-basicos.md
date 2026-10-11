@@ -10,6 +10,8 @@ published: 1969-01-02
 boletin_oficial: "21594"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-18016-nacional-lnn0018124-1968-12-24"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=181392"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/181392/norma.htm"

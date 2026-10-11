@@ -9,7 +9,9 @@ date: 1914-09-22
 published: 1914-09-29
 boletin_oficial: "6216"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-9502-nacional-aumento-numero-juzgados-nacionales-primera-instancia-comercial-capital-federal-lns0002492-1914-09-22"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=291273"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/291273/norma.htm"

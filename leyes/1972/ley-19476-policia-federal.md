@@ -10,6 +10,8 @@ published: 1972-02-11
 boletin_oficial: "22361"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-19476-nacional-lnn0018155-1972-02-03"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=183373"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/183373/norma.htm"

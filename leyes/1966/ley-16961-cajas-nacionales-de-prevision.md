@@ -10,6 +10,8 @@ published: 1966-10-04
 boletin_oficial: "21039"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-16961-nacional-lnn0001324-1966-09-26"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=46828"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/45000-49999/46828/norma.htm"

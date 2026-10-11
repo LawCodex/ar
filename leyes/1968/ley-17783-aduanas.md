@@ -8,6 +8,8 @@ language: es
 date: 1968-06-24
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-17783-nacional-lnn0016474-1968-06-24"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=300851"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/300851/norma.htm"

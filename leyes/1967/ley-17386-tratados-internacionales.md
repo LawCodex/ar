@@ -52,7 +52,9 @@ Los gobiernos firmantes,
 
 Considerando: que es deseable modificar el Convenio para la unificación de ciertas reglas relativas al transporte aéreo internacional, firmado en Varsovia el 12 de octubre de 1929 (XI-A, 188), han convenido lo siguiente:
 
-## CAPITULO I - Modificaciones al convento — ARTICULO I
+## CAPITULO I - Modificaciones al convento
+
+ARTICULO I
 
 En el art. 1º del Convenio:
 
@@ -214,11 +216,15 @@ Después del art. 40 del Convenio se añade el siguiente artículo:
 
 2\. A los fines del Convenio, el término territorio significa no solamente el territorio metropolitano de un Estado, sino también todos los demás territorios de cuyas relaciones exteriores sea responsable dicho Estado.
 
-## CAPITULO II - Campo de aplicación del convenio modificado — ARTICULO XVIII
+## CAPITULO II - Campo de aplicación del convenio modificado
+
+ARTICULO XVIII
 
 El Convenio, modificado por este Protocolo, se aplicará al transporte internacional definido en el artículo 1 del Convenio si los puntos de partida y de destino mencionados en ese artículo se encuentran en los territorios de dos Partes del presente Protocolo o del territorio de una sola Parte, si hay una escala prevista en el territorio de cualquier otro Estado.
 
-## CAPITULO III - Cláusulas finales — ARTICULO XIX
+## CAPITULO III - Cláusulas finales
+
+ARTICULO XIX
 
 Para las Partes de este Protocolo, el Convenio y el Protocolo se considerarán e interpretarán como un solo instrumento, el que se
 

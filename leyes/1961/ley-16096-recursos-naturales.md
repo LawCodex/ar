@@ -10,6 +10,8 @@ published: 1961-12-16
 boletin_oficial: "19708"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-16096-nacional-lnn0020005-1961-11-20"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=299258"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/299258/norma.htm"

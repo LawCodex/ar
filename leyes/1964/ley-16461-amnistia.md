@@ -8,6 +8,8 @@ language: es
 date: 1964-07-16
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-16461-nacional-lnn0019997-1964-07-16"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=299996"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/299996/norma.htm"

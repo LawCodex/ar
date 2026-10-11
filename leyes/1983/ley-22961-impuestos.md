@@ -10,6 +10,8 @@ published: 2014-03-25
 boletin_oficial: "32852"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22961-nacional-lnn0003092-1983-10-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=228072"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/225000-229999/228072/norma.htm"

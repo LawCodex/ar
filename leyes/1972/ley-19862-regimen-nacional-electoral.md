@@ -9,7 +9,9 @@ date: 1972-10-03
 published: 1972-10-05
 boletin_oficial: "22520"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-19862-nacional-lns0000679-1972-10-03"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=151876"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/150000-154999/151876/norma.htm"

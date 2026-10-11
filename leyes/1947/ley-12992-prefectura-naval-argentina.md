@@ -9,7 +9,9 @@ date: 1947-06-27
 published: 1947-07-18
 boletin_oficial: "15819"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-12992-nacional-regimen-retiros-pensiones-personal-policial-prefectura-naval-argentina-lns0002047-1947-06-27"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=45290"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/45000-49999/45290/texact.htm"

@@ -9,7 +9,9 @@ date: 1961-10-05
 published: 1961-11-11
 boletin_oficial: "19679"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-15928-nacional-prohibicion-sustancias-insolubles-al-lavado-marcacion-lanares-fardos-lana-lns0001422-1961-10-05"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=196662"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/196662/norma.htm"

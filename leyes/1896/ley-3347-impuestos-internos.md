@@ -10,6 +10,8 @@ published: 1896-01-12
 boletin_oficial: "745"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-3347-nacional-lnn0024207-1896-01-09"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=284517"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/280000-284999/284517/norma.htm"

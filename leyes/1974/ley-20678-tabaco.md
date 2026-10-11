@@ -10,6 +10,8 @@ published: 1974-06-28
 boletin_oficial: "22942"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-20678-nacional-lnn0026727-1974-06-07"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=148045"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/145000-149999/148045/norma.htm"

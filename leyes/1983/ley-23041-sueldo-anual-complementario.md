@@ -9,7 +9,9 @@ date: 1983-12-22
 published: 1984-01-04
 boletin_oficial: "25335"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-23041-nacional-sueldo-anual-complementario-para-trabajadores-actividad-privada-publica-lns0003127-1983-12-22"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=28165"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/28165/norma.htm"

@@ -9,7 +9,9 @@ date: 1971-10-11
 published: 1971-11-16
 boletin_oficial: "22300"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19292-nacional-creacion-parques-reservas-nacionales-lns0002896-1971-10-11"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=198744"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/198744/norma.htm"

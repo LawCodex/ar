@@ -9,7 +9,9 @@ date: 1948-09-27
 published: 1948-10-19
 boletin_oficial: "16184"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-13337-nacional-otorgamiento-pensiones-graciables-lns0002004-1948-09-27"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=102069"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/100000-104999/102069/texact.htm"

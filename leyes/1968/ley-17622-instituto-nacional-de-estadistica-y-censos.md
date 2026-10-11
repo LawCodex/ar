@@ -9,7 +9,9 @@ date: 1968-01-25
 published: 1968-01-31
 boletin_oficial: "21366"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-17622-nacional-ley-creacion-sistema-estadistico-nacional-instituto-nacional-estadistica-censos-indec-lns0001129-1968-01-25"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=24962"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/24962/texact.htm"

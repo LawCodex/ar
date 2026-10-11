@@ -10,6 +10,8 @@ published: 1958-10-11
 boletin_oficial: "18762"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-14493-nacional-lnn0018448-1958-09-26"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=297770"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/297770/norma.htm"

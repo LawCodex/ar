@@ -10,6 +10,8 @@ published: 1981-06-19
 boletin_oficial: "24693"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22466-nacional-lnn0027552-1981-06-16"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304200"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304200/norma.htm"

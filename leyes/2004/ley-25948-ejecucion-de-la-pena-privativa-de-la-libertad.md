@@ -1,0 +1,77 @@
+---
+title: "Ley 25948: EJECUCION DE LA PENA PRIVATIVA DE LA LIBERTAD — LEY 24660 - MODIFICACION"
+identifier: "Ley 25948"
+infoleg_id: "100947"
+type: act
+jurisdiction: ar
+language: es
+date: 2004-10-20
+published: 2004-11-12
+boletin_oficial: "30526"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-25948-nacional-ejecucion-pena-privativa-libertad-lnn0029497-2004-10-20"
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=100947"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/100000-104999/100947/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 25948: EJECUCION DE LA PENA PRIVATIVA DE LA LIBERTAD — LEY 24660 - MODIFICACION
+
+EJECUCION DE LA PENA PRIVATIVA DE LA LIBERTAD
+
+Ley 25.948
+
+Modificación de la Ley Nº 24.660.
+
+Sancionada: Octubre 20 de 2004
+
+Promulgada de Hecho: Noviembre 11 de 2004
+
+El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc. sancionan con fuerza de Ley:
+
+## ARTICULO 1º
+
+Incorpórase a la Ley Nº 24.660 el siguiente Capítulo:
+
+"Capítulo 2 bis: Excepciones a las modalidades básicas de la ejecución".
+
+## ARTICULO 2º
+
+Incorpórase a la Ley Nº 24.660, como artículo 56 bis, en el Capítulo 2 bis, el siguiente:
+
+"Artículo 56 bis.- No podrán otorgarse los beneficios comprendidos en el período de prueba a los condenados por los siguientes delitos:
+
+1.- Homicidio agravado previsto en el artículo 80, inciso 7., del Código Penal.
+
+2.- Delitos contra la integridad sexual de los que resultare la muerte de la víctima, previstos en el artículo 124 del Código Penal.
+
+3.- Privación ilegal de la libertad coactiva, si se causare intencionalmente la muerte de la persona ofendida, previsto en el artículo 142 bis, anteúltimo párrafo, del Código Penal.
+
+4.- Homicidio en ocasión de robo, previsto en el artículo 165 del Código Penal.
+
+5\. Secuestro extorsivo, si se causare intencionalmente la muerte de la persona ofendida, previsto en el artículo 170, anteúltimo párrafo, del Código Penal.
+
+Los condenados por cualquiera de los delitos enumerados precedentemente, tampoco podrán obtener los beneficios de la prisión discontinua o semidetención, ni el de la libertad asistida, previstos en los artículos 35, 54 y concordantes de la presente ley."
+
+## ARTICULO 3º
+
+Sustitúyese el artículo 56 de la Ley Nº 24.660 por el siguiente:
+
+"Artículo 56.- Cuando el condenado en libertad asistida cometiere un delito o violare la obligación que le impone el apartado I del artículo que antecede, la libertad asistida le será revocada y agotará el resto de su condena en un establecimiento cerrado.
+
+Si el condenado en libertad asistida incumpliere reiteradamente las reglas de conducta que le hubieren sido impuestas, o violare la obligación de residencia que le impone el apartado III del artículo que antecede, o incumpliere sin causa que lo justifique la obligación de reparación de daños prevista en el apartado IV de ese artículo, el juez de ejecución o el juez que resultare competente deberá revocar su incorporación al régimen de la libertad asistida.
+
+En tales casos el término de duración de la condena será prorrogado y se practicará un nuevo cómputo de la pena, en el que no se tendrá en cuenta el tiempo que hubiera durado la inobservancia que dio lugar a la revocación del beneficio".
+
+## ARTICULO 4º
+
+Comuníquese al Poder Ejecutivo.
+
+DADA EN LA SALA DE SESIONES DEL CONGRESO ARGENTINO, EN BUENOS AIRES, A LOS VEINTE DIAS DEL MES DE OCTUBRE DEL AÑO DOS MIL CUATRO.
+
+— REGISTRADO BAJO EL Nº 25.948 —
+
+EDUARDO O. CAMAÑO. — MARCELO A. GUINLE. — Eduardo D. Rollano. — Juan Estrada.

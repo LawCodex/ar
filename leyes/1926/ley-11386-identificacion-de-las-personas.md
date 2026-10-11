@@ -9,7 +9,9 @@ date: 1926-09-30
 published: 1926-10-25
 boletin_oficial: "9764"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-11386-nacional-enrolamiento-ciudadanos-lns0002556-1926-09-30"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=293388"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/293388/texact.htm"

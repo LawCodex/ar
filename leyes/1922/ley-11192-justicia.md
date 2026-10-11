@@ -9,7 +9,9 @@ date: 1922-09-29
 published: 1922-10-27
 boletin_oficial: "8592"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-11192-nacional-creacion-juzgado-federal-ciudad-mercedes-provincia-buenos-aires-lns0002614-1922-09-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=196052"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/196052/norma.htm"

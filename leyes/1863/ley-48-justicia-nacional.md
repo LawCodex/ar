@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1863-08-25
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-48-nacional-competencia-tribunales-nacionales-lns0002649-1863-08-25"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=116296"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/115000-119999/116296/texact.htm"

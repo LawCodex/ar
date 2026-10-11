@@ -10,6 +10,8 @@ published: 1952-10-15
 boletin_oficial: "17255"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-14166-nacional-lnn0019672-1952-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=176977"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/175000-179999/176977/norma.htm"

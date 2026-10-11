@@ -150,7 +150,9 @@ Anexo III - Protocolo relativo a determinados quesos
 
 Determinados quesos.
 
-## TERCERA PARTE — Artículo VII - Administración del acuerdo
+## TERCERA PARTE
+
+Artículo VII - Administración del acuerdo
 
 1\. Consejo Internacional de Productos Lácteos
 
@@ -196,7 +198,9 @@ d) Decisiones
 
 Cada Comité adoptará sus decisiones por consenso. Se entenderá que un Comité ha decidido sobre una cuestión sometida a su examen cuando ninguno de sus miembros se oponga de manera formal a la aceptación de una propuesta.
 
-## CUARTA PARTE — Artículo VIII - Disposiciones finales
+## CUARTA PARTE
+
+Artículo VIII - Disposiciones finales
 
 1\. Aceptación (4)
 

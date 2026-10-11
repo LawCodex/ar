@@ -9,7 +9,9 @@ date: 1979-06-28
 published: 1979-07-04
 boletin_oficial: "24199"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22021-nacional-promocion-provincias-san-luis-rioja-catamarca-lns0000008-1979-06-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=32191"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/30000-34999/32191/norma.htm"

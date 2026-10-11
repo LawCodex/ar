@@ -9,7 +9,9 @@ date: 1971-10-22
 published: 1971-11-02
 boletin_oficial: "22291"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19316-nacional-creacion-instituto-servicios-sociales-para-actividades-rurales-afines-issara-lns0000807-1971-10-22"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=28188"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/28188/norma.htm"

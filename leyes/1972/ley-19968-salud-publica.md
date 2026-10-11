@@ -9,7 +9,9 @@ date: 1972-11-24
 published: 1972-11-30
 boletin_oficial: "22556"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-19968-nacional-salud-publica-enfermedades-programas-extraordinarios-vacunacion-antisarampionosa-interes-nacional-lns0000619-1972-11-24"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302478"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302478/norma.htm"

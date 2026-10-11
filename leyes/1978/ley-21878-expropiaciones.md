@@ -9,7 +9,9 @@ date: 1978-09-19
 published: 1978-09-26
 boletin_oficial: "24006"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21878-nacional-exenciones-impositivas-para-expropiaciones-realizadas-provincias-municipios-lns0000061-1978-09-19"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=231467"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/231467/norma.htm"

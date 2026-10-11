@@ -9,7 +9,9 @@ date: 1961-11-10
 published: 1961-11-23
 boletin_oficial: "19689"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-15930-nacional-archivo-general-nacion-lns0001421-1961-10-05"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=60674"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/60000-64999/60674/norma.htm"

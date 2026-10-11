@@ -10,6 +10,8 @@ published: 1926-10-27
 boletin_oficial: "9766"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-11333-nacional-lnn0021468-1926-08-20"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=184961"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/184961/norma.htm"

@@ -1,0 +1,57 @@
+---
+title: "Ley 24294: POLICIA FEDERAL ARGENTINA — BENEFICIOS PERSONAL PASADO A DISPONIBILIDAD Y RETIRO 1960-61"
+identifier: "Ley 24294"
+infoleg_id: "695"
+type: act
+jurisdiction: ar
+language: es
+date: 1993-12-30
+published: 1994-01-10
+boletin_oficial: "27804"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-24294-nacional-lnn0028637-1993-12-07"
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=695"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/0-4999/695/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 24294: POLICIA FEDERAL ARGENTINA — BENEFICIOS PERSONAL PASADO A DISPONIBILIDAD Y RETIRO 1960-61
+
+POLICIA FEDERAL ARGENTINA
+
+Ley N° 24.294
+
+Establécese beneficios para el personal que duranto los años 1960 y 1961 hubiere pasado a disponibilidad y retirado en forma obligatoria.
+
+Sancionada: Diciembre 7 de 1993.
+
+Promulgada: Diciembre 30 de 1993.
+
+El Senado y la Cámara de Diputados de la Nación Argentina reunidos en Congreso sancionan con fuerza de Ley:
+
+## ARTICULO 1°
+
+El Poder Ejecutivo promoverá dos grados con la nomenclatura de "retiro voluntario" al personal de la Policía Federal que durante los años 1960 y 1961 hubiere pasado a disponibilidad y ulteriormente retirado en forma obligatoria.
+
+## ARTICULO 2°
+
+El Poder Ejecutivo reconocerá a los efectos del cómputo definitivo el tiempo que dicho personal permaneció en situación de retiro hasta la sanción de esta ley, siempre que se reúnan las siguientes condiciones:
+
+a) Habérseles gestionado obligatoriamente el retiro durante los años 1960 y 1961;
+
+b) Haber sido declarado en disponibilidad durante los años 1960 ó 1961 y pasado ulteriormente a retiro sin que mediare sumario administrativo con resolución de cesantía o exoneración o haber argumentado falta de idoneidad sin haberse llenado el requisito del sumario respectivo;
+
+c) No haber obtenido anteriormente beneficio similar por la misma causa.
+
+## ARTICULO 3°
+
+Los beneficios derivados de los artículos 1° y 2° serán atendidos por la Caja de Retiros, Jubilaciones y Pensiones de la Policía Federal con sus propios recursos reajustándose los retiros, jubilaciones y pensiones de acuerdo con la nueva situación de revista y antigüedad a partir de la fecha de promulgación de la presente no reconociéndose a los efectos de los pagos retroactividad alguna.
+
+## ARTICULO 4º
+
+Comuníquese al Poder Ejecutivo Nacional. — ALBERTO R. PIERRI. — ORALDO BRITOS. — Esther H. Pereyra Arandía de Pérez Pardo. — Edgardo Piuzzi.
+
+DADA EN LA SALA DE SESIONES DEL CONGRESO ARGENTINO, EN BUENOS AIRES, A LOS SIETE DIAS DEL MES DE DICIEMBRE DEL AÑO MIL NOVECIENTOS NOVENTA Y TRES.

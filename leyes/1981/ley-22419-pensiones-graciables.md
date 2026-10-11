@@ -10,6 +10,8 @@ published: 1981-03-11
 boletin_oficial: "24625"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22419-nacional-lnn0027301-1981-03-05"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304180"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304180/norma.htm"

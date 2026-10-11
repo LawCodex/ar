@@ -9,7 +9,9 @@ date: 1972-08-31
 published: 2006-09-15
 boletin_oficial: "30991"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19815-nacional-gas-estado-lns0005068-1972-08-31"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=119821"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/115000-119999/119821/norma.htm"

@@ -9,7 +9,9 @@ date: 1902-11-07
 published: 1902-11-18
 boletin_oficial: "2745"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-4141-nacional-fijacion-limites-entre-provincias-chaco-santiago-estero-lns0002571-1902-11-07"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=285268"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/285000-289999/285268/norma.htm"

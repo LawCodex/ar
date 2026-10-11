@@ -9,7 +9,9 @@ date: 1953-08-19
 published: 1953-09-03
 boletin_oficial: "17474"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-14218-nacional-derogacion-exenciones-al-pago-tasas-servicios-correo-telecomunicaciones-lns0002832-1953-08-19"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=296544"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/296544/norma.htm"

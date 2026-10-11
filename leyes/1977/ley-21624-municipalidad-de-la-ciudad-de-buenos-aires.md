@@ -10,6 +10,8 @@ published: 1977-08-25
 boletin_oficial: "23730"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-21624-nacional-lnn0026628-1977-08-19"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=92741"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/90000-94999/92741/norma.htm"

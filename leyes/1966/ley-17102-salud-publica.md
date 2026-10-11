@@ -9,7 +9,9 @@ date: 1966-12-30
 published: 1967-01-20
 boletin_oficial: "21112"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-17102-nacional-constitucion-servicios-atencion-medica-integral-para-comunidad-lns0001278-1966-12-30"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=15770"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/15000-19999/15770/texact.htm"

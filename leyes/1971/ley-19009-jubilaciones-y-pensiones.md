@@ -10,6 +10,8 @@ published: 1971-05-04
 boletin_oficial: "22167"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-19009-nacional-lnn0014698-1971-04-20"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=301790"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/301790/norma.htm"

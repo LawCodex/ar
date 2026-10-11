@@ -10,6 +10,8 @@ published: 1971-09-02
 boletin_oficial: "22250"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-19190-nacional-lnn0026869-1971-08-26"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=77257"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/75000-79999/77257/norma.htm"

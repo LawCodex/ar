@@ -9,7 +9,9 @@ date: 1973-05-21
 published: 1973-06-04
 boletin_oficial: "22679"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20425-nacional-regulacion-actividades-relacionadas-inseminacion-artificial-animales-lns0000552-1973-05-21"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=197360"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/197360/norma.htm"

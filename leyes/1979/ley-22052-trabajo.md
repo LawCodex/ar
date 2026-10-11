@@ -10,6 +10,8 @@ published: 1979-08-22
 boletin_oficial: "24232"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22052-nacional-lnn0005538-1979-08-14"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=164527"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/160000-164999/164527/norma.htm"

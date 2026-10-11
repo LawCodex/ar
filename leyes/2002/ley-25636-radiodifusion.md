@@ -1,0 +1,55 @@
+---
+title: "Ley 25636: RADIODIFUSION — APERTURA DE TRANSMISION - DIFUSION OBLIGATORIA"
+identifier: "Ley 25636"
+infoleg_id: "77085"
+type: act
+jurisdiction: ar
+language: es
+date: 2002-08-01
+published: 2002-08-23
+boletin_oficial: "29968"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-25636-nacional-transmision-himno-nacional-argentino-al-comienzo-emisiones-radio-television-lns0004698-2002-08-01"
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=77085"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/75000-79999/77085/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 25636: RADIODIFUSION — APERTURA DE TRANSMISION - DIFUSION OBLIGATORIA
+
+RADIODIFUSION
+
+Ley 25.636
+
+Dispónese que todas las radiodifusoras y cadenas de televisión nacionales comiencen sus emisiones con la transmisión del Himno Nacional Argentino.
+
+Sancionada: Agosto 1 de 2002
+
+Promulgada: Agosto 22 de 2002
+
+El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc. sancionan con fuerza de
+
+Ley:
+
+## ARTICULO 1º
+
+Establecer que todas las radiodifusoras y cadenas de televisión nacionales que hayan obtenido su correspondiente licencia, comiencen sus emisiones con la transmisión del Himno Nacional Argentino.
+
+## ARTICULO 2º
+
+En aquellas difusoras que operen en forma continuada las veinticuatro horas, el himno lo deberán emitir a partir de la cero (0) hora del nuevo día.
+
+(Nota Infoleg: por art. 2° de la Resolución N° 20/2016 del Ente Nacional de Comunicaciones B.O. 11/03/2016 se establece que en marco de las disposiciones previstas en los artículos 1° y 2° de la presente Ley, los sujetos obligados cuentan con una tolerancia de hasta QUINCE (15) minutos para su cumplimiento.)
+
+## ARTICULO 3º
+
+Comuníquese al Poder Ejecutivo.
+
+DADA EN LA SALA DE SESIONES DEL CONGRESO ARGENTINO, EN BUENOS AIRES, A UN DIA DEL MES DE AGOSTO DEL AÑO DOS MIL DOS.
+
+— REGISTRADA BAJO EL Nº 25.636 —
+
+EDUARDO O. CAMAÑO. — JUAN C. MAQUEDA. — Juan Estrada. — Juan C. Oyarzún.

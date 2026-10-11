@@ -8,6 +8,8 @@ language: es
 date: 1968-12-31
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-18059-nacional-lnn0016145-1968-12-31"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=301069"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/301069/norma.htm"

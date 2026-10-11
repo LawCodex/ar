@@ -10,6 +10,8 @@ published: 1932-10-17
 boletin_oficial: "11515"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-11660-nacional-lnn0027261-1932-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=293671"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/293671/norma.htm"

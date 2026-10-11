@@ -10,6 +10,8 @@ published: 1948-10-20
 boletin_oficial: "16185"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-13501-nacional-lnn0021281-1948-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=220486"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/220000-224999/220486/norma.htm"

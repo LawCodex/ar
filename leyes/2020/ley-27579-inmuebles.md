@@ -1,0 +1,59 @@
+---
+title: "Ley 27579: INMUEBLES — TRANSFERENCIA - ASOCIACION DE BOMBEROS VOLUNTARIOS DE ELDORADO"
+identifier: "Ley 27579"
+infoleg_id: "344583"
+type: act
+jurisdiction: ar
+language: es
+date: 2020-11-05
+published: 2020-11-26
+boletin_oficial: "34529"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-27579-nacional-transferencia-titulo-gratuito-inmuebles-asociacion-bomberos-voluntarios-eldorado-misiones-lns0006904-2020-11-05"
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=344583"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/340000-344999/344583/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 27579: INMUEBLES — TRANSFERENCIA - ASOCIACION DE BOMBEROS VOLUNTARIOS DE ELDORADO
+
+INMUEBLES
+
+Ley 27579
+
+Transfiérese inmueble a favor de la Asociación de Bomberos Voluntarios de Eldorado.
+
+El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc. sancionan con fuerza de
+
+Ley:
+
+## Artículo 1º
+
+Transfiérase a título gratuito a la Asociación de Bomberos Voluntarios de Eldorado, personería jurídica A-220 decreto 3741/72, con sede en la calle Paraguay N° 139 – C.P. 3380, Eldorado, provincia de Misiones, los inmuebles propiedad del Estado nacional identificados como: solar 18; fracción k-4, parte 2, con superficie de 1.634,92 metros cuadrados; y solar 16, fracción k-4, parte e, con superficie de 877,49 metros cuadrados situados en la ciudad de Eldorado, provincia de Misiones. Ambos inmuebles se encuentran inscriptos en el Registro de la Propiedad del Inmueble de la mencionada provincia a nombre del superior Gobierno de la Nación Argentina bajo la siguiente nomenclatura catastral: departamento 6, municipio 30, sección 8, chacra 000, manzana 11, parcelas 3 y 4, respectivamente.
+
+## Art. 2°
+
+El Poder Ejecutivo nacional adoptará las medidas pertinentes a los efectos de concluir la respectiva transferencia en el término de sesenta (60) días de la entrada en vigencia de la presente ley.
+
+## Art. 3°
+
+En caso de que cesara la personería de la Asociación de Bomberos Voluntarios, el dominio del inmueble objeto de la presente revertirá a favor del Estado nacional.
+
+## Art. 4°
+
+Los gastos que se produzcan con motivo de la transferencia dispuesta serán a exclusivo cargo de la beneficiaria.
+
+## Art. 5°
+
+Comuníquese al Poder Ejecutivo nacional.
+
+DADA EN LA SALA DE SESIONES DEL CONGRESO ARGENTINO, EN BUENOS AIRES, A LOS CINCO DIAS DEL MES DE NOVIEMBRE DEL AÑO DOS MIL VEINTE.
+
+REGISTRADA BAJO EL N° 27579
+
+CLAUDIA LEDESMA ABDALA DE ZAMORA - SERGIO MASSA - Juan Pedro Tunessi - Eduardo Cergnul
+
+e. 26/11/2020 N° 59107/20 v. 26/11/2020

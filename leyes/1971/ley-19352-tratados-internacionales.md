@@ -9,7 +9,9 @@ date: 1971-12-02
 published: 1971-12-13
 boletin_oficial: "22318"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19352-nacional-uso-emblema-sello-oficial-nombre-naciones-unidas-lns0000793-1971-12-02"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=213356"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/210000-214999/213356/norma.htm"

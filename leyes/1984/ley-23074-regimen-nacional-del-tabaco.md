@@ -10,6 +10,8 @@ published: 1984-07-31
 boletin_oficial: "25478"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-23074-nacional-lnn0027997-1984-07-04"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=28069"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/28069/norma.htm"

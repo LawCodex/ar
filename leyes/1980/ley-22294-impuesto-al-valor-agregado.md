@@ -10,6 +10,8 @@ published: 1980-10-06
 boletin_oficial: "24517"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22294-nacional-tributos-impuestos-impuesto-al-valor-agregado-lns0002294-1980-10-03"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=115138"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/115000-119999/115138/norma.htm"

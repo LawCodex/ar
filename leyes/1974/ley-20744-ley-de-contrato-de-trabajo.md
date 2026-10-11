@@ -10,6 +10,8 @@ published: 1974-09-27
 boletin_oficial: "23003"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-20744-nacional-lnn0000516-1974-09-11"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=25552"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/25552/texact.htm"
@@ -318,11 +320,13 @@ Siempre que una (1) o más empresas, aunque tuviesen cada una de ellas personali
 
 (Artículo sustituido por art. 19 de la Ley Nº 27.802 B.O. 6/3/2026. Vigencia: a partir de su publicación en el Boletín Oficial.)
 
-CAPITULO III
+### CAPITULO III
 
 De los requisitos esenciales y formales del contrato de trabajo.
 
-Art. 32. —Capacidad. Las personas desde los dieciocho (18) años, pueden celebrar contrato de trabajo.
+#### Art. 32
+
+Capacidad. Las personas desde los dieciocho (18) años, pueden celebrar contrato de trabajo.
 
 Las personas desde los dieciséis (16) años y menores de dieciocho (18) años, pueden celebrar contrato de trabajo, con autorización de sus padres, responsables o tutores. Se presume tal autorización cuando el adolescente viva independientemente de ellos.
 

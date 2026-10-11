@@ -9,7 +9,9 @@ date: 1972-11-09
 published: 1972-11-20
 boletin_oficial: "22548"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-19939-nacional-estado-poder-judicial-organizacion-judicial-corte-suprema-justicia-nacion-lns0000648-1972-11-09"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302458"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302458/texact.htm"

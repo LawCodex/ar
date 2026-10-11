@@ -9,7 +9,9 @@ date: 1984-09-29
 published: 1984-11-02
 boletin_oficial: "25544"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-23106-nacional-liberacion-vinos-bloqueados-lns0003183-1984-09-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=27244"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/27244/norma.htm"

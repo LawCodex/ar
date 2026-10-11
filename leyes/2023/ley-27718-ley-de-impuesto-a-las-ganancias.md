@@ -1,0 +1,57 @@
+---
+title: "Ley 27718: LEY DE IMPUESTO A LAS GANANCIAS — MODIFICACION"
+identifier: "Ley 27718"
+infoleg_id: "383263"
+type: act
+jurisdiction: ar
+language: es
+date: 2023-04-19
+published: 2023-05-08
+boletin_oficial: "35165"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-27718-nacional-exencion-impuesto-ganancias-remuneraciones-perciben-trabajadores-salud-concepto-guardias-obligatorias-horas-extras-lns0007179-2023-04-19"
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=383263"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/380000-384999/383263/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 27718: LEY DE IMPUESTO A LAS GANANCIAS — MODIFICACION
+
+LEY DE IMPUESTO A LAS GANANCIAS
+
+Ley 27718
+
+Modificación.
+
+El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc. sancionan con fuerza de
+
+Ley:
+
+## Artículo 1º
+
+Modificase el artículo 27 de la Ley de Impuesto a las Ganancias, texto ordenado en 2019 y sus modificaciones, por el siguiente:
+
+**Artículo 27.** Además de lo establecido en el artículo 26, están exentas del gravamen:
+
+Las remuneraciones percibidas en concepto de guardias obligatorias, ya sean activas o pasivas, y horas extras, realizadas por los profesionales, técnicos, auxiliares y personal operativo de los sistemas de salud, cuando la prestación del servicio se realice en centros de salud públicos o privados en todo el territorio nacional.
+
+El beneficio de este apartado debe indicarse, en el recibo de haberes correspondiente al sujeto que tenga a su cargo el pago de la remuneración y/o liquidación del haber, identificándolo con la leyenda “Exención segundo párrafo del artículo 27 de la Ley de Impuesto a las Ganancias para las trabajadoras y trabajadores de la salud”.
+
+## Artículo 2º
+
+La presente ley entrará en vigencia a partir de su publicación en el Boletín Oficial y surtirá efectos para las remuneraciones que devenguen a partir del primer día del mes en que ello ocurra, inclusive.
+
+## Artículo 3º
+
+Comuníquese al Poder Ejecutivo nacional.
+
+DADA EN LA SALA DE SESIONES DEL CONGRESO ARGENTINO, EN BUENOS AIRES, A LOS DIECINUEVE DÍAS DEL MES DE ABRIL DEL AÑO DOS MIL VEINTITRÉS.
+
+REGISTRADO BAJO EL N° 27718
+
+CLAUDIA LEDESMA ABDALA DE ZAMORA - CECILIA MOREAU - Marcelo Jorge Fuentes - Eduardo Cergnul
+
+e. 08/05/2023 N° 32498/23 v. 08/05/2023

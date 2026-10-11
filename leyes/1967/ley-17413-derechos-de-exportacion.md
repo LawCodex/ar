@@ -9,7 +9,9 @@ date: 1967-08-30
 published: 1967-09-05
 boletin_oficial: "21265"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-17413-nacional-derechos-exportacion-al-lino-al-aceite-lino-lns0001168-1967-08-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=300557"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/300557/norma.htm"

@@ -9,7 +9,9 @@ date: 1949-09-29
 published: 1949-10-13
 boletin_oficial: "16470"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-13580-nacional-organizacion-justicia-federal-plata-buenos-aires-lns0001976-1949-09-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=195408"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/195408/norma.htm"

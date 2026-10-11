@@ -9,7 +9,9 @@ date: 1947-02-05
 published: 1947-03-20
 boletin_oficial: "15725"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-12950-nacional-exencion-tasas-portuarias-lns0002060-1947-02-05"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=45074"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/45000-49999/45074/norma.htm"

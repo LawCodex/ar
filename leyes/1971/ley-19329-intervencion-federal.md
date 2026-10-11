@@ -10,6 +10,8 @@ published: 1971-11-05
 boletin_oficial: "22294"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-19329-nacional-lnn0015074-1971-10-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302015"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302015/norma.htm"

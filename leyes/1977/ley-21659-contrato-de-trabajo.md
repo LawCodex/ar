@@ -9,7 +9,9 @@ date: 1977-10-06
 published: 1977-10-12
 boletin_oficial: "23764"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21659-nacional-interrupcion-plazo-art-252-ley-20744-lns0000129-1977-10-06"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=77206"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/75000-79999/77206/texact.htm"

@@ -9,7 +9,9 @@ date: 1980-07-11
 published: 1980-07-17
 boletin_oficial: "24460"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22250-nacional-regimen-laboral-obreros-construccion-lns0001103-1980-07-11"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=27238"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/27238/texact.htm"

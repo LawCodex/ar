@@ -9,7 +9,9 @@ date: 1946-12-22
 published: 1947-01-10
 boletin_oficial: "15669"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-12927-nacional-organizacion-direccion-general-impositiva-lns0002424-1946-12-22"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=27319"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/27319/norma.htm"

@@ -9,7 +9,9 @@ date: 1976-04-23
 published: 1976-04-29
 boletin_oficial: "23394"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21297-nacional-integracion-comisiones-para-estudio-elaboracion-proyectos-ley-modificacion-ley-20744-derogacion-ley-20695-lns0000520-1976-04-23"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=303547"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/303547/norma.htm"

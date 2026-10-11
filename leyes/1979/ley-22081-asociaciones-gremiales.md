@@ -10,6 +10,8 @@ published: 1979-10-05
 boletin_oficial: "24264"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22081-nacional-lnn0009217-1979-09-21"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304011"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304011/norma.htm"

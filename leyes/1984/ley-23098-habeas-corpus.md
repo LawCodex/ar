@@ -9,7 +9,9 @@ date: 1984-09-28
 published: 1984-10-25
 boletin_oficial: "25538"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-23098-nacional-procedimiento-habeas-corpus-lns0003178-1984-09-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=48612"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/45000-49999/48612/norma.htm"

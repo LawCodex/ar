@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1908-09-24
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-5625-nacional-pensiones-graciables-para-deudos-guerreros-paraguay-brasil-lns0002399-1908-09-24"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=287469"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/285000-289999/287469/norma.htm"

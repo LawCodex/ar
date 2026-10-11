@@ -9,7 +9,9 @@ date: 1972-11-28
 published: 1972-12-04
 boletin_oficial: "22558"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19978-nacional-emision-titulos-deuda-publica-interna-denominados-valores-nacionales-ajustables-lns0000616-1972-11-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302484"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302484/norma.htm"

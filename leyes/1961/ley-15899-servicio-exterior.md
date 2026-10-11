@@ -10,6 +10,8 @@ published: 1961-10-05
 boletin_oficial: "19649"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-15899-nacional-lnn0017607-1961-09-27"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=191472"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/191472/norma.htm"

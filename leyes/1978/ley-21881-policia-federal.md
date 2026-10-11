@@ -10,6 +10,8 @@ published: 1978-10-04
 boletin_oficial: "24012"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-21881-nacional-lnn0027522-1978-09-19"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=183482"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/183482/norma.htm"

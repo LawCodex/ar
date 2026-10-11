@@ -1,0 +1,65 @@
+---
+title: "Ley 26997: EDUCACION SUPERIOR — UNIVERSIDAD NACIONAL DE LAS ARTES"
+identifier: "Ley 26997"
+infoleg_id: "238242"
+type: act
+jurisdiction: ar
+language: es
+date: 2014-10-22
+published: 2014-11-14
+boletin_oficial: "33011"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-26997-nacional-transformacion-instituto-universitario-nacional-arte-universidad-nacional-artes-lns0005977-2014-10-22"
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=238242"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/235000-239999/238242/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 26997: EDUCACION SUPERIOR — UNIVERSIDAD NACIONAL DE LAS ARTES
+
+EDUCACION SUPERIOR
+
+Ley 26.997
+
+Universidad Nacional de las Artes.
+
+Sancionada: Octubre 22 de 2014
+
+Promulgada de Hecho: Noviembre 7 de 2014
+
+El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc. sancionan con fuerza de
+
+Ley:
+
+## ARTICULO 1°
+
+Transfórmase el Instituto Universitario Nacional del Arte —IUNA—, creado por Decreto 1.404/96 en Universidad Nacional de las Artes —UNA—, como persona jurídica de derecho público en el carácter previsto en el artículo 48 de la ley 24.521, de Educación Superior.
+
+## ARTICULO 2°
+
+La Universidad Nacional de las Artes —UNA—, a partir de la sanción de la presente ley, será la continuadora del Instituto Universitario Nacional del Arte —IUNA—, y mantendrá la conformación, personal docente y no docente y autoridades del mismo.
+
+## ARTICULO 3°
+
+La Universidad Nacional de las Artes —UNA— continuará rigiéndose por la actual normativa interna del ex Instituto Universitario Nacional del Arte —IUNA—, pudiendo adaptar su estructura y estatuto al nuevo estatus de Universidad según lo determine la Asamblea Universitaria.
+
+## ARTICULO 4°
+
+Los bienes muebles e inmuebles transferidos al ex Instituto Universitario Nacional del Arte —IUNA—, al igual que los derechos y obligaciones de cualquier naturaleza que le correspondan al mismo, pasan a integrar el patrimonio de la Universidad Nacional de las Artes —UNA—. Los registros en los que eventualmente dichos bienes, derechos y obligaciones se hallaren inscriptos deberán anotar, por los medios que correspondan, el cambio de titularidad registral que se deriva de la transformación aprobada por la presente ley.
+
+## ARTICULO 5°
+
+El presupuesto asignado en la Ley de Presupuesto General de la Administración Pública Nacional vigente al ex Instituto Universitario Nacional del Arte —IUNA—, pasa automáticamente y en idénticas condiciones a la Universidad Nacional de las Artes —UNA—.
+
+## ARTICULO 6°
+
+Comuníquese al Poder Ejecutivo nacional.
+
+DADA EN LA SALA DE SESIONES DEL CONGRESO ARGENTINO, EN BUENOS AIRES, A LOS VEINTIDOS DIAS DEL MES DE OCTUBRE DEL AÑO DOS MIL CATORCE.
+
+— REGISTRADO BAJO EL Nº 26.997 —
+
+AMADO BOUDOU. — NORMA A. ABDALA DE MATARAZZO. — Lucas Chedrese. — Juan H. Estrada.

@@ -10,6 +10,8 @@ published: 1971-10-25
 boletin_oficial: "22286"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-19320-nacional-lnn0015075-1971-10-22"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=166487"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/165000-169999/166487/norma.htm"

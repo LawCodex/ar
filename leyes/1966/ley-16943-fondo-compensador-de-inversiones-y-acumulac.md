@@ -10,6 +10,8 @@ published: 1966-09-14
 boletin_oficial: "21025"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-16943-nacional-lnn0001328-1966-09-13"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=46641"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/45000-49999/46641/norma.htm"

@@ -9,7 +9,9 @@ date: 1959-12-09
 published: 1959-12-26
 boletin_oficial: "19120"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-15261-nacional-ministerio-publico-procuraduria-fiscal-juzgados-federales-capital-federal-lns0001571-1959-12-09"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=232004"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/232004/norma.htm"

@@ -10,6 +10,8 @@ published: 1942-10-14
 boletin_oficial: "14436"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-12779-nacional-lnn0019763-1942-09-24"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=273621"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/270000-274999/273621/norma.htm"

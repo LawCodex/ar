@@ -9,7 +9,9 @@ date: 1978-01-12
 published: 1978-01-18
 boletin_oficial: "23833"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21725-nacional-exenciones-aduaneras-para-determinadas-mercaderias-lns0000103-1978-01-12"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=189841"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/185000-189999/189841/norma.htm"

@@ -10,6 +10,8 @@ published: 1942-10-21
 boletin_oficial: "14442"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-12778-nacional-lnn0022327-1942-09-24"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=185116"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/185000-189999/185116/norma.htm"

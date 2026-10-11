@@ -8,6 +8,8 @@ language: es
 date: 1957-11-22
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-15395-nacional-lnn0018330-1960-09-27"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=297437"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/297437/norma.htm"

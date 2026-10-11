@@ -9,7 +9,9 @@ date: 1982-05-20
 published: 1982-05-24
 boletin_oficial: "24927"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-22593-nacional-seguros-entidades-aseguradoras-defensa-seguridad-fuerzas-armadas-guerra-lns0002917-1982-05-20"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=184560"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/184560/norma.htm"

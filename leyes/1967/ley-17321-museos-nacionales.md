@@ -9,7 +9,9 @@ date: 1967-06-26
 published: 1967-06-29
 boletin_oficial: "21219"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-17321-nacional-aranceles-museos-nacionales-lns0001187-1967-06-26"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=109732"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/105000-109999/109732/texact.htm"

@@ -9,7 +9,9 @@ date: 1967-10-26
 published: 1967-11-03
 boletin_oficial: "21306"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-17502-nacional-otorgamiento-subsidios-subvenciones-estatales-lns0001152-1967-10-26"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=198228"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/198228/norma.htm"

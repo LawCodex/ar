@@ -9,7 +9,9 @@ date: 1967-02-20
 published: 1967-02-27
 boletin_oficial: "21136"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-17178-nacional-transferencia-secretaria-cultura-educacion-distintos-establecimientos-dependientes-universidades-nacionales-lns0001230-1967-02-20"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=300382"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/300382/norma.htm"

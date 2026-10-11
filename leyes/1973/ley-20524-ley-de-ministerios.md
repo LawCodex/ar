@@ -9,7 +9,9 @@ date: 1973-08-10
 published: 1973-08-21
 boletin_oficial: "22730"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-20524-nacional-lnn0000477-1973-08-10"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=166179"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/165000-169999/166179/norma.htm"

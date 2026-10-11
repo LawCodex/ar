@@ -9,7 +9,9 @@ date: 1978-06-16
 published: 1978-06-22
 boletin_oficial: "23939"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21818-nacional-actualizacion-saldos-deudas-hipotecarias-correspodientes-prestamos-instituto-ayuda-financiera-para-pago-retiros-pensiones-militares-lns0000206-1978-06-16"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=303863"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/303863/norma.htm"

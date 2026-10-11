@@ -9,7 +9,9 @@ date: 1935-09-25
 published: 1935-10-05
 boletin_oficial: "12385"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-12205-nacional-obligacion-proveer-asientos-respaldo-cada-persona-empleada-lns0002250-1935-09-23"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=194133"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/194133/norma.htm"

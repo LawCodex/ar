@@ -9,7 +9,9 @@ date: 1980-09-15
 published: 1980-09-19
 boletin_oficial: "24506"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-22285-nacional-ley-nacional-radiodifusion-lns0001383-1980-09-15"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=17694"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/15000-19999/17694/texact.htm"

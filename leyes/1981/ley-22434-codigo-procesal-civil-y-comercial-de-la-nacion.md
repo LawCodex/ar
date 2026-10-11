@@ -9,7 +9,9 @@ date: 1981-03-11
 published: 1981-03-26
 boletin_oficial: "24636"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22434-nacional-modificacion-codigo-procesal-civil-comercial-lns0002811-1981-03-16"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=45325"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/45000-49999/45325/norma.htm"

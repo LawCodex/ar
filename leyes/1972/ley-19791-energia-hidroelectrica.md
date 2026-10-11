@@ -10,6 +10,8 @@ published: 1972-08-25
 boletin_oficial: "22491"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-19791-nacional-lnn0004948-1972-08-18"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=230323"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/230323/norma.htm"

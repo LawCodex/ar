@@ -9,7 +9,9 @@ date: 1978-10-05
 published: 1978-11-02
 boletin_oficial: "24033"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21883-nacional-aprobacion-convenios-provincias-sobre-transferencia-establecimientos-asistenciales-lns0004567-1978-10-04"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=247483"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/245000-249999/247483/norma.htm"

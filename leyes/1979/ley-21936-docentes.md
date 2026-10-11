@@ -10,6 +10,8 @@ published: 1979-02-06
 boletin_oficial: "24098"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-21936-nacional-lnn0009226-1979-02-01"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=303927"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/303927/norma.htm"

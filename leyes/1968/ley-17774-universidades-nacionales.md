@@ -9,7 +9,9 @@ date: 1968-06-10
 published: 1968-06-26
 boletin_oficial: "21464"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-17774-nacional-remuneraciones-rectores-decanos-universidades-nacionales-lns0001092-1968-06-10"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=300843"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/300843/norma.htm"

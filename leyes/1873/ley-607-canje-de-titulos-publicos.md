@@ -8,6 +8,8 @@ language: es
 date: 1873-07-24
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-607-nacional-lnn0023757-1873-07-24"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=281549"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/280000-284999/281549/norma.htm"

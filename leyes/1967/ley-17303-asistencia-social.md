@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1967-06-07
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-17303-nacional-creacion-fondo-fiduciario-promocion-asistencia-comunidad-lns0001192-1967-06-07"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=300474"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/300474/norma.htm"

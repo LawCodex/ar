@@ -10,6 +10,8 @@ published: 1972-12-29
 boletin_oficial: "22575"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-20040-nacional-lnn0000635-1972-12-27"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=183118"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/183118/norma.htm"

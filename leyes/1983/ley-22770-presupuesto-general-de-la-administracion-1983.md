@@ -10,6 +10,8 @@ published: 1983-04-15
 boletin_oficial: "25152"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22770-nacional-lnn0003017-1983-03-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=106609"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/105000-109999/106609/norma.htm"

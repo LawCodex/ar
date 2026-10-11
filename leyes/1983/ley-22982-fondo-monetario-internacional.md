@@ -10,6 +10,8 @@ published: 1983-11-23
 boletin_oficial: "25306"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22982-nacional-lnn0003114-1983-11-18"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=251833"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/250000-254999/251833/norma.htm"

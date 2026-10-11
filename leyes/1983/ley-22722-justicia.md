@@ -9,7 +9,9 @@ date: 1983-01-27
 published: 1983-01-31
 boletin_oficial: "25101"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22722-nacional-escribano-adscripto-sucesion-titular-registro-lns0002976-1983-01-27"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=259414"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/255000-259999/259414/norma.htm"

@@ -1,0 +1,89 @@
+---
+title: "Ley 25189: CODIGO PENAL — MODIFICACION DE ARTS. 84, 94, 189, 196 Y 203"
+identifier: "Ley 25189"
+infoleg_id: "60801"
+type: act
+jurisdiction: ar
+language: es
+date: 1999-09-29
+published: 1999-10-28
+boletin_oficial: "29260"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-25189-nacional-lnn0029260-1999-09-29"
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=60801"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/60000-64999/60801/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 25189: CODIGO PENAL — MODIFICACION DE ARTS. 84, 94, 189, 196 Y 203
+
+CODIGO PENAL
+
+Ley 25.189
+
+Modifícanse los artículos 84, 94, 189, 196 y 203 del Código Penal, en relación con el monto de las penas a cumplir y los tiempos de inhabilitación especial en los casos en que por imprudencia, negligencia, impericia en un arte o profesión o inobservancia de los reglamentos de los deberes del cargo del causante, se ocasionara a otro la muerte, o un daño en el cuerpo o en la salud, o incendios u otros estragos, o descarrilamientos, naufragios y otros accidentes.
+
+Sancionada: Septiembre 29 de 1999.
+
+Promulgada: Octubre 26 de 1999.
+
+El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc. sancionan con fuerza de Ley:
+
+## ARTICULO 1º
+
+Sustitúyese el artículo 84 del Código Penal por el siguiente texto:
+
+Será reprimido con prisión de seis meses a cinco años e inhabilitación especial, en su caso, por cinco a diez años el que por imprudencia, negligencia, impericia en su arte o profesión o inobservancia de los reglamentos o de los deberes a su cargo, causare a otro la muerte.
+
+El mínimo de la pena se elevará a dos años si fueren más de una las víctimas fatales, o si el hecho hubiese sido ocasionado por la conducción imprudente, negligente, inexperta, o antirreglamentaria de un vehículo automotor.
+
+## ARTICULO 2º
+
+Sustitúyese el artículo 94 del Código Penal, por el siguiente texto:
+
+Se impondrá prisión de un mes a tres años o multa de mil a quince mil pesos e inhabilitación especial por uno a cuatro años, el que por imprudencia o negligencia, por impericia en su arte o profesión, o por inobservancia de los reglamentos o deberes a su cargo, causare a otro un daño en el cuerpo o en la salud.
+
+Si las lesiones fueran de las descritas en los artículos 90 ó 91 y concurriera alguna de las circunstancias previstas en el segundo párrafo del artículo 84, el mínimo de la pena prevista en el primer párrafo, será de seis meses o multa de tres mil pesos e inhabilitación especial por dieciocho meses.
+
+## ARTICULO 3º
+
+Sustitúyese el artículo 189 del Código Penal, por el siguiente texto:
+
+Será reprimido con prisión de un mes a un año, el que, por imprudencia o negligencia, por impericia en su arte o profesión o por inobservancia de los reglamentos u ordenanzas, causare un incendio u otros estragos.
+
+Si el hecho u omisión culpable pusiere en peligro de muerte a alguna persona o causare la muerte de alguna persona, el máximo de la pena podrá elevarse hasta cinco años.
+
+## ARTICULO 4º
+
+Sustitúyese el artículo 196 del Código Penal, por el siguiente texto:
+
+Será reprimido con prisión de seis meses a tres años el que por imprudencia o negligencia o por impericia en su arte o profesión o por inobservancia de los reglamentos u ordenanzas, causare un descarrilamiento, naufragio u otro accidente previsto en este capítulo.
+
+Si del hecho resultare lesionada o muerta alguna persona, se impondrá prisión de uno a cinco años.
+
+## ARTICULO 5º
+
+Sustitúyese el artículo 203 del Código Penal, por el siguiente texto:
+
+Cuando alguno de los hechos previstos en los tres artículos anteriores fuere cometido por imprudencia o negligencia o por impericia en el propio arte o profesión o por inobservancia de los reglamentos u ordenanzas, se impondrá multa de dos mil quinientos a treinta mil pesos, si no resultare enfermedad o muerte de alguna persona y prisión de seis meses a cinco años si resultare enfermedad o muerte.
+
+## ARTICULO 6º
+
+Comuníquese al Poder Ejecutivo.
+
+DADA EN LA SALA DE SESIONES DEL CONGRESO ARGENTINO, EN BUENOS AIRES, A LOS VEINTINUEVE DIAS DEL MES DE SEPTIEMBRE DEL AÑO MIL NOVECIENTOS NOVENTA Y NUEVE.
+
+— REGISTRADO BAJO EL Nº 25.189 —
+
+ALBERTO R. PIERRI. — CARLOS F. RUCKAUF. — Esther H. Pereyra Arandía de Pérez Pardo. — Juan Estrada.
+
+Decreto 1225/99
+
+Bs. As., 26/10/99
+
+POR TANTO:
+
+Téngase por Ley de la Nación Nº 25.189 cúmplase, comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese. — MENEM. — Jorge A. Rodríguez. — Raúl E. Granillo Ocampo.

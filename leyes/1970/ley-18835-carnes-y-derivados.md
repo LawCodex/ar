@@ -10,6 +10,8 @@ published: 1970-11-24
 boletin_oficial: "22060"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-18835-nacional-lnn0000907-1970-11-18"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=194520"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/194520/norma.htm"

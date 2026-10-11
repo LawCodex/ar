@@ -9,7 +9,9 @@ date: 1972-06-19
 published: 1972-06-22
 boletin_oficial: "22447"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19690-nacional-codigo-procedimientos-materia-faltas-municipales-lns0000711-1972-06-19"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302279"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302279/texact.htm"

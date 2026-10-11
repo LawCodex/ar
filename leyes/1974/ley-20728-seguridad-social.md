@@ -10,6 +10,8 @@ published: 1974-09-30
 boletin_oficial: "23004"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-20728-nacional-lnn0000397-1974-08-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=303095"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/303095/norma.htm"

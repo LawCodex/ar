@@ -10,6 +10,8 @@ published: 1911-01-02
 boletin_oficial: "5114"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-8111-nacional-lnn0011434-1910-12-26"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=202568"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/200000-204999/202568/norma.htm"

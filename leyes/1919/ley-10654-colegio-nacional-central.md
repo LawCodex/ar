@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1919-07-17
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-10654-nacional-colegio-nacional-buenos-aires-lns0002405-1919-07-17"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=194710"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/194710/norma.htm"

@@ -9,7 +9,9 @@ date: 1939-09-30
 published: 1939-10-17
 boletin_oficial: "13562"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-12625-nacional-lnn0026224-1939-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=219394"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/215000-219999/219394/norma.htm"

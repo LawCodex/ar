@@ -9,7 +9,9 @@ date: 1965-10-29
 published: 1966-03-21
 boletin_oficial: "20905"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-16774-nacional-exencion-impuestos-clubes-deportivos-construcciones-instalaciones-lns0004444-1965-10-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=190781"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/190781/norma.htm"

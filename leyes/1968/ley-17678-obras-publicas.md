@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1968-03-12
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-17678-nacional-creacion-fondo-integracion-territorial-lns0001118-1968-03-12"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=300768"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/300768/norma.htm"

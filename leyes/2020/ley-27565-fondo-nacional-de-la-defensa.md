@@ -1,0 +1,97 @@
+---
+title: "Ley 27565: FONDO NACIONAL DE LA DEFENSA — CREACION"
+identifier: "Ley 27565"
+infoleg_id: "342746"
+type: act
+jurisdiction: ar
+language: es
+date: 2020-09-17
+published: 2020-10-01
+boletin_oficial: "34487"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-27565-nacional-creacion-fondo-nacional-defensa-fondef-fin-financiar-proceso-reequipamiento-fuerzas-armadas-lns0006892-2020-09-16"
+text_version: "texto actualizado"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=342746"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/340000-344999/342746/texact.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 27565: FONDO NACIONAL DE LA DEFENSA — CREACION
+
+FONDO NACIONAL DE LA DEFENSA
+
+Ley 27565
+
+Creación.
+
+El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc. sancionan con fuerza de
+
+Ley:
+
+## Artículo 1°
+
+Fondo. Creación. Créase el Fondo Nacional de la Defensa (FONDEF), a fin de financiar el proceso de reequipamiento de las Fuerzas Armadas.
+
+## Artículo 2°
+
+Objeto. Finalidad. Los recursos del FONDEF serán afectados específicamente a la recuperación, modernización y/o incorporación de material de conformidad con lo previsto en el artículo 19 de la ley 24.948.
+
+## Artículo 3°
+
+Destino. Asignación. El destino y asignación de los recursos del FONDEF se efectuará de conformidad a lo dispuesto en el marco normativo de la Defensa Nacional.
+
+En todos los casos, siempre que sea posible deberán tenerse en cuenta los siguientes criterios:
+
+1\. Favorecer la sustitución de importaciones, el desarrollo de proveedores y la inserción internacional de la producción local de bienes y servicios orientados a la defensa.
+
+2\. Promover la innovación productiva, inclusiva y sustentable, por medio de un mayor escalonamiento tecnológico.
+
+3\. Incrementar las acciones de investigación y desarrollo, tanto en el sector público como privado.
+
+4\. Mejorar las condiciones de creación, difusión y asimilación de innovaciones por parte de la estructura productiva nacional.
+
+## Artículo 4°
+
+Constitución e integración del fondo. Recursos. El Fondo Nacional de la Defensa estará integrado de la siguiente forma:
+
+1\. (Inciso derogado a partir del Ejercicio Fiscal 2026 por art. 30 inc. d) de la Ley Nº 27.798 B.O. 2/1/2026.)
+
+2\. Con aportes de personas humanas o jurídicas, públicas o privadas, así como también con otras fuentes de financiamiento de origen nacional o internacional.
+
+3\. Con las donaciones, legados y/o herencias que se efectuaren en su favor.
+
+## Artículo 5°
+
+Ejecución del fondo. Disposición de los remanentes. El Fondo Nacional de la Defensa deberá ejecutarse anualmente en su totalidad, pudiendo excepcionalmente disponerse hasta un diez por ciento (10%) en concepto de remanente no atribuido al objeto de la presente. En este supuesto el remanente será imputado al ejercicio siguiente.
+
+## Artículo 6°
+
+Las Comisiones de Defensa Nacional de ambas Cámaras del Congreso serán competentes para intervenir en el seguimiento del proceso de reequipamiento de las Fuerzas Armadas llevado a cabo a través del Fondo Nacional de la Defensa (FONDEF). A tal fin, tendrán las siguientes funciones:
+
+a) Recibir el 31 de marzo de cada año el plan anual de inversiones previstas al 31 de marzo del año siguiente;
+
+b) Recibir informes semestrales, el 31 de mayo y el 30 de noviembre de cada año, acerca de la marcha y la implementación del Fondo Nacional de la Defensa (FONDEF);
+
+c) Requerir al Ministerio de Defensa los informes necesarios sobre el cumplimiento de la presente ley;
+
+d) Verificar la ejecución presupuestaria de los recursos que se establecen en el artículo 4°;
+
+e) Formular las observaciones y sugerencias que se estime pertinente remitir a la autoridad de aplicación.
+
+## Artículo 7°
+
+Autoridad de aplicación. El Ministerio de Defensa de la Nación será la autoridad de aplicación de la presente ley.
+
+## Artículo 8°
+
+Comuníquese al Poder Ejecutivo nacional.
+
+DADA EN LA SALA DE SESIONES DEL CONGRESO ARGENTINO, EN BUENOS AIRES, A LOS DIECISEIS DIAS DEL MES DE SEPTIEMBRE DEL AÑO DOS MIL VEINTE.
+
+REGISTRADA BAJO EL N° 27565
+
+CLAUDIA LEDESMA ABDALA DE ZAMORA - SERGIO MASSA - Marcelo Jorge Fuentes - Eduardo Cergnul
+
+e. 01/10/2020 N° 43565/20 v. 01/10/2020

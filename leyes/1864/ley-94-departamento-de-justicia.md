@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1864-08-20
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-94-nacional-prohibicion-pena-azotes-lns0002645-1864-08-20"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=232935"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/232935/norma.htm"

@@ -9,7 +9,9 @@ date: 1976-07-30
 published: 1976-08-05
 boletin_oficial: "23462"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21367-nacional-pago-cuenta-impuesto-ganancias-lns0000344-1976-07-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=233914"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/233914/norma.htm"

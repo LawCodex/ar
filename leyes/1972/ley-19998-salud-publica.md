@@ -10,6 +10,8 @@ published: 1972-12-20
 boletin_oficial: "22569"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-19998-nacional-lnn0020677-1972-12-04"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=212558"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/210000-214999/212558/norma.htm"

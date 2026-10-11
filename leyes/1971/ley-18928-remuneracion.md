@@ -10,6 +10,8 @@ published: 1971-02-15
 boletin_oficial: "22115"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-18928-nacional-lnn0014144-1971-02-02"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=301724"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/301724/norma.htm"

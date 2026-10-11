@@ -10,6 +10,8 @@ published: 1968-06-03
 boletin_oficial: "21449"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-17753-nacional-lnn0026962-1968-05-27"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=85126"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/85000-89999/85126/norma.htm"

@@ -10,6 +10,8 @@ published: 1896-01-03
 boletin_oficial: "733"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-3334-nacional-lnn0024213-1895-12-19"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=284504"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/280000-284999/284504/norma.htm"

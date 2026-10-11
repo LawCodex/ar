@@ -9,7 +9,9 @@ date: 1933-09-28
 published: 1933-10-17
 boletin_oficial: "11812"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-11742-nacional-lnn0026246-1933-09-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=42966"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/40000-44999/42966/norma.htm"

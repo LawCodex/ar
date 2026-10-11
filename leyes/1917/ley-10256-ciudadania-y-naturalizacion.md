@@ -9,7 +9,9 @@ date: 1917-09-18
 published: 1918-02-27
 boletin_oficial: "7224"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-10256-nacional-lnn0026284-1917-09-18"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=280412"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/280000-284999/280412/norma.htm"

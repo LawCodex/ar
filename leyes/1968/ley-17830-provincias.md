@@ -9,7 +9,9 @@ date: 1968-08-05
 published: 1968-08-14
 boletin_oficial: "21498"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-17830-nacional-transferencia-dominio-bienes-favor-provincias-lns0001074-1968-08-05"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=197921"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/197921/norma.htm"

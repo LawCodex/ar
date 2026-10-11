@@ -10,6 +10,8 @@ published: 1983-09-15
 boletin_oficial: "25258"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22908-nacional-lnn0027912-1983-09-13"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=251435"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/250000-254999/251435/norma.htm"

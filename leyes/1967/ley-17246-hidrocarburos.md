@@ -10,6 +10,8 @@ published: 1967-04-26
 boletin_oficial: "21176"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-17246-nacional-lnn0005882-1967-04-24"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=220516"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/220000-224999/220516/norma.htm"

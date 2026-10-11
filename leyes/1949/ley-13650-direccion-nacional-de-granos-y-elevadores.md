@@ -10,6 +10,8 @@ published: 1949-10-27
 boletin_oficial: "16481"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-13650-nacional-lnn0027229-1949-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=151493"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/150000-154999/151493/norma.htm"

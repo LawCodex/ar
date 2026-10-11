@@ -10,6 +10,8 @@ published: 1947-07-11
 boletin_oficial: "15813"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-12988-nacional-lnn0002065-1947-06-13"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=32014"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/30000-34999/32014/texact.htm"

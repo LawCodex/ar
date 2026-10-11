@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1859-07-05
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-209-nacional-lnn0026415-1866-10-03"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=280870"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/280000-284999/280870/norma.htm"

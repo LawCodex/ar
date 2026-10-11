@@ -10,6 +10,8 @@ published: 1936-10-09
 boletin_oficial: "12682"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-12311-nacional-lnn0024418-1936-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=220494"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/220000-224999/220494/norma.htm"

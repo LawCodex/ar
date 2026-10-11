@@ -10,6 +10,8 @@ published: 1939-02-10
 boletin_oficial: "13364"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-12578-nacional-lnn0027722-1939-01-26"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=151479"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/150000-154999/151479/norma.htm"

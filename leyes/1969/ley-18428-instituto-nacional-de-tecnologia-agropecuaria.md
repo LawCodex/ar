@@ -9,7 +9,9 @@ date: 1969-11-03
 published: 1969-11-07
 boletin_oficial: "21805"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-18428-nacional-aclara-ley-18134-lns0000993-1969-11-03"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=159098"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/155000-159999/159098/norma.htm"

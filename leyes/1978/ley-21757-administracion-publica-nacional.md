@@ -10,6 +10,8 @@ published: 1978-03-15
 boletin_oficial: "23873"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-21757-nacional-lnn0028369-1978-03-07"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=171588"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/170000-174999/171588/norma.htm"

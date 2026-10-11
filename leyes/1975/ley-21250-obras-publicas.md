@@ -10,6 +10,8 @@ published: 1976-01-26
 boletin_oficial: "23330"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-21250-nacional-lnn0000418-1975-12-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=189451"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/185000-189999/189451/norma.htm"

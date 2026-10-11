@@ -10,6 +10,8 @@ published: 1968-11-13
 boletin_oficial: "21560"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-17959-nacional-lnn0005525-1968-11-06"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=207164"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/205000-209999/207164/norma.htm"

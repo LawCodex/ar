@@ -10,6 +10,8 @@ published: 1967-08-09
 boletin_oficial: "21248"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-17378-nacional-lnn0021899-1967-08-03"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=300530"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/300530/norma.htm"

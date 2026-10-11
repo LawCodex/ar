@@ -10,6 +10,8 @@ published: 1972-02-09
 boletin_oficial: "22359"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-19470-nacional-lnn0000774-1972-02-01"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302122"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302122/norma.htm"

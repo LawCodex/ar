@@ -9,7 +9,9 @@ date: 1970-12-23
 published: 1971-01-05
 boletin_oficial: "22087"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-18875-nacional-compre-nacional-administracion-publica-nacional-lns0000896-1970-12-23"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=64610"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/60000-64999/64610/texact.htm"

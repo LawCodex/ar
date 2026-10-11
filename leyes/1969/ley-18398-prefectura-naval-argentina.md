@@ -9,7 +9,9 @@ date: 1969-10-10
 published: 1969-10-28
 boletin_oficial: "21797"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-18398-nacional-ley-general-prefectura-naval-argentina-lns0000995-1969-10-10"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=46324"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/45000-49999/46324/texact.htm"

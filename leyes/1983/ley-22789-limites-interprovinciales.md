@@ -9,7 +9,9 @@ date: 1983-04-21
 published: 1983-04-25
 boletin_oficial: "25158"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22789-nacional-fijacion-limites-entre-provincias-cordoba-santiago-estero-lns0003019-1983-04-21"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=199434"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/199434/norma.htm"

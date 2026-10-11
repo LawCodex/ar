@@ -9,7 +9,9 @@ date: 1972-12-05
 published: 1972-12-13
 boletin_oficial: "22564"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20003-nacional-beneficios-tributarios-para-importacion-equipos-maquinarias-industria-petrolifera-lns0000610-1972-12-05"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302498"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302498/norma.htm"

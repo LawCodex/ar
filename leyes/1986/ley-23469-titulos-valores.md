@@ -10,6 +10,8 @@ published: 1986-12-05
 boletin_oficial: "26044"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-23469-nacional-ley-impuesto-sobre-transferencia-titulos-valores-to-86-modificacion-lnn0028154-1986-10-31"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=21981"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/21981/norma.htm"

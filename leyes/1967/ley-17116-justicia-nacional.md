@@ -9,7 +9,9 @@ date: 1967-01-11
 published: 1967-01-19
 boletin_oficial: "21111"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-17116-nacional-asistencia-letrada-obligatoria-para-peticionar-corte-suprema-justicia-nacion-lns0001229-1967-01-11"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=114508"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/110000-114999/114508/norma.htm"

@@ -9,7 +9,9 @@ date: 1958-09-26
 published: 1958-10-24
 boletin_oficial: "18773"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-14498-nacional-organizacion-justicia-federal-ciudad-san-martin-provincia-buenos-aires-lns0001621-1958-09-26"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=195876"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/195876/norma.htm"

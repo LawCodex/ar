@@ -9,7 +9,9 @@ date: 1983-02-03
 published: 1983-02-08
 boletin_oficial: "25107"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22731-nacional-regimen-jubilaciones-pensiones-funcionarios-servicio-exterior-nacion-lns0002978-1983-02-03"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=79746"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/75000-79999/79746/texact.htm"

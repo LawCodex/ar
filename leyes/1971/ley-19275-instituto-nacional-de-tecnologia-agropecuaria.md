@@ -10,6 +10,8 @@ published: 1971-10-05
 boletin_oficial: "22273"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-19275-nacional-lnn0015084-1971-09-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=159104"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/155000-159999/159104/norma.htm"

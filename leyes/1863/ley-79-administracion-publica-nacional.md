@@ -8,6 +8,8 @@ language: es
 date: 1863-11-12
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-79-nacional-lnn0024929-1863-11-12"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=171069"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/170000-174999/171069/norma.htm"

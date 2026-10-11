@@ -9,7 +9,9 @@ date: 1976-05-07
 published: 1976-05-10
 boletin_oficial: "23401"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-21307-nacional-trabajo-contrato-trabajo-remuneraciones-salario-minimo-vital-movil-estado-poder-ejecutivo-nacional-lns0000368-1976-05-07"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=171318"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/170000-174999/171318/norma.htm"

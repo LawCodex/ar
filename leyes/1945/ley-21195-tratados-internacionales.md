@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1945-09-08
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21195-nacional-servicios-clandestinos-agua-potable-lns0000308-1975-09-30"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=295267"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/295267/texact.htm"

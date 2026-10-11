@@ -10,6 +10,8 @@ published: 1976-10-08
 boletin_oficial: "23507"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-21433-nacional-lnn0026663-1976-09-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=194150"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/194150/norma.htm"

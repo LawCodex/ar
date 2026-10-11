@@ -9,7 +9,9 @@ date: 1973-05-22
 published: 1973-05-23
 boletin_oficial: "22672"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20436-nacional-derogacion-interdiccion-general-bienes-aprobada-decretos-leyes-5148-6911-6914-ano-1955-lns0000549-1973-05-22"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302766"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302766/norma.htm"

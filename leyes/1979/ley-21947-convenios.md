@@ -324,7 +324,9 @@ Si existiese alguna duda sobre si una sustancia es inocua, la Parte deberá segu
 
 9\. El presente Anexo no se aplicará a desechos u otros materiales (tales como lagos de aguas residuales y escombros de dragados) que contengan como vestigios de contaminantes, las materias a que se hace referencia en los apartados 1-5 del presente Anexo. Estos desechos estarán sujetos a las disposiciones de los Anexos II y III según proceda.
 
-## ANEXO II — Las siguientes sustancias y materiales que requieren especial atención se enumeran para los efectos del inciso a) del apartado 1 del Artículo VI.
+## ANEXO II
+
+Las siguientes sustancias y materiales que requieren especial atención se enumeran para los efectos del inciso a) del apartado 1 del Artículo VI.
 
 A. Desechos que contengan cantidades considerables de las materias siguientes:
 

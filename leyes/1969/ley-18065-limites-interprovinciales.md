@@ -9,7 +9,9 @@ date: 1969-01-20
 published: 1969-01-28
 boletin_oficial: "21611"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-18065-nacional-fijacion-limites-entre-provincias-pampa-buenos-aires-lns0001041-1969-01-20"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=197975"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/197975/norma.htm"

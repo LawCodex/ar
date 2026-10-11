@@ -9,7 +9,9 @@ date: 1968-08-09
 published: 1968-08-20
 boletin_oficial: "21501"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-17848-nacional-mermas-tolerancias-para-mostos-vinos-lns0001073-1968-08-09"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=300897"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/300897/texact.htm"

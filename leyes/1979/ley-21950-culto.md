@@ -9,7 +9,9 @@ date: 1979-03-07
 published: 1979-03-15
 boletin_oficial: "24125"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21950-nacional-remuneracion-obispos-arzobispos-lns0000029-1979-03-07"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=196543"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/196543/norma.htm"

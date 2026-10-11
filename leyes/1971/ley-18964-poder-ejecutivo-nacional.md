@@ -10,6 +10,8 @@ published: 2006-09-22
 boletin_oficial: "30996"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-18964-nacional-donacion-caballos-silla-al-colegio-militar-republica-bolivia-lnn0029580-1971-03-31"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=120101"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/120000-124999/120101/norma.htm"

@@ -10,6 +10,8 @@ published: 1981-02-26
 boletin_oficial: "24616"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22407-nacional-lnn0028398-1981-02-20"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304174"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304174/norma.htm"

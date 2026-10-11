@@ -9,7 +9,9 @@ date: 1960-12-28
 published: 1961-01-20
 boletin_oficial: "19438"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-15798-nacional-franquicias-para-importacion-repuestos-automoviles-lisiados-lns0001437-1960-12-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=189949"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/185000-189999/189949/norma.htm"

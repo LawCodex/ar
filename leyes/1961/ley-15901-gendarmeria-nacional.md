@@ -9,7 +9,9 @@ date: 1961-09-27
 published: 1961-10-30
 boletin_oficial: "19669"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-15901-nacional-lnn0020009-1961-09-27"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=299076"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/299076/norma.htm"

@@ -9,7 +9,9 @@ date: 1969-10-30
 published: 1969-11-07
 boletin_oficial: "21805"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-18425-nacional-promocion-establecimientos-comerciales-lns0000994-1969-10-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=190502"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/190502/norma.htm"

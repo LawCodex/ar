@@ -9,7 +9,9 @@ date: 1940-09-10
 published: 1940-10-10
 boletin_oficial: "13848"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-12660-nacional-prohibicion-venta-inmuebles-muebles-mercaderias-realizarse-sorteos-ofrecimiento-premio-lns0002259-1940-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=273154"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/270000-274999/273154/norma.htm"

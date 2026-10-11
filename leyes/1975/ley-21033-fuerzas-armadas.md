@@ -9,7 +9,9 @@ date: 1975-09-04
 published: 1975-10-01
 boletin_oficial: "23252"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21033-nacional-remuneraciones-prefectura-naval-argentina-lns0000329-1975-09-04"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=77261"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/75000-79999/77261/norma.htm"

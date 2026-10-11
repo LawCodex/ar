@@ -9,7 +9,9 @@ date: 1979-01-04
 published: 1979-01-09
 boletin_oficial: "24078"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21919-nacional-adjudicacion-viviendas-antisismicas-lns0000040-1979-01-04"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=199394"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/199394/norma.htm"

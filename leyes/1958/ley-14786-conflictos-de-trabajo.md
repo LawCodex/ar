@@ -9,7 +9,9 @@ date: 1958-12-22
 published: 1959-01-09
 boletin_oficial: "18834"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-14786-nacional-resolucion-conflictos-colectivos-trabajo-lns0001596-1958-12-22"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=115423"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/115000-119999/115423/norma.htm"

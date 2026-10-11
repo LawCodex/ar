@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1900-09-27
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-3952-nacional-demandas-contra-nacion-lns0002422-1900-09-27"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=49258"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/45000-49999/49258/texact.htm"

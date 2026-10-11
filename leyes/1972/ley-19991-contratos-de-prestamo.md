@@ -9,7 +9,9 @@ date: 1972-11-30
 published: 2006-09-14
 boletin_oficial: "30990"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19991-nacional-aprobacion-contrato-prestamo-hierro-patagonico-sierra-grande-sociedad-anonima-minera-export-development-corporation-lns0005066-1972-11-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=119764"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/115000-119999/119764/norma.htm"
@@ -148,7 +150,9 @@ a) "ACTIVO CORRIENTE", significa el dinero en efectivo, valores comerciales, cue
 
 b) "PASIVO CORRIENTE", significa los compromisos o deudas que vencen o sean exigibles dentro del año.
 
-## Sección 1.03 — El encabezamiento de los ARTICULOS y el INDICE están insertados solamente como referencia y no afectarán la interpretación del presente.
+## Sección 1.03
+
+El encabezamiento de los ARTICULOS y el INDICE están insertados solamente como referencia y no afectarán la interpretación del presente.
 
 ARTICULO II
 
@@ -238,7 +242,9 @@ GARANTIAS
 
 Como garantía del PRESTAMO, el Prestatario librará en Canadá y entregará a EDC un PAGARE (en el formulario impreso a ser suministrado por EDC). El PAGARE será por un monto de capital de Diecisiete Millones Doscientos Cincuenta Mil Dólares ($ 17.250.000,-); el PAGARE vencerá en la FECHA DE PRIMER PAGO, y deberá ser como el documento modelo que se anexa al presente inicialado por las partes, y marcado como Anexo "B" para identificación.
 
-## Sección 5.02 — El Prestatario entregará a EDC en Ottawa, Canadá en oportunidad de la celebración de este Convenio, el PAGARE mencionado en la Sección 5.01.
+## Sección 5.02
+
+El Prestatario entregará a EDC en Ottawa, Canadá en oportunidad de la celebración de este Convenio, el PAGARE mencionado en la Sección 5.01.
 
 Si se adelantara una suma menor a de Diecisiete Millones Doscientos Cincuenta Mil Dólares ($ 17.250.000,-) al 1º de junio de 1977, (o a cualquier otra fecha a la que EDC hubiera prestado conformidad de acuerdo a lo establecido en la Sección 3.03 del presente), el Prestatario librará en Canadá y entregará a EDC, dentro de los sesenta días de esa fecha, o cualquier otra que pudiera resultar (pero en ningún caso en fecha que esté menos de treinta días de la FECHA DE PRIMER PAGO), una serie de PAGARES (en formularios impresos a ser suministrados por EDC), cada uno por un importe de capital igual a una vigésima parte (1/20) de la cantidad efectivamente adelantada bajo el presente; los PAGARES vencerán en intervalos semestrales consecutivos, siendo el primer vencimiento de dichos PAGARES así como la primera fecha de pago del interés, la fecha denominada FECHA DE PRIMER PAGO, y todos los vencimientos de los pagos por interés serán semestrales a partir de esa FECHA, en un todo conforme con el pagaré-tipo que se anexa al presente como Anexo "B-I".
 
@@ -498,13 +504,17 @@ ARTICULO XIV
 
 SUCESORES Y CESIONARIOS
 
-## Sección 14.01 — Este Convenio una vez celebrado por las partes será obligatorio para las partes y sus respectivos sucesores y cesionarios.
+## Sección 14.01
+
+Este Convenio una vez celebrado por las partes será obligatorio para las partes y sus respectivos sucesores y cesionarios.
 
 ARTICULO XV
 
 FECHA EFECTIVA
 
-## Sección 15.01 — Este Convenio será considerado como habiendo sido celebrado el día de Noviembre de 1972.
+## Sección 15.01
+
+Este Convenio será considerado como habiendo sido celebrado el día de Noviembre de 1972.
 
 EN TESTIMONIO DE LO CUAL el Prestatario celebra el presente por intermedio de sus apoderados debidamente autorizados, y el EDC por su parte lo celebra por intermedio de sus apoderados autorizados y coloca su sello societario, en Canadá.
 
@@ -804,7 +814,9 @@ Las partes convienen que las leyes de la Provincia de Ontario y del Canadá, inc
 
 ARTICULO IX
 
-## Sección 9.01 — Este Convenio se considerará en beneficio de sus partes y será obligatorio para ellas y sus respectivos sucesores y/o cesionarios.
+## Sección 9.01
+
+Este Convenio se considerará en beneficio de sus partes y será obligatorio para ellas y sus respectivos sucesores y/o cesionarios.
 
 EN PRUEBA DE CONFORMIDAD, cada una de las partes aquí presente ha ejecutado el presente en Canadá, a través de su representante o representantes oficiales o apoderado y según sea aplicable, ha colocado el sello social.
 

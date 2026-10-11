@@ -8,6 +8,8 @@ language: es
 date: 1857-09-09
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-126-nacional-lnn0016854-1865-05-13"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=280857"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/280000-284999/280857/norma.htm"

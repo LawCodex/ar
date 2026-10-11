@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1968-01-23
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-17618-nacional-delegacion-facultades-direccion-nacional-turismo-lns0001130-1968-01-23"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=300721"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/300721/norma.htm"

@@ -10,6 +10,8 @@ published: 1984-09-25
 boletin_oficial: "25517"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-23083-nacional-lnn0003437-1984-09-06"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=28017"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/28017/norma.htm"

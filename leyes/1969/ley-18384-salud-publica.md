@@ -9,7 +9,9 @@ date: 1969-10-01
 published: 1969-10-09
 boletin_oficial: "21784"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-18384-nacional-creacion-servicio-nacional-rehabilitacion-lns0000998-1969-10-01"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=231608"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/231608/norma.htm"

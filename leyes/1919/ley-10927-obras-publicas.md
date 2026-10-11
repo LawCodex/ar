@@ -9,7 +9,9 @@ date: 1919-09-30
 published: 1919-12-09
 boletin_oficial: "7745"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-10927-nacional-construccion-instalacion-embarcaderos-flotantes-destinados-al-servicio-cabotaje-nacional-lns0002401-1919-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=292973"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/292973/norma.htm"

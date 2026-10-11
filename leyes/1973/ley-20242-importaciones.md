@@ -9,7 +9,9 @@ date: 1973-03-30
 published: 1973-04-06
 boletin_oficial: "22642"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20242-nacional-franquicias-aduaneras-para-importacion-mercaderias-para-investigacion-etc-lns0000576-1973-03-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=189850"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/185000-189999/189850/norma.htm"

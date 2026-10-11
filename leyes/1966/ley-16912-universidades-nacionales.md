@@ -9,7 +9,9 @@ date: 1966-07-29
 published: 1966-08-01
 boletin_oficial: "20995"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-16912-nacional-lnn0025716-1966-07-21"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=46586"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/45000-49999/46586/norma.htm"

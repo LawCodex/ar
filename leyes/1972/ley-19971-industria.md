@@ -9,7 +9,9 @@ date: 1972-11-27
 published: 1972-12-01
 boletin_oficial: "22557"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-19971-nacional-creacion-registro-industrial-nacion-lns0000617-1972-11-27"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=16069"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/15000-19999/16069/texact.htm"

@@ -10,6 +10,8 @@ published: 2006-10-02
 boletin_oficial: "31002"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-17488-nacional-modificacion-ley-organica-para-cuerpo-informaciones-coordinacion-federal-lnn0026572-1967-10-23"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=120408"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/120000-124999/120408/norma.htm"

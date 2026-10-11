@@ -10,6 +10,8 @@ published: 1971-02-16
 boletin_oficial: "22116"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-18873-nacional-lnn0014162-1970-12-21"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=301687"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/301687/norma.htm"

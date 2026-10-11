@@ -9,7 +9,9 @@ date: 1967-04-25
 published: 1967-05-04
 boletin_oficial: "21181"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-17521-nacional-lnn0025597-1967-11-07"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=127677"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/125000-129999/127677/norma.htm"

@@ -10,6 +10,8 @@ published: 1960-12-01
 boletin_oficial: "19397"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-15430-nacional-lnn0027067-1960-09-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=183428"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/183428/norma.htm"

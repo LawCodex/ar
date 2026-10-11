@@ -10,6 +10,8 @@ published: 1980-12-05
 boletin_oficial: "24560"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22341-nacional-lnn0023722-1980-12-01"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304138"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304138/norma.htm"

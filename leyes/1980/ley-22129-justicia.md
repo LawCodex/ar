@@ -10,6 +10,8 @@ published: 1980-01-14
 boletin_oficial: "24333"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22129-nacional-lnn0028255-1980-01-07"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=136934"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/135000-139999/136934/norma.htm"

@@ -9,7 +9,9 @@ date: 1980-03-04
 published: 1980-03-12
 boletin_oficial: "24375"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22184-nacional-fijacion-limites-entre-provincias-rioja-san-luis-lns0001870-1980-03-04"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=199397"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/199397/norma.htm"

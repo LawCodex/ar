@@ -10,6 +10,8 @@ published: 1976-04-02
 boletin_oficial: "23377"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-21275-nacional-lnn0022179-1976-03-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=303534"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/303534/norma.htm"

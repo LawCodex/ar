@@ -10,6 +10,8 @@ published: 1983-02-04
 boletin_oficial: "25105"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22730-nacional-lnn0027819-1983-02-02"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=259395"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/255000-259999/259395/norma.htm"

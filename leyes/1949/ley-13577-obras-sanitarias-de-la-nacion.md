@@ -9,7 +9,9 @@ date: 1949-10-29
 published: 1949-11-02
 boletin_oficial: "16485"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-13577-nacional-ley-obras-sanitarias-nacion-lns0001978-1949-09-29"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=57202"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/55000-59999/57202/texact.htm"

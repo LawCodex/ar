@@ -9,7 +9,9 @@ date: 1986-07-31
 published: 1986-08-29
 boletin_oficial: "25982"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-23344-nacional-limitaciones-publicidad-cigarrillos-obligatoriedad-inscripcion-envases-lns0003293-1986-07-31"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=23223"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/23223/norma.htm"

@@ -10,6 +10,8 @@ published: 1983-07-13
 boletin_oficial: "25213"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22846-nacional-lnn0027886-1983-07-11"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=92831"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/90000-94999/92831/norma.htm"

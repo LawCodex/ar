@@ -9,7 +9,9 @@ date: 1966-12-29
 published: 1967-01-10
 boletin_oficial: "21104"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-17094-nacional-extension-soberania-nacion-argentina-sobre-plataforma-continental-mar-territorial-lns0001279-1966-12-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=48474"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/45000-49999/48474/norma.htm"

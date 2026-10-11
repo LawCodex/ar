@@ -9,7 +9,9 @@ date: 1983-07-20
 published: 1983-07-22
 boletin_oficial: "25220"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22853-nacional-habilitacion-unidades-dialisis-para-tratamiento-insuficiencia-renal-lns0003045-1983-07-20"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=73580"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/70000-74999/73580/norma.htm"

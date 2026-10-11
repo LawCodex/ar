@@ -8,6 +8,8 @@ language: es
 date: 1950-09-29
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-13992-nacional-lnn0019644-1950-09-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=296368"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/296368/norma.htm"

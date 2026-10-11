@@ -9,7 +9,9 @@ date: 1971-08-27
 published: 1971-09-08
 boletin_oficial: "22254"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19192-nacional-incorporacion-direccion-general-prestamos-garantia-real-al-banco-hipotecario-nacional-lns0001231-1971-08-27"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=246987"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/245000-249999/246987/norma.htm"

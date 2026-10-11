@@ -10,6 +10,8 @@ published: 1975-10-23
 boletin_oficial: "23268"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-21111-nacional-lnn0026698-1975-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=183744"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/183744/norma.htm"

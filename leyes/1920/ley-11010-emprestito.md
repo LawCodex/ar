@@ -10,6 +10,8 @@ published: 1920-07-14
 boletin_oficial: "7917"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-11010-nacional-lnn0024269-1920-06-02"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=293055"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/293055/norma.htm"

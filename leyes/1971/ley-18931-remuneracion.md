@@ -10,6 +10,8 @@ published: 1971-02-17
 boletin_oficial: "22117"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-18931-nacional-lnn0014143-1971-02-03"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=301727"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/301727/norma.htm"

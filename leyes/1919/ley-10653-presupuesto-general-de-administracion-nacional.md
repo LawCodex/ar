@@ -10,6 +10,8 @@ published: 1919-07-10
 boletin_oficial: "7629"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-10653-nacional-lnn0007266-1919-07-04"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=185748"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/185000-189999/185748/norma.htm"

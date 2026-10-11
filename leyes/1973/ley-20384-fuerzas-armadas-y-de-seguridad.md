@@ -10,6 +10,8 @@ published: 1973-05-29
 boletin_oficial: "22675"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-20384-nacional-lnn0026762-1973-05-15"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=86485"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/85000-89999/86485/norma.htm"

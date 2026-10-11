@@ -10,6 +10,8 @@ published: 1973-02-23
 boletin_oficial: "22614"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-20159-nacional-lnn0022057-1973-02-15"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=129981"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/125000-129999/129981/norma.htm"

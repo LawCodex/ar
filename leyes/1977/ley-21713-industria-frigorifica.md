@@ -9,7 +9,9 @@ date: 1977-12-28
 published: 1978-01-02
 boletin_oficial: "23821"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21713-nacional-beneficios-tributarios-para-industria-frigorifica-lns0000105-1977-12-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=303810"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/303810/norma.htm"

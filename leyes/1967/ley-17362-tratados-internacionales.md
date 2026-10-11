@@ -10,6 +10,8 @@ published: 1967-08-07
 boletin_oficial: "21246"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-17362-nacional-lnn0021903-1967-07-21"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=202861"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/200000-204999/202861/norma.htm"

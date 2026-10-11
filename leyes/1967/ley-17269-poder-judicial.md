@@ -9,7 +9,9 @@ date: 1967-05-08
 published: 1967-05-15
 boletin_oficial: "21188"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-17269-nacional-creacion-procuraduria-fiscal-para-juzgado-nacional-primera-instancia-criminal-correccional-federal-4-lns0001202-1967-05-08"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=196008"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/196008/norma.htm"

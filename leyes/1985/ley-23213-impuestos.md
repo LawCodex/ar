@@ -10,6 +10,8 @@ published: 1985-08-19
 boletin_oficial: "25742"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-23213-nacional-ley-22947-tributos-impuestos-modificacion-lnn0028087-1985-07-31"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=24848"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/24848/norma.htm"

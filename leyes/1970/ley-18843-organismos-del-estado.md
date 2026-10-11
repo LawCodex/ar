@@ -10,6 +10,8 @@ published: 1970-12-03
 boletin_oficial: "22067"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-18843-nacional-lnn0026896-1970-11-26"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=195236"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/195236/norma.htm"

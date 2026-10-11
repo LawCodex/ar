@@ -9,7 +9,9 @@ date: 1970-10-13
 published: 1970-11-02
 boletin_oficial: "22045"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-18811-nacional-lnn0000913-1970-10-13"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=157660"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/155000-159999/157660/norma.htm"

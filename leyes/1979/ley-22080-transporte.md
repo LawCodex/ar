@@ -9,7 +9,9 @@ date: 1979-09-18
 published: 1979-09-24
 boletin_oficial: "24255"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-22080-nacional-economia-transporte-transporte-maritimo-fluvial-lacustre-navegacion-puertos-lns0000282-1979-09-18"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304010"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304010/norma.htm"

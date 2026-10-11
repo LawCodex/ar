@@ -10,6 +10,8 @@ published: 1980-04-25
 boletin_oficial: "24405"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22208-nacional-lnn0027500-1980-04-11"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=227336"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/225000-229999/227336/norma.htm"

@@ -9,7 +9,9 @@ date: 1914-08-17
 published: 1914-09-08
 boletin_oficial: "6198"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-9489-nacional-cambio-categoria-representacion-diplomatica-permanente-estados-unidos-america-lns0002493-1914-08-17"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=291260"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/291260/norma.htm"

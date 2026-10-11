@@ -10,6 +10,8 @@ published: 1952-01-11
 boletin_oficial: "17065"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-14119-nacional-lnn0027216-1951-12-27"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=233676"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/233676/norma.htm"

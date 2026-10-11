@@ -9,7 +9,9 @@ date: 1983-03-28
 published: 1983-03-30
 boletin_oficial: "25143"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-22769-nacional-lnn0003002-1983-03-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=65454"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/65000-69999/65454/norma.htm"

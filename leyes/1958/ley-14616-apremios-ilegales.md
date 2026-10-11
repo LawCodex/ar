@@ -10,6 +10,8 @@ published: 1958-10-17
 boletin_oficial: "18767"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-14616-nacional-lnn0027083-1958-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=297880"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/297880/norma.htm"

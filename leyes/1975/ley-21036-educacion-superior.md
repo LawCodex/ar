@@ -10,6 +10,8 @@ published: 1975-10-07
 boletin_oficial: "23256"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-21036-nacional-lnn0026706-1975-09-11"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=231301"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/231301/norma.htm"

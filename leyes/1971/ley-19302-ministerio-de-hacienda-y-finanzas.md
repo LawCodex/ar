@@ -10,6 +10,8 @@ published: 2006-09-20
 boletin_oficial: "30994"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-19302-nacional-ley-secreta-sobre-adquisicion-importacion-juego-cristaleria-vajilla-porcelana-presidencia-nacion-lnn0029572-1971-10-11"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=119992"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/115000-119999/119992/norma.htm"

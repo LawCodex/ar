@@ -10,6 +10,8 @@ published: 1972-09-18
 boletin_oficial: "22507"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-19831-nacional-promocion-industria-naval-lns0000684-1972-09-11"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302384"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302384/norma.htm"

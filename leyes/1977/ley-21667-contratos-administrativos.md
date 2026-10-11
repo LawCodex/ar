@@ -9,7 +9,9 @@ date: 1977-10-14
 published: 1977-10-19
 boletin_oficial: "23769"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21667-nacional-actualizacion-monetaria-contratos-administrativos-para-provision-servicios-suministros-lns0000124-1977-10-14"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=303783"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/303783/norma.htm"

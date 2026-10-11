@@ -9,7 +9,9 @@ date: 1973-11-28
 published: 1973-12-20
 boletin_oficial: "22815"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20579-nacional-creacion-universidad-nacional-jujuy-lns0000510-1973-11-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=231267"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/231267/norma.htm"

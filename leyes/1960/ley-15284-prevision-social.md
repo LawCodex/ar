@@ -9,7 +9,9 @@ date: 1960-06-23
 published: 1960-07-16
 boletin_oficial: "19284"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-15284-nacional-pago-remuneraciones-jubilados-sus-colaboraciones-publicadas-diarios-revistas-lns0001563-1960-06-23"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=298507"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/298507/norma.htm"

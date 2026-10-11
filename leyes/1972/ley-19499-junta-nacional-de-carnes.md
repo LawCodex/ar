@@ -9,7 +9,9 @@ date: 1972-02-21
 published: 1972-02-23
 boletin_oficial: "22367"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-19499-nacional-carnes-consumo-interior-frigorificos-lns0000764-1972-02-21"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=157661"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/155000-159999/157661/norma.htm"

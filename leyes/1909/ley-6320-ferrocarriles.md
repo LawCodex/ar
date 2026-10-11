@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1909-08-05
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-6320-nacional-lnn0027272-1909-08-05"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=175214"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/175000-179999/175214/norma.htm"

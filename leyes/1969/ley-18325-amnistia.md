@@ -10,6 +10,8 @@ published: 1969-08-29
 boletin_oficial: "21755"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-18325-nacional-lnn0016163-1969-08-22"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=301281"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/301281/norma.htm"

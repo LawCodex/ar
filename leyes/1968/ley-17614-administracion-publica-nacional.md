@@ -9,7 +9,9 @@ date: 1968-01-18
 published: 1968-01-24
 boletin_oficial: "21361"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-17614-nacional-autorizacion-poder-ejecutivo-para-modificar-estructuras-organicas-organismos-administracion-publica-lns0001131-1968-01-18"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=180368"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/180368/norma.htm"

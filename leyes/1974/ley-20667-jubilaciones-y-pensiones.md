@@ -10,6 +10,8 @@ published: 1974-06-04
 boletin_oficial: "22926"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-20667-nacional-lnn0022129-1974-05-15"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=180775"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/180775/norma.htm"

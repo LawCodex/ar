@@ -1,0 +1,79 @@
+---
+title: "Ley 26328: ADMINISTRACION FINANCIERA Y DE CONTROL DEL SECTOR PUBLICO NACIONAL — CUENTAS DE INVERSION - APROBACION"
+identifier: "Ley 26328"
+infoleg_id: "136123"
+type: act
+jurisdiction: ar
+language: es
+date: 2007-11-28
+published: 2007-12-26
+boletin_oficial: "31310"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-26328-nacional-administracion-financiera-sistemas-control-sector-publico-nacional-lns0005380-2007-11-28"
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=136123"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/135000-139999/136123/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 26328: ADMINISTRACION FINANCIERA Y DE CONTROL DEL SECTOR PUBLICO NACIONAL — CUENTAS DE INVERSION - APROBACION
+
+ADMINISTRACION FINANCIERA Y DE CONTROL DEL SECTOR PUBLICO NACIONAL
+
+Ley 26.328
+
+Apruébanse las Cuentas de Inversión presentadas por el Poder Ejecutivo, correspondientes a los ejercicios 1999, 2000, 2001, 2002, 2003 y 2004
+
+Sancionada: Noviembre 28 de 2007
+
+Promulgada de Hecho: Diciembre 20 de 2007
+
+El Senado y Cámara de Diputados
+
+de la Nación Argentina reunidos en Congreso,
+
+etc.
+
+sancionan con fuerza de
+
+Ley:
+
+## ARTICULO 1º
+
+Apruébase la Cuenta de Inversión presentada por el Poder Ejecutivo, correspondiente al Ejercicio 1999.
+
+## ARTICULO 2º
+
+Apruébase la Cuenta de Inversión presentada por el Poder Ejecutivo, correspondiente al Ejercicio 2000.
+
+## ARTICULO 3º
+
+Apruébase la Cuenta de Inversión presentada por el Poder Ejecutivo, correspondiente al Ejercicio 2001.
+
+## ARTICULO 4º
+
+Apruébase la Cuenta de Inversión presentada por el Poder Ejecutivo, correspondiente al Ejercicio 2002.
+
+## ARTICULO 5º
+
+Apruébase la Cuenta de Inversión presentada por el Poder Ejecutivo, correspondiente al Ejercicio 2003.
+
+## ARTICULO 6º
+
+Apruébase la Cuenta de Inversión presentada por el Poder Ejecutivo, correspondiente al Ejercicio 2004.
+
+## ARTICULO 7º
+
+Lo estatuido en los artículos 1º al 6º de la presente, no perjudicará la iniciación ni la prosecución de los procedimientos dirigidos a la efectivización de las responsabilidades que emerjan de los hechos y actos realizados por los funcionarios públicos durante el período comprendido en las cuentas de inversión que se aprueban por la presente, ni al cumplimiento de las decisiones que de las mismas se originen.
+
+## ARTICULO 8º
+
+Comuníquese al Poder Ejecutivo nacional.
+
+DADA EN LA SALA DE SESIONES DEL CONGRESO ARGENTINO, EN BUENOS AIRES, A LOS VEINTIOCHO DIAS DEL MES DE NOVIEMBRE DEL AÑO DOS MIL SIETE.
+
+— REGISTRADO BAJO EL Nº 26.328 —
+
+ALBERTO E. BALESTRINI. — JOSE J. B. PAMPURO. — Enrique Hidalgo. — Juan H. Estrada.

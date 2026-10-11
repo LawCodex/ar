@@ -9,7 +9,9 @@ date: 1960-09-30
 published: 1960-10-28
 boletin_oficial: "19369"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-15553-nacional-declaracion-como-entidad-bien-publico-efectos-impositivos-asociacion-para-lucha-contra-paralisis-infantil-lns0001449-1960-09-30"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=298758"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/298758/texact.htm"

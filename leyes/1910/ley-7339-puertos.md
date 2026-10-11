@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1910-09-30
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-7339-nacional-derechos-puertos-correspondientes-al-puerto-ultramar-provincia-santa-fe-lns0002384-1910-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=289133"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/285000-289999/289133/norma.htm"

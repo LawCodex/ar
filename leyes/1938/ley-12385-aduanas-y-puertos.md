@@ -9,7 +9,9 @@ date: 1938-08-10
 published: 1938-09-10
 boletin_oficial: "13238"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-12385-nacional-reconocimiento-emision-carnets-passage-douane-argentina-lns0002218-1938-08-10"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=233173"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/233173/norma.htm"

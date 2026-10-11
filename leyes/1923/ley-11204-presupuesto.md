@@ -10,6 +10,8 @@ published: 1923-07-04
 boletin_oficial: "8790"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-11204-nacional-lnn0021336-1923-06-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=293231"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/293231/norma.htm"

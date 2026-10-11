@@ -9,7 +9,9 @@ date: 1977-11-21
 published: 1977-11-25
 boletin_oficial: "23796"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21689-nacional-determinacion-haber-mensual-pensiones-graciables-vitalicias-lns0000116-1977-11-21"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=197992"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/197992/norma.htm"

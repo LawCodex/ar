@@ -9,7 +9,9 @@ date: 1970-11-17
 published: 1970-12-24
 boletin_oficial: "22081"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-18834-nacional-lnn0025604-1970-11-17"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=44766"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/40000-44999/44766/norma.htm"

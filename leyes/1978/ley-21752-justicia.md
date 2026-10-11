@@ -10,6 +10,8 @@ published: 1978-03-06
 boletin_oficial: "23866"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-21752-nacional-lnn0026608-1978-03-01"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=196542"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/196542/norma.htm"

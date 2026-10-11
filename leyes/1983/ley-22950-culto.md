@@ -9,7 +9,9 @@ date: 1983-10-14
 published: 1983-10-18
 boletin_oficial: "25280"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22950-nacional-contribucion-para-formacion-clero-diocesano-lns0003102-1983-10-14"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=196519"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/196519/norma.htm"

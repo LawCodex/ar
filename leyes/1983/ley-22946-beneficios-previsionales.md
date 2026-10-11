@@ -10,6 +10,8 @@ published: 1983-10-18
 boletin_oficial: "25280"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22946-nacional-lnn0027938-1983-10-13"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304402"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304402/norma.htm"

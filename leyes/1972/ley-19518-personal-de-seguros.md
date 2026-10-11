@@ -9,7 +9,9 @@ date: 1972-03-08
 published: 1972-03-16
 boletin_oficial: "22383"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19518-nacional-creacion-instituto-servicios-sociales-para-personal-seguros-reaseguros-capitalizacion-ahorro-prestamo-para-vivienda-lns0000756-1972-03-08"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=28186"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/28186/texact.htm"

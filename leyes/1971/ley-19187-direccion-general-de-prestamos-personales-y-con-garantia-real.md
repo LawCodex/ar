@@ -10,6 +10,8 @@ published: 1971-09-01
 boletin_oficial: "22249"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-19187-nacional-lnn0026871-1971-08-24"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=246988"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/245000-249999/246988/norma.htm"

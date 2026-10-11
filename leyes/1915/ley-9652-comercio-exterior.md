@@ -9,7 +9,9 @@ date: 1915-06-07
 published: 1915-06-09
 boletin_oficial: "6418"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-9652-nacional-prohibicion-exportaciones-lns0002488-1915-06-07"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=291420"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/291420/norma.htm"

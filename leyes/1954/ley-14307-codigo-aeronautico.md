@@ -9,7 +9,9 @@ date: 1954-07-15
 published: 1954-08-18
 boletin_oficial: "17711"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-14307-nacional-lnn0026104-1954-07-15"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=116848"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/115000-119999/116848/norma.htm"

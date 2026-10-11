@@ -9,7 +9,9 @@ date: 1985-09-30
 published: 1985-10-29
 boletin_oficial: "25793"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-23288-nacional-reduccion-aporte-obligatorio-empleadores-cajas-subsidios-asignaciones-familiares-lns0003282-1985-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=23979"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/23979/norma.htm"

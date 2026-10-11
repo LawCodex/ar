@@ -9,7 +9,9 @@ date: 1967-04-07
 published: 1967-04-13
 boletin_oficial: "21167"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-17233-nacional-creacion-fondo-nacional-transporte-lns0001208-1967-04-07"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=25206"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/25206/texact.htm"

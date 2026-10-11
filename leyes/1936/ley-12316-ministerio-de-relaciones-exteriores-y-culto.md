@@ -9,7 +9,9 @@ date: 1936-09-30
 published: 1936-10-13
 boletin_oficial: "12684"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-12316-nacional-emision-certificado-internacional-automovil-permiso-internacional-conductor-automovil-club-argentino-lns0002225-1936-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=195019"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/195019/norma.htm"

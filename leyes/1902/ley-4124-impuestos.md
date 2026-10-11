@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1902-09-24
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-4124-nacional-capellanias-lns0002562-1902-09-24"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=232777"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/232777/norma.htm"

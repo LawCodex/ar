@@ -9,7 +9,9 @@ date: 1949-09-28
 published: 1949-10-10
 boletin_oficial: "16468"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-13576-nacional-pago-anticipos-jubilatorios-lns0001979-1949-09-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=196827"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/196827/norma.htm"

@@ -10,6 +10,8 @@ published: 1983-07-28
 boletin_oficial: "25224"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22860-nacional-lnn0027896-1983-07-26"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=253106"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/250000-254999/253106/norma.htm"
@@ -46,6 +48,8 @@ Julio J. Martínez Vivot
 
 Juan R. Aguirre Lanari
 
-## ANEXO I — Detalle del arma a ser transferida con carácter definitivo y sin cargo a la República Oriental del Uruguay con destino a su armada, como ayuda didáctica.
+## ANEXO I
+
+Detalle del arma a ser transferida con carácter definitivo y sin cargo a la República Oriental del Uruguay con destino a su armada, como ayuda didáctica.
 
 Un (1) cañón sin retroceso, calibre 105 mm., Modelo 1968/70 FM Czekalski Nº 0170, con sus pertrechos y arma auxiliar de reglaje.

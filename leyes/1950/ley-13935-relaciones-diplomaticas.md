@@ -9,7 +9,9 @@ date: 1950-09-01
 published: 1950-09-20
 boletin_oficial: "16739"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-13935-nacional-embajada-argentina-india-lns0001938-1950-09-01"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=193283"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/193283/norma.htm"

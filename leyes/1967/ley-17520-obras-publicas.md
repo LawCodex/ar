@@ -9,7 +9,9 @@ date: 1967-11-07
 published: 1967-11-13
 boletin_oficial: "21312"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-17520-nacional-otorgamiento-concesiones-obras-publicas-lns0001148-1967-11-07"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=16942"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/15000-19999/16942/texact.htm"

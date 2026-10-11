@@ -10,6 +10,8 @@ published: 1926-11-10
 boletin_oficial: "9777"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-11379-nacional-lnn0023595-1926-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=293385"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/293385/norma.htm"

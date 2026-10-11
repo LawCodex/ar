@@ -10,6 +10,8 @@ published: 1981-05-26
 boletin_oficial: "24675"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22463-nacional-lnn0028402-1981-05-20"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304198"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304198/norma.htm"

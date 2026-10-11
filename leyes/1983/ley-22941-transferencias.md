@@ -10,6 +10,8 @@ published: 1983-10-11
 boletin_oficial: "25276"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22941-nacional-lnn0027935-1983-10-06"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=250353"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/250000-254999/250353/norma.htm"

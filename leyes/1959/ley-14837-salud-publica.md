@@ -9,7 +9,9 @@ date: 1959-09-18
 published: 1959-10-07
 boletin_oficial: "19055"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-14837-nacional-declarase-obligatoria-vacunacion-antituberculosa-toda-nacion-lns0001585-1959-09-18"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=298084"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/298084/texact.htm"

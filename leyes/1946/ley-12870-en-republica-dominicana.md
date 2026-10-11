@@ -9,7 +9,9 @@ date: 1946-10-09
 published: 1947-06-26
 boletin_oficial: "15799"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-12870-nacional-embajada-argentina-republica-dominicana-lns0002436-1946-10-09"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=43598"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/40000-44999/43598/norma.htm"

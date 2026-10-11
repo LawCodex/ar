@@ -10,6 +10,8 @@ published: 1972-02-10
 boletin_oficial: "22360"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-19460-nacional-lnn0018156-1972-01-24"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302114"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302114/norma.htm"

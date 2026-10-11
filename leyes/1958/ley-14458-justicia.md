@@ -9,7 +9,9 @@ date: 1958-08-18
 published: 1958-08-29
 boletin_oficial: "18725"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-14458-nacional-organizacion-justicia-nacional-criminal-capital-federal-lns0001629-1958-08-13"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=195617"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/195617/norma.htm"

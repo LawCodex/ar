@@ -10,6 +10,8 @@ published: 1948-02-23
 boletin_oficial: "15992"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-13072-nacional-lnn0019531-1947-11-05"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=184231"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/184231/norma.htm"

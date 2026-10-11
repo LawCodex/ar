@@ -10,6 +10,8 @@ published: 1949-10-31
 boletin_oficial: "16484"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-13653-nacional-lnn0001871-1949-09-30"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=116526"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/115000-119999/116526/texact.htm"

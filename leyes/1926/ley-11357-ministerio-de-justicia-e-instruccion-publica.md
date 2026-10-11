@@ -9,7 +9,9 @@ date: 1926-09-14
 published: 1926-09-23
 boletin_oficial: "9738"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-11357-nacional-capacidad-civil-mujer-lns0002280-1926-09-14"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=232934"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/232934/texact.htm"

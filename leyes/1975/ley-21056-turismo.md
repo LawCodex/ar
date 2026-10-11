@@ -9,7 +9,9 @@ date: 1975-09-17
 published: 1975-10-30
 boletin_oficial: "23273"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21056-nacional-promocion-turismo-nacional-internacional-lns0000327-1975-09-17"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=233112"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/233112/norma.htm"

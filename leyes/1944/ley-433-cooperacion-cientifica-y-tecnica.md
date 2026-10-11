@@ -10,6 +10,8 @@ published: 1944-01-27
 boletin_oficial: "14812"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-433-nacional-lnn0016894-1870-09-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=294862"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/294862/norma.htm"

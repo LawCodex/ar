@@ -9,7 +9,9 @@ date: 1983-07-12
 published: 1983-07-14
 boletin_oficial: "25214"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22847-nacional-convocatoria-comicios-generales-para-30-octubre-1983-lns0005695-1983-07-12"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=195989"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/195989/norma.htm"

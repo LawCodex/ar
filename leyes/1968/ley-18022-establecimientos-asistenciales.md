@@ -9,7 +9,9 @@ date: 1968-12-27
 published: 1969-01-07
 boletin_oficial: "21596"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-18022-nacional-construccion-establecimientos-asistenciales-lns0001043-1968-12-27"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=301041"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/301041/texact.htm"

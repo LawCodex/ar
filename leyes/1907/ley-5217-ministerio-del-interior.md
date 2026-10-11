@@ -9,7 +9,9 @@ date: 1907-09-28
 published: 1907-10-16
 boletin_oficial: "4176"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-5217-nacional-fijacion-limites-entre-provincias-mendoza-pampa-lns0002394-1907-09-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=197616"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/197616/norma.htm"

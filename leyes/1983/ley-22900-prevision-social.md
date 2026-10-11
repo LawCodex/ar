@@ -9,7 +9,9 @@ date: 1983-09-08
 published: 1983-09-12
 boletin_oficial: "25255"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22900-nacional-contribucion-ferrocarriles-argentinos-para-financiamiento-regimen-complementario-seguridad-social-lns0003067-1983-09-08"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=130064"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/130000-134999/130064/norma.htm"

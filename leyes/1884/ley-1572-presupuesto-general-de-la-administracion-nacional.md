@@ -8,6 +8,8 @@ language: es
 date: 1884-10-29
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-1572-nacional-lnn0016463-1884-10-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=188702"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/185000-189999/188702/norma.htm"

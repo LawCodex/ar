@@ -9,7 +9,9 @@ date: 1977-08-26
 published: 1977-08-31
 boletin_oficial: "23734"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21630-nacional-creacion-sistema-nacional-reforma-administrativa-lns0000143-1977-08-26"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=303762"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/303762/norma.htm"

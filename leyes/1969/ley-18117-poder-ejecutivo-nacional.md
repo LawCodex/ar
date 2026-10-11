@@ -9,7 +9,9 @@ date: 1969-01-31
 published: 2006-09-28
 boletin_oficial: "31000"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-18117-nacional-reemplazo-titulos-publicos-bonos-tesoro-lns0005103-1969-01-31"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=120310"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/120000-124999/120310/norma.htm"

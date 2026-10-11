@@ -9,7 +9,9 @@ date: 1974-07-31
 published: 1974-08-26
 boletin_oficial: "22979"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-20705-nacional-sociedades-estado-lns0000401-1974-07-31"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=76185"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/75000-79999/76185/norma.htm"

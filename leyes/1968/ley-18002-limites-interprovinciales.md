@@ -9,7 +9,9 @@ date: 1968-12-16
 published: 1968-12-23
 boletin_oficial: "21588"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-18002-nacional-fijacion-limites-entre-provincias-catamarca-cordoba-lns0001052-1968-12-16"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=197931"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/197931/norma.htm"

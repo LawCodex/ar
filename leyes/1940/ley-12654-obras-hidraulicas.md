@@ -9,7 +9,9 @@ date: 1940-09-25
 published: 1940-10-28
 boletin_oficial: "13862"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-12654-nacional-aprovechamiento-aguas-rios-grande-lavayn-jujuy-lns0002260-1940-09-25"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=294616"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/294616/norma.htm"

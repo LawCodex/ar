@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1864-09-29
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-116-nacional-creacion-arzobispado-buenos-aires-lns0002643-1864-09-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=281091"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/280000-284999/281091/norma.htm"

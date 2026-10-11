@@ -9,7 +9,9 @@ date: 1951-09-30
 published: 1951-11-06
 boletin_oficial: "17019"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-14086-nacional-arancel-boletin-judicial-lns0001903-1951-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=296437"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/296437/norma.htm"

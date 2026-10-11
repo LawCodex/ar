@@ -8,6 +8,8 @@ language: es
 date: 1889-11-19
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-2698-nacional-lnn0015730-1889-11-19"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=282505"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/280000-284999/282505/norma.htm"

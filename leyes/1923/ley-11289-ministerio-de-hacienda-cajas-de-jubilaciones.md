@@ -10,6 +10,8 @@ published: 1923-12-14
 boletin_oficial: "8924"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-11289-nacional-lnn0024092-1923-11-22"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=213746"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/210000-214999/213746/norma.htm"

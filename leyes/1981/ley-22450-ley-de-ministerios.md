@@ -10,6 +10,8 @@ published: 1981-04-01
 boletin_oficial: "24640"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22450-nacional-lnn0002828-1981-03-27"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=152076"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/150000-154999/152076/norma.htm"

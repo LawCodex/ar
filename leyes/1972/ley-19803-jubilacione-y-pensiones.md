@@ -9,7 +9,9 @@ date: 1972-08-24
 published: 2006-09-19
 boletin_oficial: "30993"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19803-nacional-jubilaciones-pensiones-lns0005077-1972-08-24"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=119942"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/115000-119999/119942/norma.htm"

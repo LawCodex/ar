@@ -9,7 +9,9 @@ date: 1981-09-22
 published: 1981-09-24
 boletin_oficial: "24760"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22499-nacional-condonacion-deuda-personas-lisiadas-como-consecuencia-importacion-automotores-lns0001956-1981-09-22"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=102213"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/100000-104999/102213/norma.htm"

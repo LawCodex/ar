@@ -9,7 +9,9 @@ date: 1941-07-31
 published: 1941-08-13
 boletin_oficial: "14094"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-12682-nacional-cambio-categoria-repreentacion-diplomatica-permanente-republica-ante-gobierno-bolivia-lns0002255-1941-07-31"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=294636"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/294636/norma.htm"

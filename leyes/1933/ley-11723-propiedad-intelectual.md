@@ -9,7 +9,9 @@ date: 1933-09-26
 published: 1933-09-30
 boletin_oficial: "11799"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-11723-nacional-regimen-propiedad-intelectual-lns0002508-1933-09-26"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=42755"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/40000-44999/42755/texact.htm"

@@ -9,7 +9,9 @@ date: 1968-09-18
 published: 1968-09-24
 boletin_oficial: "21526"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-17889-nacional-publicacion-edictos-originados-fuero-criminal-lns0001068-1968-09-18"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=233689"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/233689/norma.htm"

@@ -9,7 +9,9 @@ date: 1983-12-07
 published: 1983-12-13
 boletin_oficial: "25319"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-23020-nacional-creacion-instituto-nacional-para-asistencia-integral-pequena-mediana-empresa-lns0003141-1983-12-07"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304417"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304417/norma.htm"

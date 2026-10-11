@@ -84,7 +84,9 @@ Parágrafo 1.- Los Ministros de Relaciones Exteriores podrán reunirse en sesió
 
 Parágrafo 2.- Si excepcionalmente el Ministro de Relaciones Exteriores de una de las Partes Contratantes no pudiera concurrir a una reunión, ordinaria o extraordinaria, se hará representar por un Delegado Especial.
 
-## Parágrafo 3.- Las decisiones tomadas en reuniones efectuadas de conformidad con este artículo requerirán siempre el voto unánime de los cinco países — ARTICULO III
+## Parágrafo 3.- Las decisiones tomadas en reuniones efectuadas de conformidad con este artículo requerirán siempre el voto unánime de los cinco países.
+
+ARTICULO III
 
 Para los efectos del presente Tratado, el Comité Intergubernamental Coordinador es reconocido como el órgano permanente de la Cuenca, encargado de promover, coordinar y seguir la marcha de las acciones multinacionales que tengan por objeto el desarrollo integrado de la Cuenca del Plata, y de la asistencia técnica y financiera que organice con el apoyo de los organismos internacionales que estime convenientes, y ejecutar las decisiones que adopten los Ministros de Relaciones Exteriores.
 

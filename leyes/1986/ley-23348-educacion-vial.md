@@ -9,7 +9,9 @@ date: 1986-08-06
 published: 1986-10-08
 boletin_oficial: "26010"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-23348-nacional-educacion-vial-lns0003303-1986-08-06"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=23216"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/23216/norma.htm"

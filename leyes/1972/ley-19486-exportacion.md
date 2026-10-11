@@ -9,7 +9,9 @@ date: 1972-02-09
 published: 1972-02-18
 boletin_oficial: "22364"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19486-nacional-autorizacion-para-adquirir-automotor-al-personal-servicio-exterior-nacion-lns0000770-1972-02-09"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=170869"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/170000-174999/170869/norma.htm"

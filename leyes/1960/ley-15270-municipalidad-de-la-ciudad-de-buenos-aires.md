@@ -10,6 +10,8 @@ published: 1960-02-13
 boletin_oficial: "19160"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-15270-nacional-lnn0018853-1960-02-03"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=298496"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/298496/norma.htm"

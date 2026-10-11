@@ -9,7 +9,9 @@ date: 1968-09-27
 published: 1968-10-11
 boletin_oficial: "21539"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-17915-nacional-transferencia-jurisdiccion-provincia-formosa-una-area-parque-nacional-rio-pilcomayo-lns0002893-1968-09-27"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=232476"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/232476/norma.htm"

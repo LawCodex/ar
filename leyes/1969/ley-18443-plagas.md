@@ -9,7 +9,9 @@ date: 1969-11-13
 published: 1969-11-21
 boletin_oficial: "21814"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-18443-nacional-lucha-contra-tucura-lns0000986-1969-11-13"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=196831"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/196831/norma.htm"

@@ -10,6 +10,8 @@ published: 1980-11-19
 boletin_oficial: "24548"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22329-nacional-lnn0023729-1980-11-13"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=189835"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/185000-189999/189835/norma.htm"

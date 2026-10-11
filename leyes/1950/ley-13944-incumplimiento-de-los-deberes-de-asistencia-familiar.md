@@ -9,7 +9,9 @@ date: 1950-09-15
 published: 1950-11-03
 boletin_oficial: "16769"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-13944-nacional-penalidades-incumplimiento-deberes-asistencia-familiar-lns0001937-1950-09-15"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=129755"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/125000-129999/129755/texact.htm"

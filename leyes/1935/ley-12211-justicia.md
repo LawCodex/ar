@@ -9,7 +9,9 @@ date: 1935-09-25
 published: 1935-10-07
 boletin_oficial: "12386"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-12211-nacional-organizacion-justicia-federal-ciudades-plata-bahia-blanca-mercedes-buenos-aires-lns0002239-1935-09-25"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=196035"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/196035/norma.htm"

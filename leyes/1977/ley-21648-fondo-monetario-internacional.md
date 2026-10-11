@@ -294,7 +294,9 @@ ii) al cien por ciento para todos los países miembros.
 
 d) La remuneración se pagará en derechos especiales de giro, aunque tanto el Fondo como el país miembro podrán decidir que el pago al país se hará en su moneda.
 
-## Sección 10 – Cómputos — a) El valor de los activos del Fondo en las cuentas del Departamento General se expresará en derechos especiales de giro.
+## Sección 10 – Cómputos
+
+a) El valor de los activos del Fondo en las cuentas del Departamento General se expresará en derechos especiales de giro.
 
 b) Todos los cómputos referentes a las monedas de los países miembros a efectos de aplicar las disposiciones de este Convenio, excepto las del Artículo IV y el anexo C, se efectuarán según el valor a que el Fondo contabilice esas monedas de conformidad con la Sección 11 de este artículo.
 
@@ -352,7 +354,9 @@ i) Impide el uso de los recursos generales del Fondo para transacciones de capit
 
 ii) Afecta a los movimientos de capital que el país miembro satisfaga con recursos propios: ahora bien, los países miembros se comprometen a que dichos movimientos de capital estén en consonancia con los fines del Fondo.
 
-## Sección 2 – Disposiciones especiales sobre transferencias de capital — Los países miembros tendrán derecho a realizar compras dentro del tramo de reserva para hacer frente a transferencias de capital.
+## Sección 2 – Disposiciones especiales sobre transferencias de capital
+
+Los países miembros tendrán derecho a realizar compras dentro del tramo de reserva para hacer frente a transferencias de capital.
 
 ## Sección 3 – Control de las transferencias de capital
 
@@ -490,7 +494,9 @@ Los bienes y el activo del Fondo, dondequiera que se hallen situados y quien qui
 
 Hasta donde sea necesario para llevar a cabo las actividades previstas en este convenio, todos los bienes y el activo del Fondo estarán libres de restricciones, regulaciones, medidas de control y moratorias de cualquier naturaleza.
 
-## Sección 7 – Privilegio en cuanto a comunicaciones — Los países miembros otorgarán a las comunicaciones oficiales del Fondo el mismo tratamiento que a las comunicaciones oficiales de otros países miembros.
+## Sección 7 – Privilegio en cuanto a comunicaciones
+
+Los países miembros otorgarán a las comunicaciones oficiales del Fondo el mismo tratamiento que a las comunicaciones oficiales de otros países miembros.
 
 ## Sección 8 – Inmunidades y privilegios de funcionarios y empleados
 
@@ -614,7 +620,9 @@ c) En el desempeño de sus funciones, el director gerente y el personal del Fond
 
 d) Al designar al personal, el director gerente sujetándose a la necesidad primordial de obtener el más alto nivel de eficiencia y de competencia técnica, tendrá debidamente en cuenta la importancia de contratarlo sobre una base geográfica lo más amplia posible.
 
-## Sección 5 – Votación — a) Cada país miembro tendrá doscientos cincuenta votos, más un voto adicional por cada porción de su cuota equivalente a cien mil derechos especiales de giro.
+## Sección 5 – Votación
+
+a) Cada país miembro tendrá doscientos cincuenta votos, más un voto adicional por cada porción de su cuota equivalente a cien mil derechos especiales de giro.
 
 b) Siempre que se requiera una votación con arreglo a las secciones 4 ó 5 del Artículo V, cada país miembro tendrá el número de votos que le correspondan según el apartado a), con los ajustes siguientes:
 
@@ -810,7 +818,9 @@ ARTICULO XIX
 
 OPERACIONES Y TRANSACCIONES EN DERECHOS ESPECIALES DE GIRO
 
-## Sección 1 – Utilización de los derechos especiales de giro — Los derechos especiales de giro podrán utilizarse en las operaciones y transacciones autorizadas por este convenio o realizadas de conformidad con el mismo.
+## Sección 1 – Utilización de los derechos especiales de giro
+
+Los derechos especiales de giro podrán utilizarse en las operaciones y transacciones autorizadas por este convenio o realizadas de conformidad con el mismo.
 
 ## Sección 2 – Operaciones y transacciones entre países participantes
 
@@ -878,7 +888,9 @@ El Fondo pagará una tasa igual de intereses a todos los tenedores de derechos e
 
 Todos los países participantes pagarán al Fondo una tasa igual de cargos sobre la suma de sus respectivas asignaciones acumulativas netas de derechos especiales de giro más cualquier saldo negativo que tengan o cargos que adeuden.
 
-## Sección 3 – Tasa de interés y cargos — El Fondo determinará la tasa de interés por mayoría del setenta por ciento de la totalidad de los votos. La tasa de cargos será igual a la de interés.
+## Sección 3 – Tasa de interés y cargos
+
+El Fondo determinará la tasa de interés por mayoría del setenta por ciento de la totalidad de los votos. La tasa de cargos será igual a la de interés.
 
 ## Sección 4 – Contribuciones
 

@@ -9,7 +9,9 @@ date: 1969-06-10
 published: 1969-07-28
 boletin_oficial: "21732"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-18240-nacional-franquicias-otorgadas-empresas-comprendidas-regimen-especial-ayuda-financiera-lns0001022-1969-06-10"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=301217"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/301217/texact.htm"

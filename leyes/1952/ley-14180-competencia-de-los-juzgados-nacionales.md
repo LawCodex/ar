@@ -9,7 +9,9 @@ date: 1952-09-30
 published: 1952-10-15
 boletin_oficial: "17255"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-14180-nacional-competencia-juzgados-nacionales-primera-instancia-contencioso-administrativo-lns0001891-1952-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=235579"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/235000-239999/235579/norma.htm"

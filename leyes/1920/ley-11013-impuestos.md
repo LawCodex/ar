@@ -10,6 +10,8 @@ published: 1920-06-23
 boletin_oficial: "7901"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-11013-nacional-lnn0024266-1920-06-02"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=293058"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/293058/norma.htm"

@@ -9,7 +9,9 @@ date: 1983-08-08
 published: 1983-08-10
 boletin_oficial: "25233"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22868-nacional-cambio-denominacion-loteria-beneficencia-nacional-casinos-lns0003052-1983-08-08"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=25441"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/25441/norma.htm"

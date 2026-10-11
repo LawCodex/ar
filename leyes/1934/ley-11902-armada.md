@@ -10,6 +10,8 @@ published: 1934-09-26
 boletin_oficial: "12087"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-11902-nacional-lnn0027705-1934-09-07"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=293939"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/293939/norma.htm"

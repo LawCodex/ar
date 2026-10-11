@@ -10,6 +10,8 @@ published: 1972-01-13
 boletin_oficial: "22340"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-19401-nacional-lnn0018177-1971-12-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302066"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302066/norma.htm"

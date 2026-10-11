@@ -10,6 +10,8 @@ published: 1960-02-19
 boletin_oficial: "19165"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-15272-nacional-lnn0027073-1960-02-04"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=298497"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/298497/norma.htm"

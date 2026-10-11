@@ -9,7 +9,9 @@ date: 1967-04-10
 published: 1967-04-21
 boletin_oficial: "21173"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-17236-nacional-ley-organica-servicio-penitenciario-federal-lnn0025688-1967-04-10"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=180829"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/180829/norma.htm"

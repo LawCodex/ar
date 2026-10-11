@@ -1,0 +1,67 @@
+---
+title: "Ley 25264: FONDO NACINAL DEINCENTIVO DOCENTE — LEY NRO. 25053 - MODIFICACION -"
+identifier: "Ley 25264"
+infoleg_id: "63764"
+type: act
+jurisdiction: ar
+language: es
+date: 2000-06-21
+published: 2000-07-26
+boletin_oficial: "29448"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-25264-nacional-modificacion-ley-25053-sobre-fondo-nacional-incentivo-docente-lns0004462-2000-06-21"
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=63764"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/60000-64999/63764/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 25264: FONDO NACINAL DEINCENTIVO DOCENTE — LEY NRO. 25053 - MODIFICACION -
+
+FONDO NACIONAL DE INCENTIVO DOCENTE
+
+Ley 25.264
+
+Modificación de la Ley 25.053.
+
+Sancionada: junio 21 de 2000.
+
+Promulgada de Hecho: julio 21 de 2000.
+
+El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc. Sancionan con fuerza de Ley
+
+## ARTICULO 1º
+
+Modifícase el artículo 10 de la Ley 25.053 —Fondo Nacional de Incentivo Docente— por el siguiente texto:
+
+**Artículo 10.** Los recursos del Fondo Nacional de Incentivo Docente serán afectados específicamente al mejoramiento de la retribución de los docentes de escuelas oficiales y de gestión privada subvencionadas de las provincias y de la Ciudad de Buenos Aires, y de las escuelas e institutos oficiales dependientes de las universidades nacionales, de los ministerios del Poder Ejecutivo nacional, de otros organismos oficiales y de las escuelas dependientes de municipios, sujetos a las condiciones que fija la presente norma.
+
+## ARTICULO 2º
+
+Incorpórase como artículo 13 bis de la citada ley el siguiente texto:
+
+A los efectos de hacer efectivo el pago del incentivo, se procederá de la siguiente manera:
+
+a) Cuando el salario de los docentes por la presente ley sea igual o menor que el de la jurisdicción donde estén ubicados geográficamente, la asignación correspondiente al FONID será por igual monto de los de esa jurisdicción;
+
+b) Cuando ese salario sea mayor, pero menor a la sumatoria del mismo con la asignación del FONID, percibirán la diferencia hasta alcanzar ese monto sumado;
+
+c) Cuando el salario sea mayor a la suma del salario más la asignación por incentivo, no percibirán ninguna asignación adicional.
+
+## ARTICULO 3º
+
+Autorízase al Poder Ejecutivo nacional a realizar la adecuación de partidas presupuestarias que estime convenientes a los fines de dar cumplimiento a la presente ley.
+
+La reasignación de partidas presupuestarias deberá formularse sin afectar las partidas correspondientes a los programas del Ministerio de Educación.
+
+## ARTICULO 4º
+
+Comuníquese al Poder Ejecutivo nacional.
+
+DADA EN LA SALA DE SESIONES DEL CONGRESO ARGENTINO, EN BUENOS AIRES, A LOS VEINTIUN DIAS DEL MES DE JUNIO DEL AÑO DOS MIL.
+
+— REGISTRADA BAJO EL Nº 25.264 —
+
+RAFAEL PASCUAL. — JOSE GENOUD. — Guillermo Aramburu. — Mario L. Pontaquarto.

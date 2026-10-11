@@ -9,7 +9,9 @@ date: 1966-11-21
 published: 1966-11-25
 boletin_oficial: "21074"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-17021-nacional-inembargabilidad-recursos-instituto-ayuda-financiera-para-pago-retiros-pensiones-militares-lns0001302-1966-11-21"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=47079"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/45000-49999/47079/norma.htm"

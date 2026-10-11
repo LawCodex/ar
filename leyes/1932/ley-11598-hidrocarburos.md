@@ -10,6 +10,8 @@ published: 1932-08-22
 boletin_oficial: "11469"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-11598-nacional-lnn0021406-1932-08-03"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=228993"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/225000-229999/228993/norma.htm"

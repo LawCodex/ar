@@ -9,7 +9,9 @@ date: 1973-03-16
 published: 1973-03-23
 boletin_oficial: "22632"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20216-nacional-regulacion-servicios-postales-internos-internacionales-lns0000582-1973-03-16"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=21843"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/21843/norma.htm"

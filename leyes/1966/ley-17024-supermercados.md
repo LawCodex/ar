@@ -10,6 +10,8 @@ published: 1966-11-25
 boletin_oficial: "21074"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-17024-nacional-lnn0001301-1966-11-21"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=47082"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/45000-49999/47082/norma.htm"

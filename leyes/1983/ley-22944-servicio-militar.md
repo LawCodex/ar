@@ -10,6 +10,8 @@ published: 1983-10-17
 boletin_oficial: "25279"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22944-nacional-lnn0027941-1983-10-11"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=108638"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/105000-109999/108638/norma.htm"

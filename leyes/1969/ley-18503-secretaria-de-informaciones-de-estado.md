@@ -9,7 +9,9 @@ date: 1969-12-26
 published: 2006-09-25
 boletin_oficial: "30997"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-18503-nacional-aprobacion-estatuto-para-personal-civil-inteligencia-secretaria-informaciones-estado-fuerzas-armadas-lns0005091-1969-12-26"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=120148"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/120000-124999/120148/norma.htm"

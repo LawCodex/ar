@@ -9,7 +9,9 @@ date: 1972-11-28
 published: 1972-12-04
 boletin_oficial: "22558"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-19979-nacional-prohibicion-adquisicion-titulos-publicos-emprestito-valores-nacionales-ajustables-parte-entidades-financieras-lns0000615-1972-11-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302485"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302485/norma.htm"

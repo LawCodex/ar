@@ -8,6 +8,8 @@ language: es
 date: 1968-06-03
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-17758-nacional-lnn0016477-1968-06-03"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=300830"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/300830/norma.htm"

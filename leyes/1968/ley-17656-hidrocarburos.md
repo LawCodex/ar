@@ -10,6 +10,8 @@ published: 1968-03-14
 boletin_oficial: "21395"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-17656-nacional-lnn0005796-1968-02-23"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=223493"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/220000-224999/223493/norma.htm"

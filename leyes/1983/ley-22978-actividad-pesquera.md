@@ -9,7 +9,9 @@ date: 1983-11-19
 published: 1983-11-22
 boletin_oficial: "25305"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22978-nacional-locacion-buques-pesqueros-extranjeros-lns0003113-1983-11-16"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=236445"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/235000-239999/236445/norma.htm"

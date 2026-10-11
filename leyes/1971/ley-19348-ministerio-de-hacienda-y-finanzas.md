@@ -9,7 +9,9 @@ date: 1971-11-25
 published: 2006-09-20
 boletin_oficial: "30994"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19348-nacional-ley-secreta-sobre-importacion-material-belico-secreto-efectuado-comando-jefe-ejercito-comando-armada-comando-jefe-fuerza-aerea-lns0005078-1971-11-25"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=119993"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/115000-119999/119993/norma.htm"

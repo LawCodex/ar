@@ -9,7 +9,9 @@ date: 1983-10-06
 published: 1983-10-10
 boletin_oficial: "25275"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-22938-nacional-economia-energia-mineria-energia-electrica-servicios-publicos-servicios-electricos-lns0003083-1983-10-06"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=228012"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/225000-229999/228012/norma.htm"

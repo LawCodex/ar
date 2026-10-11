@@ -9,7 +9,9 @@ date: 1977-01-28
 published: 1977-02-03
 boletin_oficial: "23590"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21519-nacional-adicional-al-impuesto-sobre-venta-boletos-entrada-hipodromos-al-impuesto-sobre-venta-boletas-apuestas-al-impuesto-sobre-venta-boletos-sport-lns0000191-1977-01-28"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=303695"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/303695/texact.htm"

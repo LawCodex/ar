@@ -9,7 +9,9 @@ date: 1970-12-23
 published: 1971-02-01
 boletin_oficial: "22105"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-18874-nacional-lnn0025572-1970-12-23"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=77258"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/75000-79999/77258/norma.htm"

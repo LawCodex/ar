@@ -10,6 +10,8 @@ published: 1967-06-01
 boletin_oficial: "21200"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-17293-nacional-lnn0005867-1967-05-23"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=191476"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/191476/norma.htm"

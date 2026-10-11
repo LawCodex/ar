@@ -9,7 +9,9 @@ date: 1975-08-13
 published: 1975-09-08
 boletin_oficial: "23235"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20983-nacional-obligacion-para-medios-difusion-radial-televisiva-destinar-espacios-diarios-para-difusion-turismo-nacional-lns0000380-1975-08-13"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=100790"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/100000-104999/100790/texact.htm"

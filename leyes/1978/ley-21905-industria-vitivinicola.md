@@ -10,6 +10,8 @@ published: 1978-11-23
 boletin_oficial: "24048"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-21905-nacional-lnn0028370-1978-11-03"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=303907"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/303907/norma.htm"

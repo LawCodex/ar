@@ -9,7 +9,9 @@ date: 1982-10-08
 published: 1982-10-11
 boletin_oficial: "25023"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-22655-nacional-lnn0027752-1982-10-08"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=140416"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/140000-144999/140416/norma.htm"

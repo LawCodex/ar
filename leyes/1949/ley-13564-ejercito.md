@@ -9,7 +9,9 @@ date: 1949-09-16
 published: 2006-10-04
 boletin_oficial: "31004"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-13564-nacional-credito-destinado-al-equipamiento-modernizacion-ejercito-lns0005111-1949-09-16"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=120508"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/120000-124999/120508/norma.htm"

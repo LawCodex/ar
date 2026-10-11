@@ -10,6 +10,8 @@ published: 1964-12-31
 boletin_oficial: "20605"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-16656-nacional-impuesto-combustibles-gaseosos-lnn0001365-1964-12-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=226957"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/225000-229999/226957/norma.htm"

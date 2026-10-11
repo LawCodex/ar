@@ -10,6 +10,8 @@ published: 1984-02-01
 boletin_oficial: "25355"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-23045-nacional-autoriza-al-presidente-para-ausentarse-pais-lnn0027981-1984-01-25"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=28161"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/28161/norma.htm"

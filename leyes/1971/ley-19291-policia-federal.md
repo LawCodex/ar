@@ -9,7 +9,9 @@ date: 1971-10-08
 published: 1971-10-18
 boletin_oficial: "22281"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19291-nacional-eliminacion-incorporacion-abogados-al-escalafon-tecnico-profesional-policia-federal-lns0000813-1971-10-08"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=182582"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/182582/norma.htm"

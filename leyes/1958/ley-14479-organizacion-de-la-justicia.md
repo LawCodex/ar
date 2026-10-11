@@ -9,7 +9,9 @@ date: 1958-09-19
 published: 1958-09-26
 boletin_oficial: "18749"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-14479-nacional-aumento-integrantes-camara-federal-apelaciones-provincia-cordoba-lns0001624-1958-09-19"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=297758"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/297758/norma.htm"

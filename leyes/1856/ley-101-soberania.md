@@ -8,6 +8,8 @@ language: es
 date: 1856-09-26
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-101-nacional-lnn0016873-1864-09-23"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=280863"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/280000-284999/280863/norma.htm"

@@ -9,7 +9,9 @@ date: 1984-02-22
 published: 1984-03-21
 boletin_oficial: "25390"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-23052-nacional-calificacion-peliculas-lns0003156-1984-02-22"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=28154"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/28154/norma.htm"

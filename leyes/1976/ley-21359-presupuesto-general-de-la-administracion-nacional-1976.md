@@ -9,7 +9,9 @@ date: 1976-07-23
 published: 2006-09-12
 boletin_oficial: "30988"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21359-nacional-autorizaciones-incremento-gastos-presupuesto-general-administracion-publica-nacional-para-ejercicio-1976-lns0005058-1976-07-23"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=119668"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/115000-119999/119668/norma.htm"

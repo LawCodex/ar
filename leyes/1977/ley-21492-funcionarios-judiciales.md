@@ -9,7 +9,9 @@ date: 1977-01-07
 published: 1977-01-14
 boletin_oficial: "23576"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21492-nacional-remuneraciones-funcionarios-empleados-judiciales-lns0000898-1977-01-07"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=303680"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/303680/texact.htm"

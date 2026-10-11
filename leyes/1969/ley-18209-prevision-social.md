@@ -9,7 +9,9 @@ date: 1969-05-12
 published: 1969-05-19
 boletin_oficial: "21685"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-18209-nacional-pago-pension-agentes-policia-bomberos-lns0003233-1969-05-12"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=195100"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/195100/norma.htm"

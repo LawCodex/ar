@@ -9,7 +9,9 @@ date: 1985-08-22
 published: 1985-10-02
 boletin_oficial: "25774"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-23226-nacional-lnn0028101-1985-08-22"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=174031"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/170000-174999/174031/norma.htm"

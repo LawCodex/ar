@@ -9,7 +9,9 @@ date: 1972-07-06
 published: 1972-07-13
 boletin_oficial: "22462"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-19724-nacional-regimen-prehorizontalidad-lns0000705-1972-07-06"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=189951"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/185000-189999/189951/norma.htm"

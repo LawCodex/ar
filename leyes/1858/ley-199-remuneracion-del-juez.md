@@ -8,6 +8,8 @@ language: es
 date: 1858-09-29
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-199-nacional-lnn0027291-1866-09-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=280874"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/280000-284999/280874/norma.htm"

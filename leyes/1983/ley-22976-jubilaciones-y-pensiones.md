@@ -10,6 +10,8 @@ published: 1983-11-22
 boletin_oficial: "25305"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22976-nacional-lnn0027946-1983-11-16"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=157309"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/155000-159999/157309/norma.htm"

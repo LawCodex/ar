@@ -9,7 +9,9 @@ date: 1983-04-21
 published: 1983-06-07
 boletin_oficial: "25188"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22790-nacional-remuneracion-presidentes-directores-sindicos-actuen-empresas-sociedades-estado-lns0003039-1983-04-21"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=195929"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/195929/norma.htm"

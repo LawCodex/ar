@@ -9,7 +9,9 @@ date: 1979-02-01
 published: 1979-02-12
 boletin_oficial: "24102"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-21937-nacional-tributos-impuestos-energia-mineria-energia-electrica-fondo-nacional-energia-electrica-fondo-chocon-cerros-colorados-alicopa-fondo-nacional-grandes-obras-electricas-lns0000035-1979-02-05"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=226345"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/225000-229999/226345/norma.htm"

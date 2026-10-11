@@ -10,6 +10,8 @@ published: 1981-02-03
 boletin_oficial: "24599"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22385-nacional-lnn0028412-1981-01-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=190658"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/190658/norma.htm"

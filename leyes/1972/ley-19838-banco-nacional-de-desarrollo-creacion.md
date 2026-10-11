@@ -10,6 +10,8 @@ published: 1972-09-25
 boletin_oficial: "22512"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-19838-nacional-lnn0021925-1972-09-18"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302388"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302388/norma.htm"

@@ -9,7 +9,9 @@ date: 1939-08-24
 published: 1939-09-02
 boletin_oficial: "13525"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-12589-nacional-cambio-categoria-representacion-diplomatica-permanente-republica-ante-gobierno-colombia-lns0002267-1939-08-24"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=294562"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/294562/norma.htm"

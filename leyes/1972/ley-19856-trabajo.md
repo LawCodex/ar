@@ -9,7 +9,9 @@ date: 1972-09-27
 published: 1972-10-04
 boletin_oficial: "22519"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19856-nacional-regimen-garantia-horaria-para-personal-industria-frigorifica-lns0000680-1972-09-27"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=194544"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/194544/norma.htm"

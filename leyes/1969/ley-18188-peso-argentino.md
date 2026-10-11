@@ -9,7 +9,9 @@ date: 1969-04-15
 published: 1969-04-22
 boletin_oficial: "21667"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-18188-nacional-moneda-banco-central-republica-argentina-lns0001028-1969-04-15"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=266068"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/265000-269999/266068/norma.htm"

@@ -9,7 +9,9 @@ date: 1983-03-24
 published: 1983-03-29
 boletin_oficial: "25142"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22763-nacional-importaciones-exportaciones-traves-empresas-transporte-aereo-lns0002999-1983-03-24"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=192146"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/192146/norma.htm"

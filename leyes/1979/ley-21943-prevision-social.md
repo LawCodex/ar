@@ -10,6 +10,8 @@ published: 1979-03-01
 boletin_oficial: "24115"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-21943-nacional-lnn0005557-1979-02-26"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=303929"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/303929/norma.htm"

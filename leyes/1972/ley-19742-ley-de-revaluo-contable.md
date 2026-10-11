@@ -9,7 +9,9 @@ date: 1972-07-25
 published: 1972-08-02
 boletin_oficial: "22476"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19742-nacional-ley-revaluo-contable-lns0000703-1972-07-25"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302323"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302323/texact.htm"

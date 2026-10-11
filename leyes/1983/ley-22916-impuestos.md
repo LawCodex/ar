@@ -9,7 +9,9 @@ date: 1983-09-15
 published: 1983-09-21
 boletin_oficial: "25262"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22916-nacional-impuesto-adicional-sobre-monto-sujeto-impuesto-gravamen-emergencia-premios-determinados-juegos-sorteo-concursos-deportivos-lns0003078-1983-09-15"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=144383"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/140000-144999/144383/norma.htm"

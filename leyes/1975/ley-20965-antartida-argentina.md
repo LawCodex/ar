@@ -9,7 +9,9 @@ date: 1975-06-12
 published: 1975-07-21
 boletin_oficial: "23201"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20965-nacional-beneficios-para-personal-destacado-oficialmente-antartida-lns0000382-1975-06-12"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=231355"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/231355/norma.htm"

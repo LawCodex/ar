@@ -9,7 +9,9 @@ date: 1972-04-19
 published: 1972-04-27
 boletin_oficial: "22411"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19580-nacional-reconocimiento-servicios-desempenados-investigadores-cientificos-graduados-universitarios-extranjero-fines-jubilatorios-lns0000738-1972-04-19"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=196877"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/196877/norma.htm"

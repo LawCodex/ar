@@ -10,6 +10,8 @@ published: 1985-10-16
 boletin_oficial: "25784"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-23265-nacional-lnn0028112-1985-09-25"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=24100"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/24100/norma.htm"

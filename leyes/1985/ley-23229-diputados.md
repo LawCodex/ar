@@ -9,7 +9,9 @@ date: 1985-09-05
 published: 1985-09-23
 boletin_oficial: "25767"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-23229-nacional-estado-politica-leyes-electorales-elecciones-lns0003242-1985-09-05"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=24829"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/24829/norma.htm"

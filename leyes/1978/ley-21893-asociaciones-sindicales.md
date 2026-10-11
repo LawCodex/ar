@@ -10,6 +10,8 @@ published: 1978-11-01
 boletin_oficial: "24032"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-21893-nacional-lnn0009231-1978-10-27"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=303904"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/303904/norma.htm"

@@ -10,6 +10,8 @@ published: 1973-03-28
 boletin_oficial: "22635"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-20221-nacional-lnn0000607-1973-03-21"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=38936"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/35000-39999/38936/norma.htm"

@@ -9,7 +9,9 @@ date: 1977-08-26
 published: 1977-08-31
 boletin_oficial: "23734"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21629-nacional-banco-nacional-desarrollo-lns0000144-1977-08-26"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=172046"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/170000-174999/172046/norma.htm"

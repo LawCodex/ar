@@ -9,7 +9,9 @@ date: 1958-09-23
 published: 1958-10-18
 boletin_oficial: "18768"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-14487-nacional-jurisdiccion-tierras-fiscales-ciudad-san-carlos-bariloche-lns0002890-1958-09-23"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=196660"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/196660/norma.htm"

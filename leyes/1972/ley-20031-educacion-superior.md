@@ -10,6 +10,8 @@ published: 1972-12-27
 boletin_oficial: "22573"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-20031-nacional-lnn0025471-1972-12-20"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=195171"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/195171/norma.htm"

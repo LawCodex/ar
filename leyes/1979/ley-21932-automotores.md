@@ -9,7 +9,9 @@ date: 1979-01-19
 published: 1979-02-01
 boletin_oficial: "24095"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21932-nacional-produccion-autopartes-importacion-automotores-lns0000036-1979-01-26"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=17690"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/15000-19999/17690/texact.htm"

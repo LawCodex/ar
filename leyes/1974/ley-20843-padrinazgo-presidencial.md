@@ -9,7 +9,9 @@ date: 1974-09-28
 published: 1974-12-10
 boletin_oficial: "23053"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20843-nacional-becas-padrinazgo-presidencial-lns0000439-1974-09-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=158477"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/155000-159999/158477/norma.htm"

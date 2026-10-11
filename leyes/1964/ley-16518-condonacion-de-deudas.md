@@ -10,6 +10,8 @@ published: 1964-11-14
 boletin_oficial: "20568"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-16518-nacional-lnn0017728-1964-10-23"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=300042"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/300042/norma.htm"

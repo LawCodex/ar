@@ -9,7 +9,9 @@ date: 1978-11-03
 published: 1978-11-23
 boletin_oficial: "24048"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21906-nacional-creacion-instituto-vivienda-ejercito-lns0000048-1978-11-03"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=193601"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/193601/norma.htm"

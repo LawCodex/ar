@@ -10,6 +10,8 @@ published: 1981-04-09
 boletin_oficial: "24646"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22451-nacional-lnn0002820-1981-03-27"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=106610"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/105000-109999/106610/norma.htm"

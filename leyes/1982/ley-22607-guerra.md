@@ -9,7 +9,9 @@ date: 1982-06-15
 published: 1982-06-17
 boletin_oficial: "24943"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-22607-nacional-estado-simbolos-efemerides-patrios-homenajes-condecoraciones-distinciones-defensa-seguridad-lns0002926-1982-06-15"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304287"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304287/norma.htm"

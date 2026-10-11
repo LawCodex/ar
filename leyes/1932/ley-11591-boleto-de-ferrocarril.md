@@ -10,6 +10,8 @@ published: 1932-08-02
 boletin_oficial: "11453"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-11591-nacional-lnn0023580-1932-07-21"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=293618"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/293618/norma.htm"

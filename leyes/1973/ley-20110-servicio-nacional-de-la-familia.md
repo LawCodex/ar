@@ -9,7 +9,9 @@ date: 1973-01-18
 published: 2006-09-14
 boletin_oficial: "30990"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20110-nacional-creacion-servicio-nacional-familia-lns0005065-1973-01-18"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=119765"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/115000-119999/119765/norma.htm"
@@ -296,7 +298,9 @@ Comuníquese, dése a la Dirección Nacional del Registro Oficial y archívese.
 
 Firmas
 
-## ANEXO III — ADMINISTRACION INTEGRAL: Perseguir el logro del máximo rendimiento en un organismo en todos sus aspectos a fin de satisfacer el motivo de su creación.
+## ANEXO III
+
+ADMINISTRACION INTEGRAL: Perseguir el logro del máximo rendimiento en un organismo en todos sus aspectos a fin de satisfacer el motivo de su creación.
 
 CONDUCCION INTERMEDIA: Comprende las actividades de dirección y fiscalización entre el nivel conducción normativa y los modos operativos. Recibe de la superioridad directivas generales que traduce en directivas particulares para ser aplicadas en las unidades operativas dependientes de su jurisdicción.
 

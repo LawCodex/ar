@@ -9,7 +9,9 @@ date: 1972-11-30
 published: 2006-09-13
 boletin_oficial: "30989"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19992-nacional-emision-bono-seriado-republica-argentina-destinado-al-fondo-nacional-inversiones-lns0005061-1972-11-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=119715"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/115000-119999/119715/norma.htm"
@@ -134,9 +136,13 @@ Al aproximarse el término de cada período semestral, el Banco comunicará al P
 
 3.(i) Si cualquier pago de capital o intereses en virtud del presente Convenio o del Bono no se efectuara en las fechas de vencimiento establecidas, el Prestatario abonará los intereses o el capital pendiente de pago y los intereses adeudados a la tasa entonces aplicable y sin perjuicio de lo precedente, el Banco puede requerir al Prestatario el reembolso inmediato de la totalidad del capital y de los intereses devengados.
 
-## SECCION 4. LEGISLACION APLICABLE — 4.(i) Este Convenio de Préstamo y el Bono serán regidos e interpretados de acuerdo con las leyes del Reino Unido.
+## SECCION 4. LEGISLACION APLICABLE.
 
-## SECCION 5. VARIOS — Este Convenio de Préstamo se puede traducir del idioma inglés al idioma castellano y su versión deberá ser también legalizada.
+4.(i) Este Convenio de Préstamo y el Bono serán regidos e interpretados de acuerdo con las leyes del Reino Unido.
+
+## SECCION 5. VARIOS.
+
+Este Convenio de Préstamo se puede traducir del idioma inglés al idioma castellano y su versión deberá ser también legalizada.
 
 En el caso de conflicto entre la versión inglesa y su traducción al castellano prevalecerá la versión inglesa en todos los casos.
 

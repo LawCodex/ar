@@ -10,6 +10,8 @@ published: 1964-12-03
 boletin_oficial: "20584"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-16611-nacional-jubilacion-ordinaria-para-medicos-auxiliares-medicina-trabajan-sustancias-radioactivas-lns0001369-1964-10-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=231271"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/231271/norma.htm"

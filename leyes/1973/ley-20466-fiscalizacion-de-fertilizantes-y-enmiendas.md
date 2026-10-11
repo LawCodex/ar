@@ -9,7 +9,9 @@ date: 1973-05-23
 published: 1973-06-06
 boletin_oficial: "22681"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20466-nacional-elaboracion-fraccionamiento-distribucion-importacion-exportacion-venta-fertilizantes-abonos-lns0000539-1973-05-23"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=23122"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/23122/norma.htm"

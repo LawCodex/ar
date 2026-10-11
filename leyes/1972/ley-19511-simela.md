@@ -9,7 +9,9 @@ date: 1972-03-02
 published: 1972-05-11
 boletin_oficial: "22420"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19511-nacional-creacion-sistema-metrico-legal-argentino-simela-lns0000760-1972-03-02"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=48851"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/45000-49999/48851/texact.htm"

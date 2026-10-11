@@ -10,6 +10,8 @@ published: 1983-08-15
 boletin_oficial: "25236"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22872-nacional-lnn0027903-1983-07-21"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304392"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304392/norma.htm"

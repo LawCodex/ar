@@ -9,7 +9,9 @@ date: 1967-12-29
 published: 1968-01-17
 boletin_oficial: "21356"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-17606-nacional-obligatoriedad-inscripcion-establecimientos-dedicados-produccion-venta-plantas-lns0000881-1967-12-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=196818"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/196818/norma.htm"

@@ -9,7 +9,9 @@ date: 1975-05-22
 published: 1975-06-16
 boletin_oficial: "23178"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20957-nacional-regimen-juridico-servicio-exterior-nacion-lns0000384-1975-05-22"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=18795"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/15000-19999/18795/texact.htm"

@@ -9,7 +9,9 @@ date: 1971-06-30
 published: 1971-07-19
 boletin_oficial: "22218"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19101-nacional-ley-para-personal-militar-lns0000855-1971-06-30"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=19875"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/15000-19999/19875/texact.htm"

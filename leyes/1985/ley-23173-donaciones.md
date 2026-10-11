@@ -9,7 +9,9 @@ date: 1985-04-10
 published: 1985-04-22
 boletin_oficial: "25661"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-23173-nacional-lnn0028073-1985-04-10"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=26318"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/26318/norma.htm"

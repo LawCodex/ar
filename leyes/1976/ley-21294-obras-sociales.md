@@ -9,7 +9,9 @@ date: 1976-04-22
 published: 1976-04-29
 boletin_oficial: "23394"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21294-nacional-intervenciones-diversos-institutos-servicios-obras-sociales-lns0000369-1976-04-22"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=303545"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/303545/norma.htm"

@@ -9,7 +9,9 @@ date: 1972-04-21
 published: 1972-04-28
 boletin_oficial: "22412"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19587-nacional-higiene-seguridad-trabajo-lns0000736-1972-04-21"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=17612"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/15000-19999/17612/norma.htm"

@@ -9,7 +9,9 @@ date: 1971-01-22
 published: 1971-01-28
 boletin_oficial: "22103"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-18924-nacional-autorizacion-banco-central-republica-argentina-para-actuar-como-casa-cambio-lns0000887-1971-01-22"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=97583"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/95000-99999/97583/texact.htm"

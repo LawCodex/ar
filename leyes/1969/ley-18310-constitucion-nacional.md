@@ -9,7 +9,9 @@ date: 1969-08-08
 published: 1969-08-25
 boletin_oficial: "21751"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-18310-nacional-jurisdiccion-nacional-sobre-tierras-situadas-provincias-lns0001387-1969-08-08"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=231371"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/231371/norma.htm"

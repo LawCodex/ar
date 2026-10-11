@@ -9,7 +9,9 @@ date: 1966-12-02
 published: 1966-12-13
 boletin_oficial: "21085"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-17050-nacional-colaboracion-financiera-tecnica-especializada-colegio-escribanos-capital-al-registro-propiedad-inmueble-lns0001289-1966-12-02"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=48843"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/45000-49999/48843/norma.htm"

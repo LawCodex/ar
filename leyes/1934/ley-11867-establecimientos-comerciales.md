@@ -9,7 +9,9 @@ date: 1934-08-09
 published: 1934-08-20
 boletin_oficial: "12056"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-11867-nacional-transferencia-fondo-comercio-lns0002366-1934-08-09"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=25829"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/25829/norma.htm"

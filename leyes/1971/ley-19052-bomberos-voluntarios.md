@@ -9,7 +9,9 @@ date: 1971-05-28
 published: 1971-06-03
 boletin_oficial: "22188"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19052-nacional-regimen-accidentes-trabajo-para-bomberos-voluntarios-lns0000865-1971-05-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=301818"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/301818/norma.htm"

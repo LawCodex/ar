@@ -9,7 +9,9 @@ date: 1932-10-08
 published: 1932-10-18
 boletin_oficial: "11516"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-11627-nacional-lnn0026255-1932-09-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=178576"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/175000-179999/178576/norma.htm"

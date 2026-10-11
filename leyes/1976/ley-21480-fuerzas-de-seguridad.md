@@ -9,7 +9,9 @@ date: 1976-12-27
 published: 1976-12-31
 boletin_oficial: "23566"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-21480-nacional-lnn0009187-1976-12-27"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=303669"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/303669/norma.htm"

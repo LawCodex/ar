@@ -10,6 +10,8 @@ published: 1965-08-23
 boletin_oficial: "20762"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-16678-nacional-lnn0017710-1965-07-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=300182"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/300182/norma.htm"

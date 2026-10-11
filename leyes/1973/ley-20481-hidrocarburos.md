@@ -9,7 +9,9 @@ date: 1973-08-22
 published: 1973-08-22
 boletin_oficial: "22731"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-20481-nacional-lnn0025439-1973-05-23"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=222367"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/220000-224999/222367/norma.htm"

@@ -10,6 +10,8 @@ published: 1948-09-29
 boletin_oficial: "16168"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-13263-nacional-lnn0027242-1948-09-17"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=198630"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/198630/norma.htm"

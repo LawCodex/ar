@@ -9,7 +9,9 @@ date: 1975-09-30
 published: 1975-10-21
 boletin_oficial: "23266"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-21124-nacional-seguridad-social-estado-poder-legislativo-congreso-nacional-personal-congreso-nacion-jubilaciones-pensiones-lns0000320-1975-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=170799"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/170000-174999/170799/norma.htm"

@@ -8,6 +8,8 @@ language: es
 date: 1909-02-08
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-6287-nacional-lnn0011965-1908-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=185645"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/185000-189999/185645/norma.htm"

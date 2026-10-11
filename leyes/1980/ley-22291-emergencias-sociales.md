@@ -10,6 +10,8 @@ published: 1980-10-02
 boletin_oficial: "24515"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22291-nacional-lnn0028385-1980-09-24"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304118"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304118/norma.htm"

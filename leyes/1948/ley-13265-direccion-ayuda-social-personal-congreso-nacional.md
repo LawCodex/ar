@@ -9,7 +9,9 @@ date: 1948-09-17
 published: 1948-10-04
 boletin_oficial: "16172"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-13265-nacional-creacion-direccion-ayuda-social-para-personal-congreso-nacion-lns0002015-1948-09-17"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=104485"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/100000-104999/104485/texact.htm"

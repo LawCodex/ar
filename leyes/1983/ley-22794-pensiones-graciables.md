@@ -10,6 +10,8 @@ published: 1983-05-02
 boletin_oficial: "25163"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22794-nacional-lnn0027866-1983-04-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304363"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304363/norma.htm"

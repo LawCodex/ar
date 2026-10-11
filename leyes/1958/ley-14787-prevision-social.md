@@ -9,7 +9,9 @@ date: 1958-12-22
 published: 1959-02-13
 boletin_oficial: "18862"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-14787-nacional-funciones-delegaciones-regionales-instituto-nacional-prevision-social-lns0001595-1958-12-22"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=298041"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/298041/norma.htm"

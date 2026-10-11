@@ -9,7 +9,9 @@ date: 1970-03-20
 published: 1970-03-31
 boletin_oficial: "21898"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-18629-nacional-lnn0025624-1970-03-20"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=195281"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/195281/norma.htm"

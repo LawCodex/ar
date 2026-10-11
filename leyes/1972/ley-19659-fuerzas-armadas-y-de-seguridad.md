@@ -10,6 +10,8 @@ published: 1972-06-02
 boletin_oficial: "22434"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-19659-nacional-lnn0004872-1972-05-26"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=86484"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/85000-89999/86484/norma.htm"

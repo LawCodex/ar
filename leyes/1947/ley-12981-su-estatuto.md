@@ -9,7 +9,9 @@ date: 1947-04-18
 published: 1947-05-20
 boletin_oficial: "15771"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-12981-nacional-regimen-trabajo-encargados-casas-rentas-lns0002053-1947-04-18"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=45226"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/45000-49999/45226/texact.htm"

@@ -10,6 +10,8 @@ published: 1937-01-11
 boletin_oficial: "12754"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-12333-nacional-lnn0023179-1936-12-21"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=204725"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/200000-204999/204725/norma.htm"

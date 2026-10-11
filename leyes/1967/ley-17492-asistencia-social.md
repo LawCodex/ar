@@ -9,7 +9,9 @@ date: 1967-10-23
 published: 1967-10-31
 boletin_oficial: "21304"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-17492-nacional-creacion-direccion-general-asistencia-social-disolucion-consejo-nacional-asistencia-social-direccion-nacional-asistencia-social-lns0001155-1967-10-23"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=300625"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/300625/norma.htm"

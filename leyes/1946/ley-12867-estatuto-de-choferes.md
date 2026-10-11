@@ -9,7 +9,9 @@ date: 1946-09-30
 published: 1946-10-26
 boletin_oficial: "15609"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-12867-nacional-estatuto-trabajo-choferes-profesionales-lns0002435-1946-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=43592"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/40000-44999/43592/norma.htm"

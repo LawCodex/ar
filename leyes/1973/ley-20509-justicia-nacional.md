@@ -9,7 +9,9 @@ date: 1973-05-27
 published: 1973-05-28
 boletin_oficial: "22674"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20509-nacional-perdida-eficacia-decretos-leyes-penales-promulgados-gobiernos-facto-lns0000480-1973-05-27"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=94007"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/90000-94999/94007/norma.htm"

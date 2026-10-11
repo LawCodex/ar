@@ -10,6 +10,8 @@ published: 1934-08-08
 boletin_oficial: "12047"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-11838-nacional-lnn0024696-1934-06-13"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=293882"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/293882/norma.htm"

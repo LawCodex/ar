@@ -9,7 +9,9 @@ date: 1979-06-15
 published: 1979-06-22
 boletin_oficial: "24191"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22016-nacional-derogacion-normas-nacionales-eximan-permitan-capitalizar-pago-impuestos-empresas-estado-lns0000009-1979-06-15"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=27377"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/27377/texact.htm"

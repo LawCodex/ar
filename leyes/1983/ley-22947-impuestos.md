@@ -9,7 +9,9 @@ date: 1983-10-14
 published: 1983-10-18
 boletin_oficial: "25280"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-22947-nacional-tributos-impuestos-impuesto-sobre-debitos-cuenta-corriente-entidades-comprendidas-ley-entidades-financieras-cuentas-vista-cajas-credito-cuentas-cheque-postal-caja-nacional-ahorro-seguro-lns0003105-1983-10-14"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=257339"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/255000-259999/257339/norma.htm"

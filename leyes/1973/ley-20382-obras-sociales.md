@@ -9,7 +9,9 @@ date: 1973-05-15
 published: 1973-05-24
 boletin_oficial: "22673"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20382-nacional-creacion-instituto-municipal-obra-social-lns0000493-1973-05-15"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302744"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302744/norma.htm"

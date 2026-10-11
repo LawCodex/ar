@@ -9,7 +9,9 @@ date: 1980-08-18
 published: 1980-08-22
 boletin_oficial: "24486"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22272-nacional-condonacion-deuda-previsional-favor-fisco-lns0002876-1980-08-18"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304107"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304107/norma.htm"

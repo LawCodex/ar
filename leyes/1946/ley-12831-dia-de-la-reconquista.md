@@ -9,7 +9,9 @@ date: 1946-08-10
 published: 1946-09-18
 boletin_oficial: "15579"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-12831-nacional-lnn0026217-1946-08-10"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=43158"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/40000-44999/43158/norma.htm"

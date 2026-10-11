@@ -10,6 +10,8 @@ published: 1961-10-16
 boletin_oficial: "19657"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-15890-nacional-lnn0027057-1961-09-21"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=162860"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/160000-164999/162860/norma.htm"

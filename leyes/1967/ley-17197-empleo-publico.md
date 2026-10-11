@@ -8,6 +8,8 @@ language: es
 date: 1967-03-09
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-17197-nacional-aclaracion-art-1-ley-17183-lns0001215-1967-03-09"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=300395"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/300395/norma.htm"

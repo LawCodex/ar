@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1888-11-02
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-2393-nacional-familia-matrimonio-lns0002680-1888-11-02"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=48953"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/45000-49999/48953/texact.htm"

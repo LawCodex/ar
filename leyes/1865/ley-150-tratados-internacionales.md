@@ -8,6 +8,8 @@ language: es
 date: 1865-08-11
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-150-nacional-lnn0017184-1857-09-22"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=281118"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/280000-284999/281118/norma.htm"

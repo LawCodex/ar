@@ -9,7 +9,9 @@ date: 1958-08-29
 published: 1958-09-17
 boletin_oficial: "18741"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-14462-nacional-asistencia-banco-industrial-republica-argentina-al-desarrollo-industrial-lns0001628-1958-08-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=297744"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/297744/norma.htm"

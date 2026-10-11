@@ -8,6 +8,8 @@ language: es
 date: 1905-09-19
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-4699-nacional-lnn0014916-1905-09-19"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=232937"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/232937/norma.htm"

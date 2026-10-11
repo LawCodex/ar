@@ -9,7 +9,9 @@ date: 1978-06-05
 published: 1978-06-09
 boletin_oficial: "23931"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21809-nacional-transferencia-servicios-educativos-provincias-lns0000210-1978-06-05"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=303858"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/303858/norma.htm"

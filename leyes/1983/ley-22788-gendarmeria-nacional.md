@@ -9,7 +9,9 @@ date: 1983-04-15
 published: 1983-04-25
 boletin_oficial: "25158"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22788-nacional-regimen-aportes-previsionales-para-personal-gendarmeria-nacional-lns0003018-1983-04-15"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=44767"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/40000-44999/44767/norma.htm"

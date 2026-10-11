@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1968-06-24
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-17786-nacional-transporte-transporte-terrestre-lnn0002697-1968-06-24"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=300854"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/300854/norma.htm"

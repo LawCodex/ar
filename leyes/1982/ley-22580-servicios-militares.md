@@ -9,7 +9,9 @@ date: 1982-05-05
 published: 1982-05-07
 boletin_oficial: "24916"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22580-nacional-remuneracion-personal-militar-civil-fuerzas-armadas-convocados-razones-defensa-nacional-lns0002910-1982-05-05"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=193494"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/193494/norma.htm"

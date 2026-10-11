@@ -9,7 +9,9 @@ date: 1975-09-30
 published: 1975-11-18
 boletin_oficial: "23285"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21139-nacional-creacion-universidad-nacional-mar-plata-lns0000316-1975-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=231368"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/231368/norma.htm"

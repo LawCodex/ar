@@ -9,7 +9,9 @@ date: 1967-01-16
 published: 1967-01-27
 boletin_oficial: "21117"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-17117-nacional-interes-nacional-crianza-ganado-equino-lns0001228-1967-01-16"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=196803"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/196803/texact.htm"

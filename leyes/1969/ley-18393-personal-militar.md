@@ -8,6 +8,8 @@ language: es
 date: 1969-10-08
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-18393-nacional-lnn0015683-1969-10-08"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=301332"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/301332/norma.htm"

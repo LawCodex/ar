@@ -9,7 +9,9 @@ date: 1981-01-19
 published: 1981-01-28
 boletin_oficial: "24595"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-22382-nacional-lnn0025103-1981-01-19"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304157"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304157/norma.htm"

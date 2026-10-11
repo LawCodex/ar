@@ -9,7 +9,9 @@ date: 1927-10-04
 published: 1927-10-21
 boletin_oficial: "10054"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-11401-nacional-cambio-categoria-representacion-diplomatica-permanente-republica-ante-gobierno-uruguay-lns0002553-1927-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=231718"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/231718/norma.htm"

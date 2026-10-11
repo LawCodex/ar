@@ -9,7 +9,9 @@ date: 1973-05-23
 published: 1973-06-08
 boletin_oficial: "22683"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20469-nacional-escuelas-secciones-grado-recuperacion-lns0000471-1973-05-23"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=126796"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/125000-129999/126796/norma.htm"

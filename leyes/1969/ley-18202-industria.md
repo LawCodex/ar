@@ -9,7 +9,9 @@ date: 1969-05-09
 published: 1969-05-16
 boletin_oficial: "21684"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-18202-nacional-regimen-promocion-actividades-tucuman-lns0001026-1969-05-09"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=220695"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/220000-224999/220695/norma.htm"

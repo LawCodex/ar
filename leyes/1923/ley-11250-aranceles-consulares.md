@@ -10,6 +10,8 @@ published: 1923-11-27
 boletin_oficial: "8910"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-11250-nacional-lnn0002763-1923-10-19"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=194053"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/194053/norma.htm"

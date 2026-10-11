@@ -9,7 +9,9 @@ date: 1965-09-08
 published: 1965-11-09
 boletin_oficial: "20816"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-16727-nacional-creacion-fondo-escolar-permanente-lns0001356-1965-09-08"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=195027"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/195027/norma.htm"

@@ -9,7 +9,9 @@ date: 1973-05-18
 published: 1973-07-06
 boletin_oficial: "22701"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20419-nacional-funciones-subsecretaria-menor-familia-lns0000555-1973-05-18"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=231352"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/231352/texact.htm"

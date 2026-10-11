@@ -10,6 +10,8 @@ published: 1970-12-01
 boletin_oficial: "22065"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-18842-nacional-lnn0014165-1970-11-25"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=301664"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/301664/norma.htm"

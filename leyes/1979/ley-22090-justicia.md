@@ -9,7 +9,9 @@ date: 1979-10-17
 published: 1979-10-23
 boletin_oficial: "24276"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22090-nacional-organizacion-justicia-federal-capital-federal-lns0000278-1979-10-17"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=196609"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/196609/norma.htm"

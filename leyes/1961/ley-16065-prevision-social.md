@@ -9,7 +9,9 @@ date: 1961-11-09
 published: 1961-12-05
 boletin_oficial: "19699"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-16065-nacional-computo-suplementos-sueldo-personal-fuerzas-seguridad-efectos-jubilatorios-lns0001415-1961-11-09"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=299226"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/299226/norma.htm"

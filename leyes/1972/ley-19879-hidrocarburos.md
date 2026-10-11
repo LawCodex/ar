@@ -10,6 +10,8 @@ published: 1972-10-18
 boletin_oficial: "22528"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-19879-nacional-lnn0021922-1972-10-10"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=221437"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/220000-224999/221437/norma.htm"

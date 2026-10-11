@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1894-06-18
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-3071-nacional-funcionamiento-fiscalia-camaras-apelaciones-capital-federal-lns0002456-1894-06-18"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=235463"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/235000-239999/235463/norma.htm"

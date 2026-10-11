@@ -10,6 +10,8 @@ published: 1954-07-27
 boletin_oficial: "17696"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-14303-nacional-lnn0020245-1954-06-25"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=166323"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/165000-169999/166323/norma.htm"

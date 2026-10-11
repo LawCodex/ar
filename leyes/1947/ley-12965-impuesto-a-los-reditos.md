@@ -10,6 +10,8 @@ published: 1947-04-16
 boletin_oficial: "15746"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-12965-nacional-lnn0020444-1947-03-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=45165"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/45000-49999/45165/norma.htm"

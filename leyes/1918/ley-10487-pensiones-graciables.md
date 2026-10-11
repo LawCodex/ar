@@ -9,7 +9,9 @@ date: 1918-09-23
 published: 1918-11-20
 boletin_oficial: "7438"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-10487-nacional-pension-descendientes-guerreros-independencia-lns0002406-1918-09-23"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=292543"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/292543/norma.htm"

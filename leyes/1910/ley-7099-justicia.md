@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1910-09-27
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-7099-nacional-creacion-camara-federal-apelaciones-rosario-lns0002386-1910-09-20"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=195512"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/195512/norma.htm"

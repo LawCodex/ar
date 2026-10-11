@@ -10,6 +10,8 @@ published: 1977-04-06
 boletin_oficial: "23634"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-21550-nacional-lnn0028368-1977-03-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=171595"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/170000-174999/171595/norma.htm"

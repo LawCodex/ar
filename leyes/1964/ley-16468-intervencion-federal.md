@@ -10,6 +10,8 @@ published: 1964-08-14
 boletin_oficial: "20493"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-16468-nacional-lnn0019993-1964-08-06"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=300002"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/300002/norma.htm"

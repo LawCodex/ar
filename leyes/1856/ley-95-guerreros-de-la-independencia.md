@@ -8,6 +8,8 @@ language: es
 date: 1856-09-23
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-95-nacional-lnn0024926-1864-08-20"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=280865"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/280000-284999/280865/norma.htm"

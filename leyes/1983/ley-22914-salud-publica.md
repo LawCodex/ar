@@ -9,7 +9,9 @@ date: 1983-09-15
 published: 1983-09-20
 boletin_oficial: "25261"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-22914-nacional-regimen-legal-internacion-establecimientos-asistenciales-lns0003075-1983-09-15"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=175978"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/175000-179999/175978/norma.htm"

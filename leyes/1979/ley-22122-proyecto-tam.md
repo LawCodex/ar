@@ -9,7 +9,9 @@ date: 1979-12-18
 published: 2006-09-11
 boletin_oficial: "30987"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22122-nacional-autorizacion-para-constitucion-una-sociedad-estado-bajo-regimen-ley-20705-lns0005044-1979-12-18"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=119644"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/115000-119999/119644/norma.htm"

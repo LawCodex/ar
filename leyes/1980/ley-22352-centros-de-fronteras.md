@@ -9,7 +9,9 @@ date: 1980-12-05
 published: 1980-12-18
 boletin_oficial: "24568"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22352-nacional-se-crean-centros-frontera-lns0002705-1980-12-05"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=32194"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/30000-34999/32194/norma.htm"

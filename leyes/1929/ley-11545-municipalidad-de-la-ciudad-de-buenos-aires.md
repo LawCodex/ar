@@ -9,7 +9,9 @@ date: 1929-08-29
 published: 1929-11-21
 boletin_oficial: "10667"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-11545-nacional-construccion-conservacion-cercas-aceras-municipalidad-capital-lns0002995-1929-08-29"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=293540"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/293540/texact.htm"

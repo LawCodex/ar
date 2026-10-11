@@ -9,7 +9,9 @@ date: 1976-07-05
 published: 1976-07-13
 boletin_oficial: "23445"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-21351-nacional-lnn0025369-1976-07-05"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=190669"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/190669/norma.htm"

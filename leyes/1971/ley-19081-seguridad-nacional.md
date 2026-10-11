@@ -9,7 +9,9 @@ date: 1971-06-16
 published: 1971-06-21
 boletin_oficial: "22199"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-19081-nacional-lnn0025546-1971-06-16"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=105390"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/105000-109999/105390/norma.htm"

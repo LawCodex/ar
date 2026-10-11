@@ -10,6 +10,8 @@ published: 1974-04-19
 boletin_oficial: "22895"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-20594-nacional-lnn0004698-1973-11-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=233766"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/233766/norma.htm"

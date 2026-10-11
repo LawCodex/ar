@@ -9,7 +9,9 @@ date: 1971-06-07
 published: 1971-06-17
 boletin_oficial: "22197"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19074-nacional-sistema-coordinador-para-obras-via-publica-ciudad-buenos-aires-lns0000862-1971-06-07"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=301833"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/301833/norma.htm"

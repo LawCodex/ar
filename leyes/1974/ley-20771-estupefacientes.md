@@ -10,6 +10,8 @@ published: 1974-10-09
 boletin_oficial: "23011"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-20771-nacional-lnn0000444-1974-09-26"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=40025"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/40000-44999/40025/texact.htm"

@@ -9,7 +9,9 @@ date: 1950-09-29
 published: 1950-10-13
 boletin_oficial: "16756"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-13995-nacional-lnn0026151-1950-09-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=296371"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/296371/norma.htm"

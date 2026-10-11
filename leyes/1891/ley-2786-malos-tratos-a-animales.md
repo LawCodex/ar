@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1891-07-25
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-2786-nacional-prohibicion-malos-tratos-animales-lns0002465-1891-07-25"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=283995"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/280000-284999/283995/norma.htm"

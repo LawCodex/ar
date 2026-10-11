@@ -1,0 +1,81 @@
+---
+title: "Ley 26998: EDUCACION SUPERIOR — UNIVERSIDAD NACIONAL DE LOS COMECHINGONES - CREASE"
+identifier: "Ley 26998"
+infoleg_id: "238179"
+type: act
+jurisdiction: ar
+language: es
+date: 2014-10-22
+published: 2014-11-13
+boletin_oficial: "33010"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-26998-nacional-creacion-universidad-nacional-comechingones-lns0005976-2014-10-22"
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=238179"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/235000-239999/238179/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 26998: EDUCACION SUPERIOR — UNIVERSIDAD NACIONAL DE LOS COMECHINGONES - CREASE
+
+EDUCACION SUPERIOR
+
+Ley 26.998
+
+Créase la Universidad Nacional de los Comechingones.
+
+Sancionada: Octubre 22 de 2014
+
+Promulgada de Hecho: Noviembre 7 de 2014
+
+El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc. sancionan con fuerza de
+
+Ley:
+
+## ARTICULO 1°
+
+Créase la Universidad Nacional de los Comechingones, que tendrá su sede en la ciudad de Villa de Merlo, provincia de San Luis, y podrá establecer organismos y dependencias dentro de su zona de influencia.
+
+## ARTICULO 2°
+
+La creación y organización de la Universidad Nacional de los Comechingones se efectúa en el marco de la ley 24.521 y se regirá para su constitución y organización por las normativas legales y reglamentarias vigentes para las universidades nacionales.
+
+## ARTICULO 3°
+
+La oferta académica de la Universidad Nacional de los Comechingones, atento las características de la región educativa y su zona de influencia, promoverá principalmente carreras orientadas a las ciencias ambientales, astronómicas y turísticas, planificando la armonización y articulación de sus carreras evitando la superposición de oferta tanto a nivel geográfico como disciplinario con las de universidades ya instaladas en la región. Asimismo, podrá constituir programas de investigación y extensión en las temáticas vinculadas con el desarrollo social y económico de la región, con una perspectiva regional, nacional e internacional.
+
+## ARTICULO 4°
+
+El Poder Ejecutivo nacional queda autorizado a gestionar y aceptar del gobierno de la provincia de San Luis, de la Municipalidad de la Villa de Merlo y de personas físicas o jurídicas, públicas o privadas, cesiones, donaciones o legados de bienes muebles e inmuebles, para el cumplimiento de lo establecido en la presente ley, que constituirán el patrimonio de la Universidad Nacional de los Comechingones.
+
+## ARTICULO 5°
+
+La Universidad Nacional de los Comechingones, por medio del Ministerio de Educación de la Nación, queda facultada para suscribir convenios de cooperación destinados a su financiamiento y cualquier otra actividad relacionada con sus fines, con organismos públicos y privados, de orden nacional e internacional.
+
+## ARTICULO 6°
+
+La Universidad Nacional de los Comechingones podrá promover la constitución de fundaciones, sociedades o asociaciones, con destino a apoyar su labor, facilitar las relaciones con el medio, dar respuesta y promover las condiciones necesarias para el cumplimiento de sus fines y objetivos.
+
+## ARTICULO 7°
+
+El Poder Ejecutivo nacional dispondrá la designación de un Rector Organizador que, asistido por una Comisión Especial Organizadora, tendrá a su cargo el proceso de formulación del proyecto institucional y del proyecto de estatuto provisorio de la Universidad Nacional de los Comechingones, dando cumplimiento con lo dispuesto en el artículo 49 de la ley 24.521. El plazo para la normalización no podrá superar los dos (2) años.
+
+## ARTICULO 8°
+
+Los gastos que demande la implementación de la presente ley serán atendidos con la partida específica del crédito para las universidades nacionales que determine el Ministerio de Educación de la Nación hasta la inclusión de la Universidad Nacional de los Comechingones en la Ley de Presupuesto.
+
+## ARTICULO 9°
+
+La presente ley entrará en vigencia al día siguiente de su publicación en el Boletín Oficial.
+
+## ARTICULO 10
+
+Comuníquese al Poder Ejecutivo nacional.
+
+DADA EN LA SALA DE SESIONES DEL CONGRESO ARGENTINO, EN BUENOS AIRES, A LOS VEINTIDOS DIAS DEL MES DE OCTUBRE DEL AÑO DOS MIL CATORCE.
+
+— REGISTRADO BAJO EL N° 26.998 —
+
+AMADO BOUDOU. — NORMA A. ABDALA DE MATARAZZO. — Lucas Chedrese. — Juan H. Estrada.

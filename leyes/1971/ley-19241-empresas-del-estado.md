@@ -9,7 +9,9 @@ date: 1971-09-17
 published: 1971-09-27
 boletin_oficial: "22267"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19241-nacional-depositos-fondos-empresas-estado-bancos-oficiales-lns0000822-1971-09-17"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=125318"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/125000-129999/125318/texact.htm"

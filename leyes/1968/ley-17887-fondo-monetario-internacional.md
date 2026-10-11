@@ -244,7 +244,9 @@ Derechos especiales de giro
 
 A fin de satisfacer la necesidad, cuando ésta surja, de complementar los activos de reserva existentes, el Fondo queda facultado para asignar derechos especiales de giro a los países miembros que sean participantes en la Cuenta Especial de Giro.
 
-## Sección 2. Unidad de valor — La unidad de valor de los derechos especiales de giro será equivalente a 0,888671 gramos de oro fino.
+## Sección 2. Unidad de valor.
+
+La unidad de valor de los derechos especiales de giro será equivalente a 0,888671 gramos de oro fino.
 
 ARTICULO XXII
 
@@ -272,7 +274,9 @@ Participantes y Otros Tenedores de Derechos Especiales de Giro
 
 Todo país miembro del Fondo que deposite en éste un instrumento exponiendo que de conformidad con sus propias leyes asume todas las obligaciones que entraña su participación en la Cuenta Especial de Giro, y que ha tomado todas las medidas pertinentes para poder cumplir todas esas obligaciones, pasará a ser participante de la Cuenta Especial de Giro en la fecha en que se deposite dicho instrumento; no obstante, ningún país miembro podrá ser participante antes de que hayan entrado en vigor los Artículos XXI a XXXII, inclusive, y los Anexos F, G, H e I, ni de que hayan sido depositados los instrumentos a que se refiere esta Sección por países miembros a los que corresponda por lo menos el setenta y cinco por ciento del total de las cuotas.
 
-## Sección 2. La Cuenta General como tenedor de derechos especiales de giro — El Fondo podrá aceptar y poseer derechos especiales de giro en la Cuenta General, y utilizarlos de conformidad con las disposiciones del presente Convenio.
+## Sección 2. La Cuenta General como tenedor de derechos especiales de giro
+
+El Fondo podrá aceptar y poseer derechos especiales de giro en la Cuenta General, y utilizarlos de conformidad con las disposiciones del presente Convenio.
 
 ## Sección 3. Otros tenedores de derechos especiales de giro
 
@@ -348,7 +352,9 @@ ARTICULO XXV
 
 Operaciones y Transacciones en Derechos Especiales de Giro
 
-## Sección 1. Utilización de los derechos especiales de giro — Los derechos especiales de giro podrán utilizarse en las operaciones y transacciones que este Convenio autoriza o de conformidad con el mismo.
+## Sección 1. Utilización de los derechos especiales de giro
+
+Los derechos especiales de giro podrán utilizarse en las operaciones y transacciones que este Convenio autoriza o de conformidad con el mismo.
 
 ## Sección 2. Transacciones entre participantes
 
@@ -434,7 +440,9 @@ Cuenta Especial de Giro
 
 Intereses y cargos
 
-## Sección 1. Intereses — El Fondo pagará una tasa igual de interés a todos los tenedores de derechos especiales de giro sobre sus tenencias de dichos derechos.
+## Sección 1. Intereses
+
+El Fondo pagará una tasa igual de interés a todos los tenedores de derechos especiales de giro sobre sus tenencias de dichos derechos.
 
 El Fondo pagará la cantidad adeudada a cada tenedor aunque no se haya percibido una cantidad suficiente por concepto de cargos para satisfacer el pago de esos intereses.
 

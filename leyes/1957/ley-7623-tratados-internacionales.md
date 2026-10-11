@@ -8,6 +8,8 @@ language: es
 date: 1957-07-05
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-7623-nacional-lnn0010570-1910-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=297255"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/297255/norma.htm"

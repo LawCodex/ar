@@ -9,7 +9,9 @@ date: 1975-09-30
 published: 1975-11-05
 boletin_oficial: "23277"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21228-nacional-interes-nacional-estudios-sobre-antartida-argentina-lns0000300-1975-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=214438"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/210000-214999/214438/norma.htm"

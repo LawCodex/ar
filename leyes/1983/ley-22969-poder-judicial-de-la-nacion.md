@@ -9,7 +9,9 @@ date: 1983-11-08
 published: 1983-11-15
 boletin_oficial: "25300"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22969-nacional-escalas-porcentuales-remuneraciones-para-magistrados-funcionarios-empleados-poder-judicial-nacion-lns0003096-1983-11-08"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=257344"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/255000-259999/257344/norma.htm"

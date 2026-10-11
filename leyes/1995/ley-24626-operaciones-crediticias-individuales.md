@@ -1,0 +1,55 @@
+---
+title: "Ley 24626: OPERACIONES CREDITICIAS INDIVIDUALES — SISTEMA DE SEGURO OBLIGATORIO - DESEMPLEO"
+identifier: "Ley 24626"
+infoleg_id: "32393"
+type: act
+jurisdiction: ar
+language: es
+date: 1995-12-28
+published: 1996-01-18
+boletin_oficial: "28314"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-24626-nacional-sistema-seguro-obligatorio-para-cobertura-riesgo-desempleo-operaciones-crediticias-individuales-lns0004083-1995-12-28"
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=32393"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/30000-34999/32393/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 24626: OPERACIONES CREDITICIAS INDIVIDUALES — SISTEMA DE SEGURO OBLIGATORIO - DESEMPLEO
+
+SEGUROS
+
+Ley 24.626
+
+Determínase que el Banco Hipotecario Nacional establecerá un sistema de seguro obligatorio para cubrir el riesgo de desempleo en operaciones crediticias individuales.
+
+Sancionada: Diciembre 28 de 1995
+
+Promulgada de Hecho: Enero 17 de 1996
+
+El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:
+
+## ARTICULO 1°
+
+El Banco Hipotecario Nacional establecerá un sistema de seguro obligatorio para cubrir el riesgo de desempleo en las operaciones crediticias individuales.
+
+La cobertura alcanzará las situaciones de desempleo que afecten al responsable de la atención del préstamo hipotecario respectivo y tendrá efecto cancelatorio de los servicios hipotecarios exigibles en los primeros SEIS (6) meses de iniciado el período de desempleo bajo las condiciones que fije la reglamentación.
+
+El Banco Hipotecario Nacional, dentro de los SESENTA (60) días de la publicación de la presente ley dictará la aludida reglamentación y pondrá en vigencia el sistema que instituye la presente ley.
+
+## ARTICULO 2°
+
+Facúltase al Banco Hipotecario Nacional a constituir por si o a través de compañías aseguradoras, el seguro de desempleo obligatorio a que se refiere el artículo anterior.
+
+## ARTICULO 3°
+
+El Banco Hipotecario Nacional podrá excluir de las disposiciones de la presente ley por resolución fundada de su directorio a aquellos deudores con contrato de préstamo vigente a la fecha de su sanción sobre los cuales se verifique particularidades que así lo aconsejen.
+
+## ARTICULO 4°
+
+Comuníquese al Poder Ejecutivo. — ALBERTO R. PIERRI. — CARLOS F. RUCKAUF. — Esther H. Pereyra Arandía de Pérez Pardo. — Edgardo Piuzzi.
+
+DADA EN LA SALA DE SESIONES DEL CONGRESO ARGENTINO EN BUENOS AIRES A LOS VEINTIOCHO DIAS DEL MES DE DICIEMBRE DEL AÑO MIL NOVECIENTOS NOVENTA Y CINCO.

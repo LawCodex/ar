@@ -9,7 +9,9 @@ date: 1979-09-10
 published: 1979-09-17
 boletin_oficial: "24250"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22070-nacional-transferencia-subterraneos-municipalidad-ciudad-buenos-aires-lns0000284-1979-09-10"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304002"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304002/norma.htm"

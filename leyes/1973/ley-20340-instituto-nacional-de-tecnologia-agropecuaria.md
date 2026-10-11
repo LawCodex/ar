@@ -10,6 +10,8 @@ published: 1973-05-17
 boletin_oficial: "22668"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-20340-nacional-lnn0026769-1973-05-03"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=159058"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/155000-159999/159058/norma.htm"

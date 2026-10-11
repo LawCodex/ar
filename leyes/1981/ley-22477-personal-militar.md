@@ -10,6 +10,8 @@ published: 1981-08-03
 boletin_oficial: "24723"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22477-nacional-lnn0027641-1981-07-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=86481"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/85000-89999/86481/norma.htm"

@@ -9,7 +9,9 @@ date: 1983-11-16
 published: 1983-11-21
 boletin_oficial: "25304"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22977-nacional-registro-nacional-propiedad-automotor-lns0003112-1983-11-16"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=38818"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/35000-39999/38818/norma.htm"

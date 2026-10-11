@@ -9,7 +9,9 @@ date: 1964-12-30
 published: 1964-12-31
 boletin_oficial: "20605"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-16657-nacional-impuesto-combustibles-liquidos-lns0001364-1964-12-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=195271"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/195271/norma.htm"

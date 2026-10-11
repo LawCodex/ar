@@ -10,6 +10,8 @@ published: 1983-04-15
 boletin_oficial: "25152"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22785-nacional-lnn0003013-1983-04-14"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304360"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304360/norma.htm"

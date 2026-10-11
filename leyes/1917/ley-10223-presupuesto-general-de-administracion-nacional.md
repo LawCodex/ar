@@ -10,6 +10,8 @@ published: 1917-02-26
 boletin_oficial: "6926"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-10223-nacional-lnn0024469-1917-02-16"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=185662"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/185000-189999/185662/norma.htm"

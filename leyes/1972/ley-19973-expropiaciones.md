@@ -9,7 +9,9 @@ date: 1972-11-22
 published: 1972-12-01
 boletin_oficial: "22557"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-19973-nacional-lnn0025477-1972-11-27"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=260325"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/260000-264999/260325/norma.htm"

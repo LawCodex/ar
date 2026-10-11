@@ -10,6 +10,8 @@ published: 1959-12-14
 boletin_oficial: "19110"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-14857-nacional-lnn0018868-1959-10-15"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=298100"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/298100/norma.htm"

@@ -9,7 +9,9 @@ date: 1972-06-15
 published: 1972-06-22
 boletin_oficial: "22447"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-19687-nacional-lnn0028223-1972-06-15"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=174172"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/170000-174999/174172/norma.htm"

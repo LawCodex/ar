@@ -9,7 +9,9 @@ date: 1983-12-09
 published: 1983-12-14
 boletin_oficial: "25320"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-23031-nacional-creacion-aduana-san-antonio-oeste-lns0003147-1983-12-09"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=248656"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/245000-249999/248656/norma.htm"

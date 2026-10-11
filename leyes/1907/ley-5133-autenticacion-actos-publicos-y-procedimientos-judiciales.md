@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1907-09-12
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-5133-nacional-lnn0026324-1907-09-12"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=196435"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/196435/norma.htm"

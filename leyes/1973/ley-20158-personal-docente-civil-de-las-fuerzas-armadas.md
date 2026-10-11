@@ -9,7 +9,9 @@ date: 1973-02-14
 published: 1973-03-22
 boletin_oficial: "22631"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20158-nacional-remuneraciones-personal-docente-civil-fuerzas-armadas-lns0000591-1973-02-14"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302601"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302601/texact.htm"

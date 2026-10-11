@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1975-09-30
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21145-nacional-franquicias-hoteleras-para-companias-teatro-argentinas-lns0000315-1975-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=231852"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/231852/norma.htm"

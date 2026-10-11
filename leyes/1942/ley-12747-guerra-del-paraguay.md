@@ -10,6 +10,8 @@ published: 1942-08-20
 boletin_oficial: "14390"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-12747-nacional-lnn0022333-1942-08-11"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=294689"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/294689/norma.htm"

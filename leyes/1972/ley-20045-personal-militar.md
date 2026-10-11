@@ -10,6 +10,8 @@ published: 2006-09-13
 boletin_oficial: "30989"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-20045-nacional-promocion-personal-militar-lnn0029573-1972-12-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=119716"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/115000-119999/119716/norma.htm"

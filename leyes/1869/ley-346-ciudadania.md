@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1869-10-01
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-346-nacional-ley-ciudadania-lns0003419-1869-10-01"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=48854"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/45000-49999/48854/texact.htm"

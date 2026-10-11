@@ -9,7 +9,9 @@ date: 1978-02-15
 published: 1978-02-21
 boletin_oficial: "23857"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21750-nacional-supresion-tribunal-mercado-abasto-oficina-guias-certificados-capital-federal-lns0000093-1978-02-15"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=303837"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/303837/norma.htm"

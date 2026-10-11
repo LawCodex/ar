@@ -9,7 +9,9 @@ date: 1982-10-29
 published: 1982-11-02
 boletin_oficial: "25038"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-22667-nacional-regulacion-elaboracion-vino-lns0002948-1982-10-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=134157"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/130000-134999/134157/norma.htm"

@@ -9,7 +9,9 @@ date: 1973-04-11
 published: 1973-04-23
 boletin_oficial: "22651"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20270-nacional-ayuda-humanitaria-para-paises-estado-emergencia-social-sanitaria-lns0000570-1973-04-11"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=65263"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/65000-69999/65263/texact.htm"

@@ -10,6 +10,8 @@ published: 1970-08-04
 boletin_oficial: "21984"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-18731-nacional-lnn0005431-1970-07-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=221561"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/220000-224999/221561/norma.htm"

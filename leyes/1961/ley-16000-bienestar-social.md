@@ -9,7 +9,9 @@ date: 1961-10-30
 published: 1961-12-01
 boletin_oficial: "19696"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-16000-nacional-enajenacion-terrenos-municipalidad-ciudad-buenos-aires-lns0001426-1961-10-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=299164"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/299164/norma.htm"

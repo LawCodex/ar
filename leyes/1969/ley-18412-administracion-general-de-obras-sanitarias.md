@@ -10,6 +10,8 @@ published: 1969-11-25
 boletin_oficial: "21816"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-18412-nacional-lnn0026926-1969-10-17"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=301348"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/301348/norma.htm"

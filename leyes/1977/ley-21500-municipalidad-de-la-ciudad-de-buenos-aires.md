@@ -10,6 +10,8 @@ published: 1977-01-21
 boletin_oficial: "23581"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-21500-nacional-lnn0026654-1977-01-17"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=92740"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/90000-94999/92740/norma.htm"

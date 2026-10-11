@@ -9,7 +9,9 @@ date: 1970-08-03
 published: 1970-08-07
 boletin_oficial: "21987"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-18738-nacional-facultades-ministro-cultura-educacion-lns0000928-1970-08-03"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=301588"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/301588/norma.htm"

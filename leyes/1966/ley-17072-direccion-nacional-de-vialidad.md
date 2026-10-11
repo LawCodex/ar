@@ -9,7 +9,9 @@ date: 1966-12-20
 published: 1966-12-26
 boletin_oficial: "21094"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-17072-nacional-creacion-cargo-sub-administrador-general-direccion-nacional-vialidad-lns0001298-1966-12-20"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=233175"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/233175/norma.htm"

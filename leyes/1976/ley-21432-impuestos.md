@@ -9,7 +9,9 @@ date: 1976-09-29
 published: 1976-10-20
 boletin_oficial: "23515"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-21432-nacional-lnn0028221-1976-09-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=303645"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/303645/norma.htm"

@@ -10,6 +10,8 @@ published: 1967-01-19
 boletin_oficial: "21111"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-17115-nacional-lnn0016818-1967-01-11"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=300337"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/300337/norma.htm"

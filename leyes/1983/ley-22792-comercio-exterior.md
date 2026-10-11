@@ -10,6 +10,8 @@ published: 1983-04-25
 boletin_oficial: "25158"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22792-nacional-normas-complementarias-ley-20545-lns0003020-1983-04-22"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=67834"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/65000-69999/67834/norma.htm"

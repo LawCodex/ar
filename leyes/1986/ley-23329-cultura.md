@@ -9,7 +9,9 @@ date: 1986-07-03
 published: 1986-09-11
 boletin_oficial: "25991"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-23329-nacional-creacion-ballet-nacional-lns0003297-1986-07-03"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=23593"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/23593/norma.htm"

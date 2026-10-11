@@ -9,7 +9,9 @@ date: 1980-03-17
 published: 1980-03-21
 boletin_oficial: "24382"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22198-nacional-exenciones-documentacion-empresas-extranjeras-transporte-aerocomercial-lns0001858-1980-03-17"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=189760"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/185000-189999/189760/norma.htm"

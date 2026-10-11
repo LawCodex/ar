@@ -9,7 +9,9 @@ date: 1950-09-20
 published: 1950-10-02
 boletin_oficial: "16747"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-13970-nacional-lnn0026156-1950-09-20"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=144269"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/140000-144999/144269/norma.htm"

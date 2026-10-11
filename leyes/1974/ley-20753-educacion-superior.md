@@ -9,7 +9,9 @@ date: 1974-09-18
 published: 1974-10-16
 boletin_oficial: "23016"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20753-nacional-creacion-universidad-nacional-centro-provincia-buenos-aires-lns0000446-1974-09-18"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=231341"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/231341/norma.htm"

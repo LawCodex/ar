@@ -1,0 +1,51 @@
+---
+title: "Ley 26636: MONUMENTOS Y LUGARES HISTORICOS — EDIFICIOS Y PREDIO DE LA ANTIGUA SINAGOGA Y EL SALON COMUNITARIO DE LA COLONIA RUSA"
+identifier: "Ley 26636"
+infoleg_id: "172345"
+type: act
+jurisdiction: ar
+language: es
+date: 2010-08-25
+published: 2010-09-23
+boletin_oficial: "31993"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-26636-nacional-declaracion-lugar-historico-nacional-edificios-predio-donde-funcionan-antigua-sinagoga-salon-comunitario-colonia-rusa-provincia-rio-negro-lnn0029839-2010-08-25"
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=172345"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/170000-174999/172345/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 26636: MONUMENTOS Y LUGARES HISTORICOS — EDIFICIOS Y PREDIO DE LA ANTIGUA SINAGOGA Y EL SALON COMUNITARIO DE LA COLONIA RUSA
+
+MONUMENTOS Y LUGARES HISTORICOS
+
+Ley 26.636
+
+Declárase lugar histórico nacional a los edificios y predio de la Antigua Sinagoga y el Salón Comunitario de la Colonia Rusa sito en la Municipalidad de Cervantes, departamento de General Roca, Provincia de Río Negro.
+
+Sancionada: Agosto 25 de 2010
+
+Promulgada: Septiembre 20 de 2010
+
+El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc. sancionan con fuerza de Ley:
+
+## ARTICULO 1º
+
+Declárase lugar histórico nacional, en los términos de la Ley Nº 12.665, a los edificios y predio donde funcionan la Antigua Sinagoga y el Salón Comunitario de la Colonia Rusa, sito en el Lote A - Chacra Nº 278 Parcela 1 Circunscripción 05 2 E 007 1 de la Municipalidad de Cervantes, departamento de General Roca, provincia de Río Negro.
+
+## ARTICULO 2º
+
+La Comisión Nacional de Museos y de Monumentos y Lugares Históricos, dependiente de la Secretaría de Cultura de la Nación, instrumentará todo lo atinente para el cumplimiento de la presente ley.
+
+## ARTICULO 3º
+
+Comuníquese al Poder Ejecutivo nacional.
+
+DADA EN LA SALA DE SESIONES DEL CONGRESO ARGENTINO, EN BUENOS AIRES, A LOS VEINTICINCO DIAS DEL MES DE AGOSTO DEL AÑO DOS MIL DIEZ.
+
+—REGISTRADA BAJO EL N° 26.636—
+
+JULIO C. C. COBOS. — EDUARDO A. FELLNER. — Enrique Hidalgo. — Juan H. Estrada.

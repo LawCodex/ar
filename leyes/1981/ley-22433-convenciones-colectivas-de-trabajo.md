@@ -10,6 +10,8 @@ published: 1981-03-25
 boletin_oficial: "24635"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22433-nacional-lnn0002807-1981-03-16"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304186"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304186/norma.htm"

@@ -9,7 +9,9 @@ date: 1912-02-13
 published: 1912-03-26
 boletin_oficial: "5475"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-8871-nacional-ley-saenz-pena-establece-voto-universal-secreto-obligatorio-para-ciudadanos-argentinos-lns0006398-1912-02-10"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=310143"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/310000-314999/310143/norma.htm"

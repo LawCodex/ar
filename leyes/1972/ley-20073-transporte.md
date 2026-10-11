@@ -9,7 +9,9 @@ date: 1972-12-30
 published: 1973-01-09
 boletin_oficial: "22581"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-20073-nacional-economia-transporte-transporte-terrestre-fondo-nacional-para-infraestructura-transporte-lns0000631-1972-12-30"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302544"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302544/texact.htm"

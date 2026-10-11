@@ -10,6 +10,8 @@ published: 1966-12-14
 boletin_oficial: "21086"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-17047-nacional-lnn0006134-1966-12-02"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=48840"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/45000-49999/48840/norma.htm"

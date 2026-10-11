@@ -10,6 +10,8 @@ published: 1978-08-09
 boletin_oficial: "23973"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-21845-nacional-lnn0000072-1978-08-03"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=72990"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/70000-74999/72990/norma.htm"

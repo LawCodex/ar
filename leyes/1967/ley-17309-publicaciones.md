@@ -9,7 +9,9 @@ date: 1967-06-15
 published: 1967-06-21
 boletin_oficial: "21213"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-17309-nacional-publicaciones-oficiales-lns0001189-1967-06-15"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=191922"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/191922/norma.htm"

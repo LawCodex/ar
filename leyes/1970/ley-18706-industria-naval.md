@@ -10,6 +10,8 @@ published: 1970-06-15
 boletin_oficial: "21949"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-18706-nacional-lnn0026904-1970-06-13"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=229140"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/225000-229999/229140/norma.htm"

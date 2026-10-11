@@ -10,6 +10,8 @@ published: 1972-11-08
 boletin_oficial: "22542"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-19786-nacional-lnn0021931-1972-08-16"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=216413"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/215000-219999/216413/norma.htm"

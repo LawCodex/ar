@@ -1,0 +1,59 @@
+---
+title: "Ley 23983: EMERGENCIA AMBIENTAL — EMERGENCIA AMBIENTAL - STA.CRUZ -CHUBUT-T.DELFUEGO"
+identifier: "Ley 23983"
+infoleg_id: "382"
+type: act
+jurisdiction: ar
+language: es
+date: 1991-08-21
+published: 1991-09-06
+boletin_oficial: "27214"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-23983-nacional-lnn0028515-1991-08-21"
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=382"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/0-4999/382/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 23983: EMERGENCIA AMBIENTAL — EMERGENCIA AMBIENTAL - STA.CRUZ -CHUBUT-T.DELFUEGO
+
+Ley Nº 23.983
+
+EMERGENCIA AMBIENTAL
+
+Declárense en ese estado a las Provincias de Santa Cruz, Chubut y Tierra del Fuego.
+
+Sancionada: Agosto 21 de 1991.
+
+Promulgada: Setiembre 4 de 1991.
+
+El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc. sancionan con fuerza de Ley:
+
+## ARTICULO 1º
+
+Declárase Estado de Emergencia Ambiental, en el ámbito de las provincias de Santa Cruz, Chubut y Tierra del Fuego, por el deterioro y/o degradación de los ecosistemas naturales y áreas urbanas y rurales de las zonas afectadas por la erupción de cenizas y partículas de origen volcánico.
+
+## ARTICULO 2º
+
+Facúltase a los organismos de aplicación de la legislación ambiental a adoptar las medidas necesarias para atender la Emergencia Ambiental, como asimismo a prestar toda la colaboración que le sea requerida por los Gobiernos de las provincias involucradas, a fin de disponer de los recursos necesarios para aminorar los efectos que el mencionado siniestro ha producido y/o sea pasible de producir.
+
+## ARTICULO 3º
+
+La presente ley tendrá vigencia por sesenta días a partir de su promulgación. Se faculta asimismo al Poder Ejecutivo nacional a ampliar el plazo de vigencia por igual período las veces que lo requiera la gravedad del fenómeno.
+
+## ARTICULO 4º
+
+Los organismos de aplicación de la legislación ambiental son los referidos a los recursos constituyentes del medio ambiente, tales como el agua, el suelo, el aire y la biósfera.
+
+## ARTICULO 5º
+
+Facúltase al Poder Ejecutivo Nacional a crear un fondo especial destinado a subvencionar los gastos que ocasione la Emergencia Ambiental a que se refiere la presente ley y que se tomará de las Partidas Presupuestarias que se correspondan con las áreas de la Administración Pública Nacional involucradas.
+
+## ARTICULO 6º
+
+Comuníquese al Poder Ejecutivo. - ALBERTO R. PIERRI. - EDUARDO MENEM. - Esther H. Pereyra Arandia de Pérez Pardo. - Hugo R. Flombaum.
+
+DADA EN LA SALA DE SESIONES DEL CONGRESO ARGENTINO, EN BUENOS AIRES, A LOS VEINTIUN DIAS DEL MES DE AGOSTO DEL AÑO MIL NOVECIENTOS NOVENTA Y UNO.

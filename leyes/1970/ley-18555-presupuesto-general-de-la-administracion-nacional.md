@@ -10,6 +10,8 @@ published: 1970-07-20
 boletin_oficial: "21973"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-18555-nacional-lnn0005170-1970-01-19"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=178880"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/175000-179999/178880/norma.htm"

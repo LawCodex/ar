@@ -9,7 +9,9 @@ date: 1975-09-30
 published: 1975-11-07
 boletin_oficial: "23279"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21172-nacional-fluoracion-aguas-potables-abastecimiento-publico-lns0000311-1975-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=200770"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/200000-204999/200770/norma.htm"

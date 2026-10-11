@@ -10,6 +10,8 @@ published: 1953-12-24
 boletin_oficial: "17553"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-14296-nacional-lnn0020247-1953-12-18"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=296611"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/296611/norma.htm"

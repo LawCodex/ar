@@ -10,6 +10,8 @@ published: 1933-01-12
 boletin_oficial: "11586"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-11683-nacional-lnn0002515-1933-01-04"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=18771"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/15000-19999/18771/texact.htm"

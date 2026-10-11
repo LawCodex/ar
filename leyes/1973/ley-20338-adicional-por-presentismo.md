@@ -9,7 +9,9 @@ date: 1973-05-02
 published: 1973-05-14
 boletin_oficial: "22665"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20338-nacional-adicional-presentismo-para-magistrados-funcionarios-empleados-poder-judicial-nacion-lns0000526-1973-05-02"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302717"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302717/norma.htm"

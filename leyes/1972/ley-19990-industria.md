@@ -9,7 +9,9 @@ date: 1972-11-30
 published: 1972-12-12
 boletin_oficial: "22563"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-19990-nacional-regulacion-actividad-algodonera-lns0000600-1972-11-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=172007"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/170000-174999/172007/norma.htm"

@@ -9,7 +9,9 @@ date: 1980-03-11
 published: 1980-03-18
 boletin_oficial: "24379"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22189-nacional-creacion-salas-camaras-apelaciones-capital-federal-lns0001865-1980-03-11"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=196384"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/196384/norma.htm"

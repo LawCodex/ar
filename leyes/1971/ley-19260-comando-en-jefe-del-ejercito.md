@@ -10,6 +10,8 @@ published: 2006-09-20
 boletin_oficial: "30994"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-19260-nacional-correccion-ley-14366-sobre-bienes-nacionales-territorios-provincializados-lnn0029571-1971-09-24"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=119988"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/115000-119999/119988/norma.htm"

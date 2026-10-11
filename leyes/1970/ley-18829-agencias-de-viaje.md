@@ -9,7 +9,9 @@ date: 1970-11-06
 published: 1970-11-19
 boletin_oficial: "22057"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-18829-nacional-operadores-turisticos-lns0000908-1970-11-06"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=27128"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/27128/norma.htm"

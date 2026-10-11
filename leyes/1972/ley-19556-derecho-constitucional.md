@@ -10,6 +10,8 @@ published: 1972-04-12
 boletin_oficial: "22400"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-19556-nacional-lnn0021881-1972-04-04"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302179"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302179/norma.htm"

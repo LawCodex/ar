@@ -9,7 +9,9 @@ date: 1980-07-16
 published: 1980-07-23
 boletin_oficial: "24464"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22254-nacional-disolucion-industrias-mecanicas-estado-lns0003015-1980-07-16"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=257322"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/255000-259999/257322/norma.htm"

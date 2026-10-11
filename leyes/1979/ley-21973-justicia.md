@@ -9,7 +9,9 @@ date: 1979-04-04
 published: 1979-04-09
 boletin_oficial: "24142"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21973-nacional-creacion-una-nueva-sala-camara-nacional-apelaciones-contencioso-administrativo-federal-capital-federal-lns0000020-1979-04-04"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=196569"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/196569/norma.htm"

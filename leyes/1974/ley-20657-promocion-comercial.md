@@ -9,7 +9,9 @@ date: 1974-03-28
 published: 1974-04-22
 boletin_oficial: "22896"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-20657-nacional-horarios-atencion-supermercados-lns0000453-1974-03-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=190553"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/190553/norma.htm"

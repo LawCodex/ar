@@ -9,7 +9,9 @@ date: 1946-11-25
 published: 1946-12-30
 boletin_oficial: "15661"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-12890-nacional-lnn0026209-1946-11-15"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=44021"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/40000-44999/44021/norma.htm"

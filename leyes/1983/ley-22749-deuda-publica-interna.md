@@ -9,7 +9,9 @@ date: 1983-02-21
 published: 1983-02-23
 boletin_oficial: "25118"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22749-nacional-emision-titulos-deuda-publica-denominados-bonos-consolidacion-lns0002987-1983-02-21"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=189844"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/185000-189999/189844/norma.htm"

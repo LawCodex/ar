@@ -10,6 +10,8 @@ published: 1969-06-17
 boletin_oficial: "21705"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-18243-nacional-lnn0001021-1969-06-10"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=220684"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/220000-224999/220684/norma.htm"

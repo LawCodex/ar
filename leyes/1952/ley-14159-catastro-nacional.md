@@ -9,7 +9,9 @@ date: 1952-09-29
 published: 1952-10-10
 boletin_oficial: "17252"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-14159-nacional-ejecucion-catastro-geometrico-parcelario-todo-territorio-jurisdiccion-nacional-lns0001894-1952-09-29"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=227217"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/225000-229999/227217/texact.htm"

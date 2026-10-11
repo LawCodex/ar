@@ -9,7 +9,9 @@ date: 1983-11-03
 published: 1983-11-08
 boletin_oficial: "25295"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22963-nacional-representacion-territorio-continental-insular-antartico-lns0003093-1983-11-03"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=153537"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/150000-154999/153537/texact.htm"

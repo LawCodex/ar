@@ -10,6 +10,8 @@ published: 1982-10-11
 boletin_oficial: "25023"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22650-nacional-lnn0027753-1982-10-05"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=142853"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/140000-144999/142853/norma.htm"

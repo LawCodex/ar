@@ -9,7 +9,9 @@ date: 1984-09-30
 published: 1984-11-09
 boletin_oficial: "25549"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-23156-nacional-organizacion-justicia-federal-ciudad-san-carlos-bariloche-provincia-rio-negro-lns0003200-1984-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=26426"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/26426/norma.htm"

@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1872-08-07
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-527-nacional-autenticidad-edicion-codigo-civil-republica-hecha-nueva-york-ano-1870-lns0002539-1872-08-07"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=281471"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/280000-284999/281471/norma.htm"

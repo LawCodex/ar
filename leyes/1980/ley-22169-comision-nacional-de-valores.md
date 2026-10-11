@@ -9,7 +9,9 @@ date: 1980-02-19
 published: 1980-02-25
 boletin_oficial: "24363"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22169-nacional-control-comision-valores-sobre-sociedades-acciones-hagan-oferta-publica-titulos-valores-lns0001235-1980-02-19"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=190056"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/190056/norma.htm"

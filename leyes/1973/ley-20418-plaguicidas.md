@@ -9,7 +9,9 @@ date: 1973-05-18
 published: 1973-06-22
 boletin_oficial: "22691"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20418-nacional-contralor-venta-comercializacion-productos-agroquimicos-pesticidas-plaguicidas-lns0000556-1973-05-18"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=60794"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/60000-64999/60794/norma.htm"

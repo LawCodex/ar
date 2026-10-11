@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1899-10-14
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-3863-nacional-prima-seguro-agricultura-lns0002442-1899-10-14"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=233064"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/233064/norma.htm"

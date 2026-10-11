@@ -9,7 +9,9 @@ date: 1971-11-15
 published: 1971-11-22
 boletin_oficial: "22304"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19340-nacional-unidades-vivienda-construccion-interrumpida-lns0000798-1971-11-15"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=189928"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/185000-189999/189928/norma.htm"

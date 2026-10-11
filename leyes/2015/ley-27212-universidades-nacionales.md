@@ -1,0 +1,65 @@
+---
+title: "Ley 27212: UNIVERSIDADES NACIONALES — UNIVERSIDAD NACIONAL RAUL SCALABRINI ORTIZ - CREACION"
+identifier: "Ley 27212"
+infoleg_id: "256132"
+type: act
+jurisdiction: ar
+language: es
+date: 2015-11-25
+published: 2015-12-03
+boletin_oficial: "33269"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-27212-nacional-creacion-universidad-nacional-raul-scalabrini-ortiz-lns0006180-2015-11-25"
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=256132"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/255000-259999/256132/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 27212: UNIVERSIDADES NACIONALES — UNIVERSIDAD NACIONAL RAUL SCALABRINI ORTIZ - CREACION
+
+UNIVERSIDADES NACIONALES
+
+Ley 27212
+
+Universidad Nacional Raúl Scalabrini Ortiz. Creación.
+
+Sancionada: Noviembre 25 de 2015
+
+Promulgada: Diciembre 02 de 2015
+
+El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc. sancionan con fuerza de
+
+Ley:
+
+## ARTÍCULO 1°
+
+Créase la Universidad Nacional Raúl Scalabrini Ortiz.
+
+## ARTÍCULO 2°
+
+La Universidad Nacional Raúl Scalabrini Ortiz tendrá su sede central en la ciudad de San Isidro, provincia de Buenos Aires y podrá establecer subsedes en su zona de influencia y de acuerdo al proyecto institucional que se formule de acuerdo a lo previsto por el artículo 49 de la ley 24.521.
+
+## ARTÍCULO 3°
+
+El Ministerio de Educación designará un rector organizador, quien ejercerá las atribuciones conferidas por el artículo 49 de la ley 24.521 hasta la normalización de la nueva institución.
+
+## ARTÍCULO 4°
+
+Facúltese al Ministerio de Educación para gestionar y aceptar la cesión de bienes muebles e inmuebles del gobierno de la provincia de Buenos Aires, de las municipalidades comprendidas en el ámbito regional, en particular los partidos de Vicente López, San Isidro, Tigre y San Fernando, o de otras instituciones públicas o privadas, bienes que se integrarán al patrimonio de la Universidad Nacional Raúl Scalabrini Ortiz.
+
+## ARTÍCULO 5°
+
+Los gastos que demande la implementación de la presente ley serán atendidos con la partida específica de créditos para las universidades nacionales que determine el Ministerio de Educación, hasta la inclusión de la Universidad Nacional Raúl Scalabrini Ortiz en la ley de presupuesto nacional y con los demás recursos que ingresen a la institución por cualquier título.
+
+## ARTÍCULO 6°
+
+Comuníquese al Poder Ejecutivo nacional.
+
+DADA EN LA SALA DE SESIONES DEL CONGRESO ARGENTINO, EN BUENOS AIRES, A LOS VEINTICINCO DIAS DEL MES DE NOVIEMBRE DEL AÑO DOS MIL QUINCE.
+
+— REGISTRADA BAJO EL N° 27212 —
+
+JULIÁN A. DOMÍNGUEZ. — GERARDO ZAMORA. — Juan H. Estrada. — Lucas Chedrese.

@@ -10,6 +10,8 @@ published: 1987-03-25
 boletin_oficial: "26113"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-23452-nacional-lnn0028188-1986-12-02"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=22029"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/22029/texact.htm"

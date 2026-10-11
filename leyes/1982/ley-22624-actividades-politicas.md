@@ -10,6 +10,8 @@ published: 1982-08-11
 boletin_oficial: "24981"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22624-nacional-lnn0002923-1982-08-06"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=260581"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/260000-264999/260581/norma.htm"

@@ -10,6 +10,8 @@ published: 1970-08-20
 boletin_oficial: "21995"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-18744-nacional-lnn0014335-1970-08-13"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=301594"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/301594/norma.htm"

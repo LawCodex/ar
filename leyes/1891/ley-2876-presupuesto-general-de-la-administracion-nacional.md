@@ -8,6 +8,8 @@ language: es
 date: 1891-11-18
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-2876-nacional-lnn0014640-1891-11-18"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=189119"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/185000-189999/189119/norma.htm"

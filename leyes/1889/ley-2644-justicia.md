@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1889-10-15
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-2644-nacional-organizacion-fuero-criminal-instruccion-capital-federal-lns0002411-1889-10-15"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=195850"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/195850/norma.htm"

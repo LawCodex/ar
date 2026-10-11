@@ -8,6 +8,8 @@ language: es
 date: 1878-10-13
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-962-nacional-lnn0017098-1878-10-13"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=196545"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/196545/norma.htm"

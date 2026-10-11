@@ -10,6 +10,8 @@ published: 1969-10-07
 boletin_oficial: "21782"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-18197-nacional-lnn0016132-1969-04-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=183158"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/183158/norma.htm"

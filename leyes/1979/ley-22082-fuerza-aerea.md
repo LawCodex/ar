@@ -9,7 +9,9 @@ date: 1979-06-27
 published: 1979-10-08
 boletin_oficial: "24265"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22082-nacional-creacion-instituto-vivienda-fuerza-aerea-lns0000281-1979-09-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=37181"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/35000-39999/37181/norma.htm"

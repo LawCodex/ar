@@ -9,7 +9,9 @@ date: 1959-10-02
 published: 1959-11-10
 boletin_oficial: "19083"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-14849-nacional-entrega-gratuita-venta-textos-material-didactico-producidos-talleres-graficos-sistema-braille-lns0001581-1959-10-02"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=298093"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/298093/norma.htm"

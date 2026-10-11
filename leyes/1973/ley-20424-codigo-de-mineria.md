@@ -9,7 +9,9 @@ date: 1973-05-21
 published: 1973-08-16
 boletin_oficial: "22728"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20424-nacional-explotacion-fosfatos-calizos-lns0000553-1973-05-21"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=108985"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/105000-109999/108985/norma.htm"

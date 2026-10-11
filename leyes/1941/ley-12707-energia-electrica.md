@@ -10,6 +10,8 @@ published: 1941-10-31
 boletin_oficial: "14160"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-12707-nacional-lnn0019751-1941-09-25"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=216747"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/215000-219999/216747/norma.htm"

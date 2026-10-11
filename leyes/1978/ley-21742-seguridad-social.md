@@ -9,7 +9,9 @@ date: 1978-02-02
 published: 1978-02-08
 boletin_oficial: "23848"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21742-nacional-derogacion-regimen-pensiones-contributivas-lns0000098-1978-02-02"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=303833"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/303833/norma.htm"

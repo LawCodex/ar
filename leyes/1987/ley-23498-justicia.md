@@ -10,6 +10,8 @@ published: 1987-06-12
 boletin_oficial: "26157"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-23498-nacional-lnn0003413-1987-03-19"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=21848"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/21848/norma.htm"

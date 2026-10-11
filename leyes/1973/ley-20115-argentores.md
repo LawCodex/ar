@@ -9,7 +9,9 @@ date: 1973-01-23
 published: 1973-01-31
 boletin_oficial: "22597"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20115-nacional-sociedad-general-autores-argentina-proteccion-reciproca-lns0000596-1973-01-23"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=43798"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/40000-44999/43798/texact.htm"

@@ -10,6 +10,8 @@ published: 1969-09-11
 boletin_oficial: "21764"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-18335-nacional-lnn0016159-1969-09-04"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=301288"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/301288/norma.htm"

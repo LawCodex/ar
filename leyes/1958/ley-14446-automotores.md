@@ -9,7 +9,9 @@ date: 1958-06-27
 published: 1958-07-10
 boletin_oficial: "18683"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-14446-nacional-introduccion-automoviles-servicio-exterior-lns0001630-1958-06-27"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=297733"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/297733/norma.htm"

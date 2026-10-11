@@ -9,7 +9,9 @@ date: 1983-04-11
 published: 1983-04-14
 boletin_oficial: "25151"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22779-nacional-convenio-transferencia-actividad-operativa-programa-nacional-lucha-contra-enfermedad-chagas-mazza-entre-ministerio-salud-publica-medio-ambiente-promocion-jujuy-lns0003014-1983-04-11"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304356"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304356/norma.htm"

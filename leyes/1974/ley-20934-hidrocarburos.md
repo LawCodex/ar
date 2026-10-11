@@ -10,6 +10,8 @@ published: 1974-12-18
 boletin_oficial: "23059"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-20934-nacional-lnn0004269-1974-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=230591"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/230591/norma.htm"

@@ -1,0 +1,51 @@
+---
+title: "Ley 27034: ACUERDOS — ACUERDO ENTRE ARGENTINA Y AZERBAIYAN - APROBACION"
+identifier: "Ley 27034"
+infoleg_id: "240005"
+type: act
+jurisdiction: ar
+language: es
+date: 2014-11-19
+published: 2014-12-29
+boletin_oficial: "33038"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: unknown
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=240005"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/240000-244999/240005/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 27034: ACUERDOS — ACUERDO ENTRE ARGENTINA Y AZERBAIYAN - APROBACION
+
+ACUERDOS
+
+Ley 27.034
+
+Apruébase Acuerdo sobre Cooperación Económica y Comercial.
+
+Sancionada: Noviembre 19 de 2014
+
+Promulgada: Diciembre 10 de 2014
+
+El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc. sancionan con fuerza de
+
+Ley:
+
+## ARTÍCULO 1°
+
+Apruébase el ACUERDO SOBRE COOPERACIÓN ECONÓMICA Y COMERCIAL ENTRE LA REPÚBLICA ARGENTINA Y LA REPÚBLICA DE AZERBAIYÁN, celebrado en Buenos Aires, el 26 de julio de 2012, que consta de ONCE (11) artículos, cuya copia autenticada, en idiomas español e inglés, forma parte de la presente ley.
+
+## ARTÍCULO 2°
+
+Comuníquese al Poder Ejecutivo nacional.
+
+DADA EN LA SALA DE SESIONES DEL CONGRESO ARGENTINO, EN BUENOS AIRES, A LOS DIECINUEVE DÍAS DEL MES DE NOVIEMBRE DEL AÑO DOS MIL CATORCE.
+
+— REGISTRADO BAJO EL Nº 27.034 —
+
+AMADO BOUDOU. — JULIAN A. DOMINGUEZ. — Lucas Chedrese. — Juan H. Estrada.
+
+NOTA: El/los Anexo/s que integra/n este(a) Ley se publican en la edición web del BORA —www.boletinoficial.gov.ar— y también podrán ser consultados en la Sede Central de esta Dirección Nacional (Suipacha 767 - Ciudad Autónoma de Buenos Aires).
+
+(Nota Infoleg: Los anexos referenciados en la presente norma han sido extraídos de la edición web de Boletín Oficial. Los mismos pueden consultarse en el siguiente link: [Anexos](https://servicios.infoleg.gob.ar/infolegInternet/anexos/240000-244999/240005/ley27034.pdf) )

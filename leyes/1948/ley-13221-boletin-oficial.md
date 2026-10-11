@@ -9,7 +9,9 @@ date: 1948-08-12
 published: 1948-08-31
 boletin_oficial: "16143"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-13221-nacional-arancel-boletin-oficial-lns0002018-1948-08-12"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=194797"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/194797/norma.htm"

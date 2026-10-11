@@ -9,7 +9,9 @@ date: 1967-04-25
 published: 1967-04-28
 boletin_oficial: "21178"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-17250-nacional-establecimiento-obligaciones-previsionales-empleadores-trabajadores-autonomos-lns0001206-1967-04-25"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=88759"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/85000-89999/88759/norma.htm"

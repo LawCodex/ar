@@ -9,7 +9,9 @@ date: 1936-09-30
 published: 1936-10-27
 boletin_oficial: "12695"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-12315-nacional-reconocimiento-carnets-passage-douane-lns0002226-1936-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=294314"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/294314/norma.htm"

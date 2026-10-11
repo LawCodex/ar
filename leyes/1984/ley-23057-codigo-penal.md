@@ -10,6 +10,8 @@ published: 1984-04-05
 boletin_oficial: "25401"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-23057-nacional-lnn0027992-1984-03-15"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=28149"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/28149/norma.htm"

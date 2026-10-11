@@ -10,6 +10,8 @@ published: 2006-09-12
 boletin_oficial: "30988"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-20394-nacional-promocion-grado-personal-militar-lnn0026538-1973-05-16"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=119666"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/115000-119999/119666/norma.htm"

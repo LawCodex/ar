@@ -9,7 +9,9 @@ date: 1976-12-17
 published: 1976-12-24
 boletin_oficial: "23561"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21477-nacional-bienes-estados-provinciales-adquiridos-usucapion-lns0000238-1976-12-17"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=199370"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/199370/texact.htm"

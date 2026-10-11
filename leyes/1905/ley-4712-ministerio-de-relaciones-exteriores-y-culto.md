@@ -10,6 +10,8 @@ published: 1905-10-09
 boletin_oficial: "3588"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-4712-nacional-lnn0023971-1905-09-25"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=286150"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/285000-289999/286150/norma.htm"

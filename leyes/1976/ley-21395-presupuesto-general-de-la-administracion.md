@@ -9,7 +9,9 @@ date: 1976-08-25
 published: 1976-09-10
 boletin_oficial: "23487"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-21395-nacional-lnn0028367-1976-08-25"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=172196"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/170000-174999/172196/norma.htm"

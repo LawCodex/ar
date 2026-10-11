@@ -10,6 +10,8 @@ published: 1969-03-11
 boletin_oficial: "21639"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-18138-nacional-lnn0027282-1969-03-05"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=229170"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/225000-229999/229170/texact.htm"

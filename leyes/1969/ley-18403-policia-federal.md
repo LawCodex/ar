@@ -10,6 +10,8 @@ published: 1969-10-20
 boletin_oficial: "21791"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-18403-nacional-lnn0026927-1969-10-10"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=182577"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/182577/norma.htm"

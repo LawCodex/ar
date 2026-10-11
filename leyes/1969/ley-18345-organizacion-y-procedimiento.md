@@ -10,6 +10,8 @@ published: 1969-09-24
 boletin_oficial: "21773"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-18345-nacional-ley-organizacion-procedimiento-justicia-nacional-trabajo-lnn0001010-1969-09-12"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=45628"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/45000-49999/45628/texact.htm"

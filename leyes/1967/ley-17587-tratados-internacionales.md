@@ -318,7 +318,9 @@ Facilidad de comunicaciones
 
 El Consejo gozará, para sus comunicaciones oficiales, en el territorio de cada uno de sus miembros, de un tratamiento no menos favorable que el concedido por este miembro a cualquier otro gobierno, incluida su misión diplomática en materia de prioridades, tarifas y tasas de correos, cablegramas, telegramas, radiotelegramas, telefotos, comunicaciones telefónicas y otras comunicaciones, así como en materia de tarifas de prensa para las informaciones a la prensa y a la radio.
 
-## SECCION 11 — La correspondencia oficial y las demás comunicaciones del Consejo no podrán ser censuradas.
+## SECCION 11.
+
+La correspondencia oficial y las demás comunicaciones del Consejo no podrán ser censuradas.
 
 La presente sección no podrá, en modo alguno, interpretarse como una negativa a la adopción de medidas de seguridad apropiadas a determinar por acuerdo entre el Consejo y alguno de sus miembros.
 
@@ -350,13 +352,17 @@ Con el fin de garantizar a los representantes de los miembros del Consejo en las
 
 Los privilegios e inmunidades se conceden a los representantes de los miembros, no para su provecho personal, sino con el objeto de asegurar, en total independencia, el ejercicio de sus funciones en lo que respecta al Consejo. En consecuencia, un miembro tiene no sólo el derecho, sino el deber de privar de la inmunidad a su representante en cualquier caso en que, a su juicio, la inmunidad impidiera que se haga justicia y en que la misma pudiera ser dejada sin efecto sin dañar el fin para el cual haya sido acordada.
 
-## SECCION 15 — Las disposiciones de las secciones 12 y 13 no son oponibles a las autoridades del Estado del que la persona depende o del que es o ha sido el representante.
+## SECCION 15.
+
+Las disposiciones de las secciones 12 y 13 no son oponibles a las autoridades del Estado del que la persona depende o del que es o ha sido el representante.
 
 ARTICULO VI
 
 Funcionarios del Consejo
 
-## SECCION 16 — El Consejo determinará las categorías de funcionarios a los que se aplican las disposiciones del presente artículo.
+## SECCION 16.
+
+El Consejo determinará las categorías de funcionarios a los que se aplican las disposiciones del presente artículo.
 
 El secretario general comunicará a los miembros del Consejo los nombres de los funcionarios comprendidos en estas categorías.
 
@@ -382,7 +388,9 @@ Además de los privilegios e inmunidades previstos en la sección 17, el secreta
 
 El secretario general adjunto gozará de los privilegios, inmunidades, exenciones y facilidades concedidas a los representantes diplomáticos de rango comparable.
 
-## SECCION 19 — Los privilegios e inmunidades son concedidos a los funcionarios únicamente en interés del Consejo y no para su provecho personal.
+## SECCION 19.
+
+Los privilegios e inmunidades son concedidos a los funcionarios únicamente en interés del Consejo y no para su provecho personal.
 
 El secretario general podrá y deberá privar de la inmunidad concedida a un funcionario, siempre que a su juicio, esta inmunidad impidiera hacer justicia y en cuanto la privación de la inmunidad no habrá de ocasionar perjuicio a los intereses del Consejo. Solamente el Consejo tendrá derecho para privar de inmunidad al secretario general.
 

@@ -9,7 +9,9 @@ date: 1971-02-16
 published: 1971-02-26
 boletin_oficial: "22122"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-18939-nacional-lnn0025562-1971-02-16"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=183097"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/183097/norma.htm"

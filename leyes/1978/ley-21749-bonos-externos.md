@@ -9,7 +9,9 @@ date: 1978-02-15
 published: 1978-02-21
 boletin_oficial: "23857"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-21749-nacional-autorizacion-para-cotizar-bolsa-bonos-externos-lnn0000097-1978-02-15"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=174183"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/170000-174999/174183/norma.htm"

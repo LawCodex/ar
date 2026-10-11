@@ -9,7 +9,9 @@ date: 1982-06-04
 published: 1982-06-07
 boletin_oficial: "24936"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22603-nacional-impuesto-sobre-compra-venta-permuta-divisas-lns0002930-1982-06-04"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304283"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304283/norma.htm"

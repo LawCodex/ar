@@ -10,6 +10,8 @@ published: 1984-11-08
 boletin_oficial: "25548"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-23152-nacional-lnn0028065-1984-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=26472"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/26472/norma.htm"

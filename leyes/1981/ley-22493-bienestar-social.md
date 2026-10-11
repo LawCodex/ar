@@ -9,7 +9,9 @@ date: 1981-09-10
 published: 1981-09-15
 boletin_oficial: "24753"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22493-nacional-disolucion-caja-federal-ahorro-prestamo-para-vivienda-lns0002846-1981-09-10"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304219"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304219/norma.htm"

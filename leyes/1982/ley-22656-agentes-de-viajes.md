@@ -10,6 +10,8 @@ published: 1982-10-13
 boletin_oficial: "25024"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22656-nacional-lnn0027751-1982-10-08"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=132547"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/130000-134999/132547/norma.htm"

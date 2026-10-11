@@ -9,7 +9,9 @@ date: 1973-04-30
 published: 1973-05-10
 boletin_oficial: "22663"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20332-nacional-centro-nacional-reeducacion-social-lns0000530-1973-04-30"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=231409"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/231409/texact.htm"

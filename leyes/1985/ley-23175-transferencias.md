@@ -10,6 +10,8 @@ published: 1985-04-22
 boletin_oficial: "25661"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-23175-nacional-transferencias-lnn0028072-1985-04-11"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=26313"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/26313/norma.htm"

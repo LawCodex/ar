@@ -10,6 +10,8 @@ published: 1970-10-08
 boletin_oficial: "22029"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-18796-nacional-lnn0026897-1970-10-02"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=198190"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/198190/norma.htm"

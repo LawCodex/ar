@@ -9,7 +9,9 @@ date: 1971-05-13
 published: 1971-05-28
 boletin_oficial: "22184"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19032-nacional-creacion-instituto-nacional-servicios-sociales-para-jubilados-pensionados-lns0000870-1971-05-13"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=16081"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/15000-19999/16081/texact.htm"

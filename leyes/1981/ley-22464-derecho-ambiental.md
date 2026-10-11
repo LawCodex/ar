@@ -9,7 +9,9 @@ date: 1981-06-05
 published: 1981-06-11
 boletin_oficial: "24687"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22464-nacional-adhesion-jujuy-al-sistema-coordinacion-planeamiento-control-calidad-aguas-lns0002838-1981-06-05"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304199"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304199/norma.htm"

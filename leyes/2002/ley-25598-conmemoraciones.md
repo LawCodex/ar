@@ -1,0 +1,63 @@
+---
+title: "Ley 25598: CONMEMORACIONES — DIA NACIONAL DE LA MEDICINA SOCIAL"
+identifier: "Ley 25598"
+infoleg_id: "75122"
+type: act
+jurisdiction: ar
+language: es
+date: 2002-05-23
+published: 2002-06-18
+boletin_oficial: "29922"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-25598-nacional-se-instituye-dia-nacional-medicina-social-al-12-julio-lns0004670-2002-05-23"
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=75122"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/75000-79999/75122/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 25598: CONMEMORACIONES — DIA NACIONAL DE LA MEDICINA SOCIAL
+
+CONMEMORACIONES
+
+Ley 25.598
+
+Declárase el día 12 de julio de cada año como Día Nacional de la Medicina Social en conmemoración de la fecha del nacimiento del doctor René G. Favaloro.
+
+Sancionada: Mayo 23 de 2002.
+
+Promulgada de Hecho: Junio 14 de 2002.
+
+El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc. sancionan con fuerza de Ley:
+
+## ARTICULO 1°
+
+Declárase el día 12 de julio de cada año como Día Nacional de la Medicina Social en conmemoración de la fecha del nacimiento del doctor René G. Favaloro.
+
+## ARTICULO 2°
+
+El Ministerio de Educación de la Nación, en coincidencia con las autoridades educativas de las distintas jurisdicciones y en el ámbito del Consejo Federal de Cultura y Educación, acordarán la conmemoración del Día Nacional de la Medicina Social en las escuelas de la República Argentina.
+
+## ARTICULO 3°
+
+El Poder Ejecutivo, a través del Ministerio de Salud de la Nación, implementará en todas las instituciones dependientes del mismo, los eventos adecuados para la concreción del homenaje a rendirse en la fecha prevista en el artículo 1°.
+
+## ARTICULO 4°
+
+Invítase a los organismos provinciales con funciones similares, a implementar en sus respectivas jurisdicciones lo dispuesto en esta ley.
+
+## ARTICULO 5°
+
+El Poder Ejecutivo reglamentará la presente ley en el plazo de 30 días a partir de su promulgación.
+
+## ARTICULO 6º
+
+Comuníquese al Poder Ejecutivo.
+
+DADA EN LA SALA DE SESIONES DEL CONGRESO ARGENTINO, EN BUENOS AIRES, A LOS VEINTITRES DIAS DEL MES DE MAYO DEL AÑO DOS MIL DOS.
+
+— REGISTRADA BAJO EL N° 25.598 —
+
+EDUARDO O. CAMAÑO. — JUAN C. MAQUEDA. — Eduardo D. Rollano. — Juan C. Oyarzún.

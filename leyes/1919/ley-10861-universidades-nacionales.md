@@ -9,7 +9,9 @@ date: 1919-09-27
 published: 1920-04-29
 boletin_oficial: "7853"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-10861-nacional-creacion-universidad-nacional-litoral-lns0002404-1919-09-27"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=194742"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/194742/norma.htm"

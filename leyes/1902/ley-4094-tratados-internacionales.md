@@ -8,6 +8,8 @@ language: es
 date: 1902-07-30
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-4094-nacional-lnn0002563-1902-07-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=202059"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/200000-204999/202059/norma.htm"

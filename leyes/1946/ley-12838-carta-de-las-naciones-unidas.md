@@ -10,6 +10,8 @@ published: 1946-11-21
 boletin_oficial: "15629"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-12838-nacional-lnn0027709-1946-08-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=43194"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/40000-44999/43194/norma.htm"

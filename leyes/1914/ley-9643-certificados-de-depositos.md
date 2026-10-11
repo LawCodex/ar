@@ -9,7 +9,9 @@ date: 1914-09-30
 published: 1914-11-20
 boletin_oficial: "6257"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-9643-nacional-operaciones-credito-mobiliario-realizadas-medio-certificados-deposito-warrant-lns0002490-1914-09-30"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=37048"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/35000-39999/37048/texact.htm"

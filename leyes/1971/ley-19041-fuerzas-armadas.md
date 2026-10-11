@@ -9,7 +9,9 @@ date: 1971-05-18
 published: 1971-05-26
 boletin_oficial: "22182"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19041-nacional-delegacion-funciones-al-comandante-jefe-ejercito-lns0000867-1971-05-18"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=301812"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/301812/norma.htm"

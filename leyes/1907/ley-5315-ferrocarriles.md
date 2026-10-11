@@ -8,6 +8,8 @@ language: es
 date: 1907-10-01
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-5315-nacional-lnn0024025-1907-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=175380"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/175000-179999/175380/norma.htm"

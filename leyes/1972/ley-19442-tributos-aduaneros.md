@@ -9,7 +9,9 @@ date: 1972-01-24
 published: 1972-01-25
 boletin_oficial: "22348"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-19442-nacional-complementaria-ley-aduanas-to-1962-lns0000779-1972-01-24"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302100"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302100/norma.htm"

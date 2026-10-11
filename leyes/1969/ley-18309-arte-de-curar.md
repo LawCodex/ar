@@ -9,7 +9,9 @@ date: 1969-08-08
 published: 1969-08-18
 boletin_oficial: "21746"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-18309-nacional-lnn0025642-1969-08-08"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=212911"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/210000-214999/212911/norma.htm"

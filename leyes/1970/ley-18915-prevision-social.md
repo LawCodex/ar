@@ -10,6 +10,8 @@ published: 1971-02-04
 boletin_oficial: "22108"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-18915-nacional-lnn0014149-1970-12-31"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=129946"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/125000-129999/129946/norma.htm"

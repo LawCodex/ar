@@ -9,7 +9,9 @@ date: 1979-09-05
 published: 1979-09-12
 boletin_oficial: "24247"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22067-nacional-fijacion-limites-entre-provincias-entre-rios-santa-fe-lns0000286-1979-09-05"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=199396"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/199396/norma.htm"

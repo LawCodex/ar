@@ -10,6 +10,8 @@ published: 1948-02-23
 boletin_oficial: "15992"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-13019-nacional-lnn0002050-1947-09-18"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=295554"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/295554/norma.htm"

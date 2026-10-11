@@ -9,7 +9,9 @@ date: 1983-05-05
 published: 1983-05-10
 boletin_oficial: "25169"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22804-nacional-otorgamiento-una-prestacion-complementaria-jubilados-pensionados-actividad-docente-creacion-caja-complementaria-prevision-para-actividad-docente-lns0003027-1983-05-05"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=83129"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/80000-84999/83129/texact.htm"

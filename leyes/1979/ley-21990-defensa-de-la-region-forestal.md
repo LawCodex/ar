@@ -10,6 +10,8 @@ published: 1979-05-07
 boletin_oficial: "24159"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-21990-nacional-lnn0000017-1979-04-27"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=183751"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/183751/norma.htm"

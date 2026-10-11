@@ -10,6 +10,8 @@ published: 1972-10-26
 boletin_oficial: "22534"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-19905-nacional-lnn0020691-1972-10-20"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302433"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302433/texact.htm"

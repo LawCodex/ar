@@ -9,7 +9,9 @@ date: 1965-09-01
 published: 1965-10-18
 boletin_oficial: "20801"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-16707-nacional-obligacion-consumo-carbon-mineral-nacional-territorio-republica-lns0001360-1965-09-01"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=216866"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/215000-219999/216866/norma.htm"

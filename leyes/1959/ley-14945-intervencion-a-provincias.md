@@ -10,6 +10,8 @@ published: 1959-12-12
 boletin_oficial: "19109"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-14945-nacional-lnn0018864-1959-11-11"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=298182"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/298182/norma.htm"

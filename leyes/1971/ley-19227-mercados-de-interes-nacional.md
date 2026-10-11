@@ -9,7 +9,9 @@ date: 1971-09-09
 published: 1971-09-22
 boletin_oficial: "22264"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-19227-nacional-fomento-establecimiento-mercados-mayoristas-alimentos-perecederos-lns0000827-1971-09-09"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=181449"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/181449/norma.htm"

@@ -9,7 +9,9 @@ date: 1969-01-15
 published: 1969-01-22
 boletin_oficial: "21607"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-18061-nacional-lnn0025660-1969-01-15"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=97581"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/95000-99999/97581/norma.htm"

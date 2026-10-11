@@ -10,6 +10,8 @@ published: 1976-03-29
 boletin_oficial: "23373"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-21258-nacional-lnn0000428-1976-03-24"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=303519"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/303519/norma.htm"

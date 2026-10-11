@@ -9,7 +9,9 @@ date: 1967-10-31
 published: 1967-11-07
 boletin_oficial: "21308"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-17510-nacional-economia-transporte-transporte-terrestre-transporte-subterraneo-lns0001161-1967-10-31"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=300638"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/300638/norma.htm"

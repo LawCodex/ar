@@ -9,7 +9,9 @@ date: 1973-03-22
 published: 1973-03-30
 boletin_oficial: "22637"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20226-nacional-adquisicion-titulos-publicos-denominados-valores-nacionales-ajustables-asegurador-lns0000580-1973-03-22"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302646"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302646/norma.htm"

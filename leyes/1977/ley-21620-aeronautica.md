@@ -10,6 +10,8 @@ published: 1977-08-23
 boletin_oficial: "23728"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-21620-nacional-lnn0026629-1977-08-16"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=272074"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/270000-274999/272074/norma.htm"

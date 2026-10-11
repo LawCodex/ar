@@ -9,7 +9,9 @@ date: 1969-05-26
 published: 1969-05-30
 boletin_oficial: "21694"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-18221-nacional-ley-modificatoria-aduanas-lns0002833-1969-05-26"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=301206"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/301206/texact.htm"

@@ -10,6 +10,8 @@ published: 1975-01-10
 boletin_oficial: "23073"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-20953-nacional-lnn0004252-1974-12-19"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=175409"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/175000-179999/175409/norma.htm"

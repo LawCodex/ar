@@ -9,7 +9,9 @@ date: 1970-03-31
 published: 1970-04-08
 boletin_oficial: "21904"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-18637-nacional-agentes-percepcion-impuesto-localidades-cinematograficas-lns0000945-1970-03-31"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=301510"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/301510/texact.htm"

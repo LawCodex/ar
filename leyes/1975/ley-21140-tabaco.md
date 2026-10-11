@@ -10,6 +10,8 @@ published: 1975-11-05
 boletin_oficial: "23277"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-21140-nacional-lnn0026695-1975-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=148245"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/145000-149999/148245/norma.htm"

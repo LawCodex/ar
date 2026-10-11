@@ -9,7 +9,9 @@ date: 1971-12-16
 published: 1971-12-17
 boletin_oficial: "22322"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19369-nacional-relacion-trabajo-personal-banco-nacional-desarrollo-lns0000788-1971-12-16"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302040"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302040/norma.htm"

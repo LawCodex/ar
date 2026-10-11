@@ -128,7 +128,9 @@ a) Los miembros fundadores serán clasificados en una de tres categorías: I, II
 
 b) La clasificación de un miembro podrá ser modificada por el Consejo de Gobernadores, por una mayoría de dos terceras partes del número total de votos, con el asentimiento de dicho miembro.
 
-### Sección 4 - Limitación de responsabilidad — Ningún miembro, en condición de tal, será responsable de los actos u obligaciones del Fondo.
+### Sección 4 - Limitación de responsabilidad
+
+Ningún miembro, en condición de tal, será responsable de los actos u obligaciones del Fondo.
 
 #### ARTICULO 4
 
@@ -158,7 +160,9 @@ c) La contribución inicial de cada miembro será pagadera en las formas que se 
 
 Para asegurar la continuidad de las operaciones del Fondo, el Consejo de Gobernadores examinará, con la periodicidad que estime oportuna, los recursos que dispone el Fondo para comprobar si son adecuados; el primero de esos exámenes se verificará, a más tardar, tres años después de iniciadas las operaciones del Fondo. El Consejo de Gobernadores si lo estima necesario o conveniente como consecuencia del examen, podrá invitar a los miembros a que hagan contribuciones adicionales a los recursos del Fondo en condiciones compatibles con lo dispuesto en la sección 5 de este artículo. Las decisiones respecto a lo previsto en esta sección se adoptarán por una mayoría de dos terceras partes del número total de votos.
 
-### Sección 4 - Aumento de las contribuciones — El Consejo de Gobernadores podrá autorizar en cualquier momento a un miembro a incrementar la cuantía de cualquiera de sus contribuciones.
+### Sección 4 - Aumento de las contribuciones
+
+El Consejo de Gobernadores podrá autorizar en cualquier momento a un miembro a incrementar la cuantía de cualquiera de sus contribuciones.
 
 ### Sección 5 - Principios rectores de las contribuciones
 
@@ -182,11 +186,15 @@ Los recursos del Fondo podrán aumentarse mediante contribuciones especiales de 
 
 Monedas
 
-### Sección 1 - Utilización de monedas — a) Los miembros del Fondo no mantendrán ni impondrán restricción alguna a la facultad del Fondo de conservar o utilizar monedas de libre convertibilidad.
+### Sección 1 - Utilización de monedas
+
+a) Los miembros del Fondo no mantendrán ni impondrán restricción alguna a la facultad del Fondo de conservar o utilizar monedas de libre convertibilidad.
 
 b) La moneda de un miembro de la categoría III pagada al Fondo por concepto de contribución inicial o adicional de dicho miembro podrá ser usada por el Fondo, previa consulta con el miembro interesado, para el pago de gastos administrativos y de otros gastos del Fondo en los territorios de dicho miembro, o, con el consentimiento de éste, para el pago de bienes o servicios producidos en sus territorios y que se necesiten para actividades financiadas por el Fondo en otros Estados.
 
-### Sección 2 - Avalúo de monedas — a) El Fondo utilizará como unidad de cuenta el derecho especial de giro del Fondo Monetario Internacional.
+### Sección 2 - Avalúo de monedas
+
+a) El Fondo utilizará como unidad de cuenta el derecho especial de giro del Fondo Monetario Internacional.
 
 b) A los efectos del presente convenio, se calculará el valor de una moneda en Derechos Especiales de Giro por el método de avalúo aplicado por el Fondo Monetario Internacional, en la inteligencia de que:
 
@@ -208,7 +216,9 @@ b) una Junta Ejecutiva;
 
 c) un presidente, y el personal que sea necesario para que el Fondo desempeñe sus funciones.
 
-### Sección 2 - El Consejo de Gobernadores — a) Cada miembro estará representado en el Consejo de Gobernadores y nombrará un gobernador y un suplente. El suplente solo podrá votar en ausencia del titular.
+### Sección 2 - El Consejo de Gobernadores
+
+a) Cada miembro estará representado en el Consejo de Gobernadores y nombrará un gobernador y un suplente. El suplente solo podrá votar en ausencia del titular.
 
 b) Todas las facultades del Fondo estarán concentradas en el Consejo de Gobernadores.
 
@@ -240,7 +250,9 @@ a) El número total de votos en el Consejo de Gobernadores será de 1800, distri
 
 b) Salvo cuando se disponga expresamente lo contrario en el convenio, todas las decisiones del Consejo de Gobernadores se tomarán por mayoría simple del número total de votos.
 
-### Sección 4 - Presidente del Consejo de Gobernadores — El Consejo de Gobernadores elegirá un presidente entre los gobernadores, cuyo mandato será de dos años.
+### Sección 4 - Presidente del Consejo de Gobernadores
+
+El Consejo de Gobernadores elegirá un presidente entre los gobernadores, cuyo mandato será de dos años.
 
 ### Sección 5 - Junta Ejecutiva
 
@@ -262,7 +274,9 @@ a) El número total de votos, en la Junta Ejecutiva será de 1800, distribuidos 
 
 b) Salvo cuando se disponga expresamente lo contrario en el presente convenio, las decisiones de la Junta Ejecutiva se adoptarán por una mayoría de tres quintas partes de los votos emitidos, siempre que tal mayoría sea más de la mitad del número total de votos de todos los miembros de la Junta Ejecutiva.
 
-### Sección 7 - Presidente de la Junta Ejecutiva — El Presidente del Fondo será presidente de la Junta Ejecutiva y participará en sus reuniones sin derecho de voto.
+### Sección 7 - Presidente de la Junta Ejecutiva
+
+El Presidente del Fondo será presidente de la Junta Ejecutiva y participará en sus reuniones sin derecho de voto.
 
 ### Sección 8 - Presidente y personal del Fondo
 
@@ -298,7 +312,9 @@ El Fondo publicará un informe anual que contenga un estado de cuentas revisado 
 
 Operaciones
 
-### Sección 1 - Utilización de recursos y condiciones de financiación — a) Los recursos del Fondo se utilizarán para alcanzar el objetivo especificado en el artículo 2.
+### Sección 1 - Utilización de recursos y condiciones de financiación
+
+a) Los recursos del Fondo se utilizarán para alcanzar el objetivo especificado en el artículo 2.
 
 b) La financiación del Fondo se proporcionará únicamente a los estados en desarrollo que sean miembros del Fondo o a las organizaciones intergubernamentales en las que dichos miembros participen. En el caso de un préstamo a una organización intergubernamental, el Fondo podrá requerir garantías adecuadas, gubernamentales o de otra clase.
 
@@ -444,7 +460,9 @@ a) En la Conferencia de las Naciones Unidas sobre el Establecimiento del Fondo p
 
 c) Los estados enumerados en la lista I que no hayan pasado a ser parte en el presente convenio dentro del año siguiente a su entrada en vigor, y los estados que no estén enumerados, podrán, previa la aprobación de su condición de Miembro por el Consejo de Gobernadores, pasar a ser partes en el convenio mediante el depósito de un instrumento de adhesión.
 
-### Sección 2 - Depositario — a) El depositario del convenio será el secretario general de las Naciones Unidas.
+### Sección 2 - Depositario
+
+a) El depositario del convenio será el secretario general de las Naciones Unidas.
 
 b) El depositario enviará notificaciones relativas al presente convenio:
 
@@ -458,9 +476,13 @@ a) El presente convenio entrará en vigor una vez que el depositario haya recibi
 
 b) En el caso de los Estados que depositen el instrumento de ratificación, aceptación, aprobación o adhesión después de la entrada en vigor del convenio, éste entrará en vigor en la fecha en que se efectúe dicho depósito.
 
-### Sección 4 - Reservas — Solo podrán hacerse reservas a la sección 2 del artículo 11 del presente convenio.
+### Sección 4 - Reservas
 
-### Sección 5 - Textos auténticos — Las versiones del presente convenio en los idiomas árabe, español, francés e inglés, serán igualmente auténticas.
+Solo podrán hacerse reservas a la sección 2 del artículo 11 del presente convenio.
+
+### Sección 5 - Textos auténticos
+
+Las versiones del presente convenio en los idiomas árabe, español, francés e inglés, serán igualmente auténticas.
 
 En fe de lo cual los suscriptos, debidamente autorizados para ello, han firmado este convenio en un solo original en los idiomas árabe, español, francés e inglés.
 
@@ -504,7 +526,9 @@ LISTA II
 
 DISTRIBUCION DE VOTOS Y ELECCION DE LOS MIEMBROS DE LA JUNTA EJECUTIVA
 
-## PARTE I - Categoría I — Subparte A: Distribución de los votos en el consejo de Gobernadores.
+## PARTE I - Categoría I
+
+Subparte A: Distribución de los votos en el consejo de Gobernadores.
 
 Subparte B: elección de los miembros de la Junta ejecutiva y sus suplentes.
 
@@ -512,7 +536,9 @@ Subparte C: distribución de los votos en la Junta ejecutiva.
 
 Subparte D: Enmiendas.
 
-## PARTE II - Categoría II — Subparte A: Distribución de los votos en el consejo de Gobernadores.
+## PARTE II - Categoría II
+
+Subparte A: Distribución de los votos en el consejo de Gobernadores.
 
 Subparte B: Elección de los miembros de la Junta Ejecutiva y sus suplentes.
 
@@ -520,7 +546,9 @@ Subparte C: Distribución de los votos en la Junta Ejecutiva.
 
 Subparte D: Enmiendas.
 
-## PARTE III - Categoría III — Subparte A: Distribución de los votos en el Consejo de Gobernadores.
+## PARTE III - Categoría III
+
+Subparte A: Distribución de los votos en el Consejo de Gobernadores.
 
 Subparte B: Elección de los miembros de la Junta Ejecutiva y sus suplentes.
 

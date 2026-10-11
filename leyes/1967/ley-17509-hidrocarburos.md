@@ -9,7 +9,9 @@ date: 1967-11-09
 published: 1967-11-09
 boletin_oficial: "21310"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-17509-nacional-combustible-precio-especial-para-navegacion-cabotaje-lns0001150-1967-10-31"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=218352"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/215000-219999/218352/norma.htm"

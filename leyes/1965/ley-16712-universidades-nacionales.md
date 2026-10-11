@@ -9,7 +9,9 @@ date: 1965-09-02
 published: 1966-01-28
 boletin_oficial: "20871"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-16712-nacional-indices-correspondientes-remuneraciones-cargos-directivos-docentes-universidad-tecnologica-nacional-lns0001359-1965-09-02"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=300213"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/300213/norma.htm"

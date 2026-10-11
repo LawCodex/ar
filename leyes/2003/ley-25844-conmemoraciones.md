@@ -1,0 +1,59 @@
+---
+title: "Ley 25844: CONMEMORACIONES — DIA DEL PENSAMIENTO NACIONAL"
+identifier: "Ley 25844"
+infoleg_id: "91503"
+type: act
+jurisdiction: ar
+language: es
+date: 2003-11-26
+published: 2004-01-06
+boletin_oficial: "30311"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-25844-nacional-dia-pensamiento-nacional-lnn0029459-2003-11-26"
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=91503"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/90000-94999/91503/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 25844: CONMEMORACIONES — DIA DEL PENSAMIENTO NACIONAL
+
+CONMEMORACIONES
+
+Ley 25.844
+
+Institúyese el día 13 de noviembre "Día del Pensamiento Nacional", en homenaje al nacimiento del escritor y pensador Arturo Martín Jauretche.
+
+Sancionada: Noviembre 26 de 2003.
+
+Promulgada: Diciembre 29 de 2003.
+
+El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc. sancionan con fuerza de Ley:
+
+## ARTICULO 1°
+
+Institúyese el día 13 de noviembre "Día del Pensamiento Nacional", en homenaje al nacimiento del escritor y pensador D. Arturo Martín JAURETCHE.
+
+## ARTICULO 2°
+
+Declárase de interés nacional las actividades relacionadas con lo normado en el artículo 1°.
+
+## ARTICULO 3°
+
+Requerir del Consejo Federal de Educación la incorporación de todos los temas relativos a la vida y a la obra del escritor en los contenidos básicos comunes de la EGB y Polimodal.
+
+## ARTICULO 4°
+
+Invítase a las provincias, a la Ciudad Autónoma de Buenos Aires y a los municipios a adherir a las propuestas de la presente ley.
+
+## ARTICULO 5º
+
+Comuníquese al Poder Ejecutivo.
+
+DADA EN LA SALA DE SESIONES DEL CONGRESO ARGENTINO, EN BUENOS AIRES, A LOS VEINTISEIS DIAS DEL MES DE NOVIEMBRE DEL AÑO DOS MIL TRES.
+
+— REGISTRADO BAJO EL N° 25.844 —
+
+EDUARDO O. CAMAÑO. — DANIEL O. SCIOLI. — Eduardo D. Rollano. — Juan Estrada.

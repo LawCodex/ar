@@ -9,7 +9,9 @@ date: 1973-04-12
 published: 1973-04-18
 boletin_oficial: "22650"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20275-nacional-creacion-universidad-nacional-pampa-lns0000569-1973-04-12"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=231248"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/231248/norma.htm"

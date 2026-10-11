@@ -9,7 +9,9 @@ date: 1980-04-23
 published: 1980-04-29
 boletin_oficial: "24407"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22211-nacional-promocion-agropecuaria-para-tierras-rurales-baja-productividad-lns0001851-1980-04-23"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304071"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304071/norma.htm"

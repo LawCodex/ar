@@ -10,6 +10,8 @@ published: 1982-06-08
 boletin_oficial: "24937"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22602-nacional-lnn0002936-1982-06-05"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=106608"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/105000-109999/106608/norma.htm"

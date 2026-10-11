@@ -9,7 +9,9 @@ date: 1984-07-04
 published: 1984-07-20
 boletin_oficial: "25471"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-23070-nacional-computo-privilegiado-privacion-libertad-para-detenidos-condenados-entre-marzo-1976-diciembre-1983-lns0003165-1984-07-04"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=28073"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/28073/norma.htm"

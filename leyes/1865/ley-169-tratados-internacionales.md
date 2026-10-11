@@ -8,6 +8,8 @@ language: es
 date: 1865-10-10
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-169-nacional-lnn0019957-1857-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=281133"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/280000-284999/281133/norma.htm"

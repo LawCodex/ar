@@ -10,6 +10,8 @@ published: 1973-05-16
 boletin_oficial: "22667"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-20358-nacional-lnn0026765-1973-05-08"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=109704"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/105000-109999/109704/norma.htm"

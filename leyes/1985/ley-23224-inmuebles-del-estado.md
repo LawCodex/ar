@@ -10,6 +10,8 @@ published: 1985-09-26
 boletin_oficial: "25770"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-23224-nacional-inmuebles-transfierese-provincia-santa-fe-dominio-terreno-lnn0028099-1985-08-21"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=24835"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/24835/norma.htm"

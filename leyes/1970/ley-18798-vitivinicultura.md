@@ -9,7 +9,9 @@ date: 1970-10-05
 published: 1970-10-09
 boletin_oficial: "22030"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-18798-nacional-implantacion-nuevos-vinedos-variedades-vid-permitidas-instituto-nacional-vitivinicultura-lns0000916-1970-10-05"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=301638"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/301638/norma.htm"

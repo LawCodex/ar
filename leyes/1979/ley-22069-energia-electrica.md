@@ -10,6 +10,8 @@ published: 1979-09-12
 boletin_oficial: "24247"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22069-nacional-lnn0004052-1979-09-06"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=217017"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/215000-219999/217017/norma.htm"

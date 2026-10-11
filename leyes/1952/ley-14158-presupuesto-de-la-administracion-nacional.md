@@ -10,6 +10,8 @@ published: 1952-10-22
 boletin_oficial: "17259"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-14158-nacional-lnn0019131-1952-09-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=177197"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/175000-179999/177197/norma.htm"

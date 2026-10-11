@@ -9,7 +9,9 @@ date: 1977-04-04
 published: 1977-04-12
 boletin_oficial: "23636"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21552-nacional-condonacion-deudas-impuesto-transmision-gratuita-bienes-lns0000177-1977-04-04"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=303719"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/303719/norma.htm"

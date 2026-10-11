@@ -10,6 +10,8 @@ published: 1986-09-10
 boletin_oficial: "25990"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-23350-nacional-lnn0028142-1986-08-07"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=23025"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/23025/norma.htm"

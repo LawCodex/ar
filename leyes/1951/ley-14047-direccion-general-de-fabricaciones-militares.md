@@ -10,6 +10,8 @@ published: 2006-10-04
 boletin_oficial: "31004"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-14047-nacional-exportacion-armas-municiones-material-guerra-lnn0029592-1951-08-16"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=120510"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/120000-124999/120510/norma.htm"

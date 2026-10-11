@@ -10,6 +10,8 @@ published: 1912-02-16
 boletin_oficial: "5444"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-8863-nacional-lnn0024726-1912-01-27"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=290659"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/290659/norma.htm"

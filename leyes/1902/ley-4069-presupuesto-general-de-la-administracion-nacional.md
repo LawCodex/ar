@@ -8,6 +8,8 @@ language: es
 date: 1902-01-21
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-4069-nacional-lnn0013779-1902-01-21"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=189948"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/185000-189999/189948/norma.htm"

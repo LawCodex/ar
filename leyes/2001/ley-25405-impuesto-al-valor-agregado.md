@@ -1,0 +1,65 @@
+---
+title: "Ley 25405: IMPUESTO AL VALOR AGREGADO — REGIMEN LEGAL - MODIFICACION -"
+identifier: "Ley 25405"
+infoleg_id: "66623"
+type: act
+jurisdiction: ar
+language: es
+date: 2001-03-07
+published: 2001-04-06
+boletin_oficial: "29624"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-25405-nacional-modificacion-ley-impuesto-al-valor-agregado-lns0004556-2001-03-07"
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=66623"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/65000-69999/66623/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 25405: IMPUESTO AL VALOR AGREGADO — REGIMEN LEGAL - MODIFICACION -
+
+IMPUESTOS
+
+Ley 25.405
+
+Modifícase la Ley de Impuesto al Valor Agregado.
+
+Sancionada: Marzo 7 de 2001.
+
+Promulgada de Hecho: Abril 4 de 2001.
+
+El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc. sancionan con fuerza de Ley:
+
+## ARTICULO 1º
+
+Modifícase la Ley de Impuesto al Valor Agregado (texto ordenado en 1997), y sus modificaciones de la siguiente forma:
+
+1\. Sustitúyense en el artículo 7°, inciso h), los párrafos segundo y tercero del apartado 7, por los siguientes:
+
+La exención se limita exclusivamente a los importes que deban abonar a los prestadores los colegios y consejos profesionales, las cajas de previsión social para profesionales y las obras sociales, creadas o reconocidas por normas legales nacionales o provinciales así como todo pago directo que a título de coseguro o en caso de falta de servicios deban efectuar los beneficiarios.
+
+La exención dispuesta precedentemente no será de aplicación en la medida en que los beneficiarios de la prestación no fueren matriculados o afiliados directos o integrantes de sus grupos familiares —en el caso de servicios organizados por los colegios y consejos profesionales y cajas de previsión social para profesionales— o sean adherentes voluntarios a las obras sociales, sujetos a un régimen similar a los sistemas de medicina prepaga, en cuyo caso será de aplicación el tratamiento dispuesto para estas últimas.
+
+2\. Modifícase el artículo incorporado a continuación del artículo 7° en su primer párrafo de la siguiente forma:
+
+Artículo ... : Respecto de los servicios de asistencia sanitaria, médica y paramédica, no serán de aplicación las exenciones previstas en el punto 6, del inciso h) del artículo 7° —excepto para los servicios brindados por las obras sociales regidas por la ley 23.660 a sus afiliados obligatorios y por los colegios y consejos profesionales y las cajas de previsión social para profesionales a sus matriculados, afiliados directos y grupos familiares—, ni las dispuestas por otras leyes nacionales —generales, especiales o estatutarias—, decretos o cualquier otra norma de inferior jerarquía, que incluyan taxativa o genéricamente al impuesto de esta ley, excepto las otorgadas en virtud de regímenes de promoción económica, tanto sectoriales como regionales y a las aseguradoras de fondos de jubilaciones y pensiones y aseguradoras de riesgo del trabajo.
+
+## ARTICULO 2º
+
+Las entidades y los beneficiarios de las prestaciones incluidas en la exención que se dispone en el artículo 1°, que hubieran pagado este gravamen en relación a dichas prestaciones, no podrán solicitar la repetición, la devolución o la compensación de las sumas abonadas.
+
+## ARTICULO 3º
+
+Las disposiciones de la presente ley entrarán en vigencia a partir de la fecha de su publicación en el Boletín Oficial y surtirán efecto desde la vigencia de la ley 25.063.
+
+## ARTICULO 4°
+
+Comuníquese al Poder Ejecutivo.
+
+DADA EN LA SALA DE SESIONES DEL CONGRESO ARGENTINO, EN BUENOS AIRES, A LOS SIETE DIAS DEL MES DE MARZO DEL AÑO DOS MIL UNO.
+
+— REGISTRADA BAJO EL N° 25.405 —
+
+RAFAEL PASCUAL — MARIO A. LOSADA — Guillermo Aramburu— Juan C. Oyarzún.

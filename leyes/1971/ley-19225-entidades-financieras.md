@@ -9,7 +9,9 @@ date: 1971-09-08
 published: 1971-09-16
 boletin_oficial: "22260"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19225-nacional-prohibicion-adquisicion-bono-nacional-para-inversion-desarrollo-bonos-externos-para-entidades-financieras-aseguradoras-lns0000829-1971-09-08"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=189845"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/185000-189999/189845/norma.htm"

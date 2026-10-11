@@ -10,6 +10,8 @@ published: 1983-12-12
 boletin_oficial: "25318"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-23007-nacional-lnn0027973-1983-12-06"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304412"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304412/norma.htm"

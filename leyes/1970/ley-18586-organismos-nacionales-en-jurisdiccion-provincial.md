@@ -9,7 +9,9 @@ date: 1970-02-06
 published: 1970-02-26
 boletin_oficial: "21877"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-18586-nacional-regimen-transferencia-organismos-funciones-entre-poder-ejecutivo-nacional-provincias-lns0000960-1970-02-06"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=21439"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/21439/norma.htm"

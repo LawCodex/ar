@@ -9,7 +9,9 @@ date: 1972-04-07
 published: 1972-04-18
 boletin_oficial: "22404"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19563-nacional-suspension-pago-asignaciones-familiares-trabajadores-lns0002980-1972-04-07"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302185"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302185/texact.htm"

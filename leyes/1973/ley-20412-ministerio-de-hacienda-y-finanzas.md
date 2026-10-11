@@ -9,7 +9,9 @@ date: 1973-05-13
 published: 1973-06-11
 boletin_oficial: "22684"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20412-nacional-creacion-instituto-obra-social-para-personal-ministerio-hacienda-finanzas-lns0000482-1973-05-13"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=28182"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/28182/norma.htm"
@@ -338,7 +340,9 @@ LANUSSE
 
 Jorge Wehbe
 
-## ANEXO AL ARTICULO 27 DE LA LEY Nº 20.412 — I.- Ubicación: Inmueble sito en la calle Lavalle 1686/90 entre Montevideo y Rodríguez Peña, de la Capital Federal, Zona Norte Parroquia San Nicolás.
+## ANEXO AL ARTICULO 27 DE LA LEY Nº 20.412
+
+I.- Ubicación: Inmueble sito en la calle Lavalle 1686/90 entre Montevideo y Rodríguez Peña, de la Capital Federal, Zona Norte Parroquia San Nicolás.
 
 Superficie: OCHOCIENTOS CATORCE metros cuadrados con OCHO MIL SETECIENTOS CINCUENTA Y CINCO decímetros cuadrados (814,8755 /m2).
 

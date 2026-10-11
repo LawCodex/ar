@@ -9,7 +9,9 @@ date: 1986-10-30
 published: 1987-02-16
 boletin_oficial: "26086"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-23463-nacional-juramento-fidelidad-respeto-constitucion-lns0003333-1986-10-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=21987"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/21987/norma.htm"

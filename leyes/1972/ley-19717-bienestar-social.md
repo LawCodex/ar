@@ -9,7 +9,9 @@ date: 1972-07-04
 published: 1972-07-12
 boletin_oficial: "22461"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19717-nacional-creacion-consejo-federal-bienestar-social-lns0000708-1972-07-04"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302301"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302301/texact.htm"

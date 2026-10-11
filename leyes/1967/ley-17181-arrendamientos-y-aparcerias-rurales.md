@@ -9,7 +9,9 @@ date: 1967-02-21
 published: 1967-02-28
 boletin_oficial: "21137"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-17181-nacional-direcccion-arrendamientos-aparcerias-rurales-lns0001218-1967-02-21"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=176679"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/175000-179999/176679/norma.htm"

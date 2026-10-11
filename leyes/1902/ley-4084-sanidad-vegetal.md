@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1902-07-03
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-4084-nacional-inspeccion-previa-importacion-vegetales-semillas-puertos-pais-lns0002567-1902-07-03"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=285215"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/285000-289999/285215/norma.htm"

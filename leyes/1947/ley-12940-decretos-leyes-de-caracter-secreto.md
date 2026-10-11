@@ -9,7 +9,9 @@ date: 1947-01-24
 published: 2006-10-05
 boletin_oficial: "31005"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-12940-nacional-aprobacion-decretos-leyes-caracter-secreto-lns0005114-1947-01-24"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=120586"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/120000-124999/120586/norma.htm"

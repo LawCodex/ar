@@ -9,7 +9,9 @@ date: 1948-06-25
 published: 1948-07-13
 boletin_oficial: "16104"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-13210-nacional-embajada-argentina-iran-lns0002022-1948-06-25"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=193704"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/193704/norma.htm"

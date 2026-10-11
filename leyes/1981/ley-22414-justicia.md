@@ -9,7 +9,9 @@ date: 1981-03-02
 published: 1981-03-06
 boletin_oficial: "24622"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22414-nacional-ampliacion-jurisdiccion-juzgado-federal-comodoro-rivadavia-chubut-lns0002789-1981-03-02"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=232567"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/232567/norma.htm"

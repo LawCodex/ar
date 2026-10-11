@@ -9,7 +9,9 @@ date: 1972-02-10
 published: 1972-02-22
 boletin_oficial: "22366"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19489-nacional-accion-cobro-para-impuestos-contribuciones-municipalidad-ciudad-buenos-aires-lns0000768-1972-02-10"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302134"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302134/norma.htm"

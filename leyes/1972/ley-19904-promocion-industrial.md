@@ -9,7 +9,9 @@ date: 1972-10-20
 published: 1972-10-24
 boletin_oficial: "22532"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-19904-nacional-lnn0025483-1972-10-20"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=181541"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/181541/norma.htm"

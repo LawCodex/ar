@@ -9,7 +9,9 @@ date: 1935-09-30
 published: 1935-11-08
 boletin_oficial: "12412"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-12262-nacional-creacion-carrera-medica-hospitalaria-lns0002230-1935-09-30"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=294266"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/294266/texact.htm"

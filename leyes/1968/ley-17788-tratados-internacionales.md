@@ -10,6 +10,8 @@ published: 1968-07-01
 boletin_oficial: "21467"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-17788-nacional-lnn0005844-1968-06-24"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=203039"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/200000-204999/203039/norma.htm"

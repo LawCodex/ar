@@ -9,7 +9,9 @@ date: 1983-11-04
 published: 1983-11-08
 boletin_oficial: "25295"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22964-nacional-control-tratamiento-lepra-lns0003094-1983-11-04"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=233084"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/233084/norma.htm"

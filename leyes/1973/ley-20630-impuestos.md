@@ -9,7 +9,9 @@ date: 1973-12-27
 published: 1974-01-22
 boletin_oficial: "22836"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20630-nacional-impuesto-premios-juegos-sorteo-lns0000499-1973-12-27"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=89937"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/85000-89999/89937/texact.htm"

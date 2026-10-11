@@ -9,7 +9,9 @@ date: 1983-12-08
 published: 1983-12-14
 boletin_oficial: "25320"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-23023-nacional-reorganizacion-poder-ejecutivo-lns0003125-1983-12-08"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=94041"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/90000-94999/94041/norma.htm"

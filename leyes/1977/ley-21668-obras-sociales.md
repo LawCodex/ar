@@ -9,7 +9,9 @@ date: 1977-10-19
 published: 1977-10-24
 boletin_oficial: "23772"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21668-nacional-obra-social-personal-subsecretaria-recursos-hidricos-lns0000123-1977-10-19"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=303784"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/303784/norma.htm"

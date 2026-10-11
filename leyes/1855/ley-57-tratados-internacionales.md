@@ -8,6 +8,8 @@ language: es
 date: 1855-09-29
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-57-nacional-lnn0017302-1863-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=280930"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/280000-284999/280930/norma.htm"

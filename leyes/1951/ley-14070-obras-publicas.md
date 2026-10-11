@@ -9,7 +9,9 @@ date: 1951-09-29
 published: 1951-11-08
 boletin_oficial: "17021"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-14070-nacional-financiacion-planes-obras-publicas-lns0001907-1951-09-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=296424"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/296424/norma.htm"

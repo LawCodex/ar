@@ -9,7 +9,9 @@ date: 1973-05-22
 published: 1973-06-22
 boletin_oficial: "22691"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20447-nacional-transporte-agua-buques-bandera-nacional-50-total-comercio-exterior-lns0000545-1973-05-22"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=27570"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/27570/norma.htm"

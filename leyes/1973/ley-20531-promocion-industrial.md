@@ -10,6 +10,8 @@ published: 1973-11-13
 boletin_oficial: "22788"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-20531-nacional-lnn0026744-1973-08-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=183733"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/183733/norma.htm"

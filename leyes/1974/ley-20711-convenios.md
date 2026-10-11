@@ -9,7 +9,9 @@ date: 1974-08-07
 published: 1974-08-29
 boletin_oficial: "22982"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20711-nacional-convenio-detencion-extradicion-imputados-condenados-entre-buenos-aires-ministerio-justicia-lns0000400-1974-08-07"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=195404"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/195404/norma.htm"

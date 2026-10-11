@@ -9,7 +9,9 @@ date: 1935-09-25
 published: 1935-10-07
 boletin_oficial: "12386"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-12210-nacional-funciones-medicos-tribunales-capital-federal-lns0002240-1935-09-25"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=233691"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/233691/texact.htm"

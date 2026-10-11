@@ -9,7 +9,9 @@ date: 1980-10-31
 published: 1980-11-07
 boletin_oficial: "24540"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22311-nacional-actualizacion-monetaria-sumas-debidas-virtud-contrato-trabajo-lns0002339-1980-10-31"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=77207"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/75000-79999/77207/norma.htm"

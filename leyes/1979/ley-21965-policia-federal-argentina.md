@@ -9,7 +9,9 @@ date: 1979-03-27
 published: 1979-04-02
 boletin_oficial: "24137"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21965-nacional-ley-para-personal-policia-federal-argentina-lns0000024-1979-03-27"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=45954"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/45000-49999/45954/texact.htm"

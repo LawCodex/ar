@@ -10,6 +10,8 @@ published: 1971-12-01
 boletin_oficial: "22311"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-19346-nacional-lnn0000812-1971-11-24"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=52756"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/50000-54999/52756/norma.htm"

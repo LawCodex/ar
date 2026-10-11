@@ -9,7 +9,9 @@ date: 1941-09-29
 published: 1941-10-23
 boletin_oficial: "14153"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-12716-nacional-organizacion-justicia-federal-ciudades-azul-san-nicolas-provincia-buenos-aires-lns0002587-1941-09-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=195582"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/195582/norma.htm"

@@ -8,6 +8,8 @@ language: es
 date: 1870-08-12
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-397-nacional-lnn0023329-1870-08-12"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=281360"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/280000-284999/281360/norma.htm"

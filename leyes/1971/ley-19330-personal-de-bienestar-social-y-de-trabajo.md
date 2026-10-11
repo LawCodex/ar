@@ -9,7 +9,9 @@ date: 1971-11-03
 published: 1971-11-09
 boletin_oficial: "22296"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19330-nacional-creacion-instituto-obra-social-para-personal-ministerios-bienestar-social-trabajo-lns0000802-1971-11-03"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=25393"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/25393/norma.htm"

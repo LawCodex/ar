@@ -10,6 +10,8 @@ published: 1980-01-17
 boletin_oficial: "24336"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22136-nacional-lnn0001258-1980-01-11"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304033"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304033/norma.htm"

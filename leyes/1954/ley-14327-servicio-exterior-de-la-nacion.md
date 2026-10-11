@@ -9,7 +9,9 @@ date: 1954-09-01
 published: 1954-09-30
 boletin_oficial: "17742"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-14327-nacional-embajada-argentina-paises-bajos-lns0001827-1954-09-01"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=296636"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/296636/norma.htm"

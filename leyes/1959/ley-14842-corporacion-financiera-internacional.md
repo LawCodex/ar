@@ -127,9 +127,13 @@ b) El capital en acciones autorizado será dividido en 100.000 acciones de un va
 
 (d) La Corporación determinará el precio y demás condiciones de la suscripción de acciones de capital que se suscriban en oportunidad distinta de la suscripción inicial por los miembros fundadores.
 
-## SECCION 4. Limitación de la Responsabilidad — Ningún miembro será responsable, por razón de ser miembro, de las obligaciones de la Corporación.
+## SECCION 4. Limitación de la Responsabilidad
 
-## SECCION 5. Restricción sobre Transferencia y Prenda de Acciones — Las acciones de capital no podrán ser dadas en prenda o gravadas en forma alguna y serán transferibles solamente a la Corporación.
+Ningún miembro será responsable, por razón de ser miembro, de las obligaciones de la Corporación.
+
+## SECCION 5. Restricción sobre Transferencia y Prenda de Acciones
+
+Las acciones de capital no podrán ser dadas en prenda o gravadas en forma alguna y serán transferibles solamente a la Corporación.
 
 Operaciones
 
@@ -391,7 +395,9 @@ Los bienes y activos de la Corporación dondequiera que se encuentren y en poder
 
 Los bienes y activos de la Corporación, hasta donde fuere necesario para la buena marcha de las operaciones previstas en este Convenio, y con sujeción a las disposiciones del Artículo III, Sección 5, y a las demás disposiciones de este Convenio se encontrarán libres de toda clase de restricciones, regulaciones, medidas de control y moratorias.
 
-## SECCION 7. Privilegios de las Comunicaciones — Los miembros darán a las comunicaciones oficiales de la Corporación el mismo tratamiento que a las comunicaciones oficiales de otros miembros.
+## SECCION 7. Privilegios de las Comunicaciones
+
+Los miembros darán a las comunicaciones oficiales de la Corporación el mismo tratamiento que a las comunicaciones oficiales de otros miembros.
 
 ## SECCION 8. Inmunidades y Privilegios de los Funcionarios y Empleados
 

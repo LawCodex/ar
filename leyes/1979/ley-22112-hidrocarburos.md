@@ -9,7 +9,9 @@ date: 1979-11-30
 published: 1979-12-06
 boletin_oficial: "24308"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-22112-nacional-economia-energia-mineria-codigo-mineria-minas-estado-territorio-territorios-nacionales-antartida-argentina-tierra-fuego-islas-atlantico-sud-estado-poder-judicial-organizacion-judicial-competencia-fuero-federal-lns0000196-1979-11-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=226651"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/225000-229999/226651/norma.htm"

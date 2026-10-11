@@ -1,0 +1,59 @@
+---
+title: "Ley 25651: EMPRESAS DE TURISMO — LEYENDA EN TICKETS O VOUCHERS"
+identifier: "Ley 25651"
+infoleg_id: "78324"
+type: act
+jurisdiction: ar
+language: es
+date: 2002-09-11
+published: 2002-10-03
+boletin_oficial: "29997"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-25651-nacional-obligaciones-empresas-turismo-entrega-tickets-vouchers-lns0004709-2002-09-11"
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=78324"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/75000-79999/78324/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 25651: EMPRESAS DE TURISMO — LEYENDA EN TICKETS O VOUCHERS
+
+EMPRESAS DE TURISMO
+
+Ley 25.651
+
+Establécese la obligación de incorporar una leyenda en los tickets o vouchers correspondientes a cada servicio, para todas las empresas de turismo que operen en la República Argentina.
+
+Sancionada: Setiembre 11 de 2002.
+
+Promulgada Parcialmente: Octubre 2 de 2002.
+
+El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc. sancionan con fuerza de Ley:
+
+## ARTICULO 1º
+
+Todas las empresas de turismo, nacionales o extranjeras que operen en la República Argentina, deberán incorporar obligatoriamente en los tickets o vouchers correspondientes a cada servicio la leyenda:
+
+"En caso de incumplimiento del operador turístico con el servicio ofrecido y contratado, podrá recurrirse a la Secretaría de Turismo de la Nación y/o a la Dirección Nacional de Defensa del Consumidor..."
+
+## ARTICULO 2º
+
+El texto de la leyenda deberá constar en idioma español e inglés e informará asimismo las direcciones y teléfonos de ambas dependencias.
+
+## ARTICULO 3º
+
+El Poder Ejecutivo reglamentará y fijará las sanciones por incumplimiento dentro de los treinta (30) días de promulgada la presente.
+
+## ARTICULO 4º
+
+Comuníquese al Poder Ejecutivo.
+
+DADA EN LA SALA DE SESIONES DEL CONGRESO ARGENTINO, EN BUENOS AIRES, A LOS ONCE DIAS DEL MES DE SETIEMBRE DEL AÑO DOS MIL DOS.
+
+— REGISTRADA BAJO EL Nº 25.651 —
+
+EDUARDO O. CAMAÑO. — JUAN C. MAQUEDA. — Eduardo D. Rollano. — Juan C. Oyarzún.
+
+NOTA: El texto en negrita fue observado.

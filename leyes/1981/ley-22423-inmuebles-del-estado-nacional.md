@@ -9,7 +9,9 @@ date: 1981-03-06
 published: 1981-03-12
 boletin_oficial: "24626"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22423-nacional-venta-inmuebles-dominio-privado-estado-lns0002796-1981-03-06"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=45186"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/45000-49999/45186/texact.htm"

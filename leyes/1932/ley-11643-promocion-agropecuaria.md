@@ -9,7 +9,9 @@ date: 1932-09-29
 published: 1932-10-18
 boletin_oficial: "11516"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-11643-nacional-promocion-olivicultura-lns0002270-1932-09-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=293657"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/293657/norma.htm"

@@ -10,6 +10,8 @@ published: 1984-10-03
 boletin_oficial: "25523"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-23084-nacional-lnn0003172-1984-09-13"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=28016"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/28016/norma.htm"

@@ -9,7 +9,9 @@ date: 1958-10-17
 published: 1958-10-27
 boletin_oficial: "18775"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-14772-nacional-jurisdiccion-servicios-electricos-capital-federal-provincia-buenos-aires-lns0001607-1958-10-17"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=182274"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/182274/norma.htm"

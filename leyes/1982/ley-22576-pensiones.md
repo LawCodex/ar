@@ -10,6 +10,8 @@ published: 2006-09-08
 boletin_oficial: "30986"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22576-nacional-acuerda-pension-vitalicia-lnn0029558-1982-04-26"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=119544"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/115000-119999/119544/norma.htm"

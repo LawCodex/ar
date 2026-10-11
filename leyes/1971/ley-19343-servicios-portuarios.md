@@ -9,7 +9,9 @@ date: 1971-11-18
 published: 1971-11-24
 boletin_oficial: "22306"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19343-nacional-fijacion-tarifas-servicios-portuarios-lns0000796-1971-11-18"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302023"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302023/norma.htm"

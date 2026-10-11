@@ -9,7 +9,9 @@ date: 1975-10-10
 published: 1975-10-15
 boletin_oficial: "23262"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21071-nacional-donacion-tierras-yacimientos-carboniferos-fiscales-lns0000326-1975-09-23"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=222702"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/220000-224999/222702/norma.htm"

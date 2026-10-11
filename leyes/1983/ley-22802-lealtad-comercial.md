@@ -9,7 +9,9 @@ date: 1983-05-05
 published: 1983-05-11
 boletin_oficial: "25170"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-22802-nacional-ley-lealtad-comercial-lns0003026-1983-05-05"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=19946"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/15000-19999/19946/texact.htm"

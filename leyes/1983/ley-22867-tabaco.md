@@ -9,7 +9,9 @@ date: 1983-08-03
 published: 1983-08-05
 boletin_oficial: "25230"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22867-nacional-fondo-especial-tabaco-lns0003051-1983-08-03"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=148244"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/145000-149999/148244/norma.htm"

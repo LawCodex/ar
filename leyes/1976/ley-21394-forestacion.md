@@ -10,6 +10,8 @@ published: 1976-08-27
 boletin_oficial: "23477"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-21394-nacional-lnn0026670-1976-08-24"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=183444"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/183444/norma.htm"

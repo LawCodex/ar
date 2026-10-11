@@ -10,6 +10,8 @@ published: 1986-12-09
 boletin_oficial: "26045"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-23366-nacional-ley-18559-modificacion-lnn0028157-1986-09-03"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=272049"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/270000-274999/272049/norma.htm"

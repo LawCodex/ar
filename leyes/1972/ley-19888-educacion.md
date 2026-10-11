@@ -9,7 +9,9 @@ date: 1972-10-13
 published: 1972-10-24
 boletin_oficial: "22532"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19888-nacional-creacion-universidad-nacional-lomas-zamora-lns0000668-1972-10-13"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=231243"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/231243/norma.htm"

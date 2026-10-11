@@ -10,6 +10,8 @@ published: 1971-09-30
 boletin_oficial: "22270"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-19254-nacional-lnn0026862-1971-09-23"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=182767"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/182767/norma.htm"

@@ -10,6 +10,8 @@ published: 2006-09-25
 boletin_oficial: "30997"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-18623-nacional-ley-secreta-lnn0029584-1970-03-10"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=120152"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/120000-124999/120152/norma.htm"

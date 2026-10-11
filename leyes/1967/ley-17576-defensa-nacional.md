@@ -10,6 +10,8 @@ published: 1967-12-29
 boletin_oficial: "21344"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-17576-nacional-lnn0017154-1967-12-22"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=300691"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/300691/norma.htm"

@@ -9,7 +9,9 @@ date: 1981-03-27
 published: 1981-04-06
 boletin_oficial: "24643"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-22460-nacional-contratacion-servicios-consultoria-lns0002827-1981-03-27"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=45338"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/45000-49999/45338/texact.htm"

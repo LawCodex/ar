@@ -9,7 +9,9 @@ date: 1978-03-17
 published: 1978-03-22
 boletin_oficial: "23878"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-21765-nacional-lnn0004011-1978-03-17"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=258837"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/255000-259999/258837/norma.htm"

@@ -9,7 +9,9 @@ date: 1964-10-23
 published: 1965-01-21
 boletin_oficial: "20618"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-16517-nacional-seguro-vida-obligatoria-para-tripulacion-embarcaciones-lns0001377-1964-10-23"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=197924"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/197924/norma.htm"

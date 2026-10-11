@@ -8,6 +8,8 @@ language: es
 date: 1865-09-13
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-170-nacional-lnn0017062-1865-10-13"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=184723"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/184723/norma.htm"

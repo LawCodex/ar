@@ -9,7 +9,9 @@ date: 1977-12-15
 published: 1977-12-20
 boletin_oficial: "23812"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21702-nacional-incremento-reservas-caja-nacional-ahorro-seguro-lns0000108-1977-12-15"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=303805"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/303805/norma.htm"

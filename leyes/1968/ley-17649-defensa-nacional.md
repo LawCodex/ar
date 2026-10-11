@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1968-02-22
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-17649-nacional-defensa-seguridad-defensa-civil-movilizacion-lns0001123-1968-02-22"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=300745"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/300745/texact.htm"

@@ -9,7 +9,9 @@ date: 1969-09-12
 published: 1969-09-19
 boletin_oficial: "21770"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-18352-nacional-inembargabilidad-fondos-asignados-propietarios-institutos-incorporados-ensenanza-oficial-lns0001006-1969-09-12"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=195121"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/195121/norma.htm"

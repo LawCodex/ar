@@ -9,7 +9,9 @@ date: 1967-08-30
 published: 1967-09-06
 boletin_oficial: "21266"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-17418-nacional-ley-seguros-lns0001167-1967-08-30"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=39520"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/35000-39999/39520/texact.htm"

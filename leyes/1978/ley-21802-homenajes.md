@@ -10,6 +10,8 @@ published: 1978-06-02
 boletin_oficial: "23926"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-21802-nacional-lnn0004002-1978-05-19"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=303855"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/303855/norma.htm"

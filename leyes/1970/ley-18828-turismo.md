@@ -9,7 +9,9 @@ date: 1970-11-06
 published: 1970-11-19
 boletin_oficial: "22057"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-18828-nacional-alojamientos-turisticos-lns0000909-1970-11-06"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=231822"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/231822/norma.htm"

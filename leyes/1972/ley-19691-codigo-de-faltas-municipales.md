@@ -9,7 +9,9 @@ date: 1972-06-19
 published: 1972-06-28
 boletin_oficial: "22451"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19691-nacional-codigo-faltas-municipales-lns0000710-1972-06-19"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302280"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302280/texact.htm"

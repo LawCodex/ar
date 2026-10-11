@@ -9,7 +9,9 @@ date: 1971-05-28
 published: 1971-06-11
 boletin_oficial: "22193"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19060-nacional-emision-acciones-societarias-debajo-su-valor-nominal-lns0000864-1971-05-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=96339"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/95000-99999/96339/norma.htm"

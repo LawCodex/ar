@@ -10,6 +10,8 @@ published: 1902-11-27
 boletin_oficial: "2753"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-4145-nacional-lnn0024010-1902-11-24"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=285275"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/285000-289999/285275/norma.htm"

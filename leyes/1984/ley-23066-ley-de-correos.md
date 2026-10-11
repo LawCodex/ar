@@ -10,6 +10,8 @@ published: 1984-06-29
 boletin_oficial: "25457"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-23066-nacional-ley-correos-modificacion-lnn0027993-1984-06-06"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=28076"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/28076/norma.htm"

@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1911-09-02
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-8186-nacional-restablecimiento-representacion-diplomatica-republica-bolivia-lns0002381-1911-09-02"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=289993"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/285000-289999/289993/norma.htm"

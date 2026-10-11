@@ -9,7 +9,9 @@ date: 1951-09-29
 published: 1951-10-30
 boletin_oficial: "17015"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-14073-nacional-creacion-parque-nacional-rio-pilcomayo-lns0002889-1951-09-29"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=232477"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/232477/texact.htm"

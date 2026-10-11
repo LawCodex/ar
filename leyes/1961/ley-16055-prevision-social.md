@@ -9,7 +9,9 @@ date: 1961-11-09
 published: 1962-01-09
 boletin_oficial: "19725"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-16055-nacional-opcion-personal-policial-cuanto-al-regimen-previsional-lns0001416-1961-11-09"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=299216"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/299216/norma.htm"

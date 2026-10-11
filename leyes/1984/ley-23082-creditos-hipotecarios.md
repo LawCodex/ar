@@ -10,6 +10,8 @@ published: 1984-09-18
 boletin_oficial: "25512"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-23082-nacional-lnn0003171-1984-08-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=28018"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/28018/norma.htm"

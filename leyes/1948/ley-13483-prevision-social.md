@@ -9,7 +9,9 @@ date: 1948-09-29
 published: 1948-10-23
 boletin_oficial: "16188"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-13483-nacional-regimen-jubilatorio-aplicable-costureras-trabajan-para-reparticiones-estado-lns0001998-1948-09-29"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=295929"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/295929/texact.htm"

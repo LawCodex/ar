@@ -10,6 +10,8 @@ published: 2006-10-03
 boletin_oficial: "31003"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-16916-nacional-declaracion-retiro-efectivo-obligatorio-general-division-lnn0029590-1966-08-09"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=120460"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/120000-124999/120460/norma.htm"

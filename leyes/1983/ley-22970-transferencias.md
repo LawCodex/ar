@@ -10,6 +10,8 @@ published: 1983-11-15
 boletin_oficial: "25300"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22970-nacional-lnn0028963-1983-11-09"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=250500"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/250000-254999/250500/norma.htm"

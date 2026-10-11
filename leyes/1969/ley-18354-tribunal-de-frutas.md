@@ -10,6 +10,8 @@ published: 1969-09-22
 boletin_oficial: "21771"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-18354-nacional-lnn0026929-1969-09-12"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=111377"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/110000-114999/111377/norma.htm"

@@ -10,6 +10,8 @@ published: 1975-11-06
 boletin_oficial: "23278"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-21148-nacional-lnn0022102-1975-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=303432"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/303432/norma.htm"

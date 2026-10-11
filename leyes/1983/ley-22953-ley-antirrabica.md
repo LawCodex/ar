@@ -9,7 +9,9 @@ date: 1983-10-19
 published: 1983-10-21
 boletin_oficial: "25283"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22953-nacional-lucha-contra-rabia-lns0003107-1983-10-19"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=184650"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/184650/norma.htm"

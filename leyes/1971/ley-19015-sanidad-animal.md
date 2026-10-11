@@ -9,7 +9,9 @@ date: 1971-04-20
 published: 1971-05-10
 boletin_oficial: "22171"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19015-nacional-tarifas-servicio-nacional-sanidad-animal-lns0000875-1971-04-20"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=194476"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/194476/norma.htm"

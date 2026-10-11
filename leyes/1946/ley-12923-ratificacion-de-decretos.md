@@ -10,6 +10,8 @@ published: 1947-01-27
 boletin_oficial: "15683"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-12923-nacional-lnn0023178-1946-12-21"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=44986"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/40000-44999/44986/norma.htm"

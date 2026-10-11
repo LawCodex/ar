@@ -9,7 +9,9 @@ date: 1952-09-30
 published: 1952-10-20
 boletin_oficial: "17257"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-14177-nacional-llamados-licitacion-publica-lns0001892-1952-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=296509"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/296509/norma.htm"

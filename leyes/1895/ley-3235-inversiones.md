@@ -9,7 +9,9 @@ date: 1895-06-28
 published: 2006-10-10
 boletin_oficial: "31008"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-3235-nacional-autorizacion-al-poder-ejecutivo-para-invertir-armamento-equipo-material-guerra-paa-ejercito-armada-lnn0026372-1895-06-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=120767"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/120000-124999/120767/norma.htm"

@@ -9,7 +9,9 @@ date: 1977-05-06
 published: 1977-05-20
 boletin_oficial: "23664"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21577-nacional-facultad-ministerio-defensa-fuerzas-armadas-para-otorgar-condecoraciones-lns0000165-1977-05-06"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=303734"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/303734/norma.htm"

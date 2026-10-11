@@ -9,7 +9,9 @@ date: 1982-09-13
 published: 2006-09-08
 boletin_oficial: "30986"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22642-nacional-convalidacion-operaciones-crediticias-realizadas-1981-garantia-tesoro-nacional-comandos-jefe-ejercito-armada-fuerza-aerea-lns0005041-1982-09-13"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=119547"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/115000-119999/119547/norma.htm"

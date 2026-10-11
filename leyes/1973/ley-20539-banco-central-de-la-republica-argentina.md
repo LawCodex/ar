@@ -9,7 +9,9 @@ date: 1973-09-11
 published: 1973-10-10
 boletin_oficial: "22766"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20539-nacional-carta-organica-banco-central-republica-argentina-lns0000476-1973-09-11"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=66194"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/65000-69999/66194/texact.htm"

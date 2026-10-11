@@ -9,7 +9,9 @@ date: 1971-10-11
 published: 1971-10-19
 boletin_oficial: "22282"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19297-nacional-plazo-para-opcion-ley-19146-suscripcion-integracion-bonos-externos-lns0000811-1971-10-11"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=301994"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/301994/norma.htm"

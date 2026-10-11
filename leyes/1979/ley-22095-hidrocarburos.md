@@ -9,7 +9,9 @@ date: 1979-10-26
 published: 1979-11-01
 boletin_oficial: "24283"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-22095-nacional-economia-energia-mineria-minas-codigo-mineria-promocion-minera-lns0000275-1979-10-26"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=37926"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/35000-39999/37926/norma.htm"

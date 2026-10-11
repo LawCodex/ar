@@ -9,7 +9,9 @@ date: 1973-05-27
 published: 1973-05-28
 boletin_oficial: "22674"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20510-nacional-organizacion-integracion-fuero-criminal-correccional-federal-lns0000479-1973-05-27"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=105397"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/105000-109999/105397/norma.htm"

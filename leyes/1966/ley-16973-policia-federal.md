@@ -9,7 +9,9 @@ date: 1966-10-07
 published: 1966-10-14
 boletin_oficial: "21046"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-16973-nacional-derecho-subsidio-descendientes-personal-policial-fallecido-actos-servicio-lns0001316-1966-10-07"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=46839"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/45000-49999/46839/texact.htm"

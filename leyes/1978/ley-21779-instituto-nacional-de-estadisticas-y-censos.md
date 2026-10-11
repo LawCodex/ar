@@ -10,6 +10,8 @@ published: 1978-04-25
 boletin_oficial: "23900"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-21779-nacional-lnn0026602-1978-04-14"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=113170"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/110000-114999/113170/norma.htm"

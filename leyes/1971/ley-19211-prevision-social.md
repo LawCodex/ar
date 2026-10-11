@@ -9,7 +9,9 @@ date: 1971-09-06
 published: 1971-09-14
 boletin_oficial: "22258"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19211-nacional-derecho-pension-ciudadanos-argentinos-ganadores-premio-nobel-lns0000832-1971-09-06"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=197276"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/197276/norma.htm"

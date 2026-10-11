@@ -9,7 +9,9 @@ date: 1973-11-28
 published: 1974-01-02
 boletin_oficial: "22822"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-20581-nacional-suplencia-jueces-federales-provincias-territorio-nacional-tierra-fuego-antartida-islas-atlantico-sud-lns0000508-1973-11-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=141227"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/140000-144999/141227/norma.htm"

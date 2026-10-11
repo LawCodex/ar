@@ -10,6 +10,8 @@ published: 1958-12-24
 boletin_oficial: "18823"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-14778-nacional-lnn0018432-1958-12-03"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=194501"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/194501/norma.htm"

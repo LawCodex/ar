@@ -10,6 +10,8 @@ published: 1907-09-25
 boletin_oficial: "4158"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-5124-nacional-lnn0024030-1907-09-09"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=286541"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/285000-289999/286541/norma.htm"

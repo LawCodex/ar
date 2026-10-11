@@ -10,6 +10,8 @@ published: 1985-06-03
 boletin_oficial: "25690"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-23180-nacional-lnn0003216-1985-05-08"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=26216"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/26216/norma.htm"

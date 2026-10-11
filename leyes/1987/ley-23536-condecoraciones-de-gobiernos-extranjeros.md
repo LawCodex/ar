@@ -1,0 +1,51 @@
+---
+title: "Ley 23536: CONDECORACIONES DE GOBIERNOS EXTRANJEROS — AUTORIZACION PARA ACEPTAR Y USAR"
+identifier: "Ley 23536"
+infoleg_id: "21273"
+type: act
+jurisdiction: ar
+language: es
+date: 1987-09-24
+published: 1987-11-06
+boletin_oficial: "26259"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-23536-nacional-lnn0028198-1987-09-24"
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=21273"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/21273/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 23536: CONDECORACIONES DE GOBIERNOS EXTRANJEROS — AUTORIZACION PARA ACEPTAR Y USAR
+
+CONDECORACIONES
+
+LEY N° 23.536
+
+Acuérdase autorización a ciudadanos para aceptar y usar condecoraciones otorgadas por el Presidente de la República de Venezuela.
+
+Sancionada: Setiembre 24 de 1987.
+
+Promulgada: Octubre 13 de 1987.
+
+EL SENADO Y CAMARA DE DIPUTADOS DE LA NACION ARGENTINA REUNIDOS EN CONGRESO, ETC., SANCIONAN CON FUERZA DE
+
+LEY:
+
+## ARTICULO 1°
+
+Acuérdase autorización al ciudadano Hugo S. Fernández para aceptar y usar las condecoraciones “Orden Francisco Miranda en la Segunda Clase” y “Cruz de las Fuerzas Terrestres Venezolanas en Segunda Clase”, ambas otorgadas por el presidente de la República de Venezuela.
+
+## ARTICULO 2°
+
+Comuníquese al Poder Ejecutivo.
+
+Dada en la Sala de Sesiones del Congreso Argentino, en Buenos Aires, a los veinticuatro días del mes de setiembre del año mil novecientos ochenta y siete.
+
+| J. C. PUGLIESE. | V. H. MARTINEZ. |
+|---|---|
+| Carlos A. Bravo | Antonio J. Macris. |
+
+— Registrada bajo el N° 23.536 —

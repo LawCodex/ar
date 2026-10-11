@@ -9,7 +9,9 @@ date: 1948-09-02
 published: 1948-09-15
 boletin_oficial: "16156"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-13238-nacional-exenciones-impositivas-para-representaciones-diplomaticas-lns0002016-1948-09-02"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=231619"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/231619/norma.htm"

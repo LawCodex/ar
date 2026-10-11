@@ -9,7 +9,9 @@ date: 1970-10-07
 published: 1970-10-14
 boletin_oficial: "22032"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-18801-nacional-declaracion-deslinde-reserva-nacional-iguazu-parque-nacional-iguazu-lns0002895-1970-10-07"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=198490"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/198490/norma.htm"

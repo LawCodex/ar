@@ -9,7 +9,9 @@ date: 1973-01-03
 published: 1973-01-15
 boletin_oficial: "22585"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20077-nacional-carta-organica-creacion-centro-regional-agua-subterranea-cras-lns0000599-1973-01-03"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302548"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302548/norma.htm"

@@ -10,6 +10,8 @@ published: 1923-11-28
 boletin_oficial: "8911"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-11260-nacional-lnn0024101-1923-10-25"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=182542"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/182542/norma.htm"

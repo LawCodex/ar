@@ -9,7 +9,9 @@ date: 1969-12-24
 published: 1970-01-07
 boletin_oficial: "21843"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-18502-nacional-limite-jurisdiccion-estado-provincias-sobre-mar-territorial-lns0000974-1969-12-24"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=48467"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/45000-49999/48467/norma.htm"

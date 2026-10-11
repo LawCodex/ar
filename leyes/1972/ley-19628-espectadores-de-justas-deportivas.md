@@ -9,7 +9,9 @@ date: 1972-05-10
 published: 1972-05-17
 boletin_oficial: "22424"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19628-nacional-seguro-colectivo-obligatorio-para-espectadores-espectaculos-deportivos-lns0000726-1972-05-10"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=53538"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/50000-54999/53538/norma.htm"

@@ -9,7 +9,9 @@ date: 1936-09-23
 published: 1936-10-07
 boletin_oficial: "12680"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-12302-nacional-cambio-categoria-representacion-diplomatica-permanente-republica-ante-gobierno-alemania-lns0002227-1936-09-18"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=231741"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/231741/norma.htm"

@@ -9,7 +9,9 @@ date: 1973-04-30
 published: 1973-05-16
 boletin_oficial: "22667"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-20328-nacional-educacion-cultura-museos-lugares-historicos-patrimonio-cultural-complejo-museo-historico-nacional-estado-administracion-publica-nacional-organismos-estado-lnn0000531-1973-04-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302710"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302710/norma.htm"
@@ -88,4 +90,6 @@ Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y
 
 LANUSSE - Malek
 
-## ANEXO I COMPLEJO MUSEO HISTORICO NACIONAL — MUSEO HISTORICO NACIONAL. MUSEO HISTORICO NACIONAL DEL CABILDO DE BUENOS AIRES Y DE LA REVOLUCION DE MAYO. MUSEO DE LA HISTORIA DEL TRAJE.
+## ANEXO I COMPLEJO MUSEO HISTORICO NACIONAL
+
+MUSEO HISTORICO NACIONAL. MUSEO HISTORICO NACIONAL DEL CABILDO DE BUENOS AIRES Y DE LA REVOLUCION DE MAYO. MUSEO DE LA HISTORIA DEL TRAJE.

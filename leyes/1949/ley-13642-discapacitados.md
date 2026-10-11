@@ -9,7 +9,9 @@ date: 1949-09-30
 published: 1949-10-27
 boletin_oficial: "16481"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-13642-nacional-otorgamiento-pases-libres-ciegos-indigentes-transportes-terrestres-interurbanos-lns0001971-1949-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=296052"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/296052/norma.htm"

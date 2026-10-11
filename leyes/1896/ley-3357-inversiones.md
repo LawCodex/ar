@@ -9,7 +9,9 @@ date: 1896-02-08
 published: 2006-10-10
 boletin_oficial: "31008"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-3357-nacional-autorizacion-al-poder-ejecutivo-para-adquisicion-buques-militares-lnn0026368-1896-02-08"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=120768"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/120000-124999/120768/norma.htm"

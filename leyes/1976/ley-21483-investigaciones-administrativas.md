@@ -10,6 +10,8 @@ published: 1977-01-07
 boletin_oficial: "23571"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-21483-nacional-lnn0004172-1976-12-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=303672"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/303672/norma.htm"

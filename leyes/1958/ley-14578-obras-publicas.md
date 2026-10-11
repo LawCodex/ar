@@ -9,7 +9,9 @@ date: 1958-09-30
 published: 1958-10-31
 boletin_oficial: "18779"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-14578-nacional-creacion-fondo-especial-obras-servicios-publicos-lns0001613-1958-09-30"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=233196"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/233196/texact.htm"

@@ -9,7 +9,9 @@ date: 1967-04-03
 published: 1967-06-08
 boletin_oficial: "21205"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-17227-nacional-creacion-fiscalia-4-para-actuar-ante-juzgados-nacionales-primera-instancia-penal-economico-lns0001209-1967-04-03"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=231929"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/231929/norma.htm"

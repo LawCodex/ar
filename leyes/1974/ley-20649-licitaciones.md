@@ -9,7 +9,9 @@ date: 1974-02-08
 published: 1974-03-06
 boletin_oficial: "22865"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-20649-nacional-lnn0025415-1974-02-08"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=182184"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/182184/norma.htm"

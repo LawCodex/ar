@@ -10,6 +10,8 @@ published: 1972-08-28
 boletin_oficial: "22492"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-19796-nacional-lnn0021929-1972-08-25"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302368"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302368/norma.htm"

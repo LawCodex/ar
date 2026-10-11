@@ -9,7 +9,9 @@ date: 1952-09-25
 published: 1952-10-20
 boletin_oficial: "17257"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-14152-nacional-creacion-instituto-nacional-reaseguros-lns0001895-1952-09-25"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=76063"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/75000-79999/76063/norma.htm"

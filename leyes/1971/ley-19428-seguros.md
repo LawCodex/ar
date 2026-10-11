@@ -9,7 +9,9 @@ date: 1971-12-31
 published: 1972-01-12
 boletin_oficial: "22339"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19428-nacional-cancelacion-registral-asegurador-registro-entidades-seguros-lns0000781-1971-12-31"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302088"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302088/norma.htm"

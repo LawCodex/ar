@@ -9,7 +9,9 @@ date: 1966-09-26
 published: 1966-10-06
 boletin_oficial: "21041"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-16960-nacional-creacion-delegacion-san-martin-policia-federal-lns0001325-1966-09-26"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=46827"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/45000-49999/46827/norma.htm"

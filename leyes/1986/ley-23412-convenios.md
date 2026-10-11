@@ -9,7 +9,9 @@ date: 1986-10-10
 published: 1986-12-29
 boletin_oficial: "26058"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-23412-nacional-autorizacion-secretaria-justicia-para-celebrar-contratacion-tecnica-financiera-bajo-regimen-ley-23283-lns0003320-1986-10-01"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=22298"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/22298/norma.htm"

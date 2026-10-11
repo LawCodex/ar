@@ -9,7 +9,9 @@ date: 1953-09-02
 published: 1953-09-30
 boletin_oficial: "17493"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-14225-nacional-embajada-argentina-belgica-lns0001835-1953-09-02"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=296550"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/296550/norma.htm"

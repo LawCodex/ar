@@ -9,7 +9,9 @@ date: 1972-12-05
 published: 1972-12-13
 boletin_oficial: "22564"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-20004-nacional-facultades-poder-ejecutivo-para-ordenamiento-legislativo-lns0000609-1972-12-05"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=45335"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/45000-49999/45335/norma.htm"

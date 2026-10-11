@@ -10,6 +10,8 @@ published: 1973-05-11
 boletin_oficial: "22664"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-20350-nacional-lnn0022035-1973-05-04"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=174083"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/170000-174999/174083/norma.htm"

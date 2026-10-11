@@ -1,0 +1,51 @@
+---
+title: "Ley 24391: I.V.A. — MODIFICACION"
+identifier: "Ley 24391"
+infoleg_id: "25629"
+type: act
+jurisdiction: ar
+language: es
+date: 1994-11-28
+published: 1994-11-30
+boletin_oficial: "28029"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-24391-nacional-lnn0028676-1994-11-12"
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=25629"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/25629/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 24391: I.V.A. — MODIFICACION
+
+IMPUESTO AL VALOR AGREGADO
+
+Ley Nº 24.391
+
+Modifícase el artículo 43, de la Ley del Impuesto al Valor Agregado, texto sustituido por la Ley 23.349 y sus modificaciones.
+
+Sancionada: Noviembre 2 de 1994.
+
+Promulgada de Hecho: Noviembre 28 de 1994.
+
+El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc. sancionan con fuerza de Ley:
+
+## ARTICULO 1º
+
+Sustitúyese el artículo 43, de la Ley de Impuesto al Valor Agregado, texto sustituido por la Ley 23.349 y sus modificaciones, por el siguiente:
+
+"Artículo 43. — Sin perjuicio de lo dispuesto en el artículo 41, facúltase al Poder Ejecutivo para establecer un régimen especial respecto del crédito fiscal proveniente de las compras de bienes destinados a la exportación, efectuadas por consorcios de exportación o cooperativas de exportación de bienes y servicios o por compañías de comercialización internacional, que se constituyan con tal finalidad de acuerdo a los requisitos y condiciones que se establezcan en las normas que instrumenten su creación.
+
+El incumplimiento del plazo para realizar la exportación que a tal efecto establezca la reglamentación, por parte de los sujetos acogidos al régimen especial a que alude el primer párrafo, hará surgir la responsabilidad personal y solidaria del proveedor respecto del monto del gravamen involucrado en las operaciones realizadas con dichos sujetos".
+
+## ARTICULO 2º
+
+Las disposiciones de la presente ley entrarán en vigencia el día de su publicación en el Boletín Oficial.
+
+## ARTICULO 3º
+
+Comuníquese al Poder Ejecutivo. — ALBERTO R. PIERRI. — ORALDO BRITOS. — Esther H. Pereyra Arandía de Pérez Pardo. — Edgardo Piuzzi.
+
+DADA EN LA SALA DE SESIONES DEL CONGRESO ARGENTINO, EN BUENOS AIRES, A LOS DOS DIAS DEL MES DE NOVIEMBRE DEL AÑO MIL NOVECIENTOS NOVENTA Y CUATRO.

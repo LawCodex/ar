@@ -9,7 +9,9 @@ date: 1971-11-05
 published: 1971-11-12
 boletin_oficial: "22298"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-19336-nacional-bienestar-social-juegos-azar-pronosticos-deportivos-lns0000800-1971-11-05"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302019"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302019/texact.htm"

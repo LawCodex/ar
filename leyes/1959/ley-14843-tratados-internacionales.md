@@ -90,7 +90,9 @@ Los paises en cuya representación se Firma el presente Convenio acuerdan crear 
 
 OBJETO Y FUNCIONES
 
-## SECCION 1. OBJETO — El Banco tendrá por objeto contribuir a acelerar el proceso de desarrollo económico, individual y colectivo, de los paises miembros.
+## SECCION 1. OBJETO
+
+El Banco tendrá por objeto contribuir a acelerar el proceso de desarrollo económico, individual y colectivo, de los paises miembros.
 
 ## SECCION 2. FUNCIONES
 

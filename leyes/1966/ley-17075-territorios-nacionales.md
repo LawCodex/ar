@@ -10,6 +10,8 @@ published: 1967-01-03
 boletin_oficial: "21100"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-17075-nacional-lnn0017343-1966-12-22"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=300307"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/300307/norma.htm"

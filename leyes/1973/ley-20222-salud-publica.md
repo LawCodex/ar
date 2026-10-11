@@ -10,6 +10,8 @@ published: 1973-03-27
 boletin_oficial: "22634"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-20222-nacional-lnn0000581-1973-03-21"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302643"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302643/norma.htm"

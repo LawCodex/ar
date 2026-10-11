@@ -9,7 +9,9 @@ date: 1976-12-03
 published: 1976-12-10
 boletin_oficial: "23551"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21471-nacional-organizacion-camara-nacional-apelaciones-criminal-correccional-capital-federal-lns0000241-1976-12-03"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=196119"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/196119/norma.htm"

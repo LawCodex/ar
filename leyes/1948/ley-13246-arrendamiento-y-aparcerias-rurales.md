@@ -9,7 +9,9 @@ date: 1948-09-08
 published: 1948-09-18
 boletin_oficial: "16159"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-13246-nacional-arrendamientos-aparcerias-rurales-lns0002014-1948-09-08"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=66159"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/65000-69999/66159/texact.htm"

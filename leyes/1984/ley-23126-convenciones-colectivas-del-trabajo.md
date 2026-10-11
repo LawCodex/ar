@@ -9,7 +9,9 @@ date: 1984-09-30
 published: 1984-11-12
 boletin_oficial: "25550"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-23126-nacional-vigencia-convenios-colectivos-trabajo-lns0003205-1984-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=26504"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/26504/norma.htm"

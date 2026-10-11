@@ -10,6 +10,8 @@ published: 1897-09-18
 boletin_oficial: "1235"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-3498-nacional-lnn0024687-1897-09-10"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=284659"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/280000-284999/284659/norma.htm"

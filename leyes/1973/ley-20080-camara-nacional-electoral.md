@@ -9,7 +9,9 @@ date: 1973-01-03
 published: 1973-01-09
 boletin_oficial: "22581"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20080-nacional-adicional-percibir-procuradores-fiscales-actuan-ante-justicia-nacional-electoral-lns0000630-1973-01-03"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=129750"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/125000-129999/129750/norma.htm"

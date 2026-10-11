@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1890-07-30
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-2704-nacional-beneficio-pension-para-militares-policias-participantes-revolucion-ano-1890-lns0002409-1890-07-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=283918"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/280000-284999/283918/norma.htm"

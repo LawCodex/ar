@@ -10,6 +10,8 @@ published: 1934-10-29
 boletin_oficial: "12113"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-12103-nacional-creacion-parque-nacional-nahuel-huapi-iguazu-lns0002887-1934-09-29"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=196777"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/196777/texact.htm"

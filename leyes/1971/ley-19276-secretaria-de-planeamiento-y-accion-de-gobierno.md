@@ -9,7 +9,9 @@ date: 1971-09-29
 published: 1971-10-01
 boletin_oficial: "22271"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-19276-nacional-estado-poder-ejecutivo-nacional-secretarias-estado-lns0000817-1971-09-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=179557"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/175000-179999/179557/norma.htm"

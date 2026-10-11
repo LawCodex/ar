@@ -10,6 +10,8 @@ published: 1987-01-30
 boletin_oficial: "26075"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-23423-nacional-lnn0028165-1986-10-15"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=22275"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/22275/norma.htm"

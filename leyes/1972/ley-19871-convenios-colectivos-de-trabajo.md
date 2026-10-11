@@ -10,6 +10,8 @@ published: 1972-10-11
 boletin_oficial: "22524"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-19871-nacional-lnn0021923-1972-10-05"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302413"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302413/norma.htm"

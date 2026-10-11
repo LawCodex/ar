@@ -8,6 +8,8 @@ language: es
 date: 1858-09-03
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-185-nacional-lnn0016993-1866-09-01"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=280922"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/280000-284999/280922/norma.htm"

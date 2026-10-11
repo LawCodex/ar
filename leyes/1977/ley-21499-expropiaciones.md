@@ -9,7 +9,9 @@ date: 1977-01-17
 published: 1977-01-21
 boletin_oficial: "23581"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21499-nacional-regimen-expropiaciones-lns0000229-1977-01-17"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=37292"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/35000-39999/37292/norma.htm"

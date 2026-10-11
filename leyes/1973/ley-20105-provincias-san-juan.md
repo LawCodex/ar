@@ -10,6 +10,8 @@ published: 1973-01-25
 boletin_oficial: "22593"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-20105-nacional-lnn0000632-1973-01-18"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302564"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302564/norma.htm"

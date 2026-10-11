@@ -10,6 +10,8 @@ published: 1983-02-01
 boletin_oficial: "25102"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22721-nacional-lnn0027816-1983-01-27"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=197126"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/197126/norma.htm"

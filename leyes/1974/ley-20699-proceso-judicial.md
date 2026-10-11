@@ -10,6 +10,8 @@ published: 1974-09-06
 boletin_oficial: "22988"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-20699-nacional-lnn0022127-1974-07-24"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=303070"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/303070/norma.htm"

@@ -9,7 +9,9 @@ date: 1947-09-27
 published: 1947-10-14
 boletin_oficial: "15890"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-13043-nacional-creacion-instituto-social-militar-doctor-damaso-centeno-lns0002038-1947-09-27"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=48317"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/45000-49999/48317/norma.htm"

@@ -10,6 +10,8 @@ published: 1958-05-13
 boletin_oficial: "18643"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-6280-nacional-lnn0011970-1908-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=297710"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/297710/norma.htm"

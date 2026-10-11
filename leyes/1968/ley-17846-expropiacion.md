@@ -9,7 +9,9 @@ date: 1968-08-09
 published: 2006-09-28
 boletin_oficial: "31000"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-17846-nacional-declaracion-utilidad-publica-tierras-ubicadas-base-naval-puerto-belgrano-provincia-buenos-aires-destino-fines-militares-para-defensa-nacional-lns0005104-1968-08-09"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=120309"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/120000-124999/120309/norma.htm"

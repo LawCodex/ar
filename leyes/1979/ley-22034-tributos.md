@@ -10,6 +10,8 @@ published: 1979-07-23
 boletin_oficial: "24211"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22034-nacional-lnn0009221-1979-07-17"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=76188"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/75000-79999/76188/norma.htm"

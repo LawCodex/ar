@@ -10,6 +10,8 @@ published: 1946-02-15
 boletin_oficial: "15412"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-3162-nacional-lnn0014954-1894-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=295355"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/295355/norma.htm"

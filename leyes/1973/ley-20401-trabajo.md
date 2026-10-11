@@ -9,7 +9,9 @@ date: 1973-05-17
 published: 1973-05-29
 boletin_oficial: "22675"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20401-nacional-repatriacion-tripulacion-rescision-contrato-ajuste-caso-naufragio-lns0000488-1973-05-17"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=194375"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/194375/norma.htm"

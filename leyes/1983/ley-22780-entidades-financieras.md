@@ -9,7 +9,9 @@ date: 1983-04-11
 published: 1983-04-13
 boletin_oficial: "25150"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22780-nacional-exenciones-impositivas-entidades-financieras-empresas-estado-lns0003009-1983-04-11"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304357"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304357/norma.htm"

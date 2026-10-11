@@ -10,6 +10,8 @@ published: 1975-09-25
 boletin_oficial: "23248"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-21015-nacional-lnn0026708-1975-08-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=67832"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/65000-69999/67832/norma.htm"

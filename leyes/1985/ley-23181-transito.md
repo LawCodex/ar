@@ -10,6 +10,8 @@ published: 1985-06-17
 boletin_oficial: "25699"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-23181-nacional-lnn0003217-1985-05-22"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=26214"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/26214/norma.htm"

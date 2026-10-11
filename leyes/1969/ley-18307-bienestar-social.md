@@ -9,7 +9,9 @@ date: 1969-08-08
 published: 1969-08-18
 boletin_oficial: "21746"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-18307-nacional-garantias-prestamos-banco-hipotecario-nacional-lns0001388-1969-08-08"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=301267"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/301267/norma.htm"

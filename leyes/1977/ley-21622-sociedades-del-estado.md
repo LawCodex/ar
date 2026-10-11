@@ -9,7 +9,9 @@ date: 1977-08-19
 published: 1977-08-25
 boletin_oficial: "23730"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21622-nacional-sociedad-estado-casa-moneda-lns0000148-1977-08-19"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=39076"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/35000-39999/39076/texact.htm"

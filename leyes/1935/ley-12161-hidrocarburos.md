@@ -10,6 +10,8 @@ published: 1935-04-01
 boletin_oficial: "12238"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-12161-nacional-lnn0027255-1935-03-21"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=108979"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/105000-109999/108979/norma.htm"

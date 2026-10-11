@@ -9,7 +9,9 @@ date: 1953-09-24
 published: 1953-10-16
 boletin_oficial: "17505"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-14236-nacional-obligatoriedad-depositos-descuentos-sobre-reumuneraciones-personal-parte-empleadores-lns0001834-1953-09-24"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=120261"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/120000-124999/120261/texact.htm"

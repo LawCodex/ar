@@ -9,7 +9,9 @@ date: 1973-01-26
 published: 1973-02-06
 boletin_oficial: "22601"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20124-nacional-regimen-contrataciones-fuerzas-armadas-lns0000623-1973-01-26"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=49056"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/45000-49999/49056/norma.htm"

@@ -8,6 +8,8 @@ language: es
 date: 1873-10-01
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-649-nacional-lnn0016729-1873-10-01"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=281644"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/280000-284999/281644/norma.htm"

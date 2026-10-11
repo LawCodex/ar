@@ -9,7 +9,9 @@ date: 1983-12-09
 published: 1983-12-15
 boletin_oficial: "25321"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-23028-nacional-regimen-retiros-personal-prefectura-naval-argentina-lns0003144-1983-12-09"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=77264"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/75000-79999/77264/norma.htm"

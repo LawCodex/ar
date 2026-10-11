@@ -10,6 +10,8 @@ published: 1970-11-02
 boletin_oficial: "22045"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-18818-nacional-lnn0014320-1970-10-14"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=301650"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/301650/norma.htm"

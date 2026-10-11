@@ -10,6 +10,8 @@ published: 1965-12-16
 boletin_oficial: "20841"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-16729-nacional-lnn0006302-1965-09-22"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=50464"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/50000-54999/50464/norma.htm"

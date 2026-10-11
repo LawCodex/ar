@@ -9,7 +9,9 @@ date: 1971-06-07
 published: 1971-06-18
 boletin_oficial: "22198"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19076-nacional-transferencia-bienes-estado-zonas-afectadas-explotacion-ferroviaria-lns0000861-1971-06-07"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=63237"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/60000-64999/63237/norma.htm"

@@ -10,6 +10,8 @@ published: 1973-03-22
 boletin_oficial: "22631"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-20183-nacional-lnn0005138-1973-02-23"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=232663"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/232663/norma.htm"

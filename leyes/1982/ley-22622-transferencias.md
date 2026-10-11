@@ -10,6 +10,8 @@ published: 1982-07-30
 boletin_oficial: "24973"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22622-nacional-lnn0027747-1982-07-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=260604"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/260000-264999/260604/norma.htm"

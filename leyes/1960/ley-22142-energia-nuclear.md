@@ -9,7 +9,9 @@ date: 1960-01-28
 published: 1980-01-28
 boletin_oficial: "24343"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22142-nacional-planta-agua-pesada-arroyito-neuquen-lns0001254-1980-01-18"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=225843"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/225000-229999/225843/norma.htm"

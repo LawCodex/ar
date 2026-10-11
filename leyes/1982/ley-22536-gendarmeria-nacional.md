@@ -10,6 +10,8 @@ published: 1982-02-25
 boletin_oficial: "24867"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22536-nacional-lnn0027659-1982-02-22"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=181340"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/181340/norma.htm"

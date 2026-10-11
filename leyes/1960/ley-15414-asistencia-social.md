@@ -9,7 +9,9 @@ date: 1960-09-27
 published: 1960-11-02
 boletin_oficial: "19372"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-15414-nacional-reformas-al-reglamento-direccion-ayuda-social-para-personal-congreso-lns0001455-1960-09-27"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=104159"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/100000-104999/104159/texact.htm"

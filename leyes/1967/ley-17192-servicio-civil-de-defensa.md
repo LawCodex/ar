@@ -9,7 +9,9 @@ date: 1967-03-02
 published: 1967-03-09
 boletin_oficial: "21144"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-17192-nacional-lnn0025690-1967-03-02"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=181257"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/181257/norma.htm"

@@ -8,6 +8,8 @@ language: es
 date: 1890-09-05
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-2715-nacional-lnn0024337-1890-09-05"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=283928"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/280000-284999/283928/norma.htm"

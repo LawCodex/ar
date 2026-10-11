@@ -9,7 +9,9 @@ date: 1942-09-29
 published: 1942-10-26
 boletin_oficial: "14446"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-12789-nacional-estatuto-trabajo-braceros-para-labores-agricola-ganadera-minera-forestal-etc-lns0002579-1942-09-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=194117"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/194117/norma.htm"

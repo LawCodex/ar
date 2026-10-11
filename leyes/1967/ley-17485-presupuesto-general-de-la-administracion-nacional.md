@@ -10,6 +10,8 @@ published: 1968-01-17
 boletin_oficial: "21356"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-17485-nacional-lnn0005963-1967-10-23"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=180707"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/180707/norma.htm"

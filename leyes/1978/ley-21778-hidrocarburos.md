@@ -9,7 +9,9 @@ date: 1978-04-14
 published: 1978-04-20
 boletin_oficial: "23897"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21778-nacional-contratos-para-exploracion-explotacion-hidrocarburos-lns0000225-1978-04-14"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=38306"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/35000-39999/38306/texact.htm"

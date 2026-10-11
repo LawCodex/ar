@@ -9,7 +9,9 @@ date: 1969-07-31
 published: 2006-09-26
 boletin_oficial: "30998"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-18302-nacional-ley-secreta-sobre-gastos-reservados-secretos-lns0005096-1969-07-31"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=120188"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/120000-124999/120188/norma.htm"

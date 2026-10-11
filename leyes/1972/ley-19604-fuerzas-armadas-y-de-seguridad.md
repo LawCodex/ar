@@ -10,6 +10,8 @@ published: 1972-05-09
 boletin_oficial: "22418"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-19604-nacional-lnn0026834-1972-05-02"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=86483"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/85000-89999/86483/norma.htm"

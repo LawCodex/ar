@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1895-09-30
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-3301-nacional-subvencion-al-tiro-federal-argentino-lns0004446-1895-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=194703"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/194703/norma.htm"

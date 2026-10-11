@@ -9,7 +9,9 @@ date: 1933-09-20
 published: 1934-04-05
 boletin_oficial: "11946"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-11715-nacional-creacion-diocesis-lns0002516-1933-09-20"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=293718"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/293718/norma.htm"

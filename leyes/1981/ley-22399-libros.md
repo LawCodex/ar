@@ -9,7 +9,9 @@ date: 1981-02-11
 published: 1981-02-18
 boletin_oficial: "24610"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22399-nacional-obligatoriedad-identificacion-sistema-internacional-normalizado-para-libros-edicion-nacional-lns0002778-1981-02-11"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=217687"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/215000-219999/217687/norma.htm"

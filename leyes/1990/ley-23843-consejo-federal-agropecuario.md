@@ -1,0 +1,105 @@
+---
+title: "Ley 23843: CONSEJO FEDERAL AGROPECUARIO — SU CREACION"
+identifier: "Ley 23843"
+infoleg_id: "243"
+type: act
+jurisdiction: ar
+language: es
+date: 1990-09-26
+published: 1990-10-19
+boletin_oficial: "26992"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-23843-nacional-creacion-consejo-federal-agropecuario-lns0003624-1990-09-26"
+text_version: "texto actualizado"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=243"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/0-4999/243/texact.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 23843: CONSEJO FEDERAL AGROPECUARIO — SU CREACION
+
+CONSEJO FEDERAL AGROPECUARIO
+
+LEY N° 23.843
+
+Su creación. Integración. Funciones.
+
+Sancionada: Setiembre 26 de 1990
+
+Promulgada: Octubre 12 de 1990.
+
+El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de
+
+Ley:
+
+## ARTICULO 1º
+
+Créase el Consejo Federal Agropecuario, organismo de asesoramiento y consulta por parte del Poder Ejecutivo en todas aquellas cuestiones atinentes al sector agropecuario y pesquero, que por su impacto en las economías regionales o provinciales así lo requieran.
+
+A tal efecto, en el seno del Consejo Federal Agropecuario se constituirán comisiones regionales y por actividad. El funcionamiento y número de dichas comisiones será establecido en el reglamento interno del Consejo.
+
+## ARTICULO 2º
+
+El Consejo, cuya creación se dispone en el artículo anterior, estará presidido por el secretario de Estado de Agricultura, Ganadería y Pesca de la Nación, e integrado por los titulares de los ministerios o secretarías de Estado competentes en materia agropecuaria y pesquera de las provincias que adhieran a la presente ley.
+
+## ARTICULO 3º
+
+El Consejo Federal Agropecuario tendrá un Comité Ejecutivo que lo representará en el tratamiento y gestión de las políticas que se determinen en cumplimiento de las facultades que le otorga el artículo 1º. A tal efecto, el Comité se integrará con representantes de las comisiones regionales mencionadas en el artículo 1º.
+
+## ARTICULO 4º
+
+Son funciones del Consejo Federal Agropecuario:
+
+a) Proponer acciones coordinadas en los sectores públicos nacionales y provinciales en función de la definición y el cumplimiento de las políticas agropecuarias y pesqueras;
+
+b) Proponer las medidas destinadas a lograr la complementación y eficiencia de la actividad gubernamental de las distintas jurisdicciones en materia agropecuaria y pesquera;
+
+c) Analizar los problemas del sector agropecuario y pesquero que interesen a más de una provincia o aquellos que siendo del interés de una provincia incidan en el interés nacional, proyectando soluciones para cada caso;
+
+d) Dictaminar en las consultas que le formule el Poder Ejecutivo.
+
+e) Atender con políticas específicas la problemática de la agricultura familiar y los pequeños productores rurales, a cuyo efecto se garantizará la participación efectiva de las organizaciones representativas del sector. (Inciso incorporado por art. 34 de la Ley N° 27.118 B.O. 28/1/2015)
+
+## ARTICULO 5º
+
+El Comité Ejecutivo del Consejo Federal Agropecuario será consultado por el Poder Ejecutivo en la elaboración de planes y programas atinentes a la política agropecuaria y pesquera.
+
+El Poder Ejecutivo fijará en cada caso los plazos de respuesta de las consultas que deberá hacer, en función de la urgencia en la toma de decisiones.
+
+Las cuestiones de política agropecuaria y pesquera antes mencionadas se refieren entre otras a:
+
+a) Política tributaria y cambiaria;
+
+b) Reembolsos, derechos de exportación y aranceles de importación de insumos y productos agropecuarios y pesqueros;
+
+c) Política de crédito agropecuaria y pesquera;
+
+d) Política de investigación y extensión agropecuaria y pesquera;
+
+e) Intervención oficial en la comercialización e industrialización de productos primarios de origen agropecuario y pesquero;
+
+f) Sanidad animal y vegetal.
+
+## ARTICULO 6º
+
+A través del Ministerio del Interior se cursarán las comunicaciones a los gobiernos de provincias invitándolos a adherir a la presente ley.
+
+## ARTICULO 7º
+
+Las reuniones del Consejo Federal Agropecuario se realizarán en el lugar y fecha que determine el secretario de Agricultura, Ganadería y Pesca o a pedido de cinco (5) o más representantes provinciales. En la primera reunión se propondrán y aprobarán las normas reglamentarias de su funcionamiento.
+
+## ARTICULO 8º
+
+La presente ley será reglamentada en el término de sesenta (60) días de su promulgación.
+
+## ARTICULO 9º
+
+Derógase la Ley N° 20.310 y toda otra legislación que se oponga a la presente.
+
+## ARTICULO 10
+
+Comuníquese al Poder Ejecutivo.- ALBERTO R. PIERRI.- EDUARDO MENEM.- Esther H. Pereyra Arandia de Pérez Pardo.- Hugo R. Flombaum.
+
+DADA EN LA SALA DE SESIONES DEL CONGRESO ARGENTINO, EN BUENOS AIRES, A LOS VEINTISEIS DIAS DEL MES DE SETIEMBRE DEL AÑO MIL NOVECIENTOS NOVENTA.

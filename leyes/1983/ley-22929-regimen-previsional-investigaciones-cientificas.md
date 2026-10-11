@@ -9,7 +9,9 @@ date: 1983-09-27
 published: 1983-09-30
 boletin_oficial: "25269"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22929-nacional-creacion-regimen-previsional-para-investigadores-cientificos-tecnologicos-lns0003090-1983-09-27"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=47999"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/45000-49999/47999/texact.htm"

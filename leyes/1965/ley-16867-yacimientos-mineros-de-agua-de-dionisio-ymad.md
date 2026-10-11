@@ -9,7 +9,9 @@ date: 1965-10-30
 published: 1965-12-01
 boletin_oficial: "20831"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-16867-nacional-lnn0024500-1965-10-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=46479"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/45000-49999/46479/norma.htm"

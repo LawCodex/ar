@@ -9,7 +9,9 @@ date: 1971-04-20
 published: 1971-05-06
 boletin_oficial: "22169"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19013-nacional-servicio-policia-adicional-prestarse-prefectura-naval-lns0000876-1971-04-20"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=195127"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/195127/norma.htm"

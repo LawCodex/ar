@@ -10,6 +10,8 @@ published: 1959-01-19
 boletin_oficial: "18842"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-14793-nacional-lnn0018402-1959-01-13"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=216983"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/215000-219999/216983/norma.htm"

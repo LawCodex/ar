@@ -9,7 +9,9 @@ date: 1968-02-22
 published: 1968-03-07
 boletin_oficial: "21390"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-17648-nacional-sociedad-argentina-autores-compositores-musica-lns0001124-1968-02-22"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=38009"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/35000-39999/38009/norma.htm"

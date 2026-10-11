@@ -10,6 +10,8 @@ published: 1967-11-07
 boletin_oficial: "21308"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-17507-nacional-lnn0017165-1967-10-31"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=254337"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/250000-254999/254337/norma.htm"

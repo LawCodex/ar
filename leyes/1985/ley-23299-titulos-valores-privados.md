@@ -10,6 +10,8 @@ published: 1985-11-08
 boletin_oficial: "25801"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-23299-nacional-lnn0003265-1985-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=23891"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/23891/norma.htm"

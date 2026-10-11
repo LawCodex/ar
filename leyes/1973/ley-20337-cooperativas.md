@@ -9,7 +9,9 @@ date: 1973-05-02
 published: 1973-05-15
 boletin_oficial: "22666"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20337-nacional-ley-sociedad-cooperativa-lns0000527-1973-05-02"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=18462"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/15000-19999/18462/texact.htm"

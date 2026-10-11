@@ -9,7 +9,9 @@ date: 1968-07-29
 published: 1968-08-08
 boletin_oficial: "21494"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-17818-nacional-regimen-estupefacientes-lns0001077-1968-07-29"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=20883"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/20883/texact.htm"

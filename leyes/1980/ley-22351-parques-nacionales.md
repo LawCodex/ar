@@ -9,7 +9,9 @@ date: 1980-11-04
 published: 1980-12-12
 boletin_oficial: "24564"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22351-nacional-parques-nacionales-reservas-nacionales-monumentos-naturales-lns0002706-1980-12-05"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=16299"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/15000-19999/16299/texact.htm"

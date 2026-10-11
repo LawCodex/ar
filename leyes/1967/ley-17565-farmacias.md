@@ -9,7 +9,9 @@ date: 1967-12-05
 published: 1967-12-12
 boletin_oficial: "21332"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-17565-nacional-regimen-legal-ejercicio-actividad-farmaceutica-habilitacion-farmacias-droguerias-herboristerias-lns0001141-1967-12-05"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=19424"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/15000-19999/19424/texact.htm"

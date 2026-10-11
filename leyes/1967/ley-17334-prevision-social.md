@@ -9,7 +9,9 @@ date: 1967-07-10
 published: 1967-07-14
 boletin_oficial: "21230"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-17334-nacional-mantenimiento-regimen-previsional-instituto-ayuda-financiera-para-pago-retiros-pensiones-militares-caja-retiros-jubilaciones-pensiones-policia-federal-lns0001184-1967-07-10"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=300494"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/300494/texact.htm"

@@ -10,6 +10,8 @@ published: 1983-05-09
 boletin_oficial: "25168"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22803-nacional-lnn0027853-1983-05-05"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=219385"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/215000-219999/219385/norma.htm"

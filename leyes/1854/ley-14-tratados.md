@@ -8,6 +8,8 @@ language: es
 date: 1854-12-02
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-14-nacional-lnn0017217-1862-09-02"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=199441"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/199441/norma.htm"

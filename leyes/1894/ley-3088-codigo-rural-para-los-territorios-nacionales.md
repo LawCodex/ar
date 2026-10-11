@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1894-08-14
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-3088-nacional-codigo-rural-para-territorios-nacionales-lns0002455-1894-08-11"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=218422"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/215000-219999/218422/norma.htm"

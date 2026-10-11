@@ -10,6 +10,8 @@ published: 1960-11-09
 boletin_oficial: "19378"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-15535-nacional-lnn0027063-1960-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=194380"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/194380/norma.htm"

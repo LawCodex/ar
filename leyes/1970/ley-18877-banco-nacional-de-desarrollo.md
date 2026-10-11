@@ -9,7 +9,9 @@ date: 1970-12-28
 published: 1971-01-08
 boletin_oficial: "22089"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-18877-nacional-facultades-banco-nacional-desarrollo-banco-industrial-republica-argentina-banco-hipotecario-nacional-lns0000894-1970-12-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=301689"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/301689/norma.htm"

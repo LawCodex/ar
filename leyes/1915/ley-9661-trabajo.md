@@ -9,7 +9,9 @@ date: 1915-08-25
 published: 1915-09-07
 boletin_oficial: "6492"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-9661-nacional-sanciones-para-agencias-colocaciones-para-trabajo-menores-lns0002487-1915-08-25"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=291429"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/291429/texact.htm"

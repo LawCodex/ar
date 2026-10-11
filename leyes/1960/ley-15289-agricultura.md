@@ -9,7 +9,9 @@ date: 1960-07-20
 published: 1960-08-11
 boletin_oficial: "19306"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-15289-nacional-comision-reguladora-produccion-comercio-yerba-mate-canchada-lns0001561-1960-07-20"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=298511"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/298511/norma.htm"

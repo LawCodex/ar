@@ -10,6 +10,8 @@ published: 1967-09-12
 boletin_oficial: "21270"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-17420-nacional-lnn0021895-1967-09-05"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=300563"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/300563/norma.htm"

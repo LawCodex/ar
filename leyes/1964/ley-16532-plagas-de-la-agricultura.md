@@ -9,7 +9,9 @@ date: 1964-10-27
 published: 1964-12-23
 boletin_oficial: "20600"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-16532-nacional-lucha-contra-vinal-lns0001375-1964-10-27"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=300056"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/300056/norma.htm"

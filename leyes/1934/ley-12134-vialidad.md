@@ -9,7 +9,9 @@ date: 1934-12-19
 published: 1935-01-11
 boletin_oficial: "12173"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-12134-nacional-comprension-beneficios-ley-11658-avenida-general-paz-circunvalacion-buenos-aires-lns0002249-1934-12-19"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=294160"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/294160/texact.htm"

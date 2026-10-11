@@ -9,7 +9,9 @@ date: 1971-12-24
 published: 1971-12-30
 boletin_oficial: "22331"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-19396-nacional-seguridad-social-jubilaciones-pensiones-estado-poder-ejecutivo-nacional-presidencia-nacion-lns0000785-1971-12-24"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302061"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302061/texact.htm"

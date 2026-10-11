@@ -10,6 +10,8 @@ published: 1978-01-13
 boletin_oficial: "23830"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-21723-nacional-lnn0026613-1978-01-09"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=92787"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/90000-94999/92787/norma.htm"

@@ -9,7 +9,9 @@ date: 1967-12-29
 published: 1968-01-26
 boletin_oficial: "21363"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-17610-nacional-cobro-aranceles-museo-policia-federal-lns0001132-1967-12-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=109733"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/105000-109999/109733/norma.htm"

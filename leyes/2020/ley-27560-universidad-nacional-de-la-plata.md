@@ -1,0 +1,57 @@
+---
+title: "Ley 27560: UNIVERSIDAD NACIONAL DE LA PLATA — INMUEBLE - TRANSFIERESE"
+identifier: "Ley 27560"
+infoleg_id: "341565"
+type: act
+jurisdiction: ar
+language: es
+date: 2020-08-13
+published: 2020-08-28
+boletin_oficial: "34461"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-27560-nacional-transferencia-titulo-gratuito-favor-universidad-nacional-plata-dominio-inmueble-propiedad-estado-nacional-lns0006889-2020-08-13"
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=341565"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/340000-344999/341565/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 27560: UNIVERSIDAD NACIONAL DE LA PLATA — INMUEBLE - TRANSFIERESE
+
+UNIVERSIDAD NACIONAL DE LA PLATA
+
+Ley 27560
+
+Transfiérese inmueble.
+
+El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc. sancionan con fuerza de Ley:
+
+## Artículo 1º
+
+Transfiérase a título gratuito, a favor de la Universidad Nacional de La Plata, el dominio del Inmueble propiedad del Estado nacional, ubicado en la ciudad de La Plata, correspondiente a la ex sede del Comando en Jefe de la X Brigada de Infantería Mecanizada del Ejército Argentino, y cuyos datos dominiales son los siguientes: matrícula 234.457 / nomenclatura catastral: circunscripción I; sección B; manzana 80, parcela 3 a. / designación según plano 55-257-79 / partida inmobiliaria: 055-050124-4. Ubicación: con frente a la calle Diagonal 80 entre calles 41 y 116 / superficie: 4.299,69 metros cuadrados / medidas: 143.24 metros de frente al O; 2,30 metros al SE; al SSO en 2 tramos que miden sucesivamente 60,54 metros y 24,50 metros; y al ENE 102,38 metros / linderos: linda por su frente al O con Diagonal 80; al SE con calle 42; al SSO con calle 42; y al ENE con parcela 1 a. Dominio inscrito en folio 743, año 1882 - La Plata.
+
+## Art. 2°
+
+La transferencia que se dispone en el artículo precedente se efectúa con cargo de que la beneficiaria destine el inmueble al funcionamiento del Organismo de Investigaciones, Desarrollos, Transferencias e Innovaciones en Políticas Soberanas denominado Instituto Malvinas, creado en el ámbito de la Universidad Nacional de La Plata. En caso de incumplimiento del cargo fijado, el dominio del terreno se revertirá a favor del Estado nacional.
+
+## Art. 3°
+
+La escritura traslativa de dominio se realizará por ante la Escribanía General de la Nación, quien dejará constancia de lo establecido en los artículos 1° y 2° de la presente.
+
+## Art. 4°
+
+Los gastos que demande la presente transferencia serán a exclusivo cargo del Estado nacional.
+
+## Art. 5°
+
+Comuníquese al Poder Ejecutivo nacional.
+
+DADA EN LA SALA DE SESIONES DEL CONGRESO ARGENTINO, EN BUENOS AIRES, A LOS TRECE DIAS DEL MES DE AGOSTO DEL AÑO DOS MIL VEINTE.
+
+REGISTRADA BAJO EL N° 27560
+
+CLAUDIA LEDESMA ABDALA DE ZAMORA - SERGIO MASSA - Marcelo Jorge Fuentes - Eduardo Cergnul
+
+e. 28/08/2020 N° 35346/20 v. 28/08/2020

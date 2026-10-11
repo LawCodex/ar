@@ -9,7 +9,9 @@ date: 1958-10-16
 published: 1959-01-09
 boletin_oficial: "18834"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-14771-nacional-yacimientos-mineros-agua-dionisio-lns0001598-1958-10-16"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=196614"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/196614/texact.htm"

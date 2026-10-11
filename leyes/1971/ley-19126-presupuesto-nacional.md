@@ -10,6 +10,8 @@ published: 1971-07-26
 boletin_oficial: "22223"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-19126-nacional-lnn0014191-1971-07-16"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=301873"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/301873/norma.htm"

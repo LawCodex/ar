@@ -8,6 +8,8 @@ language: es
 date: 1874-10-06
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-688-nacional-lnn0023747-1874-10-06"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=281679"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/280000-284999/281679/norma.htm"

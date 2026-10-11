@@ -46,7 +46,9 @@ Nicanor Costa Méndez
 
 CONVENIO SOBRE LA AYUDA ALIMENTARIA, 1980
 
-## PARTE I- OBJETIVO Y DEFINICIONES — Artículo I
+## PARTE I- OBJETIVO Y DEFINICIONES
+
+Artículo I
 
 OBJETIVO
 
@@ -78,7 +80,9 @@ f) Por "año" se entenderá a menos que se especifique otra cosa el período com
 
 2\. Toda referencia que se haga en el presente convenio a un "Gobierno" o "Gobiernos" se considerará aplicable a la Comunidad Económica Europea (en adelante denominada la CEE). Por consiguiente se considerará que toda referencia en el presente convenio a la "firma", al "depósito de instrumentos de ratificación, aceptación o aprobación", a un "instrumento de adhesión" o la "declaración de aplicación provisional" por un Gobierno comprende, en el caso de la CEE, la firma o declaración de aplicación provisional en nombre de la CEE por su autoridad competente, así como el depósito del instrumento que, con arreglo a los procedimientos institucionales de la CEE deba depositar para la celebración de un convenio internacional.
 
-## PARTE II- DISPOSICIONES PRINCIPALES — Artículo III
+## PARTE II- DISPOSICIONES PRINCIPALES
+
+Artículo III
 
 AYUDA ALIMENTARIA INTERNACIONAL
 
@@ -202,7 +206,9 @@ CONTROVERSIAS E INCUMPLIMIENTO DE OBLIGACIONES
 
 En el caso de una controversia relativa a la interpretación o aplicación del presente convenio o en el incumplimiento de obligaciones contraídas en virtud del presente convenio, el Comité se reunirá para adoptar las medidas pertinentes.
 
-## PARTE III- DISPOSICIONES FINALES — Artículo XII
+## PARTE III- DISPOSICIONES FINALES
+
+Artículo XII
 
 FIRMA
 

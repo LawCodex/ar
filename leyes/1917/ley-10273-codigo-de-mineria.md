@@ -10,6 +10,8 @@ published: 1917-11-17
 boletin_oficial: "7142"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-10273-nacional-lnn0027268-1917-09-24"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=43586"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/40000-44999/43586/norma.htm"

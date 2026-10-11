@@ -10,6 +10,8 @@ published: 1923-02-08
 boletin_oficial: "8675"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-11197-nacional-lnn0021052-1923-02-03"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=293224"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/293224/norma.htm"

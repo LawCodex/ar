@@ -10,6 +10,8 @@ published: 1973-02-23
 boletin_oficial: "22614"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-20162-nacional-lnn0022056-1973-02-16"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302602"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302602/norma.htm"

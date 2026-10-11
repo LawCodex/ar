@@ -9,7 +9,9 @@ date: 1982-01-22
 published: 1982-01-26
 boletin_oficial: "24845"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-22529-nacional-entidades-financieras-bancos-entidades-financieras-bancarias-lns0002861-1982-01-22"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=182876"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/182876/norma.htm"

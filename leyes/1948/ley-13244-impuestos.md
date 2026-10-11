@@ -10,6 +10,8 @@ published: 1948-09-16
 boletin_oficial: "16157"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-13244-nacional-lnn0021160-1948-09-03"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=185772"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/185000-189999/185772/norma.htm"

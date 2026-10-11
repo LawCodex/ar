@@ -10,6 +10,8 @@ published: 1971-05-24
 boletin_oficial: "22181"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-19042-nacional-lnn0005059-1971-05-20"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=151477"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/150000-154999/151477/norma.htm"

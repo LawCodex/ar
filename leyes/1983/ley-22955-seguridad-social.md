@@ -9,7 +9,9 @@ date: 1983-10-20
 published: 1983-10-24
 boletin_oficial: "25284"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-22955-nacional-seguridad-social-jubilaciones-pensiones-regimenes-especiales-regimen-jubilatorio-especifico-para-personal-comprendido-escalafon-para-personal-civil-administracion-publica-nacional-preste-servicios-ministerio-defensa-estado-mayor-conjunto-comandos-jefe-fuerzas-armadas-lns0003100-1983-10-20"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304404"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304404/norma.htm"

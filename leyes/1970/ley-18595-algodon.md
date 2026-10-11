@@ -9,7 +9,9 @@ date: 1970-02-06
 published: 1970-02-23
 boletin_oficial: "21874"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-18595-nacional-transferencia-funciones-junta-nacional-algodon-junta-nacional-granos-lns0000955-1970-02-06"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=301483"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/301483/texact.htm"

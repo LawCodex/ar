@@ -10,6 +10,8 @@ published: 1973-03-02
 boletin_oficial: "22619"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-20179-nacional-lnn0026788-1973-02-22"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=145276"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/145000-149999/145276/norma.htm"

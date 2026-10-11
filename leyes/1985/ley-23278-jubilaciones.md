@@ -9,7 +9,9 @@ date: 1985-09-28
 published: 1985-11-05
 boletin_oficial: "25798"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-23278-nacional-computo-periodo-inactividad-casos-cesantia-prescindibilidad-renuncia-exilio-efectos-jubilatorios-lns0003280-1985-09-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=16091"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/15000-19999/16091/norma.htm"

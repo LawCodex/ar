@@ -9,7 +9,9 @@ date: 1976-08-13
 published: 1976-08-20
 boletin_oficial: "23472"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-21383-nacional-organizacion-funciones-fiscalia-nacional-investigaciones-administrativas-lns0000337-1976-08-13"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=258619"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/255000-259999/258619/norma.htm"

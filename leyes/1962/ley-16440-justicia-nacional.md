@@ -9,7 +9,9 @@ date: 1962-01-25
 published: 1962-02-20
 boletin_oficial: "19761"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-16440-nacional-reorganizacion-justicia-nacional-federal-lns0001411-1962-01-25"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=231917"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/231917/norma.htm"

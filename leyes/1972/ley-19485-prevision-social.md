@@ -9,7 +9,9 @@ date: 1972-02-09
 published: 1972-02-18
 boletin_oficial: "22364"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19485-nacional-bonificacion-para-beneficiarios-jubilaciones-pensiones-radicados-provincias-sur-pais-lns0000771-1972-02-09"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=144653"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/140000-144999/144653/texact.htm"

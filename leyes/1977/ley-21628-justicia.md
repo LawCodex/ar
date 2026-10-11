@@ -9,7 +9,9 @@ date: 1977-08-26
 published: 1977-08-31
 boletin_oficial: "23734"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21628-nacional-organizacion-integracion-competencia-camara-nacional-apelaciones-civil-comercial-federal-camara-nacional-apelaciones-contencioso-administrativo-federal-camara-nacional-apelaciones-criminal-correccional-federal-capital-federal-lns0000145-1977-08-26"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=114504"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/110000-114999/114504/norma.htm"

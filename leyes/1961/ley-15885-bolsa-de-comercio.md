@@ -9,7 +9,9 @@ date: 1961-09-21
 published: 1961-10-14
 boletin_oficial: "19656"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-15885-nacional-bolsas-comercio-fondos-comunes-inversion-sociedades-acciones-lns0001429-1961-09-21"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=299063"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/299063/norma.htm"

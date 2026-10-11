@@ -9,7 +9,9 @@ date: 1948-09-02
 published: 1948-09-15
 boletin_oficial: "16156"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-13235-nacional-adicional-al-impuesto-sobre-venta-boletas-apuestas-hipicas-lns0002502-1948-09-02"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=190237"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/190237/norma.htm"

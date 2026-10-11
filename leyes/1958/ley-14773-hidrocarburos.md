@@ -9,7 +9,9 @@ date: 1958-10-10
 published: 1958-11-13
 boletin_oficial: "18789"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-14773-nacional-lnn0025803-1958-11-10"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=216896"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/215000-219999/216896/norma.htm"

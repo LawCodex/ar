@@ -9,7 +9,9 @@ date: 1983-06-17
 published: 1983-06-22
 boletin_oficial: "25198"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-22834-nacional-tributos-impuestos-impuesto-al-valor-agregado-lns0003034-1983-06-17"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=235300"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/235000-239999/235300/norma.htm"

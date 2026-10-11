@@ -10,6 +10,8 @@ published: 1975-11-03
 boletin_oficial: "23275"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-21215-nacional-lnn0000304-1975-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=182545"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/182545/norma.htm"

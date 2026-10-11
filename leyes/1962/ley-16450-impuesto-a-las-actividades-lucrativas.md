@@ -9,7 +9,9 @@ date: 1962-02-08
 published: 1962-02-24
 boletin_oficial: "19765"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-16450-nacional-impuesto-actividades-lucrativas-percepcion-lns0001409-1962-02-08"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=299599"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/299599/texact.htm"

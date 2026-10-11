@@ -9,7 +9,9 @@ date: 1983-09-01
 published: 1983-09-05
 boletin_oficial: "25250"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22887-nacional-creacion-fondo-indemnizatorio-credito-para-vivienda-para-personal-actividad-aseguradora-reaseguradora-capitalizacion-ahorro-prestamo-para-vivienda-lns0003062-1983-09-01"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=194497"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/194497/norma.htm"

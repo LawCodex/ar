@@ -9,7 +9,9 @@ date: 1978-10-17
 published: 1978-10-20
 boletin_oficial: "24024"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21890-nacional-escribania-general-gobierno-lns0000059-1978-10-17"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=142073"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/140000-144999/142073/texact.htm"

@@ -10,6 +10,8 @@ published: 1913-01-25
 boletin_oficial: "5721"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-9076-nacional-lnn0009078-1913-01-21"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=185466"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/185000-189999/185466/norma.htm"

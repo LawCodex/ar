@@ -9,7 +9,9 @@ date: 1981-03-27
 published: 1981-04-06
 boletin_oficial: "24643"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22459-nacional-transferencia-cargo-tierras-fiscales-provincia-rio-negro-lns0002826-1981-03-27"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=198756"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/198756/norma.htm"

@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1922-08-26
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-11184-nacional-cambio-categoria-representacion-diplomatica-permanente-estados-unidos-brasil-lns0002611-1922-08-26"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=293213"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/293213/norma.htm"

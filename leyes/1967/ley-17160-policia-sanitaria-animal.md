@@ -9,7 +9,9 @@ date: 1967-02-02
 published: 1967-02-15
 boletin_oficial: "21128"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-17160-nacional-multas-sanidad-animal-lns0001221-1967-02-02"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=82876"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/80000-84999/82876/norma.htm"

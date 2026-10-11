@@ -1,0 +1,69 @@
+---
+title: "Ley 27352: CODIGO PENAL DE LA NACION — MODIFICACION"
+identifier: "Ley 27352"
+infoleg_id: "274739"
+type: act
+jurisdiction: ar
+language: es
+date: 2017-04-26
+published: 2017-05-17
+boletin_oficial: "33626"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-27352-nacional-modificacion-articulo-119-libro-segundo-titulo-iii-codigo-penal-nacion-lns0006305-2017-04-26"
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=274739"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/270000-274999/274739/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 27352: CODIGO PENAL DE LA NACION — MODIFICACION
+
+CÓDIGO PENAL DE LA NACIÓN
+
+Ley 27352
+
+Modificación.
+
+El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc. sancionan con fuerza de
+
+Ley:
+
+MODIFICACIÓN DEL ARTÍCULO 119 DEL LIBRO SEGUNDO, TÍTULO III DEL CÓDIGO PENAL DE LA NACIÓN
+
+## ARTÍCULO 1°
+
+Modifícase el artículo 119 del Código Penal de la Nación, el cual quedará redactado de la siguiente manera:
+
+**Artículo 119.** Será reprimido con reclusión o prisión de seis (6) meses a cuatro (4) años el que abusare sexualmente de una persona cuando ésta fuera menor de trece (13) años o cuando mediare violencia, amenaza, abuso coactivo o intimidatorio de una relación de dependencia, de autoridad, o de poder, o aprovechándose de que la víctima por cualquier causa no haya podido consentir libremente la acción.
+
+La pena será de cuatro (4) a diez (10) años de reclusión o prisión cuando el abuso por su duración o circunstancias de su realización, hubiere configurado un sometimiento sexual gravemente ultrajante para la víctima.
+
+La pena será de seis (6) a quince (15) años de reclusión o prisión cuando mediando las circunstancias del primer párrafo hubiere acceso carnal por vía anal, vaginal u oral o realizare otros actos análogos introduciendo objetos o partes del cuerpo por alguna de las dos primeras vías.
+
+En los supuestos de los dos párrafos anteriores, la pena será de ocho (8) a veinte (20) años de reclusión o prisión si:
+
+a) Resultare un grave daño en la salud física o mental de la víctima;
+
+b) El hecho fuere cometido por ascendiente, descendiente, afín en línea recta, hermano, tutor, curador, ministro de algún culto reconocido o no, encargado de la educación o de la guarda;
+
+c) El autor tuviere conocimiento de ser portador de una enfermedad de transmisión sexual grave, y hubiere existido peligro de contagio;
+
+d) El hecho fuere cometido por dos o más personas, o con armas;
+
+e) El hecho fuere cometido por personal perteneciente a las fuerzas policiales o de seguridad, en ocasión de sus funciones;
+
+f) El hecho fuere cometido contra un menor de dieciocho (18) años, aprovechando la situación de convivencia preexistente con el mismo.
+
+En el supuesto del primer párrafo, la pena será de tres (3) a diez (10) años de reclusión o prisión si concurren las circunstancias de los incisos a), b), d), e) o f).
+
+## ARTÍCULO 2°
+
+Comuníquese al Poder Ejecutivo nacional.
+
+DADA EN LA SALA DE SESIONES DEL CONGRESO ARGENTINO, EN BUENOS AIRES, A LOS VEINTISEIS DIAS DEL MES DE ABRIL DEL AÑO DOS MIL DIECISIETE.
+
+— REGISTRADA BAJO EL Nº 27352 —
+
+EMILIO MONZÓ. — FEDERICO PINEDO. — Eugenio Inchausti. — Juan P. Tunessi.

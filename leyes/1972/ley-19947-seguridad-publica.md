@@ -10,6 +10,8 @@ published: 1972-11-20
 boletin_oficial: "22548"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-19947-nacional-lnn0020683-1972-11-15"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302463"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302463/norma.htm"

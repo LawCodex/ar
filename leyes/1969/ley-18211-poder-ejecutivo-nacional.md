@@ -10,6 +10,8 @@ published: 2006-09-28
 boletin_oficial: "31000"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-18211-nacional-donacion-caballo-armas-al-ejercito-republica-bolivia-lnn0029587-1969-05-14"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=120311"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/120000-124999/120311/norma.htm"

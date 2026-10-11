@@ -9,7 +9,9 @@ date: 1970-10-08
 published: 2006-09-22
 boletin_oficial: "30996"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-18802-nacional-franquicia-especial-solicitada-policia-federal-para-importacion-material-belico-lns0005083-1970-10-08"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=120097"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/120000-124999/120097/norma.htm"

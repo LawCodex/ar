@@ -9,7 +9,9 @@ date: 1985-09-30
 published: 1985-11-05
 boletin_oficial: "25798"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-23291-nacional-lnn0028127-1985-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=23902"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/23902/norma.htm"

@@ -9,7 +9,9 @@ date: 1973-05-23
 published: 1973-06-01
 boletin_oficial: "22678"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20504-nacional-medidas-necesarias-para-ejecutar-convenio-sobre-transportes-maritimos-peru-lns0000462-1973-05-23"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302810"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302810/norma.htm"

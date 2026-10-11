@@ -9,7 +9,9 @@ date: 1968-09-27
 published: 1968-10-11
 boletin_oficial: "21539"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-17916-nacional-reserva-nacional-formosa-lns0002894-1968-09-27"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=196828"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/196828/norma.htm"

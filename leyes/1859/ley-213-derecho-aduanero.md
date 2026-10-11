@@ -8,6 +8,8 @@ language: es
 date: 1859-08-29
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-213-nacional-lnn0016979-1867-07-17"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=280869"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/280000-284999/280869/norma.htm"

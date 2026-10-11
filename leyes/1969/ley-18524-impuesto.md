@@ -10,6 +10,8 @@ published: 1970-01-19
 boletin_oficial: "21851"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-18524-nacional-lnn0002785-1969-12-31"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=233956"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/233956/norma.htm"

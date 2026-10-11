@@ -9,7 +9,9 @@ date: 1973-11-29
 published: 1974-01-08
 boletin_oficial: "22826"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20606-nacional-reapertura-procedimiento-administrativo-lns0000502-1973-11-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=198146"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/198146/norma.htm"

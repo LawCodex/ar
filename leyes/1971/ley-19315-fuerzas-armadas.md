@@ -10,6 +10,8 @@ published: 1971-10-27
 boletin_oficial: "22288"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-19315-nacional-lnn0015078-1971-10-21"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302006"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302006/norma.htm"

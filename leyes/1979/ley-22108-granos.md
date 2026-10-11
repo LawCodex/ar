@@ -10,6 +10,8 @@ published: 1979-11-30
 boletin_oficial: "24304"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22108-nacional-lnn0005531-1979-11-23"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=151454"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/150000-154999/151454/norma.htm"

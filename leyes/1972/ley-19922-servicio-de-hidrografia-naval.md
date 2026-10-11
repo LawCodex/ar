@@ -9,7 +9,9 @@ date: 1972-11-02
 published: 1972-11-23
 boletin_oficial: "22551"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19922-nacional-creacion-servicio-hidrografia-naval-lns0000653-1972-11-02"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=179808"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/175000-179999/179808/norma.htm"

@@ -9,7 +9,9 @@ date: 1981-02-23
 published: 1981-03-23
 boletin_oficial: "24633"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22426-nacional-regulacion-contratos-transferencia-tecnologia-marcas-extranjeras-lns0002806-1981-03-12"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=18804"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/15000-19999/18804/texact.htm"

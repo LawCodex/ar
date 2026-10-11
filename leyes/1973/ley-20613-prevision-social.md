@@ -10,6 +10,8 @@ published: 1974-01-09
 boletin_oficial: "22827"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-20613-nacional-lnn0004688-1973-11-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302883"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302883/norma.htm"

@@ -9,7 +9,9 @@ date: 1986-10-01
 published: 1987-01-30
 boletin_oficial: "26075"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-23411-nacional-economia-energia-mineria-energia-hidroelectrica-lns0003324-1986-10-01"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=229603"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/225000-229999/229603/norma.htm"

@@ -10,6 +10,8 @@ published: 1987-02-19
 boletin_oficial: "26089"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-23497-nacional-lnn0028174-1987-02-11"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=21851"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/21851/norma.htm"

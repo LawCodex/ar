@@ -10,6 +10,8 @@ published: 1937-02-05
 boletin_oficial: "12776"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-12348-nacional-lnn0024408-1937-01-21"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=294338"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/294338/norma.htm"

@@ -9,7 +9,9 @@ date: 1977-06-14
 published: 1977-06-21
 boletin_oficial: "23684"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21589-nacional-regularizacion-impositiva-lns0000162-1977-06-14"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=303743"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/303743/norma.htm"

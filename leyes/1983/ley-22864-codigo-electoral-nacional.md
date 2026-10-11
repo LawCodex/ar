@@ -10,6 +10,8 @@ published: 1983-08-04
 boletin_oficial: "25229"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22864-nacional-lnn0027897-1983-08-02"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=253107"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/250000-254999/253107/norma.htm"

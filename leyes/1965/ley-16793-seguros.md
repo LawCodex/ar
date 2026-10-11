@@ -9,7 +9,9 @@ date: 1965-10-30
 published: 1965-12-14
 boletin_oficial: "20839"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-16793-nacional-cobertura-todo-riesgo-asegurable-parte-estado-nacional-lns0001352-1965-10-30"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=300281"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/300281/texact.htm"

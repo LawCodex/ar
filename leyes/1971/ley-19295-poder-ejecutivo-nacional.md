@@ -10,6 +10,8 @@ published: 2006-09-20
 boletin_oficial: "30994"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-19295-nacional-donacion-caballo-armas-al-presidente-peru-lnn0026563-1971-10-11"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=119989"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/115000-119999/119989/norma.htm"

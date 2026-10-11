@@ -9,7 +9,9 @@ date: 1960-09-27
 published: 1960-10-29
 boletin_oficial: "19370"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-15402-nacional-creacion-direccion-nacional-editora-braille-lns0001457-1960-09-27"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=194932"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/194932/norma.htm"

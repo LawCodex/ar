@@ -10,6 +10,8 @@ published: 1970-08-21
 boletin_oficial: "21996"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-18749-nacional-lnn0014332-1970-08-14"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=181342"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/181342/norma.htm"

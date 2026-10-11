@@ -1,0 +1,63 @@
+---
+title: "Ley 27612: LEY DE FORTALECIMIENTO DE LA SOSTENIBILIDAD DE LA DEUDA PUBLICA — DISPOSICIONES"
+identifier: "Ley 27612"
+infoleg_id: "347532"
+type: act
+jurisdiction: ar
+language: es
+date: 2021-02-11
+published: 2021-03-03
+boletin_oficial: "34599"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-27612-nacional-ley-fortalecimiento-sostenibilidad-deuda-publica-lns0006960-2021-02-11"
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=347532"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/345000-349999/347532/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 27612: LEY DE FORTALECIMIENTO DE LA SOSTENIBILIDAD DE LA DEUDA PUBLICA — DISPOSICIONES
+
+LEY DE FORTALECIMIENTO DE LA SOSTENIBILIDAD DE LA DEUDA PÚBLICA
+
+Ley 27612
+
+Disposiciones.
+
+El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc. sancionan con fuerza de
+
+Ley:
+
+LEY DE FORTALECIMIENTO DE LA SOSTENIBILIDAD DE LA DEUDA PÚBLICA
+
+## Artículo 1º
+
+La Ley de Presupuesto General de la Administración Nacional de cada ejercicio deberá prever un porcentaje máximo para la emisión de títulos públicos en moneda extranjera y bajo legislación y jurisdicción extranjeras respecto del monto total de las emisiones de títulos públicos autorizadas para ese ejercicio.
+
+Toda emisión de títulos públicos en moneda extranjera y bajo legislación y jurisdicción extranjeras que supere dicho porcentaje requerirá de una ley especial del Honorable Congreso de la Nación que la autorice expresamente.
+
+## Artículo 2º
+
+Dispónese que todo programa de financiamiento u operación de crédito público realizados con el Fondo Monetario Internacional (FMI), así como también cualquier ampliación de los montos de esos programas u operaciones, requerirá de una ley del Honorable Congreso de la Nación que lo apruebe expresamente.
+
+## Artículo 3º
+
+La emisión de títulos públicos en moneda extranjera y bajo legislación y jurisdicción extranjeras, así como los programas de financiamiento u operación de crédito público realizados con el Fondo Monetario Internacional (FMI), y las eventuales ampliaciones de los montos de esos programas u operaciones, no podrán tener como destino el financiamiento de gastos primarios corrientes, a excepción de los gastos extraordinarios previstos en el artículo 39 de la ley 24.156 de Administración Financiera, considerándose dentro de esta clasificación aquellas definidas en el Clasificador Económico del Gasto.
+
+## Artículo 4º
+
+La presente ley entrará en vigencia a partir de su publicación en el Boletín Oficial de la República Argentina.
+
+## Artículo 5º
+
+Comuníquese al Poder Ejecutivo nacional.
+
+DADA EN LA SALA DE SESIONES DEL CONGRESO ARGENTINO, EN BUENOS AIRES, EL DÍA ONCE DE FEBRERO DEL AÑO DOS MIL VEINTIUNO.
+
+REGISTRADO BAJO EL N° 27612
+
+CLAUDIA LEDESMA ABDALA DE ZAMORA - SERGIO MASSA - Marcelo Jorge Fuentes - Eduardo Cergnul
+
+e. 03/03/2021 N° 11774/21 v. 03/03/2021

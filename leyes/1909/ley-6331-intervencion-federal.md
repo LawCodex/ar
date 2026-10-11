@@ -10,6 +10,8 @@ published: 1909-08-23
 boletin_oficial: "4719"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-6331-nacional-lnn0024752-1909-08-19"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=288152"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/285000-289999/288152/norma.htm"

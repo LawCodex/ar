@@ -9,7 +9,9 @@ date: 1983-12-09
 published: 1983-12-14
 boletin_oficial: "25320"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-23032-nacional-estado-poder-legislativo-congreso-nacional-personal-congreso-nacion-lns0003145-1983-12-09"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=248552"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/245000-249999/248552/norma.htm"

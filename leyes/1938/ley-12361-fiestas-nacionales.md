@@ -9,7 +9,9 @@ date: 1938-06-08
 published: 1938-06-14
 boletin_oficial: "13170"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-12361-nacional-declaracion-dia-bandera-20-junio-lns0006315-1938-06-08"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=232587"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/232587/norma.htm"

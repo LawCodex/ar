@@ -8,6 +8,8 @@ language: es
 date: 1885-11-03
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-1749-nacional-lnn0016017-1885-11-03"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=188767"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/185000-189999/188767/norma.htm"

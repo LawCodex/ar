@@ -9,7 +9,9 @@ date: 1966-08-23
 published: 1966-08-30
 boletin_oficial: "21014"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-16931-nacional-suspension-juicios-contra-cajas-nacionales-prevision-inembargabilidad-bienes-recursos-mismas-lns0001334-1966-08-23"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=300293"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/300293/texact.htm"

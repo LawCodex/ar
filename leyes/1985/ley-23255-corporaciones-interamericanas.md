@@ -602,9 +602,13 @@ DISPOSICIONES GENERALES
 
 La sede de la Corporación se establecerá en la misma localidad en que se encuentre la sede del Banco. El Directorio Ejecutivo de la Corporación podrá establecer otras oficinas en los territorios de cualquiera de sus países miembros por una mayoría que represente por lo menos dos tercios de los votos de los miembros.
 
-## Sección 2. Relaciones con otras instituciones — La Corporación podrá celebrar acuerdos con otras instituciones para fines compatibles con este convenio.
+## Sección 2. Relaciones con otras instituciones
 
-## Sección 3. Organos de enlace — Cada miembro designará una entidad oficial para mantener sus vinculaciones con la Corporación sobre materias relacionadas con el presente convenio.
+La Corporación podrá celebrar acuerdos con otras instituciones para fines compatibles con este convenio.
+
+## Sección 3. Organos de enlace
+
+Cada miembro designará una entidad oficial para mantener sus vinculaciones con la Corporación sobre materias relacionadas con el presente convenio.
 
 ARTICULO XI
 

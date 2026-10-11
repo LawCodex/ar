@@ -9,7 +9,9 @@ date: 1971-10-27
 published: 1971-11-04
 boletin_oficial: "22293"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19323-nacional-se-restablecen-derechos-exportacion-alimentos-para-animales-lns0000805-1971-10-27"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302010"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302010/norma.htm"

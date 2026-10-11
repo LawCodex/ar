@@ -9,7 +9,9 @@ date: 1969-12-01
 published: 1969-12-09
 boletin_oficial: "21825"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-18467-nacional-denominacion-competencia-procuraduria-fiscal-federal-civil-comercial-contencioso-administrativo-lns0000983-1969-12-01"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=301393"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/301393/norma.htm"

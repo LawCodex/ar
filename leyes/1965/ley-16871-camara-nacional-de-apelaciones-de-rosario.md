@@ -9,7 +9,9 @@ date: 1965-10-30
 published: 1965-12-23
 boletin_oficial: "20846"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-16871-nacional-aumento-numero-jueces-camara-federal-apelaciones-rosario-lns0001341-1965-10-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=46483"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/45000-49999/46483/norma.htm"

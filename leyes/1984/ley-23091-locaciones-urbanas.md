@@ -9,7 +9,9 @@ date: 1984-09-20
 published: 1984-10-16
 boletin_oficial: "25531"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-23091-nacional-ley-locaciones-urbanas-promocion-locaciones-destinadas-viviendas-lns0003174-1984-09-20"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=27287"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/27287/texact.htm"

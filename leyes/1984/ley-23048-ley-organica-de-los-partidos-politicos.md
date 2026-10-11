@@ -9,7 +9,9 @@ date: 1984-02-08
 published: 1984-02-22
 boletin_oficial: "25370"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-23048-nacional-lnn0027983-1984-02-08"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=28158"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/28158/norma.htm"

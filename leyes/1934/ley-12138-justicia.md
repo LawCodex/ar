@@ -9,7 +9,9 @@ date: 1934-12-20
 published: 1934-12-29
 boletin_oficial: "12163"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-12138-nacional-establecimiento-juzgado-letrado-general-pico-lns0002248-1934-12-20"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=195848"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/195848/norma.htm"

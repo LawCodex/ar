@@ -9,7 +9,9 @@ date: 1974-06-26
 published: 1974-07-10
 boletin_oficial: "22947"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-20682-nacional-lnn0025412-1974-06-26"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=303054"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/303054/norma.htm"

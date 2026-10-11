@@ -10,6 +10,8 @@ published: 1979-06-08
 boletin_oficial: "24182"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22006-nacional-lnn0000014-1979-05-24"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=265810"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/265000-269999/265810/norma.htm"

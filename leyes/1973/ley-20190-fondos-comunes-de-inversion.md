@@ -9,7 +9,9 @@ date: 1973-02-28
 published: 1973-03-09
 boletin_oficial: "22622"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20190-nacional-autorizacion-fiscalizacion-fondos-comunes-inversion-lns0000037-1973-02-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302620"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302620/norma.htm"

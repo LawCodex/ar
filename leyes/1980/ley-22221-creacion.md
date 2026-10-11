@@ -9,7 +9,9 @@ date: 1980-05-05
 published: 1980-05-14
 boletin_oficial: "24417"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22221-nacional-creacion-direccion-nacional-educacion-primaria-lns0001847-1980-05-05"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=49017"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/45000-49999/49017/norma.htm"

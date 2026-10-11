@@ -9,7 +9,9 @@ date: 1891-09-17
 published: 2006-10-10
 boletin_oficial: "31008"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-2802-nacional-aprobacion-gastos-hechos-poder-ejecutivo-para-adquirir-buques-material-guerra-lnn0026380-1891-09-17"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=120764"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/120000-124999/120764/norma.htm"

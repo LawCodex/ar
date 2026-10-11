@@ -9,7 +9,9 @@ date: 1950-09-13
 published: 1950-10-23
 boletin_oficial: "16761"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-13941-nacional-impuesto-adicional-sobre-venta-boletos-sport-hipodromos-lns0002503-1950-09-13"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=296323"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/296323/texact.htm"

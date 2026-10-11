@@ -10,6 +10,8 @@ published: 1983-12-09
 boletin_oficial: "25317"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-23005-nacional-lnn0003118-1983-12-05"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=54444"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/50000-54999/54444/norma.htm"

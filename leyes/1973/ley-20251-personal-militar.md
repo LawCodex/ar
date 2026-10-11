@@ -10,6 +10,8 @@ published: 2006-09-12
 boletin_oficial: "30988"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-20251-nacional-promocion-grado-personal-militar-lnn0029570-1973-04-05"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=119663"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/115000-119999/119663/norma.htm"

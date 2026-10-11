@@ -9,7 +9,9 @@ date: 1960-02-05
 published: 1960-02-19
 boletin_oficial: "19165"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-15273-nacional-facultad-para-unificar-impuestos-gravan-exportacion-importacion-lns0001568-1960-02-05"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=227913"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/225000-229999/227913/norma.htm"

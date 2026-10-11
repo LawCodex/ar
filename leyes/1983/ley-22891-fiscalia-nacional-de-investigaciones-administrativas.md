@@ -9,7 +9,9 @@ date: 1983-09-05
 published: 1983-09-07
 boletin_oficial: "25252"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22891-nacional-remuneracion-personal-fiscalia-nacional-investigaciones-administrativas-lns0003063-1983-09-05"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=255021"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/255000-259999/255021/norma.htm"

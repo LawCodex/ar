@@ -9,7 +9,9 @@ date: 1973-05-18
 published: 1973-06-14
 boletin_oficial: "22687"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-20416-nacional-ley-servicio-penitenciario-federal-lns0000557-1973-05-18"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=16309"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/15000-19999/16309/texact.htm"

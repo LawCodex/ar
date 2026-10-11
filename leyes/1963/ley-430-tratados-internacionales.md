@@ -10,6 +10,8 @@ published: 1963-01-26
 boletin_oficial: "20034"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-430-nacional-lnn0016897-1870-09-27"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=299646"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/299646/norma.htm"

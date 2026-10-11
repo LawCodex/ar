@@ -9,7 +9,9 @@ date: 1983-04-07
 published: 1983-04-12
 boletin_oficial: "25149"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22777-nacional-creacion-juzgado-nacional-penal-rogatoria-lns0003004-1983-04-07"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=196466"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/196466/norma.htm"

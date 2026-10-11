@@ -9,7 +9,9 @@ date: 1979-08-28
 published: 1979-09-03
 boletin_oficial: "24240"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22062-nacional-derecho-pension-caso-presuncion-fallecimiento-lns0000287-1979-08-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=197158"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/197158/norma.htm"

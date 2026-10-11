@@ -9,7 +9,9 @@ date: 1972-12-30
 published: 1973-01-10
 boletin_oficial: "22582"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-20072-nacional-lnn0025465-1972-12-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=221777"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/220000-224999/221777/norma.htm"

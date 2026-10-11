@@ -9,7 +9,9 @@ date: 1974-05-29
 published: 1974-06-14
 boletin_oficial: "22933"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20670-nacional-ampliacion-competencia-juzgado-federal-primera-instancia-concepcion-uruguay-lns0000451-1974-05-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=196417"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/196417/norma.htm"

@@ -9,7 +9,9 @@ date: 1972-09-15
 published: 1972-09-25
 boletin_oficial: "22512"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-19836-nacional-constitucion-fundaciones-lns0000343-1972-09-15"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=65478"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/65000-69999/65478/norma.htm"

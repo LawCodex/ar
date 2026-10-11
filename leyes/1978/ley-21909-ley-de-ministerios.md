@@ -9,7 +9,9 @@ date: 1978-12-06
 published: 1978-12-14
 boletin_oficial: "24062"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21909-nacional-creacion-secretaria-planeamiento-lns0000045-1978-12-06"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=166336"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/165000-169999/166336/norma.htm"

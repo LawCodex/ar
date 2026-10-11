@@ -9,7 +9,9 @@ date: 1977-01-17
 published: 1977-01-21
 boletin_oficial: "23581"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21495-nacional-restitucion-entidades-financieras-depositos-recibidos-cuenta-banco-central-republica-argentina-lns0000230-1977-01-17"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=183491"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/183491/norma.htm"

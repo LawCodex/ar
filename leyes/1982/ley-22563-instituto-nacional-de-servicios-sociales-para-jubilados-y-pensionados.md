@@ -10,6 +10,8 @@ published: 1982-04-13
 boletin_oficial: "24898"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22563-nacional-lnn0028962-1982-04-08"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=224640"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/220000-224999/224640/norma.htm"

@@ -9,7 +9,9 @@ date: 1986-10-01
 published: 1987-02-13
 boletin_oficial: "26085"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-23413-nacional-profilaxis-fenilcetonuria-hipotiroidismo-lns0003329-1986-10-01"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=22294"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/22294/texact.htm"

@@ -10,6 +10,8 @@ published: 1958-07-03
 boletin_oficial: "18678"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-14441-nacional-lnn0021045-1958-06-12"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=197849"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/197849/norma.htm"

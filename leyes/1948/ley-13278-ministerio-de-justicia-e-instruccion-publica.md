@@ -9,7 +9,9 @@ date: 1948-09-27
 published: 1948-10-07
 boletin_oficial: "16175"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-13278-nacional-organizacion-justicia-federal-capital-federal-provincia-cordoba-lns0002005-1948-09-27"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=195372"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/195372/norma.htm"

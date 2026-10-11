@@ -9,7 +9,9 @@ date: 1971-11-03
 published: 1971-11-09
 boletin_oficial: "22296"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19331-nacional-creacion-instituto-nacional-accion-mutual-lns0000801-1971-11-03"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=32778"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/30000-34999/32778/norma.htm"

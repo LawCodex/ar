@@ -9,7 +9,9 @@ date: 1967-12-29
 published: 1968-01-11
 boletin_oficial: "21352"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-17604-nacional-educacion-cultura-universidades-universidades-privadas-lns0001133-1967-12-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=23743"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/23743/norma.htm"

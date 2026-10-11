@@ -10,6 +10,8 @@ published: 1975-01-17
 boletin_oficial: "23078"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-20852-nacional-beneficios-para-empresas-licitaciones-internacionales-lns0000437-1974-09-30"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=22683"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/22683/texact.htm"

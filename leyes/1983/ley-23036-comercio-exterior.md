@@ -10,6 +10,8 @@ published: 1983-12-13
 boletin_oficial: "25319"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-23036-nacional-regimen-exportacion-determinados-productos-agricolas-lnn0027987-1983-12-09"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=73299"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/70000-74999/73299/norma.htm"

@@ -9,7 +9,9 @@ date: 1974-09-26
 published: 1974-10-17
 boletin_oficial: "23017"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-20785-nacional-custodia-disposicion-bienes-objeto-secuestro-causas-penales-lns0000443-1974-09-26"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=136925"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/135000-139999/136925/texact.htm"

@@ -10,6 +10,8 @@ published: 1982-09-21
 boletin_oficial: "25009"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22644-nacional-lnn0002942-1982-09-17"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=208038"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/205000-209999/208038/norma.htm"

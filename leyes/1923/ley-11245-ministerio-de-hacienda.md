@@ -10,6 +10,8 @@ published: 1923-11-19
 boletin_oficial: "8903"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-11245-nacional-lnn0002613-1923-10-19"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=233794"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/233794/norma.htm"

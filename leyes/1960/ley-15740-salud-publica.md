@@ -9,7 +9,9 @@ date: 1960-09-30
 published: 1960-12-05
 boletin_oficial: "19400"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-15740-nacional-creacion-instituto-medicina-integral-transporte-lns0001447-1960-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=298938"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/298938/norma.htm"

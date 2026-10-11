@@ -10,6 +10,8 @@ published: 1961-06-23
 boletin_oficial: "19562"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-15810-nacional-lnn0018281-1961-06-23"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=193365"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/193365/norma.htm"

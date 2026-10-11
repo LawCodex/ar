@@ -10,6 +10,8 @@ published: 1939-10-05
 boletin_oficial: "13553"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-12599-nacional-lnn0022383-1939-09-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=209220"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/205000-209999/209220/norma.htm"

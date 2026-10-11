@@ -9,7 +9,9 @@ date: 1964-10-22
 published: 1964-11-14
 boletin_oficial: "20568"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-16511-nacional-opcion-personal-bancario-para-afiliarse-caja-nacional-prevision-para-personal-bancario-seguros-lns0001379-1964-10-22"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=300037"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/300037/norma.htm"

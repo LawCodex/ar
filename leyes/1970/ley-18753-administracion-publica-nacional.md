@@ -9,7 +9,9 @@ date: 1970-08-14
 published: 1970-08-24
 boletin_oficial: "21997"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-18753-nacional-creacion-comision-tecnica-asesora-politicas-salariales-sector-publico-lns0000925-1970-08-14"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=44769"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/40000-44999/44769/norma.htm"

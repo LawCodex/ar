@@ -10,6 +10,8 @@ published: 1975-10-08
 boletin_oficial: "23257"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-21069-nacional-lnn0026701-1975-09-23"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=196102"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/196102/norma.htm"

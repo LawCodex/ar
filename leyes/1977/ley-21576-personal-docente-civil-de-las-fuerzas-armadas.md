@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1977-05-06
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21576-nacional-remuneraciones-personal-docente-civil-fuerzas-armadas-lns0000166-1977-05-06"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=303733"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/303733/norma.htm"

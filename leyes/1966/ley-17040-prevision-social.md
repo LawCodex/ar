@@ -10,6 +10,8 @@ published: 1966-12-13
 boletin_oficial: "21085"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-17040-nacional-lnn0001297-1966-11-30"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=47329"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/45000-49999/47329/texact.htm"

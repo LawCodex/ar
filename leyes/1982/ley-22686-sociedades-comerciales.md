@@ -10,6 +10,8 @@ published: 1982-12-02
 boletin_oficial: "25060"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22686-nacional-lnn0027787-1982-11-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=260264"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/260000-264999/260264/norma.htm"

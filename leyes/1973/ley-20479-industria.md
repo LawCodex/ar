@@ -10,6 +10,8 @@ published: 1973-06-12
 boletin_oficial: "22685"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-20479-nacional-lnn0022016-1973-05-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=291566"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/291566/norma.htm"

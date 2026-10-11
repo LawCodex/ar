@@ -9,7 +9,9 @@ date: 1983-12-09
 published: 1984-12-14
 boletin_oficial: "25574"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-23034-nacional-defensa-seguridad-fuerzas-policiales-policia-federal-seguridad-social-jubilaciones-pensiones-trabajadores-relacion-dependencia-caja-retiros-jubilaciones-pensiones-policia-federal-lns0003148-1983-12-09"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304419"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304419/norma.htm"

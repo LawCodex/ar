@@ -10,6 +10,8 @@ published: 1966-08-10
 boletin_oficial: "21002"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-16915-nacional-lnn0001332-1966-08-05"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=46589"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/45000-49999/46589/norma.htm"

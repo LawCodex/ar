@@ -8,6 +8,8 @@ language: es
 date: 1889-10-05
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/codigo-comercial-2637-nacional-codigo-comercio-lns0002695-1889-10-05"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=109500"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/105000-109999/109500/texact.htm"

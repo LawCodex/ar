@@ -9,7 +9,9 @@ date: 1949-10-25
 published: 1949-11-04
 boletin_oficial: "16487"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-13660-nacional-elaboracion-transformacion-almacenamiento-combustibles-solidos-minerales-lns0001964-1949-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=45288"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/45000-49999/45288/norma.htm"

@@ -9,7 +9,9 @@ date: 1927-10-04
 published: 1927-10-21
 boletin_oficial: "10054"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-11404-nacional-cambio-categoria-representacion-diplomatica-permanente-republica-ante-gobierno-francia-lns0002550-1927-10-04"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=293406"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/293406/norma.htm"

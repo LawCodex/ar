@@ -9,7 +9,9 @@ date: 1971-12-24
 published: 2006-09-19
 boletin_oficial: "30993"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19391-nacional-remuneracion-personal-policial-policia-federal-lns0005073-1971-12-24"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=119933"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/115000-119999/119933/norma.htm"

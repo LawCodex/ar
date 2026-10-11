@@ -10,6 +10,8 @@ published: 2006-09-21
 boletin_oficial: "30995"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-19245-nacional-donacion-gobierno-argentino-republica-paraguay-lnn0026564-1971-09-21"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=120045"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/120000-124999/120045/norma.htm"

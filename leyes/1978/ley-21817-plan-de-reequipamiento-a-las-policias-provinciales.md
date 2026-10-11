@@ -10,6 +10,8 @@ published: 2006-09-11
 boletin_oficial: "30987"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-21817-nacional-autorizacion-al-ministerio-interior-transferir-gobiernos-provinciales-bienes-para-cumplir-plan-reequipamiento-policias-provinciales-lnn0026527-1978-06-16"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=119633"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/115000-119999/119633/norma.htm"

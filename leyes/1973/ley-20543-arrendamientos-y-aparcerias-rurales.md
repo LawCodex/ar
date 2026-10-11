@@ -9,7 +9,9 @@ date: 1973-10-05
 published: 1973-10-29
 boletin_oficial: "22778"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20543-nacional-beneficios-para-arrendatarios-aparceros-adquieran-predios-lns0000473-1973-10-05"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=189950"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/185000-189999/189950/norma.htm"

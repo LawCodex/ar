@@ -10,6 +10,8 @@ published: 1971-06-17
 boletin_oficial: "22197"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-19072-nacional-lnn0014683-1971-06-07"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=301831"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/301831/norma.htm"

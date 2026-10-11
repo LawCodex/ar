@@ -9,7 +9,9 @@ date: 1971-07-28
 published: 1971-08-03
 boletin_oficial: "22229"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19142-nacional-registro-productores-caneros-lns0000844-1971-07-28"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=301882"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/301882/texact.htm"

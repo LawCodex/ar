@@ -9,7 +9,9 @@ date: 1972-10-25
 published: 2006-09-15
 boletin_oficial: "30991"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19910-nacional-ratificacion-convenio-credito-suscripto-6-octubre-1972-entre-banco-central-republica-argentina-consorcio-bancos-privados-estados-unidos-america-lns0005067-1972-10-25"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=119817"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/115000-119999/119817/norma.htm"

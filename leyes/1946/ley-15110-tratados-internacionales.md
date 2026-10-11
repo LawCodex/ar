@@ -8,6 +8,8 @@ language: es
 date: 1946-05-24
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-15110-nacional-lnn0017814-1959-11-15"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=295498"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/295498/norma.htm"

@@ -1,0 +1,69 @@
+---
+title: "Ley 23738: DONACIONES — CIUDAD DEPORTIVA BOCA JUNIORS"
+identifier: "Ley 23738"
+infoleg_id: "139"
+type: act
+jurisdiction: ar
+language: es
+date: 1989-09-21
+published: 1989-10-19
+boletin_oficial: "26742"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-23738-nacional-ciudad-deportiva-club-atletico-boca-juniors-lns0003546-1989-09-21"
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=139"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/0-4999/139/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 23738: DONACIONES — CIUDAD DEPORTIVA BOCA JUNIORS
+
+DONACIONES
+
+LEY Nº 23.738
+
+Modificación de la Ley N° 16.575 por la que se autorizara una donación al Club Atlético Boca Juniors.
+
+Sancionada: Setiembre 21 de 1989.
+
+Promulgada: Octubre 9 de 1989.
+
+El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc. sancionan con fuerza de
+
+LEY:
+
+## Artículo 1°
+
+Modifícase el artículo 1 de la Ley 16.575, aclarando que la superficie donada al Club Atlético Boca Juniors alcanza a lo efectivamente rellenado hasta la fecha, con sus canales adyacentes.
+
+## Art. 2°
+
+Deróganse los astículos 4° y 6° de la ley 16.575.
+
+## Art. 3°
+
+El Club Atlético Boca Juniors podrá enajenar el inmueble a terceros que cumplan con los objetivos señalados en el artículo 4 de esta ley.
+
+## Art. 4°
+
+En la Ciudad Deportiva a que se refiere la ley 16.575 podrán ejecutarse obras y desarrollarse actividades propias de un complejo balneario, náutico, turístico, hotelero y/o comercial, con disposición para Centro de Convenciones, Ferias y/o Centro Habitacional.
+
+## Art. 5°
+
+Declárase cumplido por parte del Club Atlético Boca Juniors el cargo impuesto por la Ley 16.575.
+
+## Art. 6°
+
+Comuníquese al Poder Ejecutivo. – ALBERTO R. PIERRI – EDUARDO MENEM – Esther H. Pereyra Arandia de Pérez Pardo. – Alberto J. B. Iribarne.
+
+DADA EN LA SALA DE SESIONES DEL CONGRESO ARGENTINO, EN BUENOS AIRES, A LOS VEINTIUN DIAS DEL MES DE SETIEMBRE DEL AÑO MIL NOVECIENTOS OCHENTA Y NUEVE.
+
+Decreto 1007/89
+
+Bs. As., 9/10/89
+
+POR TANTO:
+
+Téngase por Ley de la Nación N° 23.738, cúmplase, comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese. – MENEM. – Eduardo Bauzá.

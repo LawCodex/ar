@@ -9,7 +9,9 @@ date: 1948-09-29
 published: 1948-10-21
 boletin_oficial: "16186"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-13478-nacional-instituye-adicional-jubilaciones-prevee-pensiones-vejez-lns0004209-1948-09-29"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=32032"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/30000-34999/32032/texact.htm"

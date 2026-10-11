@@ -9,7 +9,9 @@ date: 1967-12-29
 published: 2006-09-29
 boletin_oficial: "31001"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-17599-nacional-modificacion-presupuesto-general-adminsitracion-general-para-ejercicio-1967-lns0005105-1967-12-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=120349"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/120000-124999/120349/norma.htm"

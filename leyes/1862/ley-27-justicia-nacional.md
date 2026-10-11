@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1862-10-13
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-27-nacional-organizacion-competencia-justicia-nacional-lns0002650-1862-10-16"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=116333"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/115000-119999/116333/norma.htm"

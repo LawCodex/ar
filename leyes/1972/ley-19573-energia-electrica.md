@@ -10,6 +10,8 @@ published: 1972-04-24
 boletin_oficial: "22408"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-19573-nacional-lnn0005139-1972-04-18"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=222077"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/220000-224999/222077/norma.htm"

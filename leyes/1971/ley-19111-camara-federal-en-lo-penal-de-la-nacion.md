@@ -9,7 +9,9 @@ date: 1971-07-06
 published: 2006-09-22
 boletin_oficial: "30996"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19111-nacional-asignacion-una-retribucion-complementaria-miembros-camara-federal-penal-nacion-lns0005087-1971-07-06"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=120104"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/120000-124999/120104/norma.htm"

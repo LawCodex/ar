@@ -9,7 +9,9 @@ date: 1974-10-28
 published: 1974-12-13
 boletin_oficial: "23056"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20847-nacional-eximicion-derechos-aduaneros-importacion-material-radioelectrico-lns0000438-1974-09-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=97456"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/95000-99999/97456/norma.htm"

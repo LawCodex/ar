@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1888-07-03
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-2268-nacional-control-policia-sanitaria-enfermedades-contagiosas-exoticas-animales-lns0002682-1888-07-03"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=283850"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/280000-284999/283850/norma.htm"

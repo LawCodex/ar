@@ -9,7 +9,9 @@ date: 1973-04-16
 published: 1973-04-27
 boletin_oficial: "22655"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20281-nacional-pago-subsidios-al-personal-prefectura-naval-argentina-lns0000567-1973-04-16"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=77259"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/75000-79999/77259/norma.htm"

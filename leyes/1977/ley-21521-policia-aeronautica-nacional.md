@@ -9,7 +9,9 @@ date: 1977-01-31
 published: 1977-02-07
 boletin_oficial: "23592"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-21521-nacional-creacion-policia-aeronautica-nacional-lns0000190-1977-01-31"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=26799"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/26799/texact.htm"

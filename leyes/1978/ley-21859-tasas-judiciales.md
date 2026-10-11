@@ -9,7 +9,9 @@ date: 1978-08-15
 published: 1978-08-22
 boletin_oficial: "23981"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-21859-nacional-tributos-tasas-tasas-judiciales-lns0000068-1978-08-15"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=182076"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/182076/norma.htm"

@@ -8,6 +8,8 @@ language: es
 date: 1857-09-25
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-154-nacional-lnn0017071-1865-08-26"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=199586"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/199586/norma.htm"

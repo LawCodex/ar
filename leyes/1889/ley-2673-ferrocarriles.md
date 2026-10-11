@@ -8,6 +8,8 @@ language: es
 date: 1889-10-05
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-2673-nacional-lnn0015302-1889-11-05"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=174669"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/170000-174999/174669/norma.htm"

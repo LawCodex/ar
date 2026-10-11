@@ -9,7 +9,9 @@ date: 1952-09-17
 published: 1952-10-30
 boletin_oficial: "17265"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-14143-nacional-garantia-para-contratos-obras-publicas-lns0001898-1952-09-17"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=296483"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/296483/norma.htm"

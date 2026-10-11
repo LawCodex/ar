@@ -9,7 +9,9 @@ date: 1986-10-31
 published: 1987-03-24
 boletin_oficial: "26112"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-23474-nacional-requisitos-se-deben-ajustar-quienes-comercialicen-exhiban-armas-fuego-lns0003388-1986-10-31"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=21972"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/21972/norma.htm"

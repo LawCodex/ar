@@ -9,7 +9,9 @@ date: 1960-12-28
 published: 1961-01-21
 boletin_oficial: "19439"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-15799-nacional-modificaciones-ley-contribuciones-inmobiliarias-lns0001436-1960-12-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=227519"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/225000-229999/227519/norma.htm"

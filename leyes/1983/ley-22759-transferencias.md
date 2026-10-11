@@ -10,6 +10,8 @@ published: 1983-03-18
 boletin_oficial: "25135"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22759-nacional-lnn0027840-1983-03-15"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=259148"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/255000-259999/259148/norma.htm"

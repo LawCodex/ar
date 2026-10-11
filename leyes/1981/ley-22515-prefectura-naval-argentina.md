@@ -10,6 +10,8 @@ published: 1981-11-18
 boletin_oficial: "24799"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22515-nacional-lnn0017030-1981-11-16"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=159311"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/155000-159999/159311/norma.htm"

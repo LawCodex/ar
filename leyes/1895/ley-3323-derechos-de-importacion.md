@@ -10,6 +10,8 @@ published: 1895-12-08
 boletin_oficial: "718"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-3323-nacional-lnn0024216-1895-12-02"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=284494"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/280000-284999/284494/norma.htm"

@@ -9,7 +9,9 @@ date: 1949-07-07
 published: 1949-07-15
 boletin_oficial: "16398"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-13529-nacional-lnn0026176-1949-07-07"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=48721"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/45000-49999/48721/norma.htm"

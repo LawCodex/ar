@@ -9,7 +9,9 @@ date: 1966-09-28
 published: 1966-09-30
 boletin_oficial: "21037"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-16962-nacional-penas-juegos-azar-prohibidos-lns0001323-1966-09-26"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=46829"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/45000-49999/46829/norma.htm"

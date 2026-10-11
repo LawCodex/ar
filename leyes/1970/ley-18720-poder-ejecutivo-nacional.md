@@ -10,6 +10,8 @@ published: 2006-09-25
 boletin_oficial: "30997"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-18720-nacional-donacion-tierras-estado-argentino-asociacion-tiro-corrientes-lnn0029585-1970-06-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=120156"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/120000-124999/120156/norma.htm"

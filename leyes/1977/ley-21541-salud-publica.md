@@ -9,7 +9,9 @@ date: 1977-03-02
 published: 1977-03-18
 boletin_oficial: "23621"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-21541-nacional-salud-publica-medicina-trasplante-organos-material-anatomico-humano-lns0000181-1977-03-02"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=303711"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/303711/texact.htm"

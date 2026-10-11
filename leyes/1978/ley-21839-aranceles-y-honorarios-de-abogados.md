@@ -9,7 +9,9 @@ date: 1978-07-06
 published: 1978-07-20
 boletin_oficial: "23959"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-21839-nacional-aranceles-honorarios-abogados-procuradores-lns0000075-1978-07-14"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=38708"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/35000-39999/38708/texact.htm"

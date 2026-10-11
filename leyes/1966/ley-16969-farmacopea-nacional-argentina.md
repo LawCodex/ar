@@ -9,7 +9,9 @@ date: 1966-10-04
 published: 1966-10-07
 boletin_oficial: "21042"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-16969-nacional-aprobacion-proyecto-farmacopea-nacional-argentina-obligatorio-para-todas-farmacias-nacion-lns0001320-1966-10-04"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=45753"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/45000-49999/45753/norma.htm"

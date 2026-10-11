@@ -9,7 +9,9 @@ date: 1954-12-22
 published: 1954-12-30
 boletin_oficial: "17805"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-14394-nacional-ley-bien-familia-edad-matrimonio-ausencia-presuncion-fallecimiento-lns0001814-1954-12-14"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=103605"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/100000-104999/103605/texact.htm"

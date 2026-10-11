@@ -9,7 +9,9 @@ date: 1983-12-09
 published: 1983-12-14
 boletin_oficial: "25320"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-23027-nacional-creacion-comision-nacional-tratado-cuenca-plata-comite-hidrico-cuenca-plata-lns0003142-1983-12-09"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=197372"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/197372/norma.htm"

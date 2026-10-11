@@ -10,6 +10,8 @@ published: 1976-11-11
 boletin_oficial: "23531"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-21452-nacional-lnn0026660-1976-10-08"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=176676"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/175000-179999/176676/norma.htm"

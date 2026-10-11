@@ -10,6 +10,8 @@ published: 1973-05-21
 boletin_oficial: "22670"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-20389-nacional-lnn0005015-1973-05-16"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=260187"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/260000-264999/260187/norma.htm"

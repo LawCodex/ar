@@ -8,6 +8,8 @@ language: es
 date: 1860-06-23
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-234-nacional-lnn0016755-1867-10-02"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=280951"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/280000-284999/280951/norma.htm"

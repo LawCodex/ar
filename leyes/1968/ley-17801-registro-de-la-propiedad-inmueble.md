@@ -9,7 +9,9 @@ date: 1968-06-28
 published: 1968-07-10
 boletin_oficial: "21473"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-17801-nacional-regimen-registros-propiedad-inmueble-provincias-capital-federal-territorio-nacional-tierra-fuego-antartida-islas-atlantico-sur-lns0001084-1968-06-28"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=53050"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/50000-54999/53050/texact.htm"

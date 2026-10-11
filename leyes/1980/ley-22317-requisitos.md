@@ -9,7 +9,9 @@ date: 1980-10-31
 published: 1980-11-07
 boletin_oficial: "24540"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22317-nacional-regimen-credito-fiscal-lns0002344-1980-10-31"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=19879"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/15000-19999/19879/texact.htm"

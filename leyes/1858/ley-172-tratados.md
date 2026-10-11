@@ -8,6 +8,8 @@ language: es
 date: 1858-07-18
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-172-nacional-lnn0024911-1866-06-14"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=199649"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/199649/norma.htm"

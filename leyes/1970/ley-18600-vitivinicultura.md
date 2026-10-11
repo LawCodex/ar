@@ -9,7 +9,9 @@ date: 1970-02-16
 published: 1970-02-18
 boletin_oficial: "21871"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-18600-nacional-contratos-elaboracion-vinos-lns0000953-1970-02-06"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=58860"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/55000-59999/58860/norma.htm"

@@ -9,7 +9,9 @@ date: 1968-07-04
 published: 1968-07-12
 boletin_oficial: "21475"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-17803-nacional-lnn0005839-1968-06-04"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=218712"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/215000-219999/218712/norma.htm"

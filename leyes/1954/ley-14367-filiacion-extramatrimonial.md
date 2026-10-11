@@ -9,7 +9,9 @@ date: 1954-09-30
 published: 1954-11-03
 boletin_oficial: "17765"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-14367-nacional-lns0001816-1954-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=296665"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/296665/norma.htm"

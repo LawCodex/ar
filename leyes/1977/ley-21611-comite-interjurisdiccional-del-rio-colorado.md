@@ -10,6 +10,8 @@ published: 1977-08-18
 boletin_oficial: "23725"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-21611-nacional-lnn0004141-1977-08-01"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=48992"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/45000-49999/48992/norma.htm"

@@ -10,6 +10,8 @@ published: 1971-09-01
 boletin_oficial: "22249"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-19188-nacional-lnn0026870-1971-08-24"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=301919"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/301919/norma.htm"

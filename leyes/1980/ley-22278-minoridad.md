@@ -9,7 +9,9 @@ date: 1980-08-25
 published: 1980-08-28
 boletin_oficial: "24490"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22278-nacional-regimen-penal-menores-lns0001265-1980-08-25"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=114167"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/110000-114999/114167/texact.htm"

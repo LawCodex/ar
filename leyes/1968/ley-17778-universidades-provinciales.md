@@ -9,7 +9,9 @@ date: 1968-06-12
 published: 1968-06-26
 boletin_oficial: "21464"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-17778-nacional-validez-titulos-grados-otorgados-universidades-institutos-ensenanza-superior-universitaria-provinciales-lns0001091-1968-06-12"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=25717"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/25717/norma.htm"

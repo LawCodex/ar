@@ -9,7 +9,9 @@ date: 1968-07-12
 published: 1968-07-19
 boletin_oficial: "21480"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-17804-nacional-constitucion-seguros-caucion-como-garantia-contratos-obra-publica-lns0001083-1968-07-12"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=300867"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/300867/norma.htm"

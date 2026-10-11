@@ -8,6 +8,8 @@ language: es
 date: 1889-10-22
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-2646-nacional-lnn0002410-1889-10-22"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=203674"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/200000-204999/203674/norma.htm"

@@ -10,6 +10,8 @@ published: 1952-08-12
 boletin_oficial: "17210"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-14125-nacional-lnn0019878-1952-07-25"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=197967"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/197967/norma.htm"

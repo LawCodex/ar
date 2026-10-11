@@ -9,7 +9,9 @@ date: 1985-07-06
 published: 1985-08-20
 boletin_oficial: "25743"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-23211-nacional-jornada-argentina-paz-lns0003235-1985-07-25"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=24850"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/24850/norma.htm"

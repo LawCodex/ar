@@ -10,6 +10,8 @@ published: 1973-01-22
 boletin_oficial: "22590"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-20090-nacional-lnn0026800-1973-01-11"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=182642"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/182642/norma.htm"

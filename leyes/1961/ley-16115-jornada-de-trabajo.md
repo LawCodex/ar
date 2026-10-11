@@ -10,6 +10,8 @@ published: 1961-12-22
 boletin_oficial: "19713"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-16115-nacional-lnn0027050-1961-11-20"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=79329"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/75000-79999/79329/norma.htm"

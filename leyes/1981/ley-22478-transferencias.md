@@ -10,6 +10,8 @@ published: 1981-08-05
 boletin_oficial: "24725"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22478-nacional-lnn0027539-1981-07-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304208"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304208/norma.htm"

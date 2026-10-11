@@ -10,6 +10,8 @@ published: 1977-10-05
 boletin_oficial: "23759"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-21657-nacional-lnn0026623-1977-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=132347"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/130000-134999/132347/norma.htm"

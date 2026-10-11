@@ -10,6 +10,8 @@ published: 1971-01-20
 boletin_oficial: "22097"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-18904-nacional-lnn0014151-1970-12-31"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=301708"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/301708/norma.htm"

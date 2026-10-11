@@ -9,7 +9,9 @@ date: 1984-03-23
 published: 1984-04-11
 boletin_oficial: "25405"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-23060-nacional-reimplantacion-aportes-contribuciones-previsionales-lns0003155-1984-03-22"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=28082"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/28082/texact.htm"

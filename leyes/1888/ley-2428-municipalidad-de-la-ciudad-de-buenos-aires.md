@@ -8,6 +8,8 @@ language: es
 date: 1888-11-06
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-2428-nacional-lnn0024150-1888-11-06"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=283745"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/280000-284999/283745/norma.htm"

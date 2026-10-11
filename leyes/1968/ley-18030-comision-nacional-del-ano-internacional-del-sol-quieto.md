@@ -10,6 +10,8 @@ published: 1969-01-21
 boletin_oficial: "21606"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-18030-nacional-lnn0016154-1968-12-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=301048"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/301048/norma.htm"

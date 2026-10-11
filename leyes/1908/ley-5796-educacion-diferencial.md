@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1908-09-29
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-5796-nacional-creacion-instituto-nacional-ciegos-lns0002392-1908-09-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=287635"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/285000-289999/287635/norma.htm"

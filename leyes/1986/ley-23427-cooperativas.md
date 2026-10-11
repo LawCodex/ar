@@ -9,7 +9,9 @@ date: 1986-11-04
 published: 1986-12-03
 boletin_oficial: "26042"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-23427-nacional-programa-accion-cooperativa-lns0003308-1986-10-15"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=22268"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/22268/texact.htm"
@@ -80,7 +82,9 @@ Para el mejor cumplimiento de las finalidades establecidas en la presente ley la
 
 El Poder Ejecutivo procederá a reglamentar dentro del plazo de noventa (90) días de la promulgación de esta ley las normas presupuestarias a que deberá ajustarse la Secretaría de Acción Cooperativa en la administración y aplicación de los recursos del Fondo para Educación y Promoción Cooperativa de acuerdo con el principio de unidad de caja del presupuesto nacional. Dicha Secretaría deberá someter anualmente a la aprobación del Poder Ejecutivo los planes y programas a desarrollar, que deberán financiarse con los recursos del mencionado Fondo.
 
-## TITULO II — Contribución especial sobre el capital de las Cooperativas. Base de la contribución especial. Vigencia. Sujetos.
+## TITULO II
+
+Contribución especial sobre el capital de las Cooperativas. Base de la contribución especial. Vigencia. Sujetos.
 
 ### ARTICULO 6º
 

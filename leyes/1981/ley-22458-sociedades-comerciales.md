@@ -9,7 +9,9 @@ date: 1981-03-27
 published: 1981-04-06
 boletin_oficial: "24643"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-22458-nacional-derecho-comercial-leyes-complementarias-sociedades-comerciales-lnn0002825-1981-03-27"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304196"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304196/norma.htm"

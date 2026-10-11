@@ -10,6 +10,8 @@ published: 1983-11-09
 boletin_oficial: "25296"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22967-nacional-lnn0003095-1983-11-07"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=250444"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/250000-254999/250444/norma.htm"

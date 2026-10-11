@@ -9,7 +9,9 @@ date: 1952-09-18
 published: 1952-10-31
 boletin_oficial: "17266"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-14147-nacional-autorizacion-poder-ejecutivo-explotar-bienes-cargo-ejercito-lns0001897-1952-09-18"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=192962"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/192962/norma.htm"

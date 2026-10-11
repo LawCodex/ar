@@ -9,7 +9,9 @@ date: 1978-01-27
 published: 1978-02-07
 boletin_oficial: "23847"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21740-nacional-junta-nacional-carnes-lns0000099-1978-01-27"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=23564"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/23564/texact.htm"

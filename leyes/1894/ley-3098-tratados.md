@@ -8,6 +8,8 @@ language: es
 date: 1894-08-28
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-3098-nacional-lnn0023865-1894-08-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=203675"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/200000-204999/203675/norma.htm"

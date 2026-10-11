@@ -9,7 +9,9 @@ date: 1952-09-19
 published: 1952-11-05
 boletin_oficial: "17269"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-14149-nacional-pago-construcciones-via-publica-lns0001896-1952-09-19"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=190799"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/190799/norma.htm"

@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1959-01-14
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-14802-nacional-impuesto-exportacion-carnes-vacunas-lns0001589-1959-01-14"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=298051"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/298051/texact.htm"

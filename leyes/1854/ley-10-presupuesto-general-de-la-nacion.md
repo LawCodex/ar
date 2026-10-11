@@ -8,6 +8,8 @@ language: es
 date: 1854-11-30
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-10-nacional-lnn0017219-1862-08-18"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=280910"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/280000-284999/280910/norma.htm"

@@ -9,7 +9,9 @@ date: 1973-05-16
 published: 1973-05-29
 boletin_oficial: "22675"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20393-nacional-tasas-servicios-aeronauticos-lns0000491-1973-05-16"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=193972"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/193972/norma.htm"

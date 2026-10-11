@@ -10,6 +10,8 @@ published: 1932-07-02
 boletin_oficial: "11428"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-11587-nacional-lnn0023582-1932-06-17"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=293615"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/293615/norma.htm"

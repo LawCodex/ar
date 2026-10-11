@@ -10,6 +10,8 @@ published: 1986-08-12
 boletin_oficial: "25969"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-23321-nacional-inmuebles-transferencia-lnn0028135-1986-06-05"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=23621"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/23621/norma.htm"

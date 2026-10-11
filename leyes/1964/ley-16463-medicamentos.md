@@ -9,7 +9,9 @@ date: 1964-07-23
 published: 1964-08-08
 boletin_oficial: "20488"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-16463-nacional-ley-medicamentos-lns0001407-1964-07-23"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=20414"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/20414/norma.htm"

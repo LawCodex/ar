@@ -1,0 +1,55 @@
+---
+title: "Ley 24131: CODIGO PROCESAL PENAL — SUSTITUCION"
+identifier: "Ley 24131"
+infoleg_id: "529"
+type: act
+jurisdiction: ar
+language: es
+date: 1992-09-02
+published: 1992-09-04
+boletin_oficial: "27465"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-24131-nacional-lnn0028574-1992-09-02"
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=529"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/0-4999/529/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 24131: CODIGO PROCESAL PENAL — SUSTITUCION
+
+CODIGO PROCESAL PENAL
+
+Ley N° 24.131
+
+Modificación.
+
+Sancionada: Setiembre 2 de 1992
+
+Promulgada: Setiembre 3 de 1992
+
+El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc. sanciona con fuerza de Ley:
+
+## ARTICULO 1°
+
+Sustitúyese el artículo 538 de la Ley 23.984 por el siguiente texto:
+
+"Norma derogatoria
+
+**Artículo 538.** Deróganse todas las disposiciones que se opongan a la presente ley, en especial el artículo 11 de la Ley 23.184.
+
+Mantendrá su vigencia el régimen previsto para la extradicción por la Ley 2372, sus modificatorias y las leyes especiales, en todo lo que no se opongan a la presente ley.
+
+Hasta la entrada en vigencia del Código Contravencional de la Capital federal, permanecerán vigentes los artículos 27, 28 inciso 1°, 585, 586, 587, 588, 589 y 590 de la Ley 2372 y sus modificatorias, y el artículo 30 de la Ley 23.184."
+
+## ARTICULO 2°
+
+La presente ley entrará en vigencia al día siguiente de su publicación.
+
+## ARTICULO 3°
+
+Comuníquese al Poder Ejecutivo. — ALBERTO R. PIERRI. — EDUARDO MENEN. — Edgardo Piuzzi. — Juan Estrada.
+
+DADA EN LA SALA DE SESIONES DEL CONGRESO ARGENTINO, EN BUENOS AIRES A LOS DOS DIAS DEL MES DE SETIEMBRE DEL AÑO MIL NOVECIENTOS NOVENTA Y DOS.

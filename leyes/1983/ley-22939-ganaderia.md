@@ -9,7 +9,9 @@ date: 1983-10-06
 published: 1983-10-11
 boletin_oficial: "25276"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22939-nacional-ley-marcas-senales-lns0003085-1983-10-06"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=56748"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/55000-59999/56748/texact.htm"

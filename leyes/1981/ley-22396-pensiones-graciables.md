@@ -10,6 +10,8 @@ published: 1981-02-16
 boletin_oficial: "24608"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22396-nacional-lnn0025728-1981-02-06"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304166"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304166/norma.htm"

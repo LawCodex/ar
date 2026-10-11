@@ -9,7 +9,9 @@ date: 1946-12-20
 published: 1947-06-14
 boletin_oficial: "15792"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-12915-nacional-sueldo-anual-complementario-para-empleados-publicos-lns0002429-1946-12-20"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=44841"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/40000-44999/44841/texact.htm"

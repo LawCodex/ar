@@ -9,7 +9,9 @@ date: 1973-05-21
 published: 1973-06-04
 boletin_oficial: "22679"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20426-nacional-facultades-junta-nacional-carnes-respecto-carne-equina-lns0000551-1973-05-21"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302762"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302762/texact.htm"

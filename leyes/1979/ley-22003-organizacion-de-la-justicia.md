@@ -9,7 +9,9 @@ date: 1979-05-22
 published: 1979-05-28
 boletin_oficial: "24173"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22003-nacional-supresion-tribunal-bancario-tribunal-seguros-reaseguros-capitalizacion-ahorro-lns0000015-1979-05-22"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=303967"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/303967/norma.htm"

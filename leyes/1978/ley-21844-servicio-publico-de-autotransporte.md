@@ -9,7 +9,9 @@ date: 1978-08-03
 published: 1978-08-09
 boletin_oficial: "23973"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21844-nacional-regimen-sanciones-aplicar-infraciones-prestatarios-servicios-publicos-transporte-automotor-lns0000073-1978-08-03"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=25828"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/25828/norma.htm"

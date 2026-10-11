@@ -9,7 +9,9 @@ date: 1923-10-19
 published: 1924-01-14
 boletin_oficial: "8948"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-11242-nacional-impuesto-especial-sobre-boletos-entrada-hipodromos-capital-federal-gran-buenos-aires-lns0002609-1923-10-19"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=293269"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/293269/texact.htm"

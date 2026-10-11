@@ -10,6 +10,8 @@ published: 1930-02-20
 boletin_oficial: "10742"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-11577-nacional-lnn0021413-1930-01-25"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=185026"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/185000-189999/185026/norma.htm"

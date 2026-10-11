@@ -10,6 +10,8 @@ published: 1966-08-24
 boletin_oficial: "21010"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-16926-nacional-lnn0006172-1966-08-22"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=46625"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/45000-49999/46625/norma.htm"

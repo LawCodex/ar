@@ -8,6 +8,8 @@ language: es
 date: 1870-09-03
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-439-nacional-lnn0016889-1870-10-03"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=246634"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/245000-249999/246634/norma.htm"

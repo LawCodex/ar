@@ -9,7 +9,9 @@ date: 1985-06-05
 published: 1985-06-28
 boletin_oficial: "25707"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-23187-nacional-regulacion-ejercicio-profesion-abogado-capital-federal-lns0003219-1985-06-05"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=26188"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/26188/texact.htm"

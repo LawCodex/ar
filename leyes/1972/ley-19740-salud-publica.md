@@ -9,7 +9,9 @@ date: 1972-07-20
 published: 1972-07-27
 boletin_oficial: "22472"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19740-nacional-creacion-registro-nacional-profesionales-arte-curar-lns0000704-1972-07-20"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=142830"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/140000-144999/142830/norma.htm"

@@ -9,7 +9,9 @@ date: 1975-07-11
 published: 1975-07-22
 boletin_oficial: "23202"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20972-nacional-acefalia-presidencial-lns0000381-1975-07-11"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=81179"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/80000-84999/81179/texact.htm"

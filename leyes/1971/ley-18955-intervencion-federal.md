@@ -10,6 +10,8 @@ published: 1971-03-24
 boletin_oficial: "22140"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-18955-nacional-lnn0014706-1971-03-17"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=301747"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/301747/norma.htm"

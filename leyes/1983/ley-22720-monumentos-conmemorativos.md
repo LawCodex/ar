@@ -10,6 +10,8 @@ published: 1983-01-27
 boletin_oficial: "25099"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22720-nacional-lnn0027828-1983-01-25"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=260046"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/260000-264999/260046/norma.htm"

@@ -9,7 +9,9 @@ date: 1970-01-30
 published: 1970-02-16
 boletin_oficial: "21869"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-18576-nacional-lnn0025629-1970-01-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=212908"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/210000-214999/212908/norma.htm"

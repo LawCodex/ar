@@ -9,7 +9,9 @@ date: 1962-01-25
 published: 1962-02-26
 boletin_oficial: "19766"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-16443-nacional-determinacion-haber-retiro-jubilacion-pension-personal-fuerzas-seguridad-nacion-incapacitado-muerto-acto-servicio-lns0001410-1962-02-15"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=100191"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/100000-104999/100191/norma.htm"

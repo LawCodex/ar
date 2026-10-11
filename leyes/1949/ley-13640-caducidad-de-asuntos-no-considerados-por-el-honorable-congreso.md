@@ -9,7 +9,9 @@ date: 1949-09-30
 published: 1949-11-05
 boletin_oficial: "16488"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-13640-nacional-caducidad-proyectos-ley-lns0001967-1949-09-30"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=231988"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/231988/texact.htm"

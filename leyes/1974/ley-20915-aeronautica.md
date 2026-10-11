@@ -10,6 +10,8 @@ published: 1975-01-08
 boletin_oficial: "23071"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-20915-nacional-lnn0026712-1974-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=272075"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/270000-274999/272075/norma.htm"

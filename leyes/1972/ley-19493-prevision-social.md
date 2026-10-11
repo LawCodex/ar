@@ -10,6 +10,8 @@ published: 1972-02-25
 boletin_oficial: "22369"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-19493-nacional-lnn0018153-1972-02-17"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=129968"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/125000-129999/129968/norma.htm"

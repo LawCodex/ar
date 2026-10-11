@@ -10,6 +10,8 @@ published: 1985-09-11
 boletin_oficial: "25759"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-23223-nacional-lnn0003239-1985-08-21"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=24836"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/24836/texact.htm"

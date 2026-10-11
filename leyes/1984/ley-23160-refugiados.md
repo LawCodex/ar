@@ -9,7 +9,9 @@ date: 1984-09-30
 published: 1984-11-01
 boletin_oficial: "25543"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-23160-nacional-modificacion-ley-15869-adhesion-convencion-sobre-estatuto-refugiados-lnn0028054-1984-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=26367"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/26367/norma.htm"

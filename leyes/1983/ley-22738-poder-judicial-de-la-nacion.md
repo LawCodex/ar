@@ -9,7 +9,9 @@ date: 1983-02-08
 published: 1983-02-11
 boletin_oficial: "25110"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22738-nacional-suplemento-permanencia-categoria-percibir-magistrados-funcionarios-empleados-poder-judicial-nacion-lns0002983-1983-02-08"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=232537"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/232537/norma.htm"

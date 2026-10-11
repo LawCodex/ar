@@ -9,7 +9,9 @@ date: 1973-04-27
 published: 1973-05-10
 boletin_oficial: "22663"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20321-nacional-regimen-asociaciones-mutuales-lns0000532-1973-04-27"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=25392"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/25392/texact.htm"

@@ -8,6 +8,8 @@ language: es
 date: 1879-10-06
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-1011-nacional-lnn0017669-1879-10-06"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=188698"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/185000-189999/188698/norma.htm"

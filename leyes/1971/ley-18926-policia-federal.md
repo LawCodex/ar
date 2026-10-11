@@ -9,7 +9,9 @@ date: 1971-01-27
 published: 2006-09-22
 boletin_oficial: "30996"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-18926-nacional-incremento-temporario-remuneracion-mensual-personal-subalterno-masculino-seguridad-defensa-policia-federal-lns0005086-1971-01-27"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=120100"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/120000-124999/120100/norma.htm"

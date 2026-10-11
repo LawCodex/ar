@@ -8,6 +8,8 @@ language: es
 date: 1969-09-04
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-18338-nacional-lnn0016157-1969-09-04"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=301291"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/301291/norma.htm"

@@ -10,6 +10,8 @@ published: 1913-10-15
 boletin_oficial: "5937"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-9155-nacional-lnn0024122-1913-09-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=290951"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/290951/norma.htm"

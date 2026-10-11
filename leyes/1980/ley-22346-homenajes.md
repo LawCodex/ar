@@ -10,6 +10,8 @@ published: 1980-12-09
 boletin_oficial: "24561"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22346-nacional-lnn0023720-1980-12-02"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304140"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304140/norma.htm"

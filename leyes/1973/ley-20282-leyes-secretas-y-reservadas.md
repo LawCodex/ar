@@ -10,6 +10,8 @@ published: 2015-04-15
 boletin_oficial: "33108"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-20282-nacional-ley-secreta-reservada-publicada-conforme-establecido-ley-26134-sobre-exenciones-impositivas-operaciones-compra-venta-ganado-lnn0029876-1973-04-16"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=245851"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/245000-249999/245851/norma.htm"

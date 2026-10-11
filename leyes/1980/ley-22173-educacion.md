@@ -9,7 +9,9 @@ date: 1980-02-25
 published: 1980-02-29
 boletin_oficial: "24367"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22173-nacional-universidad-nacional-patagonia-san-juan-bosco-lns0001264-1980-02-25"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=232833"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/232833/norma.htm"

@@ -10,6 +10,8 @@ published: 1972-04-18
 boletin_oficial: "22404"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-19568-nacional-lnn0021877-1972-04-12"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=180928"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/180928/norma.htm"

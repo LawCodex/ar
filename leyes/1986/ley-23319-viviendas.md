@@ -9,7 +9,9 @@ date: 1986-06-05
 published: 1986-09-08
 boletin_oficial: "25988"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-23319-nacional-adjudicacion-viviendas-para-personal-defensa-seguridad-federal-lns0003296-1986-06-05"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=23770"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/23770/norma.htm"

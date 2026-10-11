@@ -10,6 +10,8 @@ published: 1972-12-22
 boletin_oficial: "22571"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-20034-nacional-lnn0020673-1972-12-20"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302518"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302518/norma.htm"

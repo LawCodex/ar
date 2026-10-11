@@ -10,6 +10,8 @@ published: 1961-06-23
 boletin_oficial: "19562"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-15807-nacional-lnn0018284-1961-05-31"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=193361"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/193361/norma.htm"

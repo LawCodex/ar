@@ -9,7 +9,9 @@ date: 1983-10-14
 published: 1983-10-18
 boletin_oficial: "25280"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22949-nacional-creacion-una-secretaria-para-actuar-juzgado-federal-primera-instancia-criminal-correccional-san-isidro-buenos-aires-lns0003103-1983-10-14"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=232578"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/232578/norma.htm"

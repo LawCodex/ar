@@ -134,7 +134,9 @@ Miembros y Suscripciones Iniciales
 
 (h) Las condiciones en que se realizarán las subscripciones iniciales de miembros no fundadores, su importe y modalidades de pago, serán determinadas por la Asociación, de acuerdo con la Sección 1 (b) del presente Artículo.
 
-### SECCION 3. Limitación de Responsabilidad — Ningún miembro, por el hecho de serlo, será responsable de las obligaciones de la Asociación.
+### SECCION 3. Limitación de Responsabilidad
+
+Ningún miembro, por el hecho de serlo, será responsable de las obligaciones de la Asociación.
 
 ARTICULO III
 
@@ -382,7 +384,9 @@ Cualquier miembro, en cualquier momento, podrá retirarse de la Asociación dand
 
 (b) Mientras subsista la suspensión, el miembro no podrá ejercer ninguno de los derechos comprendidos en el presente Convenio, excepto el de retirarse, pero quedará sujeto al cumplimiento de todas sus obligaciones.
 
-### SECCION 3.Suspensión o Cese de Miembros del Banco — Todo miembro que sea suspendido o deje de ser miembro del Banco, será automáticamente suspendido, o dejará de ser miembro de la Asociación, según sea el caso.
+### SECCION 3.Suspensión o Cese de Miembros del Banco
+
+Todo miembro que sea suspendido o deje de ser miembro del Banco, será automáticamente suspendido, o dejará de ser miembro de la Asociación, según sea el caso.
 
 ### SECCION 4. Derechos y deberes de los Gobiernos que dejen de Ser Miembros
 

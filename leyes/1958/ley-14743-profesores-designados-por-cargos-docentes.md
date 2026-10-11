@@ -10,6 +10,8 @@ published: 1959-04-16
 boletin_oficial: "18913"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-14743-nacional-lnn0018436-1958-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=298005"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/298005/norma.htm"

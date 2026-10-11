@@ -10,6 +10,8 @@ published: 1968-05-30
 boletin_oficial: "21447"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-17741-nacional-instituto-nacional-cinematografia-lns0001099-1968-05-14"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=17938"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/15000-19999/17938/norma.htm"

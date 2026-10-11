@@ -10,6 +10,8 @@ published: 1974-10-31
 boletin_oficial: "23027"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-20859-nacional-lnn0026714-1974-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=194167"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/194167/norma.htm"

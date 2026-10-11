@@ -10,6 +10,8 @@ published: 1934-07-06
 boletin_oficial: "12020"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-11841-nacional-lnn0024251-1934-06-15"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=293885"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/293885/norma.htm"

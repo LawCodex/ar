@@ -9,7 +9,9 @@ date: 1979-11-23
 published: 1979-11-30
 boletin_oficial: "24304"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22109-nacional-prevencion-control-viruela-lns0000198-1979-11-23"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=231268"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/231268/norma.htm"

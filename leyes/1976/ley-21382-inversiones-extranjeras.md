@@ -10,6 +10,8 @@ published: 1976-08-19
 boletin_oficial: "23471"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-21382-nacional-lnn0000297-1976-08-13"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=56254"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/55000-59999/56254/texact.htm"

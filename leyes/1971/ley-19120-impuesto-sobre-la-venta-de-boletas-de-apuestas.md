@@ -10,6 +10,8 @@ published: 1971-07-22
 boletin_oficial: "22221"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-19120-nacional-lnn0000849-1971-07-15"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=301868"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/301868/norma.htm"

@@ -10,6 +10,8 @@ published: 1966-09-02
 boletin_oficial: "21017"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-16938-nacional-lnn0006167-1966-08-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=46636"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/45000-49999/46636/norma.htm"

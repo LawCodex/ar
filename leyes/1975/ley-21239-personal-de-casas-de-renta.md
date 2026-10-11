@@ -10,6 +10,8 @@ published: 1976-01-02
 boletin_oficial: "23315"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-21239-nacional-lnn0026692-1975-12-04"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=203933"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/200000-204999/203933/norma.htm"

@@ -9,7 +9,9 @@ date: 1923-11-24
 published: 1924-03-06
 boletin_oficial: "8991"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-11293-nacional-pensiones-guerreros-brasil-paraguay-expedicionarios-desierto-lns0002284-1923-11-24"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=293311"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/293311/texact.htm"

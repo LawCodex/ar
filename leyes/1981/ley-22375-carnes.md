@@ -9,7 +9,9 @@ date: 1981-01-19
 published: 1981-01-26
 boletin_oficial: "24593"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22375-nacional-regimen-habilitacion-funcionamiento-establecimientos-faenadores-vacunos-lns0002749-1981-01-19"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=64970"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/60000-64999/64970/norma.htm"

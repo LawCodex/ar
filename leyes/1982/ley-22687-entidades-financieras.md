@@ -9,7 +9,9 @@ date: 1982-12-02
 published: 1982-12-06
 boletin_oficial: "25062"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22687-nacional-refinanciacion-deudas-acuerdo-regimenes-dispuestos-circulares-remon-1-22-camex-1-26-banco-central-republica-argentina-lns0002960-1982-12-02"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304325"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304325/norma.htm"

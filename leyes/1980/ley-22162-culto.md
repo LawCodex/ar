@@ -9,7 +9,9 @@ date: 1980-02-13
 published: 1980-02-25
 boletin_oficial: "24363"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22162-nacional-remuneracion-curas-parrocos-zonas-frontera-lns0001239-1980-02-13"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=196334"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/196334/norma.htm"

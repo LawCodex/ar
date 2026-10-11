@@ -557,7 +557,9 @@ Nota: Esta información corresponde al diagrama de radiación de anena aumentand
 | 9 | Amplitud total del aumento (grados): |
 | 10 | Información suplementaria. |
 
-## PARTE II-C — Información suplementaria sobre las antenas de carga terminalo seccionadas, direccionales o no.
+## PARTE II-C
+
+Información suplementaria sobre las antenas de carga terminalo seccionadas, direccionales o no.
 
 Cuando la torre de una antena es de carga terminal o seccionada, el código de la columna 12 de la Parte II-A quedará comprendido entre 1 a 9, ambos inclusive. Este valor corresponde al tipo particular de antena de carga terminal o seccionada que se utiliza según se indica seguidamente:
 
@@ -621,7 +623,9 @@ Las columnas 6 a 9 contienen los valores de las características de los elemento
 | 8. | Valor absoluto de la relación entre la componente real de la corriente y la componente imaginaria de la corriente en el punto de amplitud máxima: |
 | 9: | En blanco: |
 
-## ANEXO 2 — al Acuerdo Regional sobre el servicio de radiodifusión por ondas hectométricas en la Región 2.
+## ANEXO 2
+
+al Acuerdo Regional sobre el servicio de radiodifusión por ondas hectométricas en la Región 2.
 
 DATOS TÉCNICOS
 
@@ -1515,7 +1519,9 @@ B: altura eléctrica del centro del dipolo terminal:
 
 0: ángulo de elevación.
 
-## ANEXO 3 — al Acuerdo Regional sobre el servicio de radiodifusión por ondas hectométricas en la Región 2.
+## ANEXO 3
+
+al Acuerdo Regional sobre el servicio de radiodifusión por ondas hectométricas en la Región 2.
 
 FORMULARIOS
 
@@ -1535,7 +1541,9 @@ que se utilizarán para la aplicación del Artículo 4 del Acuerdo
 
 ## PARTE III - Información complementaria para sistemas de antenas direccionales con diagrama de radiación aumentado (ampliado modificado)
 
-## PARTE IV- Información complementaria para torres de carga terminal o seccionadas — 4. La administraciones utilizarán solamente estos formularios o una reproducción exacta de los mismos.
+## PARTE IV- Información complementaria para torres de carga terminal o seccionadas.
+
+4\. La administraciones utilizarán solamente estos formularios o una reproducción exacta de los mismos.
 
 5\. La IFRB devolverá los formularios que no hayan sido correctamente completados.
 

@@ -9,7 +9,9 @@ date: 1974-01-25
 published: 1974-02-11
 boletin_oficial: "22850"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-20644-nacional-lnn0025416-1974-01-25"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=180580"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/180580/norma.htm"

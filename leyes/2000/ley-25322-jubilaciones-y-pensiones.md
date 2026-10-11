@@ -1,0 +1,59 @@
+---
+title: "Ley 25322: JUBILACIONES Y PENSIONES — REQUISITOS - REGIMENES DIFERENCIALES"
+identifier: "Ley 25322"
+infoleg_id: "64554"
+type: act
+jurisdiction: ar
+language: es
+date: 2000-09-13
+published: 2000-10-11
+boletin_oficial: "29502"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-25322-nacional-computo-servicios-para-ex-trabajadores-estado-lns0004483-2000-09-13"
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=64554"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/60000-64999/64554/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 25322: JUBILACIONES Y PENSIONES — REQUISITOS - REGIMENES DIFERENCIALES
+
+Ley 25.322
+
+Norma para la acreditación de años de servicios en los regímenes diferenciales encuadrados en la Ley N° 24.017 y prorrogados por la Ley N° 24.175 y 24.241.
+
+Sancionada: Setiembre 13 de 2000.
+
+Promulgada Parcialmente: Octubre 4 de 2000.
+
+El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc. Sancionan con fuerza de Ley:
+
+## ARTICULO 1°
+
+Todos los ex trabajadores de las ex empresas públicas del Estado nacional, sus reparticiones y organismos centralizados, descentralizados o autárquicos, sociedades anónimas con participación estatal mayoritaria, sociedades de economía mixta, servicios de cuentas especiales y obras sociales del sector público, podrán a los efectos de acreditar sus años de servicios en los regímenes diferenciales encuadrados en la Ley 24.175, cuando no existiere comprobación fehaciente por parte de las autoridades encargadas de certificar servicios y remuneraciones, lo siguiente:
+
+a) Con la presentación de sus recibos de haberes donde conste los códigos correspondientes a la tarea realizada y/o los ítem correspondientes a pagos referidos a trabajo en tareas de campo, cualquiera sea la naturaleza de las mismas;
+
+b) O mediante información sumaria del trabajador donde conste la realización de tareas insalubres o de campo, tiempo de duración y su efectivización en zona inhóspita, refrendada por dos (2) testigos.
+
+## ARTICULO 2°
+
+Los organismos certificantes tienen la obligatoriedad de reconocer como válidos los instrumentos detallados en a) o b) del artículo 1°, a los efectos de realizar la certificación de servicios y remuneraciones del trabajador que lo solicitare, en los términos previstos en la presente ley.
+
+## ARTICULO 3°
+
+La Secretaría de Seguridad Social de la Nación, a través de la autoridad de aplicación ANSeS, tiene la obligatoriedad de reconocer como válidas a los efectos del otorgamiento del beneficio jubilatorio, las certificaciones de servicios y remuneraciones otorgadas por los organismos certificantes en las condiciones previstas en el artículo 2°.
+
+## ARTICULO 4°
+
+Comuníquese al Poder Ejecutivo.
+
+DADA EN LA SALA DE SESIONES DEL CONGRESO ARGENTINO, EN BUENOS AIRES, A LOS TRECE DIAS DEL MES DE SETIEMBRE DEL AÑO DOS MIL.
+
+—REGISTRADA BAJO EL N° 25.322—
+
+RAFAEL PASCUAL. — JOSE GENOUD. — Guillermo Aramburu. — Mario L. Pontaquarto.
+
+NOTA: Los textos en negrita fueron observados.

@@ -1854,7 +1854,9 @@ c) En caso de controversia sobre la interpretación de los diversos textos hará
 
 3) Una vez que todos los países de la Unión se hayan hecho miembros de la Organización, los derechos, obligaciones y bienes de la Oficina de la Unión pasarán a la Oficina Internacional de la Organización.
 
-## ANEXO — ARTICULO PRIMERO
+## ANEXO
+
+ARTICULO PRIMERO
 
 1) Todo país, considerado de conformidad con la práctica establecida por la Asamblea General de las Naciones Unidas como país en desarrollo, que ratifique la presente acta, de la cual forma parte integrante el presente anexo, o que se adhiera a ella, y que en vista de su situación económica y sus necesidades sociales o culturales considere no estar en condiciones de tomar de inmediato las disposiciones necesarias para asegurar la protección de todos los derechos tal como están previstos en la presente Acta, podrá declarar, por medio de una notificación depositada en poder del director General, en el momento del depósito de su instrumento de ratificación o de adhesión, o sin perjuicio de lo dispuesto en el artículo II 9) b), en cualquier fecha posterior, que hará uso de la facultad prevista por el artículo II, de aquélla prevista por el artículo III de ambas facultades. Podrá, en lugar de hacer uso de la facultad prevista por el artículo II hacer una declaración conforme al artículo V. 1 a).
 

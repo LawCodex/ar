@@ -10,6 +10,8 @@ published: 1959-12-17
 boletin_oficial: "19113"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-15023-nacional-lnn0027078-1959-11-15"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=125310"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/125000-129999/125310/norma.htm"

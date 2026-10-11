@@ -10,6 +10,8 @@ published: 1921-05-24
 boletin_oficial: "8171"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-11114-nacional-lnn0021612-1921-04-12"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=227419"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/225000-229999/227419/norma.htm"

@@ -10,6 +10,8 @@ published: 1980-05-14
 boletin_oficial: "24417"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22222-nacional-lnn0027499-1980-05-08"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304078"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304078/norma.htm"

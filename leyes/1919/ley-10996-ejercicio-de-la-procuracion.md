@@ -9,7 +9,9 @@ date: 1919-09-30
 published: 1919-11-14
 boletin_oficial: "7725"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-10996-nacional-ejercicio-profesional-procuradores-lns0002400-1919-09-10"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=195485"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/195485/texact.htm"

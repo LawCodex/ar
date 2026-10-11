@@ -9,7 +9,9 @@ date: 1984-03-15
 published: 1984-03-26
 boletin_oficial: "25393"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-23056-nacional-salud-publica-alimentacion-programa-alimentario-nacional-lns0003152-1984-03-15"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=28150"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/28150/norma.htm"

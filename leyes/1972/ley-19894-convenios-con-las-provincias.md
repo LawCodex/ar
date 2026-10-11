@@ -9,7 +9,9 @@ date: 1972-10-16
 published: 1972-10-27
 boletin_oficial: "22535"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19894-nacional-convenio-entre-loteria-nacional-casinos-provincia-buenos-aires-lns0000665-1972-10-16"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302427"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302427/norma.htm"

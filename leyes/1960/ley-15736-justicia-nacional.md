@@ -9,7 +9,9 @@ date: 1960-09-30
 published: 1960-10-25
 boletin_oficial: "19366"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-15736-nacional-organizacion-camara-nacional-operaciones-criminal-correccional-capital-federal-lns0001448-1960-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=196002"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/196002/norma.htm"

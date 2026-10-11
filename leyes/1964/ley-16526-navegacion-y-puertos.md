@@ -9,7 +9,9 @@ date: 1964-10-27
 published: 1965-01-25
 boletin_oficial: "20620"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-16526-nacional-remocion-obstaculos-peligrosos-para-navegacion-maritima-fluvial-aguas-jurisdiccionales-argentinas-lns0004447-1964-10-27"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=300050"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/300050/texact.htm"

@@ -9,7 +9,9 @@ date: 1983-06-23
 published: 1983-06-28
 boletin_oficial: "25202"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22838-nacional-sistema-electoral-lns0003037-1983-06-23"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=151849"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/150000-154999/151849/norma.htm"

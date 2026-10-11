@@ -9,7 +9,9 @@ date: 1965-12-27
 published: 1966-01-20
 boletin_oficial: "20865"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-16879-nacional-exenciones-impositivas-industrias-nacionales-adjudicatarias-licitaciones-internacionales-lns0001340-1965-12-27"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=228325"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/225000-229999/228325/norma.htm"

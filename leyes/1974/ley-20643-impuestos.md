@@ -9,7 +9,9 @@ date: 1974-01-25
 published: 1974-02-11
 boletin_oficial: "22850"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20643-nacional-conversion-titulos-creditos-lns0000458-1974-01-25"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=69798"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/65000-69999/69798/texact.htm"
@@ -34,7 +36,9 @@ POR CUANTO:
 
 EL SENADO Y CÁMARA DE DIPUTADOS DE LA NACIÓN ARGENTINA REUNIDOS EN CONGRESO, ETC., SANCIONAN CON FUERZA DE LEY:
 
-## TITULO I — Régimen de desgravación impositiva para la compra de títulos valores privados.
+## TITULO I
+
+Régimen de desgravación impositiva para la compra de títulos valores privados.
 
 ### CAPITULO UNICO
 
@@ -241,7 +245,9 @@ La desafectación antes de su inversión en acciones, de los fondos depositados,
 
 Los depósitos originados en la franquicia organizada por el Decreto-Ley 19.061/71 y sus modificaciones, podrán ser utilizados con arreglo a las disposiciones de la presente ley.
 
-## TITULO II — Emisiones por debajo de la par y bonos convertibles. Modificaciones.
+## TITULO II
+
+Emisiones por debajo de la par y bonos convertibles. Modificaciones.
 
 #### ARTICULO 20
 

@@ -9,7 +9,9 @@ date: 1978-01-12
 published: 1978-01-18
 boletin_oficial: "23833"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21727-nacional-aumento-aporte-argentina-al-capital-banco-interamericano-desarrollo-lns0000102-1978-01-12"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=303820"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/303820/norma.htm"

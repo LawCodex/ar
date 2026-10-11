@@ -9,7 +9,9 @@ date: 1968-06-28
 published: 1968-07-05
 boletin_oficial: "21471"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-17794-nacional-premios-loteria-nacional-lns0001087-1968-06-28"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=195267"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/195267/texact.htm"

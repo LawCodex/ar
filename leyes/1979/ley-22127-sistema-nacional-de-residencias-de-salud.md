@@ -9,7 +9,9 @@ date: 1979-12-21
 published: 1980-01-08
 boletin_oficial: "24329"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22127-nacional-establecimiento-sistema-nacional-residencias-salud-constitucion-consejo-nacional-residencias-salud-lns0001262-1979-12-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=115574"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/115000-119999/115574/norma.htm"

@@ -9,7 +9,9 @@ date: 1978-05-18
 published: 1978-05-24
 boletin_oficial: "23920"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-21801-nacional-organismos-estado-sindicatura-general-empresas-publicas-lns0000213-1978-05-18"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=180507"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/180507/texact.htm"

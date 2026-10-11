@@ -8,6 +8,8 @@ language: es
 date: 1881-10-11
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-1116-nacional-lnn0016283-1881-10-11"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=216105"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/215000-219999/216105/norma.htm"

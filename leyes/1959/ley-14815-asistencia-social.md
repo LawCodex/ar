@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1959-07-23
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-14815-nacional-creacion-comision-planificacion-ayuda-reconstruccion-lns0002866-1959-07-23"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=298064"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/298064/norma.htm"

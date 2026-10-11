@@ -9,7 +9,9 @@ date: 1973-05-23
 published: 1973-06-18
 boletin_oficial: "22689"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20464-nacional-estatuto-carrera-investigador-cientifico-tecnologico-lns0000540-1973-05-23"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=60507"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/60000-64999/60507/texact.htm"

@@ -10,6 +10,8 @@ published: 1933-10-11
 boletin_oficial: "11808"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-11757-nacional-lnn0024701-1933-09-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=43038"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/40000-44999/43038/norma.htm"

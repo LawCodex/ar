@@ -9,7 +9,9 @@ date: 1969-01-20
 published: 1969-03-27
 boletin_oficial: "21651"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-18073-nacional-prohibicion-uso-plaguicidas-lns0001039-1969-01-20"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=19949"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/15000-19999/19949/texact.htm"

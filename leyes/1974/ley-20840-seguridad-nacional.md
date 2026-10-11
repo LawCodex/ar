@@ -9,7 +9,9 @@ date: 1974-09-28
 published: 1974-10-02
 boletin_oficial: "23006"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-20840-nacional-represion-actividades-subversivas-lns0000440-1974-09-28"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=73268"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/70000-74999/73268/texact.htm"

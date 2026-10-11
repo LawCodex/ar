@@ -9,7 +9,9 @@ date: 1950-09-29
 published: 1950-11-09
 boletin_oficial: "16773"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-14000-nacional-afianzamiento-cumplimiento-contratos-obra-publica-bonos-titulos-nacionales-provinciales-municipales-lns0001920-1950-09-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=296374"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/296374/norma.htm"

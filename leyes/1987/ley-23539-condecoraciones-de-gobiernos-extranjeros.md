@@ -1,0 +1,85 @@
+---
+title: "Ley 23539: CONDECORACIONES DE GOBIERNOS EXTRANJEROS — AUTORIZACION PARA ACEPTAR Y USAR"
+identifier: "Ley 23539"
+infoleg_id: "21270"
+type: act
+jurisdiction: ar
+language: es
+date: 1987-09-24
+published: 1987-11-06
+boletin_oficial: "26259"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-23539-nacional-lnn0028200-1987-09-24"
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=21270"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/21270/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 23539: CONDECORACIONES DE GOBIERNOS EXTRANJEROS — AUTORIZACION PARA ACEPTAR Y USAR
+
+CONDECORACIONES
+
+LEY N° 23.539
+
+Acuérdase autorización a ciudadanos para aceptar y usar condecoraciones otorgadas por gobiernos extranjeros.
+
+Sancionada: Setiembre 24 de 1987.
+
+Promulgada de Hecho: Octubre 16 de 1987.
+
+EL SENADO Y CAMARA DE DIPUTADOS DE LA NACION ARGENTINA REUNIDOS EN CONGRESO, ETC., SANCIONAN CON FUERZA DE
+
+LEY:
+
+## ARTICULO 1°
+
+Acuérdase autorización a los ciudadanos que a continuación se detallan para aceptar y usar condecoraciones, distinciones y títulos otorgados por gobiernos extranjeros:
+
+Apa, Jorge Norberto, “Prócer de la Libertad General de División José Miguel Lanza en el Grado de Comendador”, otorgada por las fuerzas armadas de Bolivia.
+
+Arosa, Ramón Antonio, “Medalla Naval de Servicios Distinguidos”, otorgada por la República Federativa del Brasil”.
+
+Arosa, Ramón Antonio, “Estrella Militar de las Fuerzas Armadas en el Grado de Gran Estrella al Mérito Naval”, otorgada por la República de Chile”.
+
+Quiroga, Osvaldo César, “Diploma de Oficial de Estado Mayor”, otorgado por las fuerzas armadas de Bolivia.
+
+Quiroga, Osvaldo César, “Libro y Espada de Oro”, otorgada por el ejército de Bolivia.
+
+Quiroga, Osvaldo César, “Prócer de la Libertad General de División José Miguel Lanza en el Grado de Caballero”, otorgado por las fuerzas armadas de Bolivia.
+
+Quiroga, Osvaldo César, Paracaidista Militar (Brevet de Plata)”, otorgado por el ejército de Bolivia.
+
+Quiroga, Osvaldo César, “Profesor Militar en Primera Categoría”, otorgado por las fuerzas armadas de Bolivia.
+
+Reimundes, Daniel Manuel, “Cruz de la Orden del Mérito Militar con Distintivo Blanco de 2da. Clase”, otorgada por el ejército español.
+
+Reimundes, Daniel Manuel, “Medalla Minerva”, otorgada por el ejército de Chile.
+
+Reimundes, Daniel Manuel, “Medalla Francisco José de Caldas —Categoría A la Consagración—”, otorgada por las fuerzas armadas de Colombia.
+
+Quintero, Julio Martín, “Paracaidista Militar (Brevet de Plata)”, otorgada por el ejército de Bolivia.
+
+Cardoso, Eduardo Antonio, “Medalla al Mérito II Clase”, otorgada por las fuerzas armadas de Honduras.
+
+Crisol, Gabriel Néstor, “Medalla Militar Bernardo OʼHiggins”, otorgada por el ejército de Chile.
+
+Crisol, Gabriel Néstor, “Cruz del Mérito Militar con Distintivo Blanco, de 2da Clase”, otorgada por el ejército de España.
+
+Crisol, Gabriel Néstor, “Estrella de las fuerzas armadas del Ecuador en el Grado de Estrella Militar”, otorgada por la República del Ecuador.
+
+Delgado, Guillermo, “Distintivo (Brevet)”, otorgado por el ejército de la República Federativa del Brasil.
+
+## ARTICULO 2°
+
+Comuníquese al Poder Ejecutivo.
+
+Dada en la Sala de Sesiones del Congreso Argentino, en Buenos Aires, a los veinticuatro días del mes de setiembre del año mil novecientos ochenta y siete.
+
+| J. C. PUGLIESE. | V. H. MARTINEZ. |
+|---|---|
+| C. A. Bravo. | A. J. Macris. |
+
+— Registrada bajo el N° 23.539 —

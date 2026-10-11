@@ -9,7 +9,9 @@ date: 1981-03-16
 published: 1981-03-20
 boletin_oficial: "24632"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22431-nacional-institucion-sistema-proteccion-integral-personas-discapacitadas-lns0002803-1981-03-16"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=20620"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/20620/texact.htm"

@@ -9,7 +9,9 @@ date: 1973-11-29
 published: 1974-01-10
 boletin_oficial: "22828"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20586-nacional-pago-asignaciones-familiares-jubilados-pensionados-lns0000505-1973-11-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302864"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302864/norma.htm"

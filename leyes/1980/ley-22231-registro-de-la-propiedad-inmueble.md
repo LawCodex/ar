@@ -9,7 +9,9 @@ date: 1980-05-27
 published: 1980-06-03
 boletin_oficial: "24431"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22231-nacional-denegacion-inscripcion-registro-propiedad-inmueble-lns0001842-1980-05-27"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304085"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304085/norma.htm"

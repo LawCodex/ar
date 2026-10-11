@@ -1,0 +1,59 @@
+---
+title: "Ley 25545: INMUEBLES — TRANSFERENCIA (ALMIRANTE BROWN, BS. AS.)"
+identifier: "Ley 25545"
+infoleg_id: "71521"
+type: act
+jurisdiction: ar
+language: es
+date: 2001-11-27
+published: 2002-01-09
+boletin_oficial: "29812"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-25545-nacional-lnn0029369-2001-11-27"
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=71521"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/70000-74999/71521/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 25545: INMUEBLES — TRANSFERENCIA (ALMIRANTE BROWN, BS. AS.)
+
+INMUEBLES
+
+Ley 25.545
+
+Transfiérense inmuebles propiedad del Estado Nacional, a título gratuito a favor de la Municipalidad de Almirante Brown, provincia de Buenos Aires, con diversos destinos.
+
+Sancionada: Noviembre 27 de 2001.
+
+Promulgada de Hecho: Enero 7 de 2002.
+
+El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc. sancionan con fuerza de Ley:
+
+## ARTICULO 1°
+
+Transfiérase a título gratuito a favor de la Municipalidad de Almirante Brown, provincia de Buenos Aires, los inmuebles propiedad del Estado nacional que se describen a continuación.
+
+Tierras linderas a la estación Burzaco, identificadas como parte de la parcela R.G. 326 de la Línea R. 1ª, Escritura S/N° de fecha 23/09/1879 pasada ante el escribano José V. CABRAL en la Ciudad de Buenos Aires, inscripto en La Plata el 10/10/1892 - N° 29.753 - Serie A – Transferido marginalmente al ESTADO NACIONAL ARGENTINO mediante planilla Ley N° 13.490 - Serie B.1 - N1 245 y parte de la parcela R.G. 327/1 de la línea R. 1ª, Escritura S/N° de fecha 23/09/1869 pasada ante el escribano José V. CABRAL en la Ciudad de Buenos Aires, inscripto en La Plata el 10/10/1892 - N° 29.751 - Serie A – Transferido marginalmente a favor del ESTADO NACIONAL ARGENTINO mediante planilla Ley N° 13.490 - Serie B.1 - N° 245, que limitan al Norte con la Parcela 324/1, transferida a la Municipalidad de Almirante Brown por la Ley 24.146 (Progresiva Km. 21+972), al Este con la calle Carlos Pellegrini, al Sur con parte de la Parcela 327/1 concesionada a TMR (Progresiva Km. 22+116), al Oeste con la Parcela 4/5 concesionada a TMR (estación ferroviaria).
+
+## ARTICULO 2º
+
+Los inmuebles transferidos por la presente ley, deberán destinarse a la localización de los siguientes usos: programas de desarrollo urbano, infraestructura de servicios, transporte público de pasajeros en sus diferentes modalidades, servicios públicos y gratuitos a la población como espacios verdes, equipamientos deportivos, de administración pública y de actividadeseducativas y culturales, asistenciales o sanitarias.
+
+## ARTICULO 3º
+
+La transferencia prevista en el artículo 1° no será susceptible de cesión alguna, cualquiera sea su carácter por el término de 20 añosa partir de la publicación de la presente ley.
+
+Los gastos que demande la transferencia e inscripción quedarán a cargo del Municipio de Almirante Brown.
+
+## ARTICULO 4º
+
+Comuníquese al Poder Ejecutivo.
+
+DADA EN LA SALA DE SESIONES DEL CONGRESO ARGENTINO, EN BUENOS AIRES, A LOS VEINTISIETE DIAS DEL MES DE NOVIEMBRE DEL AÑO DOS MIL UNO.
+
+— REGISTRADA BAJO EL N° 25.545 —
+
+RAFAEL PASCUAL. — MARIO A. LOSADA. — Guillermo Aramburu. — Juan C. Oyarzún.

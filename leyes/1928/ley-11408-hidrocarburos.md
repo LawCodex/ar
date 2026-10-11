@@ -10,6 +10,8 @@ published: 1928-09-21
 boletin_oficial: "10324"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-11408-nacional-lnn0021640-1928-08-01"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=228954"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/225000-229999/228954/norma.htm"

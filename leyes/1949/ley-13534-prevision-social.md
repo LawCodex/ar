@@ -10,6 +10,8 @@ published: 1949-07-28
 boletin_oficial: "16409"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-13534-nacional-computo-servicios-personal-desempena-tareas-antartida-argentina-lns0001987-1949-07-15"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=295967"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/295967/norma.htm"

@@ -8,6 +8,8 @@ language: es
 date: 1868-08-25
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-244-nacional-lnn0024798-1860-09-13"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=201260"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/200000-204999/201260/norma.htm"

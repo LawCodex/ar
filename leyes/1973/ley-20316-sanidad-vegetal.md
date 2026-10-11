@@ -10,6 +10,8 @@ published: 1973-05-11
 boletin_oficial: "22664"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-20316-nacional-lnn0027488-1973-04-26"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302705"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302705/norma.htm"

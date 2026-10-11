@@ -10,6 +10,8 @@ published: 1958-05-23
 boletin_oficial: "18651"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-14436-nacional-lnn0018525-1958-05-22"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=297727"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/297727/norma.htm"

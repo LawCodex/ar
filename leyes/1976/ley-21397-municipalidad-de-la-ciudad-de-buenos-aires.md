@@ -10,6 +10,8 @@ published: 1976-09-07
 boletin_oficial: "23484"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-21397-nacional-lnn0026668-1976-08-24"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=92739"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/90000-94999/92739/norma.htm"

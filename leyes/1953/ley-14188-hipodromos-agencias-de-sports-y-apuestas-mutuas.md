@@ -9,7 +9,9 @@ date: 1953-05-22
 published: 1953-06-02
 boletin_oficial: "17409"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-14188-nacional-autorizacion-previa-poder-ejecutivo-nacional-para-funcionamiento-hipodromos-agencias-sports-apuestas-mutuas-lns0001888-1953-05-22"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=296517"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/296517/texact.htm"

@@ -9,7 +9,9 @@ date: 1949-06-17
 published: 1949-07-12
 boletin_oficial: "16395"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-13521-nacional-exenciones-impositivas-tramites-excepcion-al-servicio-militar-lns0001989-1949-06-17"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=192952"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/192952/norma.htm"

@@ -10,6 +10,8 @@ published: 1983-04-07
 boletin_oficial: "25146"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22772-nacional-lnn0027851-1983-04-05"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=259000"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/255000-259999/259000/norma.htm"

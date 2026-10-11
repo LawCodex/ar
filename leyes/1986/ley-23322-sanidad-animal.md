@@ -10,6 +10,8 @@ published: 1986-08-18
 boletin_oficial: "25973"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-23322-nacional-ley-12566-modificacion-lnn0028137-1986-06-11"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=23620"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/23620/norma.htm"

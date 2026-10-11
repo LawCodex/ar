@@ -1,0 +1,59 @@
+---
+title: "Ley 27559: UNIVERSIDAD NACIONAL DE TIERRA DEL FUEGO, ANTARTIDA E ISLAS DEL ATLANTICO SUR — TERRENO - TRANSFIERASE"
+identifier: "Ley 27559"
+infoleg_id: "341564"
+type: act
+jurisdiction: ar
+language: es
+date: 2020-08-13
+published: 2020-08-28
+boletin_oficial: "34461"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-27559-nacional-transferencia-titulo-gratuito-universidad-nacional-tierra-fuego-antartida-islas-atlantico-sur-terreno-destinado-construccion-sede-ushuaia-dicha-universidad-lns0006888-2020-08-13"
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=341564"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/340000-344999/341564/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 27559: UNIVERSIDAD NACIONAL DE TIERRA DEL FUEGO, ANTARTIDA E ISLAS DEL ATLANTICO SUR — TERRENO - TRANSFIERASE
+
+UNIVERSIDAD NACIONAL DE TIERRA DEL FUEGO, ANTÁRTIDA E ISLAS DEL ATLÁNTICO SUR
+
+Ley 27559
+
+Transfiérese inmueble.
+
+El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc. sancionan con fuerza de
+
+Ley:
+
+## Artículo 1º
+
+Transfiérase a título gratuito a la Universidad Nacional de Tierra del Fuego, Antártida e Islas del Atlántico Sur, creada por ley 26.559, el terreno de propiedad del Consejo Nacional de Investigaciones Científicas y Técnicas con todo lo plantado y adherido al suelo, ubicado en calle sin nombre, esquina avenida Hipólito Irigoyen, del departamento de Ushuaia, provincia de Tierra del Fuego, Antártida e Islas del Atlántico Sur, cuyos datos de ubicación geográfica son: a) Límite lateral sobre calle Hipólito Irigoyen de ciento cuarenta y siete metros con cuarenta y siete centímetros (147,47 metros) de longitud; b) Límite norte con terreno CADIC de ciento veintiocho metros con diecisiete centímetros (128,17 metros); c) Límite sudeste con la Armada Argentina (calle Tte. Claudio Cabut) de ciento noventa y ocho metros con veintiún centímetros (198,21 metros) lineales; d) Vértice sur sobre avenida de ingreso al Aeropuerto Internacional de seis metros (6,00 metros) de longitud; y datos catastrales: plano de mensura T.F.:1-79-88 con una superficie total de diez mil metros con treinta y ocho centímetros cuadrados (10.000,38 m2); nomenclatura catastral: sección I - macizo 65 A - parcela 002, matrícula II-A-3949, nomenclatura catastral circunscripción USH.
+
+## Art. 2º
+
+El lote donado será destinado a la construcción de la sede Ushuaia de la Universidad Nacional de Tierra del Fuego, Antártida e Islas del Atlántico Sur. Se establecerá un plazo de diez (10) años para el cumplimiento de lo previsto en el presente artículo, vencido el cual, sin que mediare observancia, procederá la retrocesión de dominio de esta transferencia de pleno derecho.
+
+## Art. 3º
+
+La Universidad Nacional de Tierra del Fuego, Antártida e Islas del Atlántico Sur correrá, a su costo, con los gastos necesarios para la transferencia y la confección del plano de mensura y subdivisión del inmueble que se dona en el artículo 1º.
+
+## Art. 4º
+
+El Poder Ejecutivo nacional, dentro de los ciento veinte (120) días contados desde la promulgación de la presente, procederá a realizar todos los trámites pertinentes para escriturar la transferencia que se dispone.
+
+## Art. 5º
+
+Comuníquese al Poder Ejecutivo nacional.
+
+DADA EN LA SALA DE SESIONES DEL CONGRESO ARGENTINO, EN BUENOS AIRES, A LOS TRECE DIAS DEL MES DE AGOSTO DEL AÑO DOS MIL VEINTE.
+
+REGISTRADA BAJO EL N° 27559
+
+CLAUDIA LEDESMA ABDALA DE ZAMORA - SERGIO MASSA - Marcelo Jorge Fuentes - Eduardo Cergnul
+
+e. 28/08/2020 N° 35350/20 v. 28/08/2020

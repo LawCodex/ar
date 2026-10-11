@@ -10,6 +10,8 @@ published: 1981-03-06
 boletin_oficial: "24622"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22412-nacional-lnn0027303-1981-02-27"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304176"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304176/norma.htm"

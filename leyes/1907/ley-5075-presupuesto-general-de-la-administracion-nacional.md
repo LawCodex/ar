@@ -8,6 +8,8 @@ language: es
 date: 1907-01-28
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-5075-nacional-lnn0012904-1907-01-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=185783"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/185000-189999/185783/norma.htm"

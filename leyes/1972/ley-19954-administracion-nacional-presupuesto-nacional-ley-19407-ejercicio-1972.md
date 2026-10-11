@@ -10,6 +10,8 @@ published: 1973-01-18
 boletin_oficial: "22588"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-19954-nacional-lnn0004500-1972-11-16"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=175337"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/175000-179999/175337/norma.htm"

@@ -8,6 +8,8 @@ language: es
 date: 1872-10-03
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-571-nacional-lnn0023301-1872-10-03"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=281516"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/280000-284999/281516/norma.htm"

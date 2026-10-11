@@ -9,7 +9,9 @@ date: 1971-07-05
 published: 1971-07-12
 boletin_oficial: "22213"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19107-nacional-red-radioelectrica-presidencia-nacion-gobernaciones-provincias-lns0000854-1971-07-05"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=301859"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/301859/norma.htm"

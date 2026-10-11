@@ -10,6 +10,8 @@ published: 1965-01-11
 boletin_oficial: "20610"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-16575-nacional-lnn0006666-1964-10-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=204177"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/200000-204999/204177/norma.htm"

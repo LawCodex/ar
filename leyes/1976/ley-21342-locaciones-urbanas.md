@@ -9,7 +9,9 @@ date: 1976-06-29
 published: 1976-06-30
 boletin_oficial: "23437"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21342-nacional-ley-locaciones-urbanas-lns0000354-1976-06-29"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=231338"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/231338/texact.htm"

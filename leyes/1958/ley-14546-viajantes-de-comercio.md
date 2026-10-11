@@ -9,7 +9,9 @@ date: 1958-09-02
 published: 1958-10-27
 boletin_oficial: "18775"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-14546-nacional-estatuto-trabajo-viajante-comercio-lns0001618-1958-09-29"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=96295"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/95000-99999/96295/texact.htm"

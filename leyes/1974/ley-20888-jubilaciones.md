@@ -9,7 +9,9 @@ date: 1974-09-30
 published: 1974-10-28
 boletin_oficial: "23024"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20888-nacional-otorgamiento-beneficio-jubilatorio-ciegos-lns0000431-1974-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=109620"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/105000-109999/109620/norma.htm"

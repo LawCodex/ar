@@ -9,7 +9,9 @@ date: 1972-12-15
 published: 1975-03-13
 boletin_oficial: "23115"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20023-nacional-derecho-pension-derechohabientes-personal-policia-seguridad-defensa-prefectura-naval-argentina-lns0000645-1972-12-15"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302511"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302511/norma.htm"

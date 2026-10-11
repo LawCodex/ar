@@ -10,6 +10,8 @@ published: 1983-10-06
 boletin_oficial: "25273"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22935-nacional-lnn0027913-1983-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=250327"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/250000-254999/250327/norma.htm"

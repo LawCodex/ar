@@ -10,6 +10,8 @@ published: 1942-10-22
 boletin_oficial: "14443"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-12825-nacional-lnn0022322-1942-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=294757"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/294757/norma.htm"

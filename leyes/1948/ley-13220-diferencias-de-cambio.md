@@ -9,7 +9,9 @@ date: 1948-08-11
 published: 2006-10-05
 boletin_oficial: "31005"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-13220-nacional-autorizacion-al-poder-ejecutivo-para-cubrir-diferencias-cambio-originadas-cumplimiento-ley-11378-lns0005116-1948-08-11"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=120588"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/120000-124999/120588/norma.htm"

@@ -10,6 +10,8 @@ published: 2006-10-03
 boletin_oficial: "31003"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-17266-nacional-ley-secreta-observa-estatuto-para-personal-civil-secretaria-informaciones-estado-servicios-inteligencia-fuerzas-armadas-lnn0029591-1967-05-08"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=120462"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/120000-124999/120462/norma.htm"

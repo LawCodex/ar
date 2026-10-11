@@ -1,0 +1,63 @@
+---
+title: "Ley 26349: INMUEBLES — TRANSFERENCIA A TITULO GRATUITO"
+identifier: "Ley 26349"
+infoleg_id: "136704"
+type: act
+jurisdiction: ar
+language: es
+date: 2007-12-19
+published: 2008-01-15
+boletin_oficial: "31323"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-26349-nacional-transferencia-titulo-gratuito-provincia-corrientes-inmueble-propiedad-estado-nacional-lns0005397-2007-12-19"
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=136704"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/135000-139999/136704/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 26349: INMUEBLES — TRANSFERENCIA A TITULO GRATUITO
+
+INMUEBLES
+
+Ley 26.349
+
+Transfiérese a título gratuito a la provincia de Corrientes el dominio del inmueble propiedad del Estado Nacional ubicado en la ciudad de Corrientes, el cual fuera donado oportunamente al Estado Nacional por la mencionada provincia.
+
+Sancionada: Diciembre 19 de 2007.
+
+Promulgada de Hecho: Enero 14 de 2008.
+
+El Senado y Cámara de Diputados
+
+de la Nación Argentina reunidos en Congreso, etc.
+
+sancionan con fuerza de Ley:
+
+## ARTICULO 1º
+
+Transfiérase a título gratuito a la provincia de Corrientes el dominio del inmueble propiedad del Estado nacional ubicado en la ciudad de Corrientes, delimitado por la Av. Juan Ramón Vidal (Ex Chacabuco) y las calles Las Heras, Bolivia y Madariaga, identificado catastralmente como Lote 1, Manzana 443, Partida Inmobiliaria A 10544431; el cual fuera donado oportunamente al Estado nacional por la mencionada provincia.
+
+## ARTICULO 2º
+
+La provincia de Corrientes deberá destinar el inmueble transferido en el artículo anterior en partes iguales y/o similares, previa mensura y deslinde y con títulos independientes, a la construcción de una delegación regional del Centro Nacional de Alto Rendimiento Deportivo —CENARD— con instalaciones arquitectónicamente adaptadas para personas con capacidades diferentes y al Poder Judicial de la provincia de Corrientes.
+
+## ARTICULO 3º
+
+La provincia de Corrientes deberá condonar toda deuda que mantenga con la misma el Estado nacional, en su carácter de propietario del inmueble transferido por la presente ley.
+
+## ARTICULO 4º
+
+Los gastos que demande la presente serán a cargo de los beneficiarios.
+
+## ARTICULO 5º
+
+Comuníquese al Poder Ejecutivo.
+
+DADA EN LA SALA DE SESIONES DEL CONGRESO ARGENTINO, EN BUENOS AIRES, A LOS DIECINUEVE DIAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL SIETE.
+
+—REGISTRADA BAJO EL Nº 26.349—
+
+EDUARDO A. FELLNER. — JULIO C. C. COBOS. — Enrique Hidalgo. — Juan H. Estrada.

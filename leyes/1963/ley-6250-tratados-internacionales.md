@@ -10,6 +10,8 @@ published: 1963-08-08
 boletin_oficial: "20191"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-6250-nacional-lnn0011941-1908-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=299783"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/299783/norma.htm"

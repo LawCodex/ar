@@ -10,6 +10,8 @@ published: 1983-10-31
 boletin_oficial: "25289"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22957-nacional-lnn0003099-1983-10-27"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304405"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304405/norma.htm"

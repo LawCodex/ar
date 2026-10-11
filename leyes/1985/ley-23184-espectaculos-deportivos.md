@@ -9,7 +9,9 @@ date: 1985-05-30
 published: 1985-06-25
 boletin_oficial: "25704"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-23184-nacional-regimen-penal-contravencional-para-prevencion-represion-violencia-espectaculos-deportivos-lns0003218-1985-05-30"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=26207"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/26207/texact.htm"

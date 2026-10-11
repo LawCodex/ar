@@ -10,6 +10,8 @@ published: 1980-10-09
 boletin_oficial: "24520"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22298-nacional-lnn0028386-1980-10-06"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=146339"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/145000-149999/146339/norma.htm"

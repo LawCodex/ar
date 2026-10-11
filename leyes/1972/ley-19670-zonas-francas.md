@@ -9,7 +9,9 @@ date: 1972-06-02
 published: 1972-06-12
 boletin_oficial: "22440"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19670-nacional-autorizacion-despacho-consumo-todo-pais-automotores-introducidos-zona-franca-tierra-fuego-lns0000716-1972-06-02"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302263"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302263/texact.htm"

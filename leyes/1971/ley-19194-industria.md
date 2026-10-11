@@ -10,6 +10,8 @@ published: 1971-09-09
 boletin_oficial: "22255"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-19194-nacional-lnn0005100-1971-08-27"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=142698"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/140000-144999/142698/texact.htm"

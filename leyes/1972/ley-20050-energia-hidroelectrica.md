@@ -9,7 +9,9 @@ date: 1972-12-28
 published: 1973-01-08
 boletin_oficial: "22580"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-20050-nacional-lnn0004476-1972-12-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=221490"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/220000-224999/221490/norma.htm"

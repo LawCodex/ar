@@ -10,6 +10,8 @@ published: 1972-12-01
 boletin_oficial: "22557"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-19962-nacional-lnn0004496-1972-11-22"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=179486"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/175000-179999/179486/norma.htm"

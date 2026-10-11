@@ -1,0 +1,63 @@
+---
+title: "Ley 24841: CONMEMORACIONES — DIA DE EVANGELIZACION SALESIANA EN LA PATAGONIA"
+identifier: "Ley 24841"
+infoleg_id: "44641"
+type: act
+jurisdiction: ar
+language: es
+date: 1997-06-11
+published: 1997-07-23
+boletin_oficial: "28693"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-24841-nacional-lnn0028842-1997-06-11"
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=44641"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/40000-44999/44641/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 24841: CONMEMORACIONES — DIA DE EVANGELIZACION SALESIANA EN LA PATAGONIA
+
+CONMEMORACIONES
+
+Ley 24.841
+
+Establécese el 16 de noviembre de cada año como "Día de la Evangelización Salesiana en la Patagonia".
+
+Sancionada: Junio 11 de 1997.
+
+Promulgada: Julio 10 de 1997.
+
+B.O: 23/7/97
+
+El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:
+
+EXALTACION DE LA OBRA MISIONERA DE LOS SALESIANOS EN LA PATAGONIA
+
+## ARTICULO 1º
+
+Establécese la fecha del 16 de noviembre de cada año como "Día de la Evangelización Salesiana en la Patagonia".
+
+## ARTICULO 2º
+
+Invitase a los gobiernos de las provincias de Tierra del Fuego, Antártida e Islas del Atlántico Sur, Santa Cruz, Chubut, Río Negro, Neuquén y La Pampa, a incluir esa fecha en sus respectivos calendarios educativos, y a realizar evocaciones especiales en las escuelas y colegios que funcionen bajo su dependencia.
+
+## ARTICULO 3º
+
+Comuníquese al Poder Ejecutivo.
+
+DADA EN LA SALA DE SESIONES DEL CONGRESO ARGENTINO, EN BUENOS AIRES, A LOS ONCE DIAS DEL MES DE JUNIO DEL AÑO MIL NOVECIENTOS NOVENTA Y SIETE.
+
+-REGISTRADA BAJO EL Nº 24.841-
+
+ALBERTO R. PIERRI.-EDUARDO MENEM.- Esther H. Pereyra Arandía de Pérez Pardo.- Edgardo Piuzzi.
+
+Decreto 622/97
+
+Bs. As., 10/7/97
+
+POR TANTO:
+
+Téngase por Ley de la Nación Nº 24.841 cúmplase, comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese.- MENEM.- Jorge A. Rodríguez. -Carlos V. Corach.

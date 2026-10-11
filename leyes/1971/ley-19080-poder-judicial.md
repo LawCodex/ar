@@ -9,7 +9,9 @@ date: 1971-06-16
 published: 1971-06-23
 boletin_oficial: "22201"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19080-nacional-suplemento-antiguedad-para-poder-judicial-nacion-lns0000859-1971-06-16"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=301837"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/301837/norma.htm"

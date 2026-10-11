@@ -9,7 +9,9 @@ date: 1973-05-15
 published: 1973-05-24
 boletin_oficial: "22673"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-20380-nacional-politica-nacional-libro-lns0000494-1973-05-15"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=173949"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/170000-174999/173949/norma.htm"

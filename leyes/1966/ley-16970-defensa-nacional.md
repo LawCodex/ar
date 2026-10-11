@@ -9,7 +9,9 @@ date: 1966-10-06
 published: 1966-10-10
 boletin_oficial: "21043"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-16970-nacional-ley-defensa-nacional-lns0001319-1966-10-06"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=46836"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/45000-49999/46836/norma.htm"

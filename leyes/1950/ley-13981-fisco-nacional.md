@@ -10,6 +10,8 @@ published: 1950-10-20
 boletin_oficial: "16760"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-13981-nacional-lnn0019817-1950-09-27"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=296358"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/296358/norma.htm"

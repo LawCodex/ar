@@ -10,6 +10,8 @@ published: 1940-05-13
 boletin_oficial: "13727"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-12613-nacional-lnn0002264-1939-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=294583"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/294583/norma.htm"

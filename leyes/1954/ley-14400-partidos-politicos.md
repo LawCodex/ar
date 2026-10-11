@@ -9,7 +9,9 @@ date: 1954-12-21
 published: 1955-04-29
 boletin_oficial: "17887"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-14400-nacional-lnn0026088-1954-12-21"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=296688"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/295000-299999/296688/norma.htm"

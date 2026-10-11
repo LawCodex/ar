@@ -9,7 +9,9 @@ date: 1970-01-28
 published: 1970-02-11
 boletin_oficial: "21866"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-18569-nacional-microfilmacion-comando-jefe-ejercito-lns0000965-1970-01-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=193219"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/193219/norma.htm"

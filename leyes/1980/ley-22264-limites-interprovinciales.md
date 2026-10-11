@@ -9,7 +9,9 @@ date: 1980-08-06
 published: 1980-08-12
 boletin_oficial: "24478"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22264-nacional-fijacion-limites-entre-provincias-salta-tucuman-lns0001271-1980-08-06"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=199399"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/199399/norma.htm"

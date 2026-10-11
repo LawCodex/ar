@@ -10,6 +10,8 @@ published: 1979-12-19
 boletin_oficial: "24317"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22120-nacional-lnn0004034-1979-12-12"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=215479"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/215000-219999/215479/norma.htm"

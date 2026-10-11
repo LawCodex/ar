@@ -9,7 +9,9 @@ date: 1982-02-08
 published: 1982-02-12
 boletin_oficial: "24858"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22534-nacional-paso-personal-gendarmeria-nacional-situacion-retiro-lns0002862-1982-02-08"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=181364"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/181364/norma.htm"

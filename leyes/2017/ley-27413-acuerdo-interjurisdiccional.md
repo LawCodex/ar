@@ -1,0 +1,57 @@
+---
+title: "Ley 27413: ACUERDO INTERJURISDICCIONAL — RATIFICACION"
+identifier: "Ley 27413"
+infoleg_id: "304796"
+type: act
+jurisdiction: ar
+language: es
+date: 2017-11-22
+published: 2017-12-15
+boletin_oficial: "33772"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-27413-nacional-aprobacion-acuerdo-interjurisdiccional-entre-ministerio-planificacion-federal-inversion-publica-servicios-nacion-provincias-jujuy-formosa-salta-lns0006370-2017-11-22"
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304796"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304796/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 27413: ACUERDO INTERJURISDICCIONAL — RATIFICACION
+
+ACUERDO INTERJURISDICCIONAL
+
+Ley 27413
+
+Ratificación del Acuerdo de Creación de la Comisión Interjurisdiccional Argentina de la Cuenca del Río Pilcomayo.
+
+El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc. sancionan con fuerza de
+
+Ley:
+
+RATIFICACIÓN DEL ACUERDO DE CREACIÓN DE LA COMISIÓN INTERJURISDICCIONAL ARGENTINA DE LA CUENCA DEL RÍO PILCOMAYO
+
+## ARTÍCULO 1°
+
+Ratificase el “Acuerdo Interjurisdiccional” suscrito el 5 de setiembre de 2008, entre el Ministerio de Planificación Federal, Inversión Pública y Servicios de la Nación y las provincias de Jujuy, Formosa y Salta el que, como Anexo, forma parte de la presente.
+
+## ARTÍCULO 2°
+
+Reconócese a la Comisión Interjurisdiccional Argentina de la Cuenca del Río Pilcomayo como persona jurídica de derecho público y como instancia regional para proponer la gestión integrada y sustentable de los recursos hídricos del río Pilcomayo, respetando el dominio originario de las provincias sobre los recursos hídricos.
+
+## ARTÍCULO 3°
+
+Comuníquese al Poder Ejecutivo nacional.
+
+DADA EN LA SALA DE SESIONES DEL CONGRESO ARGENTINO, EN BUENOS AIRES, EL 22 NOV 2017.
+
+— REGISTRADO BAJO EL N° 27413 —
+
+MARTA G. MICHETTI. — EMILIO MONZO. — Eugenio Inchausti. — Juan P. Tunessi.
+
+NOTA: El/los Anexo/s que integra/n este(a) Ley se publican en la edición web del BORA -www.boletinoficial.gob.ar- y también podrán ser consultados en la Sede Central de esta Dirección Nacional (Suipacha 767 - Ciudad Autónoma de Buenos Aires).
+
+e. 15/12/2017 N° 97931/17 v. 15/12/2017
+
+(Nota Infoleg: Los anexos referenciados en la presente norma han sido extraídos de la edición web de Boletín Oficial. Los mismos pueden consultarse en el siguiente link: [Anexos](https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304796/ley27413.pdf) )

@@ -10,6 +10,8 @@ published: 1985-01-14
 boletin_oficial: "25593"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-23167-nacional-concede-permiso-lnn0028070-1984-12-13"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=26350"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/26350/norma.htm"

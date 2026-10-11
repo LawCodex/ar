@@ -9,7 +9,9 @@ date: 1977-05-06
 published: 1977-05-11
 boletin_oficial: "23657"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-21572-nacional-entidades-financieras-banco-banco-central-republica-argentina-regulacion-monetaria-lns0000169-1977-05-06"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=303730"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/303730/norma.htm"

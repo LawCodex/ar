@@ -10,6 +10,8 @@ published: 2006-09-22
 boletin_oficial: "30996"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-19083-nacional-ley-secreta-sobre-incoporacion-personal-entel-al-plantel-secretaria-informaciones-estado-lnn0029583-1971-06-16"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=120103"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/120000-124999/120103/norma.htm"

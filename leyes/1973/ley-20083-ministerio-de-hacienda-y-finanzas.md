@@ -9,7 +9,9 @@ date: 1973-01-05
 published: 2006-09-13
 boletin_oficial: "30989"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20083-nacional-medidas-poder-ejecutivo-relativas-ajustes-presupuestarios-correspondientes-al-ejercicio-fiscal-1972-lns0005064-1973-01-05"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=119718"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/115000-119999/119718/norma.htm"

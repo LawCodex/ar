@@ -9,7 +9,9 @@ date: 1914-10-19
 published: 1914-11-20
 boletin_oficial: "6257"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-9644-nacional-ley-prenda-agraria-lns0002489-1914-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=96244"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/95000-99999/96244/norma.htm"

@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1902-06-04
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-4074-nacional-organizacion-justicia-ciudad-santa-fe-santa-fe-ciudad-bahia-blanca-buenos-aires-lns0002568-1902-06-04"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=195375"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/195375/norma.htm"

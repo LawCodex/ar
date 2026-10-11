@@ -10,6 +10,8 @@ published: 1972-01-18
 boletin_oficial: "22343"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-19407-nacional-lnn0026850-1971-12-31"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=172714"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/170000-174999/172714/norma.htm"

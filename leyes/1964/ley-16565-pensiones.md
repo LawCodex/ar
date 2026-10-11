@@ -10,6 +10,8 @@ published: 1964-12-02
 boletin_oficial: "20583"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-16565-nacional-lnn0027038-1964-10-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=129944"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/125000-129999/129944/norma.htm"

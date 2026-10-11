@@ -9,7 +9,9 @@ date: 1973-05-22
 published: 1973-06-04
 boletin_oficial: "22679"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20453-nacional-fondo-para-asistencia-hospitalaria-ninos-lns0000541-1973-05-22"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=233934"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/233934/norma.htm"

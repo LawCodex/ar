@@ -1,0 +1,71 @@
+---
+title: "Ley 26189: INMUEBLES — TRANSFERENCIA A FAVOR PCIA. DE ENTRE RIOS"
+identifier: "Ley 26189"
+infoleg_id: "123612"
+type: act
+jurisdiction: ar
+language: es
+date: 2006-12-06
+published: 2006-12-29
+boletin_oficial: "31063"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-26189-nacional-transferencia-inmuebles-provincia-entre-rios-lnn0029599-2006-12-06"
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=123612"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/120000-124999/123612/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 26189: INMUEBLES — TRANSFERENCIA A FAVOR PCIA. DE ENTRE RIOS
+
+INMUEBLES
+
+Ley 26.189
+
+Transfiérese a título gratuito a favor de la Provincia de Entre Ríos, un inmueble propiedad del Estado Nacional, que se halla ubicado en la ciudad de La Paz.
+
+Sancionada: Diciembre 6 de 2006
+
+Promulgada de Hecho: Diciembre 27 de 2006
+
+El Senado y Cámara de Diputados
+
+de la Nación Argentina reunidos en Congreso,
+
+etc.
+
+sancionan con fuerza de
+
+Ley:
+
+## ARTICULO 1º
+
+Transfiérase a título gratuito a favor de la provincia de Entre Ríos, un inmueble propiedad del Estado nacional que se halla ubicado en la ciudad de La Paz, ampliación de zona urbana grupo de quintas 42 quintas II y IV y consta de una superficie de 40.000,54 m2 y linda: al Norte: recta 1-2 al rumbo SE 80º 12' de 173,20 m lindando con calle pública, al Este: recta 2-3 al rumbo SO DE 09º 21' de 230,95 m lindando con calle pública, al Sur: recta 3-4 al rumbo NO 80º 15' de 173,20 m lindando con José Fernando Leri y al oeste: recta 3-4 al rumbo NE 09º 24' de 230,95 m lindando con José Fernando Leri hasta los 57,75 m y con Vicente Sensever hasta el final.
+
+## ARTICULO 2º
+
+Previo al otorgamiento de la escritura pertinente a la efectiva inscripción de dominio del inmueble descrito en el artículo precedente, dispóngase una nueva mensura y deslinde a cargo del Gobierno de la Provincia de Entre Ríos.
+
+## ARTICULO 3º
+
+La transferencia dispuesta en el proyecto de ley se efectúa con el cargo de ser destinado a la construcción de viviendas y un centro de salud.
+
+## ARTICULO 4º
+
+El Poder Ejecutivo adoptará las medidas pertinentes a los efectos de concluir la respectiva transferencia en el término de SESENTA (60) días.
+
+## ARTICULO 5º
+
+Los gastos que demande la transferencia dispuesta por el artículo 1º de la presente, están a cargo del Gobierno de la Provincia de Entre Ríos.
+
+## ARTICULO 6º
+
+Comuníquese al Poder Ejecutivo.
+
+DADA EN LA SALA DE SESIONES DEL CONGRESO ARGENTINO, EN BUENOS AIRES, A LOS SEIS DIAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL SEIS.
+
+—REGISTRADA BAJO EL Nº 26.189—
+
+ALBERTO E. BALESTRINI. — JOSE J. B. PAMPURO. — Enrique Hidalgo. — Juan H. Estrada.

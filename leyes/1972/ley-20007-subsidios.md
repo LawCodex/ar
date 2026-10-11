@@ -9,7 +9,9 @@ date: 1972-12-07
 published: 1972-12-15
 boletin_oficial: "22566"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20007-nacional-subsidios-damnificados-atentados-lns0000608-1972-12-07"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=233211"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/233211/norma.htm"

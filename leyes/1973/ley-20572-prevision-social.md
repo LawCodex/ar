@@ -9,7 +9,9 @@ date: 1973-11-28
 published: 1973-12-28
 boletin_oficial: "22820"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-20572-nacional-seguridad-social-jubilaciones-pensiones-regimenes-especiales-personas-ejercieron-cargos-electivos-lns0000511-1973-11-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=270749"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/270000-274999/270749/norma.htm"

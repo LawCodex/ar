@@ -9,7 +9,9 @@ date: 1964-10-15
 published: 1964-10-22
 boletin_oficial: "20549"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-16506-nacional-regimen-juridico-para-personal-organismos-nacionales-prevision-lns0001401-1964-10-15"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=300033"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/300033/texact.htm"

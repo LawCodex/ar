@@ -9,7 +9,9 @@ date: 1966-10-18
 published: 1966-10-25
 boletin_oficial: "21053"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-16985-nacional-lnn0025708-1966-10-18"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=46870"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/45000-49999/46870/norma.htm"

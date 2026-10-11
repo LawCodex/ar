@@ -9,7 +9,9 @@ date: 1971-12-14
 published: 1971-12-23
 boletin_oficial: "22326"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-19363-nacional-premios-adquirentes-boletos-cine-lns0000790-1971-12-14"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=195217"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/195217/norma.htm"

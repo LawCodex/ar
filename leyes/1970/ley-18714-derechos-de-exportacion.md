@@ -9,7 +9,9 @@ date: 1970-06-17
 published: 1970-06-26
 boletin_oficial: "21958"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-18714-nacional-exenciones-aduaneras-lns0000933-1970-06-17"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=301567"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/301567/texact.htm"

@@ -10,6 +10,8 @@ published: 1982-01-07
 boletin_oficial: "24832"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22522-nacional-lnn0027652-1981-12-31"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=304237"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/304237/norma.htm"

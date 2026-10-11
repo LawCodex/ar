@@ -10,6 +10,8 @@ published: 1983-09-14
 boletin_oficial: "25257"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22905-nacional-lnn0003068-1983-09-12"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=252150"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/250000-254999/252150/norma.htm"

@@ -9,7 +9,9 @@ date: 1975-06-04
 published: 1975-07-03
 boletin_oficial: "23190"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20959-nacional-credenciales-libre-circulacion-estacionamiento-para-honorable-congreso-nacion-lns0000391-1975-06-04"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=196510"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/196510/norma.htm"

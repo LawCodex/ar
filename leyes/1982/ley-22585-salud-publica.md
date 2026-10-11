@@ -9,7 +9,9 @@ date: 1982-05-13
 published: 1982-05-17
 boletin_oficial: "24922"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-22585-nacional-ley-control-erradicacion-prevencion-lucha-contra-enfermedad-paludismo-lns0002921-1982-05-13"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=200853"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/200000-204999/200853/norma.htm"

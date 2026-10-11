@@ -8,6 +8,8 @@ language: es
 date: 1967-08-21
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-17394-nacional-lnn0001176-1967-08-21"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=300542"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/300542/norma.htm"

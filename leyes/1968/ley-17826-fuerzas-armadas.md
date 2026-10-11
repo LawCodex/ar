@@ -9,7 +9,9 @@ date: 1968-08-05
 published: 1968-08-09
 boletin_oficial: "21495"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-17826-nacional-facultades-direccion-general-fabricaciones-militares-lns0002322-1968-08-05"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=142290"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/140000-144999/142290/norma.htm"

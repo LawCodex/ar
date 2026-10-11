@@ -9,7 +9,9 @@ date: 1913-09-16
 published: 1913-09-29
 boletin_oficial: "5923"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-9127-nacional-exclusividad-estado-prestacion-servicio-radiotelegrafico-lns0002375-1913-09-16"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=290907"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/290000-294999/290907/norma.htm"

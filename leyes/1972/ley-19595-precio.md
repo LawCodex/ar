@@ -10,6 +10,8 @@ published: 1972-05-02
 boletin_oficial: "22413"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-19595-nacional-lnn0021873-1972-04-25"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302209"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302209/norma.htm"

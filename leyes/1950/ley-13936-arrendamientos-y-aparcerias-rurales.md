@@ -10,6 +10,8 @@ published: 1950-09-20
 boletin_oficial: "16739"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-13936-nacional-lnn0019657-1950-09-07"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=177862"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/175000-179999/177862/norma.htm"

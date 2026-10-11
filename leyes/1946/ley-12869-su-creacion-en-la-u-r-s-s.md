@@ -9,7 +9,9 @@ date: 1946-10-09
 published: 1947-06-17
 boletin_oficial: "15794"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-12869-nacional-embajada-argentina-union-sovietica-lns0002437-1946-10-09"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=43597"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/40000-44999/43597/norma.htm"

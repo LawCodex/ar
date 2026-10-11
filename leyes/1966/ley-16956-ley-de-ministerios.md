@@ -9,7 +9,9 @@ date: 1966-09-23
 published: 1966-09-27
 boletin_oficial: "21034"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-16956-nacional-lnn0025712-1966-09-23"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=46823"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/45000-49999/46823/norma.htm"

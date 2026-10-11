@@ -9,7 +9,9 @@ date: 1967-02-20
 published: 1967-02-27
 boletin_oficial: "21136"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-17180-nacional-medidas-sanitarias-aplicables-transito-internacional-interprovincial-lns0001219-1967-02-20"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=194934"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/194934/norma.htm"

@@ -10,6 +10,8 @@ published: 1981-07-03
 boletin_oficial: "24703"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22470-nacional-lnn0027530-1981-06-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=151463"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/150000-154999/151463/norma.htm"

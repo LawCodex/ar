@@ -9,7 +9,9 @@ date: 1976-03-29
 published: 1976-04-02
 boletin_oficial: "23377"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21273-nacional-creacion-eliminacion-secretarias-ministerio-bienestar-social-lns0000406-1976-03-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=166571"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/165000-169999/166571/norma.htm"

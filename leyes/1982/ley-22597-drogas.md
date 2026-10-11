@@ -10,6 +10,8 @@ published: 1982-06-01
 boletin_oficial: "24932"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22597-nacional-lnn0027735-1982-05-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=145282"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/145000-149999/145282/norma.htm"

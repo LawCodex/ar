@@ -9,7 +9,9 @@ date: 1979-09-06
 published: 1979-09-12
 boletin_oficial: "24247"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-22068-nacional-ausencia-presuncion-fallecimiento-lnn0000285-1979-09-06"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=257120"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/255000-259999/257120/norma.htm"

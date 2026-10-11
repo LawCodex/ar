@@ -9,7 +9,9 @@ date: 1973-02-28
 published: 2006-09-13
 boletin_oficial: "30989"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-20195-nacional-ley-secreta-sobre-mision-organizacion-funciones-secretaria-informaciones-estado-lns0005049-1973-02-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=119720"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/115000-119999/119720/norma.htm"

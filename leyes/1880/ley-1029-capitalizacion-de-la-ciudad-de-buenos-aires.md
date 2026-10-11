@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1880-09-20
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-1029-nacional-capitalizacion-ciudad-buenos-aires-lns0002474-1880-09-20"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=48865"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/45000-49999/48865/norma.htm"

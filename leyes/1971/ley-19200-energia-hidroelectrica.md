@@ -10,6 +10,8 @@ published: 1971-08-31
 boletin_oficial: "22248"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-19200-nacional-lnn0005096-1971-08-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=222020"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/220000-224999/222020/norma.htm"

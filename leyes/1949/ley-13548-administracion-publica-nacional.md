@@ -9,7 +9,9 @@ date: 1949-08-11
 published: 1949-08-29
 boletin_oficial: "16433"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-13548-nacional-lnn0026173-1949-08-11"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=166460"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/165000-169999/166460/norma.htm"

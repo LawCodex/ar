@@ -9,7 +9,9 @@ date: 1983-09-15
 published: 1983-09-21
 boletin_oficial: "25262"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-22913-nacional-creacion-comision-nacional-emergencia-agropecuaria-lns0003076-1983-09-15"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=28302"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/28302/norma.htm"

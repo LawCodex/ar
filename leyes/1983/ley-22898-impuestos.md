@@ -10,6 +10,8 @@ published: 1983-09-09
 boletin_oficial: "25254"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22898-nacional-lnn0027909-1983-08-18"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=144370"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/140000-144999/144370/norma.htm"

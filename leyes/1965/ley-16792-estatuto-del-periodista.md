@@ -10,6 +10,8 @@ published: 1965-12-21
 boletin_oficial: "20844"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-16792-nacional-lnn0027026-1965-10-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=109703"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/105000-109999/109703/norma.htm"

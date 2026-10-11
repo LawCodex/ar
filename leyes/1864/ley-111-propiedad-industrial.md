@@ -7,7 +7,9 @@ jurisdiction: ar
 language: es
 date: 1864-09-28
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-111-nacional-industria-patentes-regimen-lns0002644-1864-09-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=281086"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/280000-284999/281086/norma.htm"

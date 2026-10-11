@@ -9,7 +9,9 @@ date: 1971-10-29
 published: 1971-10-29
 boletin_oficial: "22290"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: repealed
+saij_status: "Derogada"
+saij_url: "https://www.saij.gob.ar/ley-19327-nacional-creacion-derecho-importacion-adicional-lns0002937-1971-10-29"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=302013"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/300000-304999/302013/texact.htm"

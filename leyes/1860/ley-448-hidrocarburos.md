@@ -8,6 +8,8 @@ language: es
 date: 1860-10-06
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-448-nacional-lnn0023322-1870-10-06"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=214373"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/210000-214999/214373/norma.htm"

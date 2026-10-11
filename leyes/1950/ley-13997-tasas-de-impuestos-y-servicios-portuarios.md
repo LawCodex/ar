@@ -9,7 +9,9 @@ date: 1950-09-29
 published: 1950-10-25
 boletin_oficial: "16763"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-13997-nacional-modificacion-tasas-portuarias-consulares-lns0001922-1950-09-29"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=190144"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/190144/norma.htm"

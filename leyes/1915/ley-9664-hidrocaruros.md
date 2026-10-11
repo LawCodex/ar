@@ -8,6 +8,8 @@ language: es
 date: 1915-09-07
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-9664-nacional-lnn0024480-1915-09-07"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=216222"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/215000-219999/216222/norma.htm"

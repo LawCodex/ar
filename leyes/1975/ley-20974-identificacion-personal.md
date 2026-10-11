@@ -10,6 +10,8 @@ published: 1975-08-08
 boletin_oficial: "23215"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-20974-nacional-lnn0026709-1975-07-24"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=93921"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/90000-94999/93921/norma.htm"

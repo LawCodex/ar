@@ -9,7 +9,9 @@ date: 1974-03-21
 published: 1974-04-08
 boletin_oficial: "22888"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-20655-nacional-ley-deporte-lns0000454-1974-03-21"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=27274"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/27274/texact.htm"

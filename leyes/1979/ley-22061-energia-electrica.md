@@ -10,6 +10,8 @@ published: 1979-09-03
 boletin_oficial: "24240"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-22061-nacional-lnn0004055-1979-08-28"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=226517"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/225000-229999/226517/norma.htm"

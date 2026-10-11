@@ -1,0 +1,69 @@
+---
+title: "Ley 26884: FUERZAS DE SEGURIDAD — LEY N° 21.965 - MODIFICACION"
+identifier: "Ley 26884"
+infoleg_id: "220563"
+type: act
+jurisdiction: ar
+language: es
+date: 2013-09-04
+published: 2013-10-02
+boletin_oficial: "32735"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-26884-nacional-suplemento-titulo-para-personal-estado-policial-policia-federal-argentina-lns0005872-2013-09-04"
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=220563"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/220000-224999/220563/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 26884: FUERZAS DE SEGURIDAD — LEY N° 21.965 - MODIFICACION
+
+FUERZAS DE SEGURIDAD
+
+Ley 26.884
+
+Ley Nº 21.965. Modificación. Decreto Nº 436/1994. Derogación.
+
+Sancionada: Septiembre 4 de 2013
+
+Promulgada de Hecho: Septiembre 27 de 2013
+
+El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc. sancionan con fuerza de
+
+Ley:
+
+## ARTICULO 1º
+
+Incorpórase como inciso c) del artículo 76 de la Ley para el Personal de la Policía Federal Argentina 21.965 y sus modificatorias, el siguiente:
+
+c) “Título”: tendrá derecho a percibirlo todo el personal con estado policial, cualquiera sea su condición de ingreso. Su monto variará de acuerdo al plan de carrera en que el personal se hubiere graduado:
+
+1\. Título universitario o de estudios superiores que demanden cinco (5) o más años de estudios del tercer nivel, veinticinco por ciento (25%) del sueldo básico.
+
+2\. Título universitario o de estudios superiores que demanden cuatro (4) años de estudios del tercer nivel, quince por ciento (15%) del sueldo básico.
+
+3\. Título universitario o de estudios superiores que demanden uno (1) hasta tres (3) años de estudios del tercer nivel, diez por ciento (10%) del sueldo básico.
+
+## ARTICULO 2º
+
+Entiéndase comprendido a los efectos de la percepción del suplemento por título al personal civil de la Policía Federal Argentina.
+
+## ARTICULO 3º
+
+Derógase el decreto Nº 436 de fecha 24 de marzo de 1994.
+
+## ARTICULO 4º
+
+El Poder Ejecutivo nacional realizará las adecuaciones presupuestarias durante el primer año de entrada en vigencia de la presente ley.
+
+## ARTICULO 5º
+
+Comuníquese al Poder Ejecutivo nacional.
+
+DADA EN LA SALA DE SESIONES DEL CONGRESO ARGENTINO, EN BUENOS AIRES, A LOS CUATRO DIAS DEL MES DE SETIEMBRE DEL AÑO DOS MIL TRECE.
+
+— REGISTRADA BAJO EL Nº 26.884 —
+
+ROJKES DE ALPEROVICH. — JULIAN A. DOMINGUEZ. — Gervasio Bozzano. — Juan H. Estrada.

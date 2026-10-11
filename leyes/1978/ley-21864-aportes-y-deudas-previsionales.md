@@ -9,7 +9,9 @@ date: 1978-08-28
 published: 1978-09-04
 boletin_oficial: "23990"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21864-nacional-actualizacion-monetaria-deudas-previsionales-lns0000066-1978-08-28"
 text_version: "texto actualizado"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=48989"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/45000-49999/48989/texact.htm"

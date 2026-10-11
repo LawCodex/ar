@@ -1,0 +1,55 @@
+---
+title: "Ley 25298: BANDERA DEL REGIMIENTO ESPAÑO DE TALAVERA — SU REINTEGRO A LA PROVINCIA DE SAN JUAN"
+identifier: "Ley 25298"
+infoleg_id: "64381"
+type: act
+jurisdiction: ar
+language: es
+date: 2000-08-09
+published: 2000-09-25
+boletin_oficial: "29490"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-25298-nacional-lnn0029289-2000-08-09"
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=64381"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/60000-64999/64381/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 25298: BANDERA DEL REGIMIENTO ESPAÑO DE TALAVERA — SU REINTEGRO A LA PROVINCIA DE SAN JUAN
+
+BANDERA DEL REGIMIENTO ESPAÑOL DE TALAVERA
+
+Ley 25.298
+
+Reintégrase a la provincia de San Juan la citada bandera, donada a dicha provincia por el Director Supremo don Juan Martín de Pueyrredón el 10 de marzo de 1817.
+
+Sancionada: Agosto 9 de 2000.
+
+Promulgada: Septiembre 19 de 2000.
+
+El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc. sancionan con fuerza de Ley:
+
+## ARTICULO 1º
+
+Procédase al reintegro a la provincia de San Juan de la "Bandera del Regimiento Español de Talavera", que se encuentra en el Museo Histórico Nacional, donada a esta provincia el 10 de marzo de 1817 por el Director Supremo don Juan Martín de Pueyrredón, "como monumento de las virtudes patrias con que se han distinguido los hijos beneméritos de ese pueblo y como una prueba de gratitud con que lo considera el Gobierno Supremo".
+
+## ARTICULO 2º
+
+Instrúyase a los efectos a la Secretaría de Cultura de la Nación, para que a través de la Comisión Nacional de Museos, Monumentos y Lugares Históricos, proceda a implementar las medidas necesarias para llevar a cabo lo dispuesto en el artículo precedente.
+
+## ARTICULO 3º
+
+Dispónese la entrega oficial por parte del Gobierno de la Nación Argentina, de tal Símbolo Nacional mencionado, el día 17 de agosto del año 2000 en el Monumento Histórico Nacional "Celda de San Martín, Sala Capitular y Galería", ubicado en la ciudad de San Juan de la provincia del mismo nombre.
+
+## ARTICULO 4º
+
+Comuníquese al Poder Ejecutivo.
+
+DADA EN LA SALA DE SESIONES DEL CONGRESO ARGENTINO, EN BUENOS AIRES, A LOS NUEVE DIAS DEL MES DE AGOSTO DEL AÑO DOS MIL.
+
+REGISTRADA BAJO EL Nº 25.298.
+
+RAFAEL PASCUAL. — CARLOS ALVAREZ. — Luis Flores Allende. — Mario L. Pontaquarto.

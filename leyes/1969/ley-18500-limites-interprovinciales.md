@@ -9,7 +9,9 @@ date: 1969-12-24
 published: 1970-01-07
 boletin_oficial: "21843"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-18500-nacional-fijacion-limites-entre-provincias-catamarca-salta-lns0000976-1969-12-24"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=199340"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/199340/norma.htm"

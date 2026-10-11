@@ -9,7 +9,9 @@ date: 1975-09-30
 published: 1975-11-07
 boletin_oficial: "23279"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-21205-nacional-institucion-regimen-complementario-jubilaciones-pensiones-seguridad-social-para-escribanos-lns0000307-1975-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=198931"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/195000-199999/198931/norma.htm"

@@ -9,7 +9,9 @@ date: 1926-10-05
 published: 1926-10-20
 boletin_oficial: "9760"
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
-status: unknown
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-11380-nacional-autorizacion-para-hacer-prestamos-especiales-sociedades-cooperativas-lns0002557-1926-09-30"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=189932"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/185000-189999/189932/norma.htm"

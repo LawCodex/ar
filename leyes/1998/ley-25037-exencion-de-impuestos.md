@@ -1,0 +1,61 @@
+---
+title: "Ley 25037: EXENCION DE IMPUESTOS — PRECISANSE ALCANCES DEL ART. 9° DTO-LEY 1251/58"
+identifier: "Ley 25037"
+infoleg_id: "90540"
+type: act
+jurisdiction: ar
+language: es
+date: 1998-11-11
+published: 1998-12-04
+boletin_oficial: "29037"
+issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
+status: in_force
+saij_status: "Vigente, de alcance general"
+saij_url: "https://www.saij.gob.ar/ley-25037-nacional-exencion-impuestos-actores-autores-directores-productores-tecnicos-espectaculos-teatrales-lns0004322-1998-10-21"
+text_version: "texto original"
+source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=90540"
+source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/90000-94999/90540/norma.htm"
+retrieved: 2026-10-12
+---
+
+# Ley 25037: EXENCION DE IMPUESTOS — PRECISANSE ALCANCES DEL ART. 9° DTO-LEY 1251/58
+
+EXENCION DE IMPUESTOS
+
+Ley 25.037
+
+Precísanse los alcances del artículo 9º del Decreto Ley 1251/58, a los actores, autores, directores, promotores y técnicos especializados de espectáculos teatrales.
+
+Presidencia del Senado de la Nación
+
+PE-930-98
+
+Buenos Aires, 11 de noviembre de 1998.
+
+B.O: 04/11/98
+
+Al señor Presidente de la Nación.
+
+Tengo el honor de dirigirme al señor Presidente, a fin de comunicarle que el H. Senado, en sesión de la fecha, ha considerado la confirmación de la H. Cámara de Diputados de su sanción anterior en la observación total al proyecto de ley registrado bajo el Nº 25.037, sobre el alcance de las normas referidas a la eximición de todo impuesto nacional y municipal en jurisdicción de la Capital Federal al espectáculo teatral, y ha tenido a bien confirmar también la propia con el voto unánime de los presentes, quedando así definitivamente sancionado el proyecto según lo dispuesto en el artículo 83 de la Constitución Nacional.
+
+Se procede a la devolución del pliego original de la ley citada.
+
+Saludo a usted muy atentamente.
+
+El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc. sancionan con fuerza de Ley:
+
+## ARTICULO 1º
+
+A los fines de la interpretación del alcance de lo dispuesto en el artículo 9° del Decreto Ley 1251/58 modificado por el Decreto Ley 6066/58 y ratificados por la Ley 14.467 referido a la eximición de todo impuesto nacional y municipal en jurisdicción de la Capital Federal, al espectáculo teatral, entiéndese que en todo momento han estado comprendidos en la referida exención: los actores, autores, directores, promotores y técnicos especializados.
+
+## ARTICULO 2º
+
+Comuníquese al Pode r Ejecutivo.
+
+-REGISTRADA BAJO EL N° 25.037-
+
+DADA EN LA SALA DE SESIONES DEL CONGRESO ARGENTINO, EN BUENOS AIRES A LOS VEINTIUN DIAS DEL MES DE OCTUBRE DEL AÑO MIL NOVECIENTOS NOVENTA Y OCHO.
+
+ALBERTO R. PIERRI.- CARLOS F. RUCKAUF.- Esther H. Pereyra Arandía de Pérez Pardo.- Mario L. Pontaquarto.
+
+(Nota Infoleg: la presente Ley fue vetada en su totalidad por el Decreto Nº 1322/98 de fecha 9-11-98 del Poder Ejecutivo Nacional publicado en la edición del 13-11-98. Confirmada por el Congreso de la Nación, quedando así definitivamente sancionada B.O. 4/12/1998, pág. 1)

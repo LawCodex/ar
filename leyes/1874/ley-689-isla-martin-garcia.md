@@ -8,6 +8,8 @@ language: es
 date: 1874-10-06
 issuer: "HONORABLE CONGRESO DE LA NACION ARGENTINA"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-689-nacional-lnn0023746-1874-10-06"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=281680"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/280000-284999/281680/norma.htm"

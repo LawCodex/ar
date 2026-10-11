@@ -10,6 +10,8 @@ published: 1983-12-12
 boletin_oficial: "25318"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-23001-nacional-aprueba-plan-accion-seguro-aeronautico-empresa-estado-lnn0027962-1983-12-05"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=249008"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/245000-249999/249008/norma.htm"

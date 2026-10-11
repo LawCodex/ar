@@ -10,6 +10,8 @@ published: 1977-12-28
 boletin_oficial: "23818"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-21710-nacional-lnn0009158-1977-12-22"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=215214"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/215000-219999/215214/norma.htm"

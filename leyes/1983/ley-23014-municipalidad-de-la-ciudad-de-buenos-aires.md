@@ -10,6 +10,8 @@ published: 1983-12-12
 boletin_oficial: "25318"
 issuer: "PODER EJECUTIVO NACIONAL (P.E.N.)"
 status: unknown
+saij_status: "Individual, Solo Modificatoria o Sin Eficacia"
+saij_url: "https://www.saij.gob.ar/ley-23014-nacional-municipalidad-ciudad-buenos-aires-regimen-funciones-lnn0027991-1983-12-07"
 text_version: "texto original"
 source: "https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=92832"
 source_text: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/90000-94999/92832/norma.htm"
